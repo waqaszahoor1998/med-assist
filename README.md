@@ -1,9 +1,9 @@
 # AI-Based Post Diagnosis Medicine Assistant
 
-## 🏥 Project Overview
+## Project Overview
 An AI-powered system that helps patients manage their medications based on their health profile, diagnosis, and doctor's prescriptions. The system provides medicine details, dosage information, alternatives, safety warnings, and personalized reminders.
 
-## 🎯 Key Features
+## Key Features
 - **Smart Medicine Recognition**: NLP-powered prescription analysis
 - **Alternative Suggestions**: Cost-effective and safer alternatives
 - **Dosage Recommendations**: Precise dosage calculations
@@ -12,7 +12,7 @@ An AI-powered system that helps patients manage their medications based on their
 - **Smart Reminders**: Personalized medication schedules
 - **Drug Interaction Alerts**: Harmful combination warnings
 
-## 🏗️ Project Structure
+## Project Structure
 ```
 ├── backend/          # Django REST API
 ├── frontend/         # Flutter mobile & web app
@@ -24,7 +24,7 @@ An AI-powered system that helps patients manage their medications based on their
 └── README.md
 ```
 
-## 🛠️ Technology Stack
+## Technology Stack
 - **Frontend**: Flutter (Mobile & Web)
 - **Backend**: Django REST Framework
 - **AI/ML**: HuggingFace BioBERT, TensorFlow/PyTorch
@@ -32,7 +32,7 @@ An AI-powered system that helps patients manage their medications based on their
 - **NLP**: spaCy, NLTK
 - **APIs**: DrugBank, OpenFDA
 
-## 🚀 Development Phases
+## Development Phases
 
 ### Phase 1: Setup & Requirements (Day 1-3)
 - [x] Project setup and GitHub repository
@@ -59,7 +59,7 @@ An AI-powered system that helps patients manage their medications based on their
 - [ ] Documentation
 - [ ] Demo preparation
 
-## 📋 MVP Scope
+## MVP Scope
 **Input**: Patient prescription (text/image)
 **Output**: 
 - Medicine details and purpose
@@ -68,14 +68,14 @@ An AI-powered system that helps patients manage their medications based on their
 - Alternative medicines
 - Personalized reminders
 
-## 🤝 Contributing
+## Contributing
 This project follows the Waterfall development methodology with structured phases and clear deliverables.
 
-## 📄 License
+## License
 [To be determined]
 
-## 👥 Team
+## Team
 Revotic AI Internship Project
 
 ---
-**Status**: 🚧 In Development (Phase 1)
+**Status**: In Development (Phase 1)

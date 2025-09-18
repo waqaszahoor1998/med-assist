@@ -1,6 +1,6 @@
 # AI-Based Post Diagnosis Medicine Assistant - Development Plan
 
-## 📅 20-Day Development Timeline
+## 20-Day Development Timeline
 
 ### **Phase 1: Setup & Requirements (Day 1–3)**
 
@@ -86,7 +86,7 @@
 
 ---
 
-## 🎯 MVP Definition
+## MVP Definition
 
 ### **Core Functionality**
 1. **Input**: Patient prescription (text format initially)
@@ -116,7 +116,7 @@
 
 ---
 
-## 🔧 Risk Mitigation
+## Risk Mitigation
 
 ### **Potential Risks & Solutions**
 1. **NLP Accuracy**: Start with rule-based extraction, improve iteratively

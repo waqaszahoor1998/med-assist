@@ -1,6 +1,6 @@
 # MVP Specification: AI-Based Post Diagnosis Medicine Assistant
 
-## 🎯 MVP Definition
+## MVP Definition
 
 ### **Core User Journey**
 ```
@@ -9,7 +9,7 @@ Patient Input → AI Processing → Medicine Information + Reminders
 
 ### **MVP Scope (Minimum Viable Product)**
 
-#### **📥 Input Capabilities**
+#### **Input Capabilities**
 1. **Text Input**: Patient can type/paste prescription text
 2. **Manual Entry**: Patient can manually enter medicine names
 3. **Prescription Format**: Support common prescription formats
@@ -17,7 +17,7 @@ Patient Input → AI Processing → Medicine Information + Reminders
    - "Amoxicillin 250mg, 3 times a day for 7 days"
    - "Metformin 1000mg once daily with meals"
 
-#### **🧠 AI Processing (Core Features)**
+#### **AI Processing (Core Features)**
 1. **Medicine Name Extraction**: 
    - Extract medicine names from text using NLP
    - Handle common misspellings and variations
@@ -33,7 +33,7 @@ Patient Input → AI Processing → Medicine Information + Reminders
    - Retrieve medicine information and properties
    - Find alternatives and generic versions
 
-#### **📤 Output Capabilities**
+#### **Output Capabilities**
 1. **Medicine Details**:
    - Generic and brand names
    - Purpose/indication (what it treats)
@@ -56,7 +56,7 @@ Patient Input → AI Processing → Medicine Information + Reminders
    - Push notifications for medicine intake
    - Track adherence (taken/missed)
 
-#### **👤 User Profile (Basic)**
+#### **User Profile (Basic)**
 1. **Personal Information**:
    - Age, weight (for dosage calculations)
    - Known allergies
@@ -69,7 +69,7 @@ Patient Input → AI Processing → Medicine Information + Reminders
 
 ---
 
-## 🔧 Technical MVP Requirements
+## Technical MVP Requirements
 
 ### **Backend (Django)**
 1. **API Endpoints**:
@@ -120,7 +120,7 @@ Patient Input → AI Processing → Medicine Information + Reminders
 
 ---
 
-## ✅ Success Criteria
+## Success Criteria
 
 ### **Functional Requirements**
 - [ ] Extract medicine names from 80%+ of test prescriptions
@@ -144,7 +144,7 @@ Patient Input → AI Processing → Medicine Information + Reminders
 
 ---
 
-## 🚫 MVP Limitations (Out of Scope)
+## MVP Limitations (Out of Scope)
 
 ### **Features NOT in MVP**
 1. **Image Recognition**: OCR for prescription images (Phase 2)
@@ -164,7 +164,7 @@ Patient Input → AI Processing → Medicine Information + Reminders
 
 ---
 
-## 📊 MVP Data Requirements
+## MVP Data Requirements
 
 ### **Medicine Database (Minimum)**
 - **500+ common medicines** with:
@@ -187,7 +187,7 @@ Patient Input → AI Processing → Medicine Information + Reminders
 
 ---
 
-## 🎯 MVP User Stories
+## MVP User Stories
 
 ### **As a Patient, I want to:**
 1. **Input my prescription** so that I understand what medicines I need to take
@@ -207,7 +207,7 @@ Patient Input → AI Processing → Medicine Information + Reminders
 
 ---
 
-## 🔄 MVP Validation Plan
+## MVP Validation Plan
 
 ### **Week 1-2: Core Development**
 - Build basic NLP extraction
