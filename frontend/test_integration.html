@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medicine Assistant - Integration Test</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2196F3;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .form-group {
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        textarea {
+            width: 100%;
+            height: 100px;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+        }
+        button {
+            background-color: #2196F3;
+            color: white;
+            padding: 12px 24px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-right: 10px;
+            font-size: 16px;
+        }
+        button:hover {
+            background-color: #1976D2;
+        }
+        button:disabled {
+            background-color: #ccc;
+            cursor: not-allowed;
+        }
+        .result {
+            margin-top: 20px;
+            padding: 15px;
+            border-radius: 5px;
+            display: none;
+        }
+        .success {
+            background-color: #d4edda;
+            border: 1px solid #c3e6cb;
+            color: #155724;
+        }
+        .error {
+            background-color: #f8d7da;
+            border: 1px solid #f5c6cb;
+            color: #721c24;
+        }
+        .loading {
+            display: none;
+            text-align: center;
+            color: #666;
+            margin: 20px 0;
+        }
+        pre {
+            background-color: #f8f9fa;
+            padding: 15px;
+            border-radius: 5px;
+            overflow-x: auto;
+            white-space: pre-wrap;
+            font-size: 13px;
+        }
+        .status {
+            text-align: center;
+            margin-bottom: 20px;
+            padding: 10px;
+            background-color: #e3f2fd;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>AI Medicine Assistant - Day 1 Demo</h1>
+        
+        <div class="status">
+            <strong>Status:</strong> Django API Running | Flutter Integration Complete
+        </div>
+
+        <div class="form-group">
+            <button onclick="testConnection()">Test API Connection</button>
+        </div>
+
+        <div class="form-group">
+            <label for="prescriptionText">Enter Your Prescription:</label>
+            <textarea id="prescriptionText" placeholder="Example: Take Paracetamol 500mg twice daily for 3 days"></textarea>
+        </div>
+
+        <div class="form-group">
+            <button onclick="analyzePrescription()">Analyze Prescription</button>
+        </div>
+
+        <div class="loading" id="loading">
+            Processing your prescription... Please wait.
+        </div>
+
+        <div class="result" id="result">
+            <h3>Result:</h3>
+            <pre id="resultContent"></pre>
+        </div>
+    </div>
+
+    <script>
+        const API_BASE_URL = 'http://127.0.0.1:8000/api';
+
+        function showResult(content, isError = false) {
+            const result = document.getElementById('result');
+            const resultContent = document.getElementById('resultContent');
+            
+            result.className = isError ? 'result error' : 'result success';
+            result.style.display = 'block';
+            resultContent.textContent = content;
+        }
+
+        function hideResult() {
+            document.getElementById('result').style.display = 'none';
+        }
+
+        function showLoading(show = true) {
+            document.getElementById('loading').style.display = show ? 'block' : 'none';
+        }
+
+        async function testConnection() {
+            hideResult();
+            showLoading(true);
+
+            try {
+                const response = await fetch(`${API_BASE_URL}/ping/`);
+                const data = await response.json();
+                
+                if (response.ok) {
+                    showResult(`✓ CONNECTION SUCCESSFUL!\n\nAPI Response:\n${JSON.stringify(data, null, 2)}`);
+                } else {
+                    showResult(`✗ CONNECTION FAILED!\nStatus: ${response.status}\n${JSON.stringify(data, null, 2)}`, true);
+                }
+            } catch (error) {
+                showResult(`✗ CONNECTION ERROR!\n${error.message}\n\nMake sure Django server is running on http://127.0.0.1:8000`, true);
+            } finally {
+                showLoading(false);
+            }
+        }
+
+        async function analyzePrescription() {
+            const prescriptionText = document.getElementById('prescriptionText').value.trim();
+            
+            if (!prescriptionText) {
+                showResult('✗ Please enter prescription text first!', true);
+                return;
+            }
+
+            hideResult();
+            showLoading(true);
+
+            try {
+                const response = await fetch(`${API_BASE_URL}/prescription/analyze/`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ text: prescriptionText })
+                });
+
+                const data = await response.json();
+                
+                if (response.ok) {
+                    showResult(`✓ ANALYSIS SUCCESSFUL!\n\nYour Prescription Analysis:\n${JSON.stringify(data, null, 2)}`);
+                } else {
+                    showResult(`✗ ANALYSIS FAILED!\nStatus: ${response.status}\n${JSON.stringify(data, null, 2)}`, true);
+                }
+            } catch (error) {
+                showResult(`✗ ANALYSIS ERROR!\n${error.message}\n\nMake sure Django server is running and CORS is configured.`, true);
+            } finally {
+                showLoading(false);
+            }
+        }
+
+        // Pre-fill with sample prescription
+        window.onload = function() {
+            document.getElementById('prescriptionText').value = 'Take Paracetamol 500mg twice daily for 3 days and Amoxicillin 250mg three times daily for 7 days';
+        };
+    </script>
+</body>
+</html>

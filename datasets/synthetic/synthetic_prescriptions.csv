@@ -1,0 +1,101 @@
+id,text,medicine,dosage,frequency,duration,type
+1,Take 40mg of Atorvastatin three times daily,Atorvastatin,40mg,three times daily,until finished,single
+2,Take Aspirin 81mg at bedtime,Aspirin,81mg,at bedtime,for 1 week,single
+3,Take 1000mg of Metformin every 6 hours,Metformin,1000mg,every 6 hours,3 days,single
+4,Take 250mg of Amoxicillin every 8 hours,Amoxicillin,250mg,every 8 hours,10 days,single
+5,Omeprazole 20mg with meals for for 2 weeks,Omeprazole,20mg,with meals,for 2 weeks,single
+6,Take Loratadine 10mg once daily for for 1 week,Loratadine,10mg,once daily,for 1 week,single
+7,Take Metformin 850mg twice daily,Metformin,850mg,twice daily,5 days,single
+8,Ibuprofen 200mg every 12 hours for 7 days,Ibuprofen,200mg,every 12 hours,7 days,single
+9,Take Amoxicillin 500mg every 8 hours for 5 days,Amoxicillin,500mg,every 8 hours,5 days,single
+10,Take Paracetamol 500mg twice daily,Paracetamol,500mg,twice daily,14 days,single
+11,Take Ibuprofen 400mg every 8 hours for 14 days,Ibuprofen,400mg,every 8 hours,14 days,single
+12,Loratadine 10mg before meals for 7 days,Loratadine,10mg,before meals,7 days,single
+13,Take Amoxicillin 250mg every 6 hours for 7 days,Amoxicillin,250mg,every 6 hours,7 days,single
+14,Take Azithromycin 500mg every 12 hours for until finished,Azithromycin,500mg,every 12 hours,until finished,single
+15,Use Lisinopril 10mg before meals for 7 days,Lisinopril,10mg,before meals,7 days,single
+16,Azithromycin 250mg twice daily for 14 days,Azithromycin,250mg,twice daily,14 days,single
+17,Take 500mg of Metformin three times daily,Metformin,500mg,three times daily,for 1 week,single
+18,Take Omeprazole 20mg once daily,Omeprazole,20mg,once daily,7 days,single
+19,Take Amoxicillin 875mg every 8 hours,Amoxicillin,875mg,every 8 hours,until finished,single
+20,Use Metformin 1000mg with meals for 3 days,Metformin,1000mg,with meals,3 days,single
+21,Metformin 500mg twice daily for 5 days,Metformin,500mg,twice daily,5 days,single
+22,Take Atorvastatin 40mg before meals for for 1 week,Atorvastatin,40mg,before meals,for 1 week,single
+23,Take Lisinopril 20mg every 8 hours for 3 days,Lisinopril,20mg,every 8 hours,3 days,single
+24,Take Loratadine 10mg twice daily,Loratadine,10mg,twice daily,for 1 week,single
+25,Take 10mg of Atorvastatin every 12 hours,Atorvastatin,10mg,every 12 hours,for 2 weeks,single
+26,Take Ibuprofen 400mg every 12 hours for 7 days,Ibuprofen,400mg,every 12 hours,7 days,single
+27,Use Omeprazole 40mg twice daily for until finished,Omeprazole,40mg,twice daily,until finished,single
+28,Amoxicillin 250mg at bedtime for for 1 week,Amoxicillin,250mg,at bedtime,for 1 week,single
+29,Take 1000mg of Paracetamol with meals,Paracetamol,1000mg,with meals,14 days,single
+30,Use Omeprazole 40mg every 6 hours for until finished,Omeprazole,40mg,every 6 hours,until finished,single
+31,Azithromycin 250mg at bedtime for 3 days,Azithromycin,250mg,at bedtime,3 days,single
+32,Take Ibuprofen 600mg every 8 hours,Ibuprofen,600mg,every 8 hours,10 days,single
+33,Use Atorvastatin 10mg every 8 hours for 14 days,Atorvastatin,10mg,every 8 hours,14 days,single
+34,Use Paracetamol 650mg every 12 hours for for 2 weeks,Paracetamol,650mg,every 12 hours,for 2 weeks,single
+35,Use Omeprazole 20mg at bedtime for for 1 week,Omeprazole,20mg,at bedtime,for 1 week,single
+36,Take Omeprazole 40mg twice daily for 10 days,Omeprazole,40mg,twice daily,10 days,single
+37,Use Omeprazole 40mg three times daily for for 1 week,Omeprazole,40mg,three times daily,for 1 week,single
+38,Take Ibuprofen 400mg with meals,Ibuprofen,400mg,with meals,10 days,single
+39,Amoxicillin 500mg every 12 hours for 3 days,Amoxicillin,500mg,every 12 hours,3 days,single
+40,Take Aspirin 81mg before meals,Aspirin,81mg,before meals,for 2 weeks,single
+41,Metformin 1000mg at bedtime for 5 days,Metformin,1000mg,at bedtime,5 days,single
+42,Use Atorvastatin 10mg once daily for for 2 weeks,Atorvastatin,10mg,once daily,for 2 weeks,single
+43,Take 500mg of Azithromycin every 6 hours,Azithromycin,500mg,every 6 hours,10 days,single
+44,Take Ibuprofen 600mg every 6 hours for for 1 week,Ibuprofen,600mg,every 6 hours,for 1 week,single
+45,Take Ibuprofen 600mg every 6 hours for 10 days,Ibuprofen,600mg,every 6 hours,10 days,single
+46,Ibuprofen 600mg every 12 hours for 3 days,Ibuprofen,600mg,every 12 hours,3 days,single
+47,Metformin 850mg twice daily for 3 days,Metformin,850mg,twice daily,3 days,single
+48,Lisinopril 5mg three times daily for 14 days,Lisinopril,5mg,three times daily,14 days,single
+49,Loratadine 10mg twice daily for for 1 week,Loratadine,10mg,twice daily,for 1 week,single
+50,Use Paracetamol 650mg with meals for 7 days,Paracetamol,650mg,with meals,7 days,single
+51,Take 40mg of Omeprazole every 6 hours,Omeprazole,40mg,every 6 hours,for 1 week,single
+52,Use Atorvastatin 40mg once daily for until finished,Atorvastatin,40mg,once daily,until finished,single
+53,Take 81mg of Aspirin every 6 hours,Aspirin,81mg,every 6 hours,14 days,single
+54,Take Aspirin 325mg every 8 hours,Aspirin,325mg,every 8 hours,14 days,single
+55,Ibuprofen 600mg every 8 hours for 5 days,Ibuprofen,600mg,every 8 hours,5 days,single
+56,Take Ibuprofen 200mg at bedtime,Ibuprofen,200mg,at bedtime,14 days,single
+57,Loratadine 10mg every 8 hours for 7 days,Loratadine,10mg,every 8 hours,7 days,single
+58,Lisinopril 20mg every 8 hours for 3 days,Lisinopril,20mg,every 8 hours,3 days,single
+59,Take Paracetamol 500mg every 6 hours for 5 days,Paracetamol,500mg,every 6 hours,5 days,single
+60,Amoxicillin 875mg twice daily for 5 days,Amoxicillin,875mg,twice daily,5 days,single
+61,Use Metformin 500mg three times daily for 5 days,Metformin,500mg,three times daily,5 days,single
+62,Take Aspirin 325mg before meals,Aspirin,325mg,before meals,for 1 week,single
+63,Take Paracetamol 1000mg with meals,Paracetamol,1000mg,with meals,until finished,single
+64,Take Azithromycin 250mg at bedtime for for 2 weeks,Azithromycin,250mg,at bedtime,for 2 weeks,single
+65,Take Loratadine 10mg every 6 hours for 5 days,Loratadine,10mg,every 6 hours,5 days,single
+66,Use Omeprazole 40mg every 6 hours for 10 days,Omeprazole,40mg,every 6 hours,10 days,single
+67,Paracetamol 650mg twice daily for 3 days,Paracetamol,650mg,twice daily,3 days,single
+68,Take 650mg of Paracetamol once daily,Paracetamol,650mg,once daily,for 2 weeks,single
+69,Take 500mg of Metformin twice daily,Metformin,500mg,twice daily,for 2 weeks,single
+70,Take Atorvastatin 40mg once daily,Atorvastatin,40mg,once daily,14 days,single
+71,Take 500mg of Amoxicillin before meals,Amoxicillin,500mg,before meals,until finished,single
+72,Take 875mg of Amoxicillin at bedtime,Amoxicillin,875mg,at bedtime,until finished,single
+73,Take Aspirin 325mg with meals,Aspirin,325mg,with meals,for 1 week,single
+74,Take Metformin 500mg twice daily,Metformin,500mg,twice daily,3 days,single
+75,Take Ibuprofen 600mg at bedtime,Ibuprofen,600mg,at bedtime,5 days,single
+76,Take 850mg of Metformin before meals,Metformin,850mg,before meals,for 2 weeks,single
+77,Take 400mg of Ibuprofen before meals,Ibuprofen,400mg,before meals,10 days,single
+78,Take 325mg of Aspirin with meals,Aspirin,325mg,with meals,5 days,single
+79,Lisinopril 5mg every 6 hours for 10 days,Lisinopril,5mg,every 6 hours,10 days,single
+80,Metformin 850mg three times daily for for 2 weeks,Metformin,850mg,three times daily,for 2 weeks,single
+81,Take Azithromycin 500mg with meals,Azithromycin,500mg,with meals,5 days,single
+82,Take 500mg of Azithromycin every 12 hours,Azithromycin,500mg,every 12 hours,3 days,single
+83,Take Amoxicillin 875mg at bedtime for 10 days,Amoxicillin,875mg,at bedtime,10 days,single
+84,Aspirin 325mg with meals for for 1 week,Aspirin,325mg,with meals,for 1 week,single
+85,Take 500mg of Paracetamol every 8 hours,Paracetamol,500mg,every 8 hours,for 1 week,single
+86,Take Omeprazole 40mg at bedtime,Omeprazole,40mg,at bedtime,3 days,single
+87,Take Lisinopril 20mg before meals,Lisinopril,20mg,before meals,for 2 weeks,single
+88,Ibuprofen 200mg twice daily for 10 days,Ibuprofen,200mg,twice daily,10 days,single
+89,Azithromycin 500mg every 8 hours for 14 days,Azithromycin,500mg,every 8 hours,14 days,single
+90,Take 600mg of Ibuprofen once daily,Ibuprofen,600mg,once daily,10 days,single
+91,Use Amoxicillin 875mg at bedtime for for 1 week,Amoxicillin,875mg,at bedtime,for 1 week,single
+92,Loratadine 10mg before meals for 7 days,Loratadine,10mg,before meals,7 days,single
+93,Take Amoxicillin 500mg twice daily,Amoxicillin,500mg,twice daily,3 days,single
+94,Use Metformin 500mg at bedtime for 5 days,Metformin,500mg,at bedtime,5 days,single
+95,Take Aspirin 325mg three times daily,Aspirin,325mg,three times daily,14 days,single
+96,Take Ibuprofen 600mg once daily for 10 days,Ibuprofen,600mg,once daily,10 days,single
+97,Take 250mg of Amoxicillin once daily,Amoxicillin,250mg,once daily,5 days,single
+98,Take 875mg of Amoxicillin every 6 hours,Amoxicillin,875mg,every 6 hours,for 2 weeks,single
+99,Take Lisinopril 5mg twice daily for for 1 week,Lisinopril,5mg,twice daily,for 1 week,single
+100,Ibuprofen 200mg three times daily for 14 days,Ibuprofen,200mg,three times daily,14 days,single

@@ -2,6 +2,7 @@ from rest_framework.decorators import api_view
 from rest_framework.response import Response
 from rest_framework import status
 import json
+from .nlp_processor import extract_medicine_info
 
 @api_view(['GET'])
 def ping(request):
@@ -17,7 +18,7 @@ def ping(request):
 @api_view(['POST'])
 def analyze_prescription(request):
     """
-    Analyze prescription text (dummy implementation for Day 1)
+    Analyze prescription text using real NLP processing (Day 2 upgrade)
     """
     try:
         prescription_text = request.data.get('text', '')
@@ -27,22 +28,47 @@ def analyze_prescription(request):
                 'error': 'No prescription text provided'
             }, status=status.HTTP_400_BAD_REQUEST)
         
-        # Dummy response for Day 1 - will be replaced with actual NLP processing
-        dummy_response = {
+        # Use real NLP processing (Day 2 upgrade)
+        nlp_result = extract_medicine_info(prescription_text)
+        
+        # Format extracted medicines for response
+        extracted_medicines = []
+        medicines = nlp_result.get('medicines', [])
+        dosages = nlp_result.get('dosages', [])
+        frequency = nlp_result.get('frequency')
+        duration = nlp_result.get('duration')
+        
+        # Combine medicines with their dosages
+        for i, medicine in enumerate(medicines):
+            medicine_data = {
+                'name': medicine,
+                'dosage': dosages[i] if i < len(dosages) else 'Not specified',
+                'frequency': frequency or 'Not specified',
+                'duration': duration or 'Not specified'
+            }
+            extracted_medicines.append(medicine_data)
+        
+        # Calculate confidence score
+        confidence = 0
+        if medicines:
+            confidence += 40
+        if dosages:
+            confidence += 30
+        if frequency:
+            confidence += 20
+        if duration:
+            confidence += 10
+        
+        response_data = {
             'status': 'success',
             'input_text': prescription_text,
-            'extracted_medicines': [
-                {
-                    'name': 'Sample Medicine',
-                    'dosage': '500mg',
-                    'frequency': 'twice daily',
-                    'duration': '7 days'
-                }
-            ],
-            'message': 'Prescription analyzed successfully (dummy response)'
+            'extracted_medicines': extracted_medicines,
+            'confidence_score': confidence,
+            'message': f'Prescription analyzed successfully using NLP (Day 2 upgrade)',
+            'nlp_version': '2.0'
         }
         
-        return Response(dummy_response)
+        return Response(response_data)
         
     except Exception as e:
         return Response({
