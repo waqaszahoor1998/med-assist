@@ -1,0 +1,10 @@
+{
+  "query": "[2-(1-Amino-2-Hydroxy-Propyl)-4-(4-Fluoro-1h-Indol-3-Ylmethyl)-5-Hydroxy-Imidazol-1-Yl]-Acetic Acid",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T00:38:20.898097",
+  "source": "RxNorm"
+}

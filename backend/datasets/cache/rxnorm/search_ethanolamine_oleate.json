@@ -1,0 +1,46 @@
+{
+  "query": "Ethanolamine oleate",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "205745",
+              "name": "2 ML ethanolamine oleate 50 MG/ML Injection [Ethamolin]",
+              "synonym": "Ethamolin 5 % per 2 ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "106675",
+              "name": "2 ML ethanolamine oleate 50 MG/ML Injection",
+              "synonym": "ethanolamine oleate 5 % per 2 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:30:33.932848",
+  "source": "RxNorm"
+}

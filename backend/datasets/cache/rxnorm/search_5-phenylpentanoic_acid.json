@@ -1,0 +1,10 @@
+{
+  "query": "5-phenylpentanoic acid",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T05:11:36.849441",
+  "source": "RxNorm"
+}

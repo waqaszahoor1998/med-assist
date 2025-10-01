@@ -1,0 +1,163 @@
+{
+  "query": "Dexpanthenol",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1111750",
+              "name": "dexpanthenol 0.2 MG/ML / magnesium sulfate 0.0467 MG/ML / manganese sulfate 0.0467 MG/ML / niacinamide 0.467 MG/ML / pyridoxine 0.0467 MG/ML / riboflavin 0.04 MG/ML / thiamine 0.0333 MG/ML / vitamin B12 0.000133 MG/ML / zinc sulfate 0.333 MG/ML Oral Solution [Ellis Tonic]",
+              "synonym": "Ellis Tonic Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1111752",
+              "name": "dexpanthenol 0.2 MG/ML / magnesium sulfate 0.0467 MG/ML / manganese sulfate 0.0467 MG/ML / niacinamide 0.467 MG/ML / pyridoxine 0.0467 MG/ML / riboflavin 0.04 MG/ML / thiamine 0.0333 MG/ML / vitamin B12 0.000133 MG/ML / zinc sulfate 0.333 MG/ML Oral Solution [Eldertonic]",
+              "synonym": "Eldertonic Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1304564",
+              "name": "alpha-tocopherol acetate 1 UNT/ML / ascorbic acid 20 MG/ML / biotin 0.006 MG/ML / cholecalciferol 20 UNT/ML / dexpanthenol 1.5 MG/ML / folic acid 0.06 MG/ML / niacinamide 4 MG/ML / pyridoxine hydrochloride 0.6 MG/ML / riboflavin 0.36 MG/ML / thiamine hydrochloride 0.6 MG/ML / vitamin A palmitate 330 UNT/ML / vitamin B12 0.0005 MG/ML / vitamin K1 0.015 MG/ML Injectable Solution [Infuvite]",
+              "synonym": "Infuvite Adult Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1305222",
+              "name": "alpha-tocopherol acetate 1.4 UNT/ML / ascorbic acid 16 MG/ML / biotin 0.004 MG/ML / cholecalciferol 80 UNT/ML / dexpanthenol 1 MG/ML / folic acid 0.028 MG/ML / niacinamide 3.4 MG/ML / pyridoxine hydrochloride 0.2 MG/ML / riboflavin 0.28 MG/ML / thiamine hydrochloride 0.24 MG/ML / vitamin A palmitate 460 UNT/ML / vitamin B12 0.0002 MG/ML / vitamin K1 0.04 MG/ML Injectable Solution [Infuvite Pediatric]",
+              "synonym": "Infuvite Pediatric Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1046534",
+              "name": "dexpanthenol 2 MG/ML / levomenthol 3 MG/ML / salicylic acid 2.5 MG/ML Topical Solution",
+              "synonym": "dexpanthenol 0.2 % / levomenthol 0.3 % / salicylic acid 0.25 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1111748",
+              "name": "dexpanthenol 0.2 MG/ML / magnesium sulfate 0.0467 MG/ML / manganese sulfate 0.0467 MG/ML / niacinamide 0.467 MG/ML / pyridoxine 0.0467 MG/ML / riboflavin 0.04 MG/ML / thiamine 0.0333 MG/ML / vitamin B12 0.000133 MG/ML / zinc sulfate 0.333 MG/ML Oral Solution",
+              "synonym": "dexpanthenol 0.2 MG/ML / magnesium sulfate 0.0467 MG/ML / manganese sulfate 0.0467 MG/ML / niacinamide 0.467 MG/ML / vit-B6 0.0467 MG/ML / riboflavin 0.04 MG/ML / vit-B1 0.0333 MG/ML / vitamin B12 0.000133 MG/ML / ZnSO4 0.333 MG/ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1304559",
+              "name": "alpha-tocopherol acetate 1 UNT/ML / ascorbic acid 20 MG/ML / biotin 0.006 MG/ML / cholecalciferol 20 UNT/ML / dexpanthenol 1.5 MG/ML / folic acid 0.06 MG/ML / niacinamide 4 MG/ML / pyridoxine hydrochloride 0.6 MG/ML / riboflavin 0.36 MG/ML / thiamine hydrochloride 0.6 MG/ML / vitamin A palmitate 330 UNT/ML / vitamin B12 0.0005 MG/ML / vitamin K1 0.015 MG/ML Injectable Solution",
+              "synonym": "alpha-tocopherol acetate 1 UNT/ML / vit-C 20 MG/ML / biotin 0.006 MG/ML / cholecalciferol 20 UNT/ML / dexpanthenol 1.5 MG/ML / folate 0.06 MG/ML / niacinamide 4 MG/ML / vit-B6 hydrochloride 0.6 MG/ML / riboflavin 0.36 MG/ML / vit-B1 hydrochloride 0.6 MG/ML / vitamin A palmitate 330 UNT/ML / vitamin B12 0.0005 MG/ML / vitamin K1 0.015 MG/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1305217",
+              "name": "alpha-tocopherol acetate 1.4 UNT/ML / ascorbic acid 16 MG/ML / biotin 0.004 MG/ML / cholecalciferol 80 UNT/ML / dexpanthenol 1 MG/ML / folic acid 0.028 MG/ML / niacinamide 3.4 MG/ML / pyridoxine hydrochloride 0.2 MG/ML / riboflavin 0.28 MG/ML / thiamine hydrochloride 0.24 MG/ML / vitamin A palmitate 460 UNT/ML / vitamin B12 0.0002 MG/ML / vitamin K1 0.04 MG/ML Injectable Solution",
+              "synonym": "alpha-tocopherol acetate 1.4 UNT/ML / vit-C 16 MG/ML / biotin 0.004 MG/ML / cholecalciferol 80 UNT/ML / dexpanthenol 1 MG/ML / folate 0.028 MG/ML / niacinamide 3.4 MG/ML / vit-B6 hydrochloride 0.2 MG/ML / riboflavin 0.28 MG/ML / vit-B1 hydrochloride 0.24 MG/ML / vitamin A palmitate 460 UNT/ML / vitamin B12 0.0002 MG/ML / vitamin K1 0.04 MG/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1314626",
+              "name": "dexpanthenol 10 MG/ML / niacinamide 100 MG/ML / pyridoxine hydrochloride 10 MG/ML / riboflavin 5 MG/ML / thiamine hydrochloride 100 MG/ML / vitamin B12 0.1 MG/ML Injectable Solution",
+              "synonym": "veterinary high potency vitamin B complex Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1314636",
+              "name": "dexpanthenol 5 MG/ML / niacinamide 12.5 MG/ML / pyridoxine hydrochloride 5 MG/ML / riboflavin 2 MG/ML / thiamine hydrochloride 1.25 MG/ML / vitamin B12 1 MG/ML Injectable Solution",
+              "synonym": "vitamin B1 1.25 MG/ML / vitamin B2 2 MG/ML / vitamin B3 12.5 MG/ML / vitamin B5 5 MG/ML / vitamin B6 5 MG/ML / vitamin B12 1 MG/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1648152",
+              "name": "dexpanthenol 2 MG/ML / salicylic acid 2.5 MG/ML Topical Solution",
+              "synonym": "dexpanthenol 0.2 % / salicylic acid 0.25 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "249792",
+              "name": "dexpanthenol 0.05 MG/MG Topical Ointment",
+              "synonym": "dexpanthenol 5 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "309270",
+              "name": "choline 25 MG / dexpanthenol 50 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "313950",
+              "name": "dexpanthenol 250 MG/ML Injectable Solution",
+              "synonym": "dexpanthenol 250 MG per 1 ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "801177",
+              "name": "dexpanthenol 2 MG/ML / niacinamide 100 MG/ML / riboflavin 2 MG/ML / thiamine 100 MG/ML / vitamin B6 2 MG/ML Injectable Solution",
+              "synonym": "vitamin B complex Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:35:55.949453",
+  "source": "RxNorm"
+}

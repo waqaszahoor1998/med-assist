@@ -1,0 +1,16 @@
+{
+  "rxcui": "2049133",
+  "properties": {
+    "properties": {
+      "rxcui": "2049133",
+      "name": "binimetinib 15 MG Oral Tablet [Mektovi]",
+      "synonym": "Mektovi 15 MG Oral Tablet",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T18:30:48.621689",
+  "source": "RxNorm"
+}

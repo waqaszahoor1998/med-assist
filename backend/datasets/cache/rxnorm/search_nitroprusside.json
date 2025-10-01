@@ -1,0 +1,91 @@
+{
+  "query": "Nitroprusside",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1876373",
+              "name": "100 ML sodium nitroprusside 0.5 MG/ML Injection [Nipride]",
+              "synonym": "Nipride 50 MG per 100 ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1999187",
+              "name": "50 ML sodium nitroprusside 0.2 MG/ML Injection [Nipride]",
+              "synonym": "50 ML Nipride 0.2 MG/ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2052424",
+              "name": "100 ML sodium nitroprusside 0.2 MG/ML Injection [Nipride]",
+              "synonym": "Nipride 20 MG per 100 ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1876368",
+              "name": "100 ML sodium nitroprusside 0.5 MG/ML Injection",
+              "synonym": "sodium nitroprusside 50 MG per 100 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1999185",
+              "name": "50 ML sodium nitroprusside 0.2 MG/ML Injection",
+              "synonym": "sodium nitroprusside 10 MG per 50 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2052423",
+              "name": "100 ML sodium nitroprusside 0.2 MG/ML Injection",
+              "synonym": "sodium nitroprusside 20 MG per 100 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "240793",
+              "name": "2 ML sodium nitroprusside 25 MG/ML Injection",
+              "synonym": "sodium nitroprusside 50 MG per 2 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:07:54.226525",
+  "source": "RxNorm"
+}

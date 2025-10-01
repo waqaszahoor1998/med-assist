@@ -1,0 +1,10 @@
+{
+  "query": "1,4-Butanediol",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:36:54.775268",
+  "source": "RxNorm"
+}

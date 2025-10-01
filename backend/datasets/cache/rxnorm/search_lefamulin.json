@@ -1,0 +1,64 @@
+{
+  "query": "Lefamulin",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2198953",
+              "name": "15 ML lefamulin 10 MG/ML Injection [Xenleta]",
+              "synonym": "15 ML Xenleta 10 MG/ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2198966",
+              "name": "lefamulin 600 MG Oral Tablet [Xenleta]",
+              "synonym": "Xenleta 600 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2198948",
+              "name": "15 ML lefamulin 10 MG/ML Injection",
+              "synonym": "lefamulin 150 MG per 15 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2198961",
+              "name": "lefamulin 600 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T19:18:48.268714",
+  "source": "RxNorm"
+}

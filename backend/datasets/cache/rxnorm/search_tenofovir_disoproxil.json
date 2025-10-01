@@ -1,0 +1,325 @@
+{
+  "query": "Tenofovir disoproxil",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1147337",
+              "name": "emtricitabine 200 MG / rilpivirine 25 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet [Complera]",
+              "synonym": "Complera (emtricitabine 200 MG / rilpivirine 25 MG / tenofovir disoproxil fumarate 300 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1243229",
+              "name": "tenofovir disoproxil fumarate 250 MG Oral Tablet [Viread]",
+              "synonym": "Viread 250 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1243326",
+              "name": "tenofovir disoproxil fumarate 150 MG Oral Tablet [Viread]",
+              "synonym": "Viread 150 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1243330",
+              "name": "tenofovir disoproxil fumarate 200 MG Oral Tablet [Viread]",
+              "synonym": "Viread 200 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1243346",
+              "name": "tenofovir disoproxil fumarate 0.04 MG/MG Oral Powder [Viread]",
+              "synonym": "Viread 0.04 MG/MG Oral Powder",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1306298",
+              "name": "cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet [Stribild]",
+              "synonym": "Stribild (cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG (equivalent to tenofovir disoproxil 245 MG)) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1744003",
+              "name": "emtricitabine 100 MG / tenofovir disoproxil fumarate 150 MG Oral Tablet [Truvada]",
+              "synonym": "Truvada 100 MG / 150 MG Oral tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1744007",
+              "name": "emtricitabine 133 MG / tenofovir disoproxil fumarate 200 MG Oral Tablet [Truvada]",
+              "synonym": "Truvada (emtricitabine 133 MG / tenofovir disoproxil fumarate 200 MG (equivalent to tenofovir disoproxil 163 MG)) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1744011",
+              "name": "emtricitabine 167 MG / tenofovir disoproxil fumarate 250 MG Oral Tablet [Truvada]",
+              "synonym": "Truvada (emtricitabine 167 MG / tenofovir disoproxil fumarate 250 MG (equivalent to tenofovir disoproxil 204 MG)) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2001430",
+              "name": "efavirenz 400 MG / lamivudine 300 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet [Symfi]",
+              "synonym": "efavirenz 400 MG / 3TC 300 MG / Tenofovir disoproxil fumarate 300 MG Oral Tablet [Symfi]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2003255",
+              "name": "lamivudine 300 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet [Cimduo]",
+              "synonym": "3TC 300 MG / Tenofovir disoproxil fumarate 300 MG Oral Tablet [Cimduo]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2043464",
+              "name": "efavirenz 600 MG / lamivudine 300 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet [Symfi]",
+              "synonym": "efavirenz 600 MG / 3TC 300 MG / Tenofovir disoproxil fumarate 300 MG Oral Tablet [Symfi]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2055815",
+              "name": "doravirine 100 MG / lamivudine 300 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet [Delstrigo]",
+              "synonym": "DORAVIRINE 100 MG / 3TC 300 MG / Tenofovir disoproxil fumarate 300 MG Oral Tablet [Delstrigo]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2123034",
+              "name": "lamivudine 300 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet [Temixys]",
+              "synonym": "3TC 300 MG / Tenofovir disoproxil fumarate 300 MG Oral Tablet [Temixys]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "352050",
+              "name": "tenofovir disoproxil fumarate 300 MG Oral Tablet [Viread]",
+              "synonym": "Viread 300 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "639888",
+              "name": "emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet [Truvada]",
+              "synonym": "Truvada (emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG (equivalent to tenofovir disoproxil 245 MG)) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "643070",
+              "name": "efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet [Atripla]",
+              "synonym": "Atripla (efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG (equivalent to tenofovir disoproxil 245 MG)) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1147334",
+              "name": "emtricitabine 200 MG / rilpivirine 25 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet",
+              "synonym": "emtricitabine 200 MG / rilpivirine 25 MG (as rilpivirine hydrochloride 27.5 MG) / tenofovir disoproxil fumarate 300 MG (as tenofovir disoproxil 245 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1243227",
+              "name": "tenofovir disoproxil fumarate 250 MG Oral Tablet",
+              "synonym": "tenofovir disoproxil fumarate 250 MG (equivalent to tenofovir disoproxil 204 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1243324",
+              "name": "tenofovir disoproxil fumarate 150 MG Oral Tablet",
+              "synonym": "tenofovir disoproxil fumarate 150 MG (equivalent to tenofovir disoproxil 123 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1243328",
+              "name": "tenofovir disoproxil fumarate 200 MG Oral Tablet",
+              "synonym": "tenofovir disoproxil fumarate 200 MG (equivalent to tenofovir disoproxil 163 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1243343",
+              "name": "tenofovir disoproxil fumarate 0.04 MG/MG Oral Powder",
+              "synonym": "tenofovir disoproxil fumarate 40 MG per GM Oral Powder",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1306292",
+              "name": "cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet",
+              "synonym": "cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG (equivalent to tenofovir disoproxil 245 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1744001",
+              "name": "emtricitabine 100 MG / tenofovir disoproxil fumarate 150 MG Oral Tablet",
+              "synonym": "emtricitabine 100 MG / tenofovir disoproxil fumarate 150 MG (equivalent to tenofovir disoproxil 123 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1744005",
+              "name": "emtricitabine 133 MG / tenofovir disoproxil fumarate 200 MG Oral Tablet",
+              "synonym": "emtricitabine 133 MG / tenofovir disoproxil fumarate 200 MG (equivalent to tenofovir disoproxil 163 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1744009",
+              "name": "emtricitabine 167 MG / tenofovir disoproxil fumarate 250 MG Oral Tablet",
+              "synonym": "emtricitabine 167 MG / tenofovir disoproxil fumarate 250 MG (equivalent to tenofovir disoproxil 204 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2001424",
+              "name": "efavirenz 400 MG / lamivudine 300 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet",
+              "synonym": "efavirenz 400 MG / 3TC 300 MG / Tenofovir disoproxil fumarate 300 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2003249",
+              "name": "lamivudine 300 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet",
+              "synonym": "3TC 300 MG / Tenofovir disoproxil fumarate 300 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2055813",
+              "name": "doravirine 100 MG / lamivudine 300 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet",
+              "synonym": "DORAVIRINE 100 MG / 3TC 300 MG / Tenofovir disoproxil fumarate 300 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "349251",
+              "name": "tenofovir disoproxil fumarate 300 MG Oral Tablet",
+              "synonym": "tenofovir disoproxil fumarate 300 MG (equivalent to tenofovir disoproxil 245 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "476556",
+              "name": "emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet",
+              "synonym": "emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG (equivalent to tenofovir disoproxil 245 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "643066",
+              "name": "efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet",
+              "synonym": "efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG (equivalent to tenofovir disoproxil 245 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "864661",
+              "name": "efavirenz 600 MG / lamivudine 300 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet",
+              "synonym": "efavirenz 600 MG / 3TC 300 MG / Tenofovir disoproxil fumarate 300 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:05:43.080479",
+  "source": "RxNorm"
+}

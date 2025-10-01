@@ -1,0 +1,10 @@
+{
+  "query": "Nepadutant",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:04:43.293707",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Perchlorate",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:27:56.925869",
+  "source": "RxNorm"
+}

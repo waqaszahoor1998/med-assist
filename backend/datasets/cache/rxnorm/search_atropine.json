@@ -1,0 +1,505 @@
+{
+  "query": "Atropine",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1046924",
+              "name": "atropine sulfate 0.00388 MG/ML / hyoscyamine sulfate 0.0207 MG/ML / phenobarbital 3.24 MG/ML / scopolamine hydrobromide 0.0013 MG/ML Oral Solution [Donnatal]",
+              "synonym": "Donnatal (atropine sulfate 0.00388 MG / hyoscyamine sulfate 0.0207 MG / phenobarbital 3.24 MG / scopolamine hydrobromide 0.0013 MG) per ML Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1046978",
+              "name": "atropine sulfate 0.0194 MG / hyoscyamine sulfate 0.1037 MG / phenobarbital 16.2 MG / scopolamine hydrobromide 0.0065 MG Oral Tablet [Donnatal]",
+              "synonym": "Donnatal (atropine sulfate 0.0194 MG / hyoscyamine sulfate 0.1037 MG / phenobarbital 16.2 MG / scopolamine hydrobromide 0.0065 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1046999",
+              "name": "atropine sulfate 0.0582 MG / hyoscyamine sulfate 0.311 MG / phenobarbital 48.6 MG / scopolamine hydrobromide 0.0195 MG Extended Release Oral Tablet [Donnatal]",
+              "synonym": "Donnatal (atropine sulfate 0.0582 MG / hyoscyamine sulfate 0.311 MG / phenobarbital 48.6 MG / scopolamine hydrobromide 0.0195 MG) Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190608",
+              "name": "0.3 ML atropine sulfate 0.833 MG/ML Auto-Injector [Atropen]",
+              "synonym": "0.3 ML Atropen 0.833 MG/ML Auto-Injector",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190611",
+              "name": "0.7 ML atropine sulfate 0.714 MG/ML Auto-Injector [Atropen]",
+              "synonym": "0.7 ML Atropen 0.714 MG/ML Auto-Injector",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190614",
+              "name": "0.7 ML atropine sulfate 1.43 MG/ML Auto-Injector [Atropen]",
+              "synonym": "0.7 ML Atropen 1.43 MG/ML Auto-Injector",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190620",
+              "name": "0.7 ML atropine sulfate 2.86 MG/ML Auto-Injector [Atropen]",
+              "synonym": "0.7 ML Atropen 2.86 MG/ML Auto-Injector",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190641",
+              "name": "atropine sulfate 0.025 MG / diphenoxylate hydrochloride 2.5 MG Oral Tablet [Lomotil]",
+              "synonym": "Lomotil (atropine sulfate 0.025 MG / diphenoxylate hydrochloride 2.5 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190664",
+              "name": "atropine sulfate 10 MG/ML Ophthalmic Solution [Isopto Atropine]",
+              "synonym": "Isopto Atropine 1 % Ophthalmic Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190740",
+              "name": "atropine sulfate 0.025 MG / difenoxin hydrochloride 1 MG Oral Tablet [Motofen]",
+              "synonym": "Motofen (atropine sulfate 0.025 MG / difenoxin hydrochloride 1 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190750",
+              "name": "5 ML atropine sulfate 0.14 MG/ML / edrophonium chloride 10 MG/ML Injection [Enlon-Plus]",
+              "synonym": "Enlon-Plus (atropine sulfate 0.14 MG / edrophonium chloride 10 MG) per 1 ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1739887",
+              "name": "atropine sulfate 0.0194 MG / hyoscyamine sulfate 0.1037 MG / phenobarbital 16.2 MG / scopolamine hydrobromide 0.0065 MG Oral Tablet [Phenohytro]",
+              "synonym": "Phenohytro (atropine sulfate 0.0194 MG / hyoscyamine sulfate 0.1037 MG / phenobarbital 16.2 MG / scopolamine HBr 0.0065 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2048017",
+              "name": "atropine sulfate 0.00388 MG/ML / hyoscyamine sulfate 0.0207 MG/ML / phenobarbital 3.24 MG/ML / scopolamine hydrobromide 0.0013 MG/ML Oral Solution [Phenohytro]",
+              "synonym": "Phenohytro (atropine sulfate 0.0194 MG / hyoscyamine sulfate 0.1037 MG / phenobarbital 16.2 MG / scopolamine HBr 0.0065 MG) per 5 ML Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "809819",
+              "name": "2.7 ML atropine 0.778 MG/ML / pralidoxime chloride 222 MG/ML Auto-Injector [Duodote]",
+              "synonym": "Duodote (atropine 2.1 MG / pralidoxime chloride 600 MG) Auto-Injector",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1046787",
+              "name": "atropine sulfate 0.00388 MG/ML / hyoscyamine sulfate 0.0207 MG/ML / phenobarbital 3.24 MG/ML / scopolamine hydrobromide 0.0013 MG/ML Oral Solution",
+              "synonym": "atropine sulfate 0.0194 MG / hyoscyamine sulfate 0.1037 MG / phenobarbital 16.2 MG / scopolamine hydrobromide 0.0065 MG per 5 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1046815",
+              "name": "atropine sulfate 0.0194 MG / hyoscyamine sulfate 0.1037 MG / phenobarbital 16.2 MG / scopolamine hydrobromide 0.0065 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1046997",
+              "name": "atropine sulfate 0.0582 MG / hyoscyamine sulfate 0.311 MG / phenobarbital 48.6 MG / scopolamine hydrobromide 0.0195 MG Extended Release Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1048078",
+              "name": "atropine sulfate 0.0194 MG / hyoscyamine sulfate 0.1037 MG / scopolamine hydrobromide 0.0065 MG Oral Tablet",
+              "synonym": "atropine sulfate 19.4 MCG / hyoscyamine sulfate 103.7 MCG / scopolamine hydrobromide 6.5 MCG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1048124",
+              "name": "12 HR atropine sulfate 0.04 MG / chlorpheniramine maleate 8 MG / hyoscyamine sulfate 0.19 MG / pseudoephedrine hydrochloride 90 MG / scopolamine hydrobromide 0.01 MG Extended Release Oral Tablet",
+              "synonym": "atropine sulfate 0.04 MG / chlorpheniramine maleate 8 MG / hyoscyamine sulfate 0.19 MG / pseudoephedrine hydrochloride 90 MG / scopolamine hydrobromide 0.01 MG 12 HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1116912",
+              "name": "atropine sulfate 15 MG/ML Injectable Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1145629",
+              "name": "atropine sulfate 0.54 MG/ML Injectable Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190536",
+              "name": "0.3 ML atropine sulfate 0.833 MG/ML Auto-Injector",
+              "synonym": "atropine sulfate 0.25 MG (atropine 0.21 MG) per 0.3 ML Auto-Injector",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190538",
+              "name": "0.7 ML atropine sulfate 0.714 MG/ML Auto-Injector",
+              "synonym": "atropine sulfate 0.5 MG (atropine 0.42 MG) per 0.7 ML Auto-Injector",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190540",
+              "name": "0.7 ML atropine sulfate 1.43 MG/ML Auto-Injector",
+              "synonym": "atropine sulfate 1 MG (atropine 0.84 MG) per 0.7 ML Auto-Injector",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190542",
+              "name": "0.7 ML atropine sulfate 2.86 MG/ML Auto-Injector",
+              "synonym": "atropine sulfate 2 MG (atropine base 1.67 MG) per 0.7 ML Auto-Injector",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190546",
+              "name": "10 ML atropine sulfate 0.1 MG/ML Prefilled Syringe",
+              "synonym": "atropine sulfate 1 MG per 10 ML Prefilled Syringe",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190551",
+              "name": "5 ML atropine sulfate 0.05 MG/ML Prefilled Syringe",
+              "synonym": "atropine sulfate 0.25 MG per 5 ML Prefilled Syringe",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190552",
+              "name": "5 ML atropine sulfate 0.1 MG/ML Prefilled Syringe",
+              "synonym": "atropine sulfate 0.5 MG per 5 ML Prefilled Syringe",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190556",
+              "name": "5 ML atropine sulfate 0.4 MG/ML Prefilled Syringe",
+              "synonym": "atropine sulfate 2 MG per 5 ML Prefilled Syringe",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190563",
+              "name": "atropine sulfate 0.005 MG/MG Ophthalmic Ointment",
+              "synonym": "atropine sulfate 0.5 % Ophthalmic Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190568",
+              "name": "atropine sulfate 0.005 MG/ML / diphenoxylate hydrochloride 0.5 MG/ML Oral Solution",
+              "synonym": "atropine sulfate 0.025 MG / diphenoxylate HCl 2.5 MG per 5 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190570",
+              "name": "atropine sulfate 0.01 MG/MG Ophthalmic Ointment",
+              "synonym": "atropine sulfate 1 % Ophthalmic Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190572",
+              "name": "atropine sulfate 0.025 MG / diphenoxylate hydrochloride 2.5 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190655",
+              "name": "atropine sulfate 10 MG/ML Ophthalmic Solution",
+              "synonym": "atropine sulfate 1 % Ophthalmic Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190668",
+              "name": "atropine sulfate 5 MG/ML Ophthalmic Solution",
+              "synonym": "atropine sulfate 0.5 % Ophthalmic Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190692",
+              "name": "atropine sulfate 0.4 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190738",
+              "name": "atropine sulfate 0.025 MG / difenoxin hydrochloride 1 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190748",
+              "name": "5 ML atropine sulfate 0.14 MG/ML / edrophonium chloride 10 MG/ML Injection",
+              "synonym": "atropine sulfate 0.14 MG / edrophonium chloride 10 MG per 1 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190764",
+              "name": "atropine sulfate 0.3 MG/ML Injectable Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190766",
+              "name": "atropine sulfate 0.31 MG/ML Ophthalmic Solution",
+              "synonym": "atropine sulfate 0.031 % Ophthalmic Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190776",
+              "name": "atropine sulfate 0.4 MG/ML Injectable Solution",
+              "synonym": "atropine sulfate 2 MG per 5 ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190783",
+              "name": "atropine sulfate 0.6 MG Oral Tablet",
+              "synonym": "atropine sulfate 600 MCG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190787",
+              "name": "atropine sulfate 0.6 MG/ML Injectable Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190790",
+              "name": "atropine sulfate 0.62 MG/ML Ophthalmic Solution",
+              "synonym": "atropine sulfate 0.062 % Ophthalmic Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190795",
+              "name": "1 ML atropine sulfate 1 MG/ML Injection",
+              "synonym": "atropine sulfate 1 MG per 1 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190796",
+              "name": "atropine sulfate 1 MG/ML Ophthalmic Solution",
+              "synonym": "atropine sulfate 0.1 % Ophthalmic Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190800",
+              "name": "atropine sulfate 1.25 MG/ML Injectable Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190801",
+              "name": "atropine sulfate 1.25 MG/ML Ophthalmic Solution",
+              "synonym": "atropine sulfate 0.125 % Ophthalmic Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190806",
+              "name": "atropine sulfate 2.5 MG/ML Ophthalmic Solution",
+              "synonym": "atropine sulfate 0.25 % Ophthalmic Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190817",
+              "name": "atropine sulfate 20 MG/ML Ophthalmic Solution",
+              "synonym": "atropine sulfate 2 % Ophthalmic Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1293311",
+              "name": "1 ML atropine sulfate 0.4 MG/ML Prefilled Syringe",
+              "synonym": "atropine sulfate 0.4 MG per 1 ML Prefilled Syringe",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1666781",
+              "name": "1 ML atropine sulfate 0.4 MG/ML Injection",
+              "synonym": "atropine sulfate 0.4 MG per 1 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "727415",
+              "name": "2.7 ML atropine 0.778 MG/ML / pralidoxime chloride 222 MG/ML Auto-Injector",
+              "synonym": "atropine 2.1 MG / pralidoxime chloride 600 MG Auto-Injector",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:21:56.816274",
+  "source": "RxNorm"
+}

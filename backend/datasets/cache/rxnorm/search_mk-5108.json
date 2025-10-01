@@ -1,0 +1,10 @@
+{
+  "query": "MK-5108",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:05:52.777740",
+  "source": "RxNorm"
+}

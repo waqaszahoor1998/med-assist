@@ -1,0 +1,10 @@
+{
+  "query": "GDC-0623",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:31:40.292971",
+  "source": "RxNorm"
+}

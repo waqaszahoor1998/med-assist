@@ -1,0 +1,44 @@
+{
+  "query": "Benznidazole",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD"
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1993222",
+              "name": "benznidazole 12.5 MG Oral Tablet",
+              "synonym": "benznidazole 12.5 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "430551",
+              "name": "benznidazole 100 MG Oral Tablet",
+              "synonym": "benznidazole 100 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:32:02.165694",
+  "source": "RxNorm"
+}

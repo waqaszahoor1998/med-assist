@@ -1,0 +1,10 @@
+{
+  "query": "beta-D-galactose 6-phosphate",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:51:59.714392",
+  "source": "RxNorm"
+}

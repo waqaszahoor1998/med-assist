@@ -1,0 +1,16 @@
+{
+  "rxcui": "204536",
+  "properties": {
+    "properties": {
+      "rxcui": "204536",
+      "name": "10 ML cupric chloride 1.07 MG/ML Injection",
+      "synonym": "copper 4 MG per 10 ML Injection",
+      "tty": "SCD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T17:22:26.846150",
+  "source": "RxNorm"
+}

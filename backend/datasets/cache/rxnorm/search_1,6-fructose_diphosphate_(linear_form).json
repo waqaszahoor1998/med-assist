@@ -1,0 +1,10 @@
+{
+  "query": "1,6-Fructose Diphosphate (Linear Form)",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:00:32.912723",
+  "source": "RxNorm"
+}

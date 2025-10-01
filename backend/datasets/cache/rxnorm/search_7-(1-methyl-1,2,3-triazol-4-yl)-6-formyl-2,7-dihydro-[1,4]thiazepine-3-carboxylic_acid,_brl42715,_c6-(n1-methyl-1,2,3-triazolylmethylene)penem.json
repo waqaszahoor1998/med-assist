@@ -1,0 +1,10 @@
+{
+  "query": "7-(1-Methyl-1,2,3-Triazol-4-Yl)-6-Formyl-2,7-Dihydro-[1,4]Thiazepine-3-Carboxylic Acid, Brl42715, C6-(N1-Methyl-1,2,3-Triazolylmethylene)Penem",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:13:30.537472",
+  "source": "RxNorm"
+}

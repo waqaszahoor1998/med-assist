@@ -1,0 +1,64 @@
+{
+  "query": "Acalabrutinib",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1986819",
+              "name": "acalabrutinib 100 MG Oral Capsule [Calquence]",
+              "synonym": "Calquence 100 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2607737",
+              "name": "acalabrutinib 100 MG Oral Tablet [Calquence]",
+              "synonym": "Calquence 100 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1986813",
+              "name": "acalabrutinib 100 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2607734",
+              "name": "acalabrutinib 100 MG Oral Tablet",
+              "synonym": "acalabrutinib 100 MG (as acalabrutinib maleate 129 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:15:26.398932",
+  "source": "RxNorm"
+}

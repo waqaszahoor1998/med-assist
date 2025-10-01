@@ -1,0 +1,10 @@
+{
+  "query": "ZK-806711",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:39:24.855835",
+  "source": "RxNorm"
+}

@@ -1,0 +1,16 @@
+{
+  "rxcui": "1485895",
+  "properties": {
+    "properties": {
+      "rxcui": "1485895",
+      "name": "panthenol 5 MG/ML / zinc pyrithione 6 MG/ML Medicated Shampoo",
+      "synonym": "panthenol 0.5 % / zinc pyrithione 0.6 % Medicated Shampoo",
+      "tty": "SCD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T17:49:55.211862",
+  "source": "RxNorm"
+}

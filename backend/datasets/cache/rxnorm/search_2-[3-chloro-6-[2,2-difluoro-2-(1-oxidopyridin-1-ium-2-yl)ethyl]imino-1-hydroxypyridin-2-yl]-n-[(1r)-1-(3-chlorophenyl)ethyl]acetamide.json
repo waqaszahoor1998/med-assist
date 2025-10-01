@@ -1,0 +1,10 @@
+{
+  "query": "2-[3-chloro-6-[2,2-difluoro-2-(1-oxidopyridin-1-ium-2-yl)ethyl]imino-1-hydroxypyridin-2-yl]-N-[(1R)-1-(3-chlorophenyl)ethyl]acetamide",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:38:19.267344",
+  "source": "RxNorm"
+}

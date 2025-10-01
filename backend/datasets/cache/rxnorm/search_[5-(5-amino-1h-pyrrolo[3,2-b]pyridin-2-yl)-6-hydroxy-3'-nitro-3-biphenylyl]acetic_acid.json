@@ -1,0 +1,10 @@
+{
+  "query": "[5-(5-Amino-1H-pyrrolo[3,2-b]pyridin-2-yl)-6-hydroxy-3'-nitro-3-biphenylyl]acetic acid",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:53:59.405700",
+  "source": "RxNorm"
+}

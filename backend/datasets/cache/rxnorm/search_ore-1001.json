@@ -1,0 +1,10 @@
+{
+  "query": "ORE-1001",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:49:28.279774",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "NM-3",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:18:34.825632",
+  "source": "RxNorm"
+}

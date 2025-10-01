@@ -1,0 +1,16 @@
+{
+  "rxcui": "2602768",
+  "properties": {
+    "properties": {
+      "rxcui": "2602768",
+      "name": "{112 (treprostinil 0.016 MG Inhalation Powder [Tyvaso]) / 84 (treprostinil 0.032 MG Inhalation Powder [Tyvaso]) } Pack [Tyvaso 16-32 MCG Titration Pack]",
+      "synonym": "Tyvaso DPI 16-32 MCG Titration Pack",
+      "tty": "BPCK",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T21:10:53.153339",
+  "source": "RxNorm"
+}

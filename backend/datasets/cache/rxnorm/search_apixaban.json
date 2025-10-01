@@ -1,0 +1,86 @@
+{
+  "query": "Apixaban",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1992428",
+              "name": "{74 (apixaban 5 MG Oral Tablet [Eliquis]) } Pack [Eliquis 30-Day Starter Pack]",
+              "synonym": "Eliquis 30-Day Starter Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1992427",
+              "name": "{74 (apixaban 5 MG Oral Tablet) } Pack",
+              "synonym": "apixaban 30-Day Starter Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1364441",
+              "name": "apixaban 2.5 MG Oral Tablet [Eliquis]",
+              "synonym": "Eliquis 2.5 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1364447",
+              "name": "apixaban 5 MG Oral Tablet [Eliquis]",
+              "synonym": "Eliquis 5 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1364435",
+              "name": "apixaban 2.5 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1364445",
+              "name": "apixaban 5 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:27:06.712285",
+  "source": "RxNorm"
+}

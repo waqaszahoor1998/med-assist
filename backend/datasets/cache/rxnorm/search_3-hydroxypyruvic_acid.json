@@ -1,0 +1,10 @@
+{
+  "query": "3-Hydroxypyruvic Acid",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:19:35.836552",
+  "source": "RxNorm"
+}

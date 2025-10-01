@@ -1,0 +1,10 @@
+{
+  "query": "(2S)-1-{[5-(1H-Indazol-5-yl)-3-pyridinyl]oxy}-3-(7aH-indol-3-yl)-2-propanamine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:42:11.371657",
+  "source": "RxNorm"
+}

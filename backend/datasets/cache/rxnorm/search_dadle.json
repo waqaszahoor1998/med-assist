@@ -1,0 +1,10 @@
+{
+  "query": "DADLE",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T17:02:35.776713",
+  "source": "RxNorm"
+}

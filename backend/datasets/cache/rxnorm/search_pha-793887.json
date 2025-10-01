@@ -1,0 +1,10 @@
+{
+  "query": "PHA-793887",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:12:25.533712",
+  "source": "RxNorm"
+}

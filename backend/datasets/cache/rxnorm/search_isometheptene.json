@@ -1,0 +1,62 @@
+{
+  "query": "Isometheptene",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD"
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1435853",
+              "name": "acetaminophen 325 MG / caffeine 20 MG / isometheptene mucate 65 MG Oral Tablet",
+              "synonym": "APAP 325 MG / Caffeine 20 MG / Isometheptene mucate 65 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "251169",
+              "name": "acetaminophen 325 MG / isometheptene 65 MG Oral Capsule",
+              "synonym": "APAP 325 MG / isometheptene 65 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308310",
+              "name": "acetaminophen 325 MG / caffeine 100 MG / isometheptene 65 MG Oral Capsule",
+              "synonym": "APAP 325 MG / Caffeine 100 MG / isometheptene 65 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "606947",
+              "name": "acetaminophen 325 MG / dichloralphenazone 100 MG / isometheptene 65 MG Oral Capsule",
+              "synonym": "APAP 325 MG / dichloralphenazone 100 MG / isometheptene 65 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:32:17.092730",
+  "source": "RxNorm"
+}

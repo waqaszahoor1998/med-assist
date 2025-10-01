@@ -1,0 +1,154 @@
+{
+  "query": "Ramipril",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "104384",
+              "name": "ramipril 2.5 MG Oral Capsule [Altace]",
+              "synonym": "Altace 2.5 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "104385",
+              "name": "ramipril 5 MG Oral Capsule [Altace]",
+              "synonym": "Altace 5 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "260333",
+              "name": "ramipril 10 MG Oral Capsule [Altace]",
+              "synonym": "Altace 10 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "845489",
+              "name": "ramipril 1.25 MG Oral Capsule [Altace]",
+              "synonym": "Altace 1.25 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "198188",
+              "name": "ramipril 2.5 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198189",
+              "name": "ramipril 5 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "251856",
+              "name": "ramipril 2.5 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "251857",
+              "name": "ramipril 5 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "261962",
+              "name": "ramipril 10 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "389180",
+              "name": "felodipine 2.5 MG / ramipril 2.5 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "389181",
+              "name": "felodipine 5 MG / ramipril 5 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "401965",
+              "name": "ramipril 1.25 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "401968",
+              "name": "ramipril 10 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "845488",
+              "name": "ramipril 1.25 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T20:59:37.568676",
+  "source": "RxNorm"
+}

@@ -1,0 +1,16 @@
+{
+  "rxcui": "207248",
+  "properties": {
+    "properties": {
+      "rxcui": "207248",
+      "name": "oxiconazole 10 MG/ML Topical Cream [Oxistat]",
+      "synonym": "Oxistat 1 % Topical Cream",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T21:02:16.754682",
+  "source": "RxNorm"
+}

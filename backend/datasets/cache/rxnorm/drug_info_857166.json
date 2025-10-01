@@ -1,0 +1,16 @@
+{
+  "rxcui": "857166",
+  "properties": {
+    "properties": {
+      "rxcui": "857166",
+      "name": "fosinopril sodium 10 MG / hydrochlorothiazide 12.5 MG Oral Tablet",
+      "synonym": "FNP Sodium 10 MG / HCTZ 12.5 MG Oral Tablet",
+      "tty": "SCD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T21:16:13.660146",
+  "source": "RxNorm"
+}

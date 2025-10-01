@@ -1,0 +1,16 @@
+{
+  "rxcui": "312285",
+  "properties": {
+    "properties": {
+      "rxcui": "312285",
+      "name": "pentagastrin 0.25 MG/ML Injectable Solution",
+      "synonym": "",
+      "tty": "SCD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T21:00:02.431086",
+  "source": "RxNorm"
+}

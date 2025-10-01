@@ -1,0 +1,10 @@
+{
+  "query": "{[2-(1h-1,2,3-Benzotriazol-1-Yl)-2-(3,4-Difluorophenyl)Propane-1,3-Diyl]Bis[4,1-Phenylene(Difluoromethylene)]}Bis(Phosphonic Acid)",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:06:07.006815",
+  "source": "RxNorm"
+}

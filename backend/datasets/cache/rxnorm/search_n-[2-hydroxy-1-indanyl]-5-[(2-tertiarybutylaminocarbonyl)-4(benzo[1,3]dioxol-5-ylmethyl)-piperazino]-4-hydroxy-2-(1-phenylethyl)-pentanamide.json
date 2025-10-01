@@ -1,0 +1,10 @@
+{
+  "query": "N-[2-hydroxy-1-indanyl]-5-[(2-tertiarybutylaminocarbonyl)-4(benzo[1,3]dioxol-5-ylmethyl)-piperazino]-4-hydroxy-2-(1-phenylethyl)-pentanamide",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T01:38:51.341817",
+  "source": "RxNorm"
+}

@@ -1,0 +1,100 @@
+{
+  "query": "Abemaciclib",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1946836",
+              "name": "abemaciclib 50 MG Oral Tablet [Verzenio]",
+              "synonym": "Verzenio 50 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1946840",
+              "name": "abemaciclib 100 MG Oral Tablet [Verzenio]",
+              "synonym": "Verzenio 100 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1946844",
+              "name": "abemaciclib 150 MG Oral Tablet [Verzenio]",
+              "synonym": "Verzenio 150 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1946848",
+              "name": "abemaciclib 200 MG Oral Tablet [Verzenio]",
+              "synonym": "Verzenio 200 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1946830",
+              "name": "abemaciclib 50 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1946838",
+              "name": "abemaciclib 100 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1946842",
+              "name": "abemaciclib 150 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1946846",
+              "name": "abemaciclib 200 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:32:49.883364",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "3-thiaoctanoyl-CoA",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:41:16.180085",
+  "source": "RxNorm"
+}

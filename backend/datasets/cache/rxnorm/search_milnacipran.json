@@ -1,0 +1,122 @@
+{
+  "query": "Milnacipran",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "833151",
+              "name": "{5 (milnacipran hydrochloride 12.5 MG Oral Tablet [Savella]) / 8 (milnacipran hydrochloride 25 MG Oral Tablet [Savella]) / 42 (milnacipran hydrochloride 50 MG Oral Tablet [Savella]) } Pack [Savella 4-Week Titration]",
+              "synonym": "Savella 4-Week Titration Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "833150",
+              "name": "{5 (milnacipran hydrochloride 12.5 MG Oral Tablet) / 8 (milnacipran hydrochloride 25 MG Oral Tablet) / 42 (milnacipran hydrochloride 50 MG Oral Tablet) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "833139",
+              "name": "milnacipran hydrochloride 100 MG Oral Tablet [Savella]",
+              "synonym": "Savella 100 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "833143",
+              "name": "milnacipran hydrochloride 12.5 MG Oral Tablet [Savella]",
+              "synonym": "Savella 12.5 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "833146",
+              "name": "milnacipran hydrochloride 50 MG Oral Tablet [Savella]",
+              "synonym": "Savella 50 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "833149",
+              "name": "milnacipran hydrochloride 25 MG Oral Tablet [Savella]",
+              "synonym": "Savella 25 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "833135",
+              "name": "milnacipran hydrochloride 100 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "833141",
+              "name": "milnacipran hydrochloride 12.5 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "833144",
+              "name": "milnacipran hydrochloride 50 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "833147",
+              "name": "milnacipran hydrochloride 25 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T15:47:05.430136",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "1-Methyl-2-Oxy-5,5-Dimethyl Pyrrolidine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T04:35:10.451326",
+  "source": "RxNorm"
+}

@@ -1,0 +1,46 @@
+{
+  "query": "Streptozocin",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "207948",
+              "name": "streptozocin 1000 MG Injection [Zanosar]",
+              "synonym": "Zanosar 1 GM Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "239180",
+              "name": "streptozocin 1000 MG Injection",
+              "synonym": "streptozocin 1 GM Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:12:46.385052",
+  "source": "RxNorm"
+}

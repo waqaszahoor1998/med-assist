@@ -1,0 +1,64 @@
+{
+  "query": "Pexidartinib",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2183131",
+              "name": "pexidartinib 200 MG Oral Capsule [Turalio]",
+              "synonym": "Turalio 200 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2626399",
+              "name": "pexidartinib 125 MG Oral Capsule [Turalio]",
+              "synonym": "Turalio 125 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2183125",
+              "name": "pexidartinib 200 MG Oral Capsule",
+              "synonym": "pexidartinib 200 MG (as pexidartinib HCl 217.5 MG) Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2626397",
+              "name": "pexidartinib 125 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T19:26:38.959211",
+  "source": "RxNorm"
+}

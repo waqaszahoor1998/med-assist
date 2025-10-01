@@ -1,0 +1,10 @@
+{
+  "query": "Diglyme",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:18:45.448295",
+  "source": "RxNorm"
+}

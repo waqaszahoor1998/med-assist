@@ -1,0 +1,248 @@
+{
+  "query": "Tolvaptan",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "2044967",
+              "name": "{28 (tolvaptan 30 MG Oral Tablet [Jynarque]) / 28 (tolvaptan 60 MG Oral Tablet [Jynarque]) } Pack [Jynarque 60/30 Carton]",
+              "synonym": "Jynarque 60 MG / 30 MG Carton Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2044969",
+              "name": "{28 (tolvaptan 15 MG Oral Tablet [Jynarque]) / 28 (tolvaptan 45 MG Oral Tablet [Jynarque]) } Pack [Jynarque 45/15 Carton]",
+              "synonym": "Jynarque 45 MG / 15 MG Carton Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2044971",
+              "name": "{28 (tolvaptan 30 MG Oral Tablet [Jynarque]) / 28 (tolvaptan 90 MG Oral Tablet [Jynarque]) } Pack [Jynarque 90/30 Carton]",
+              "synonym": "Jynarque 90 MG / 30 MG Carton Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2274814",
+              "name": "{28 (tolvaptan 15 MG Oral Tablet [Jynarque]) / 28 (tolvaptan 30 MG Oral Tablet [Jynarque]) } Pack [Jynarque 30/15 Carton]",
+              "synonym": "Jynarque 30 MG / 15 MG Carton Pack, 4 Blister Cards, 14 Capsules Each",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2274816",
+              "name": "{56 (tolvaptan 15 MG Oral Tablet [Jynarque]) } Pack [Jynarque 15/15 Carton]",
+              "synonym": "Jynarque 15 MG / 15 MG Carton Pack, 4 Blister Cards, 14 Capsules Each",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "2044966",
+              "name": "{28 (tolvaptan 30 MG Oral Tablet) / 28 (tolvaptan 60 MG Oral Tablet) } Pack",
+              "synonym": "tolvaptan 60 MG / 30 MG Carton Pack, 4 Blister Cards, 14 Tablets Each",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2044968",
+              "name": "{28 (tolvaptan 15 MG Oral Tablet) / 28 (tolvaptan 45 MG Oral Tablet) } Pack",
+              "synonym": "tolvaptan 45 MG / 15 MG Carton Pack, 4 Blister Cards, 14 Tablets Each",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2044970",
+              "name": "{28 (tolvaptan 30 MG Oral Tablet) / 28 (tolvaptan 90 MG Oral Tablet) } Pack",
+              "synonym": "tolvaptan 90 MG / 30 MG Carton Pack, 4 Blister Cards, 14 Tablets Each",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2274813",
+              "name": "{28 (tolvaptan 15 MG Oral Tablet) / 28 (tolvaptan 30 MG Oral Tablet) } Pack",
+              "synonym": "tolvaptan 30 MG / 15 MG Carton Pack, 4 Blister Cards, 14 Tablets Each",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2274815",
+              "name": "{56 (tolvaptan 15 MG Oral Tablet) } Pack",
+              "synonym": "4 {14 (tolvaptan 15 MG Oral Tablet) } Carton Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2044355",
+              "name": "tolvaptan 15 MG Oral Tablet [Jynarque]",
+              "synonym": "Jynarque 15 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2044357",
+              "name": "tolvaptan 30 MG Oral Tablet [Jynarque]",
+              "synonym": "Jynarque 30 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2044361",
+              "name": "tolvaptan 45 MG Oral Tablet [Jynarque]",
+              "synonym": "Jynarque 45 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2044365",
+              "name": "tolvaptan 60 MG Oral Tablet [Jynarque]",
+              "synonym": "Jynarque 60 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2044369",
+              "name": "tolvaptan 90 MG Oral Tablet [Jynarque]",
+              "synonym": "Jynarque 90 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "849831",
+              "name": "Hyponatremia tolvaptan 15 MG Oral Tablet [Samsca]",
+              "synonym": "Hyponatremia Samsca 15 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "849835",
+              "name": "Hyponatremia tolvaptan 30 MG Oral Tablet [Samsca]",
+              "synonym": "Hyponatremia Samsca 30 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2044359",
+              "name": "tolvaptan 45 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2044363",
+              "name": "tolvaptan 60 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2044367",
+              "name": "tolvaptan 90 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2719335",
+              "name": "tolvaptan 15 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2719337",
+              "name": "tolvaptan 30 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "849827",
+              "name": "Hyponatremia tolvaptan 15 MG Oral Tablet",
+              "synonym": "tolvaptan 15 MG Hyponatremia Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "849833",
+              "name": "Hyponatremia tolvaptan 30 MG Oral Tablet",
+              "synonym": "tolvaptan 30 MG Hyponatremia Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:14:07.350380",
+  "source": "RxNorm"
+}

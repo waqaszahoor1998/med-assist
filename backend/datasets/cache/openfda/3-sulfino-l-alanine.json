@@ -1,0 +1,23 @@
+{
+  "drug_name": "3-sulfino-L-alanine",
+  "generic_name": [
+    "ZINC GLUCONATE, SAMBUCUS NIGRA, AVENA SATIVA L., ROSA CANINA, ECHINACEA PURPUREA"
+  ],
+  "brand_names": [
+    "Cold-EEZE Cold Remedy"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    "Warnings Do not use for treatment of influenza or allergies. This product is intended only to reduce the duration of the common cold and its symptoms. Ask a doctor before use if you have \u2022 diabetes \u2022 multiple sclerosis (MS) \u2022 rheumatoid arthritis (RA) or other auto-immune condition Ask a doctor or pharmacist before use if you are taking minocycline, doxycycline, tetracycline or are on Coumadin (warfarin) therapy. Zinc treatment may inhibit the absorption of these medicines. When using this product do not take on an empty stomach (to avoid possible minor stomach upset) Stop use and ask your doctor if symptoms persist more than 7 days If pregnant or breastfeeding , ask a healthcare professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away."
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    "Directions \u2022 take one lozenge at the onset of symptoms \u2022 do not chew \u2022 dissolve entire lozenge in mouth \u2022 do not swallow whole \u2022 do not eat or drink for 15 minutes after use \u2022 repeat every 2-4 hours until symptoms subside Adults 18 years and over do not exceed 6 lozenges per day Children 12 to under 18 years do not exceed 4 lozenges per day Children under 12 years ask a doctor before use"
+  ],
+  "indications": [
+    "Uses reduces the duration of the common cold reduces the severity of cold symptoms: cough, sore throat, nasal congestion, post nasal drip and/or hoarseness supports immune system health* helps with general debility and fatigue*"
+  ],
+  "fetched_at": "2025-10-01T02:45:05.584277",
+  "source": "OpenFDA"
+}

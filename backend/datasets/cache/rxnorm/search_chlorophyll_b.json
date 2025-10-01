@@ -1,0 +1,10 @@
+{
+  "query": "Chlorophyll B",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:28:27.563051",
+  "source": "RxNorm"
+}

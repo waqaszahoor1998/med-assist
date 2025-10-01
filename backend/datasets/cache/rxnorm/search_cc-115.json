@@ -1,0 +1,10 @@
+{
+  "query": "CC-115",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:14:54.561679",
+  "source": "RxNorm"
+}

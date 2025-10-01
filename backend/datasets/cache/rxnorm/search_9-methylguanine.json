@@ -1,0 +1,10 @@
+{
+  "query": "9-Methylguanine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:59:41.971151",
+  "source": "RxNorm"
+}

@@ -1,0 +1,104 @@
+{
+  "query": "Elagolix",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "2371768",
+              "name": "{28 (elagolix 300 MG / estradiol 1 MG / norethindrone 0.5 MG Oral Capsule) / 28 (elagolix 300 MG Oral Capsule) } Pack [Oriahnn 28 Day Kit]",
+              "synonym": "Oriahnn 28 Day Kit",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "2371767",
+              "name": "{28 (elagolix 300 MG / estradiol 1 MG / norethindrone 0.5 MG Oral Capsule) / 28 (elagolix 300 MG Oral Capsule) } Pack",
+              "synonym": "(elagolix 300 MG / estradiol 1 MG / norethindrone 0.5 MG (28) Oral Capsule) / (elagolix 300 MG (28) Oral Capsule) Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2049858",
+              "name": "elagolix 150 MG Oral Tablet [Orilissa]",
+              "synonym": "Orilissa 150 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2049862",
+              "name": "elagolix 200 MG Oral Tablet [Orilissa]",
+              "synonym": "Orilissa 200 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2049852",
+              "name": "elagolix 150 MG Oral Tablet",
+              "synonym": "elagolix 150 MG (as elagolix sodium 155.2 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2049860",
+              "name": "elagolix 200 MG Oral Tablet",
+              "synonym": "elagolix 200 MG (as egalolix sodium 207 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2371764",
+              "name": "elagolix 300 MG / estradiol 1 MG / norethindrone 0.5 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2371766",
+              "name": "elagolix 300 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:31:25.976432",
+  "source": "RxNorm"
+}

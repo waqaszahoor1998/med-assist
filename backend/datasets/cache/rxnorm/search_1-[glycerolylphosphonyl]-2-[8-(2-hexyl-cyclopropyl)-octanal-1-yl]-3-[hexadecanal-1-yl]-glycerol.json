@@ -1,0 +1,10 @@
+{
+  "query": "1-[Glycerolylphosphonyl]-2-[8-(2-Hexyl-Cyclopropyl)-Octanal-1-Yl]-3-[Hexadecanal-1-Yl]-Glycerol",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T04:35:39.615551",
+  "source": "RxNorm"
+}

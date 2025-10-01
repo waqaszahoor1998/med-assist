@@ -1,0 +1,10 @@
+{
+  "query": "1-Naphthoxyacetic acid",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:54:19.825834",
+  "source": "RxNorm"
+}

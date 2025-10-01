@@ -1,0 +1,16 @@
+{
+  "rxcui": "1090000",
+  "properties": {
+    "properties": {
+      "rxcui": "1090000",
+      "name": "chlorhexidine gluconate 10 MG/ML / ethanol 0.61 ML/ML Topical Lotion [Avagard]",
+      "synonym": "avagard (chlorhexidine gluconate 1 % / ethanol 61 % ) Topical Lotion",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T22:29:56.863246",
+  "source": "RxNorm"
+}

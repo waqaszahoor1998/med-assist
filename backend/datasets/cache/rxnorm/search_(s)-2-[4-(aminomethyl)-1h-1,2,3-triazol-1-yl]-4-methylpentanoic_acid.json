@@ -1,0 +1,10 @@
+{
+  "query": "(S)-2-[4-(Aminomethyl)-1h-1,2,3-Triazol-1-Yl]-4-Methylpentanoic Acid",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:33:06.268767",
+  "source": "RxNorm"
+}

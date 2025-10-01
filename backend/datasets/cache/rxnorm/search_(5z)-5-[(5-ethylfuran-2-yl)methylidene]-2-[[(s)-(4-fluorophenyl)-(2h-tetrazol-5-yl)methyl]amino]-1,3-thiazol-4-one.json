@@ -1,0 +1,10 @@
+{
+  "query": "(5Z)-5-[(5-ethylfuran-2-yl)methylidene]-2-[[(S)-(4-fluorophenyl)-(2H-tetrazol-5-yl)methyl]amino]-1,3-thiazol-4-one",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:58:54.659880",
+  "source": "RxNorm"
+}

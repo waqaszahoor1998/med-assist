@@ -1,0 +1,27 @@
+{
+  "drug_name": "Tafamidis",
+  "generic_name": [
+    "TAFAMIDIS MEGLUMINE"
+  ],
+  "brand_names": [
+    "Vyndaqel"
+  ],
+  "drug_interactions": [
+    "7. DRUG INTERACTIONS 7.1 BCRP Substrates Tafamidis inhibits breast cancer resistant protein (BCRP) in humans [see Clinical Pharmacology (12.3) ] . Coadministration of tafamidis and drugs that are BCRP substrates may increase the exposure of substrates of this transporter (e.g., methotrexate, rosuvastatin, imatinib) and the risk of the substrate-related toxicities. Monitor for signs of BCRP substrate-related toxicities and modify dosage of the substrate if appropriate."
+  ],
+  "warnings": [],
+  "adverse_reactions": [
+    "6. ADVERSE REACTIONS To report SUSPECTED ADVERSE REACTIONS, contact Pfizer Inc. at 1-800-438-1985 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch . 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. The data reflect exposure of 377 ATTR-CM patients to 20 mg or 80 mg (administered as four 20-mg capsules) of VYNDAQEL administered daily for an average of 24.5 months (ranging from 1 day to 111 months). Adverse events were assessed from ATTR-CM clinical trials with VYNDAQEL, primarily a 30-month placebo-controlled trial [see Clinical Studies (14) ] . The frequency of adverse events in patients treated with VYNDAQEL 20 mg (n=88) or 80 mg (n=176; administered as four 20-mg capsules) was similar to that with placebo (n=177). In the 30-month placebo-controlled trial, similar proportions of VYNDAQEL-treated patients and placebo-treated patients discontinued the study drug because of an adverse event: 12 (7%), 5 (6%), and 11 (6%) from the VYNDAQEL 80-mg, VYNDAQEL 20-mg, and placebo groups, respectively."
+  ],
+  "contraindications": [
+    "4. CONTRAINDICATIONS None. None. ( 4 )"
+  ],
+  "dosage_administration": [
+    "2. DOSAGE AND ADMINISTRATION The recommended dosage is either: \u2022 VYNDAQEL 80 mg orally once daily, or \u2022 VYNDAMAX 61 mg orally once daily ( 2.1 ) \u2022 VYNDAMAX and VYNDAQEL are not substitutable on a per mg basis. ( 2.1 ) 2.1 Recommended Dosage The recommended dosage is either VYNDAQEL 80 mg (four 20-mg tafamidis meglumine capsules) orally once daily or VYNDAMAX 61 mg (one 61-mg tafamidis capsule) orally once daily. VYNDAMAX and VYNDAQEL are not substitutable on a per mg basis [see Clinical Pharmacology (12.3) ] . 2.2 Administration Instructions The capsules should be swallowed whole and not crushed or cut. If a dose is missed, instruct patients to take the dose as soon as remembered or to skip the missed dose and take the next dose at the regularly scheduled time. Do not double the dose."
+  ],
+  "indications": [
+    "1. INDICATIONS AND USAGE VYNDAQEL and VYNDAMAX are indicated for the treatment of the cardiomyopathy of wild-type or hereditary transthyretin-mediated amyloidosis (ATTR-CM) in adults to reduce cardiovascular mortality and cardiovascular-related hospitalization. VYNDAQEL and VYNDAMAX are transthyretin stabilizers indicated for the treatment of the cardiomyopathy of wild-type or hereditary transthyretin-mediated amyloidosis in adults to reduce cardiovascular mortality and cardiovascular-related hospitalization. ( 1 )"
+  ],
+  "fetched_at": "2025-10-01T18:11:28.743814",
+  "source": "OpenFDA"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "SLx-4090",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:03:30.994208",
+  "source": "RxNorm"
+}

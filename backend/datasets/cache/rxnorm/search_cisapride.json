@@ -1,0 +1,53 @@
+{
+  "query": "Cisapride",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD"
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "198356",
+              "name": "cisapride 10 MG Oral Tablet",
+              "synonym": "cisapride (as cisapride monohydrate) 10 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198357",
+              "name": "cisapride 20 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "246217",
+              "name": "cisapride 1 MG/ML Oral Suspension",
+              "synonym": "cisapride 5 MG per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:23:54.457164",
+  "source": "RxNorm"
+}

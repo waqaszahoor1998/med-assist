@@ -1,0 +1,10 @@
+{
+  "query": "GSK-1292263",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:09:16.631761",
+  "source": "RxNorm"
+}

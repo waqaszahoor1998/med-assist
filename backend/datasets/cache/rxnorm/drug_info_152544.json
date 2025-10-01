@@ -1,0 +1,16 @@
+{
+  "rxcui": "152544",
+  "properties": {
+    "properties": {
+      "rxcui": "152544",
+      "name": "aceclofenac 100 MG Oral Tablet",
+      "synonym": "",
+      "tty": "SCD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T16:34:20.537059",
+  "source": "RxNorm"
+}

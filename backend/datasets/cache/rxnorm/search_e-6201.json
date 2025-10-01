@@ -1,0 +1,10 @@
+{
+  "query": "E-6201",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:14:02.363245",
+  "source": "RxNorm"
+}

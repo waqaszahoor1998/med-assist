@@ -1,0 +1,136 @@
+{
+  "query": "Chromium picolinate",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1250716",
+              "name": "chromium picolinate 0.805 MG / inulin 1500 MG Chewable Tablet [Fiber Choice Weight Management]",
+              "synonym": "Fiber Choice Weight Management (chromium picolinate 0.805 MG (chromium 100 MCG) / inulin 1.5 GM) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1150093",
+              "name": "chromium picolinate 0.1 MG / inulin 2000 MG Chewable Tablet",
+              "synonym": "chromium picolinate 100 MCG / inulin 2 GM Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1250484",
+              "name": "chromium picolinate 0.805 MG / inulin 1500 MG Chewable Tablet",
+              "synonym": "chromium picolinate 0.805 (chromium 100 MCG) / inulin 1.5 GM Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1291239",
+              "name": "chromium picolinate 1 MG Oral Tablet",
+              "synonym": "chromium picolinate 1000 MCG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1313957",
+              "name": "chromium picolinate 0.1 MG / cinnamon bark 500 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198958",
+              "name": "chromium picolinate 0.2 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "249369",
+              "name": "chromium picolinate 0.5 MG Oral Tablet",
+              "synonym": "chromium picolinate 500 MCG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "259592",
+              "name": "chromium picolinate 0.4 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "259888",
+              "name": "chromium picolinate 0.2 MG / gamboge 500 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "309282",
+              "name": "chromium picolinate 0.2 MG Oral Capsule",
+              "synonym": "chromium picolinate 200 MCG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "616640",
+              "name": "biotin 2 MG / chromium picolinate 0.6 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "722293",
+              "name": "chromium picolinate 0.8 MG Oral Tablet",
+              "synonym": "chromium picolinate 800 MCG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:51:29.303857",
+  "source": "RxNorm"
+}

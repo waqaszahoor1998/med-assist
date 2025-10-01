@@ -1,0 +1,91 @@
+{
+  "query": "Ergotamine",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1293506",
+              "name": "caffeine 100 MG / ergotamine tartrate 1 MG Oral Tablet [Cafergot]",
+              "synonym": "Cafergot (caffeine 100 MG / ergotamine tartrate 1 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1293639",
+              "name": "caffeine 100 MG / ergotamine tartrate 2 MG Rectal Suppository [Migergot]",
+              "synonym": "Migergot (caffeine 100 MG / ergotamine tartrate 2 MG) Rectal Suppository",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1293864",
+              "name": "ergotamine tartrate 2 MG Sublingual Tablet [Ergomar]",
+              "synonym": "Ergomar 2 MG Sublingual Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1293504",
+              "name": "caffeine 100 MG / ergotamine tartrate 1 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1293508",
+              "name": "caffeine 100 MG / ergotamine tartrate 2 MG Rectal Suppository",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1293862",
+              "name": "ergotamine tartrate 2 MG Sublingual Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1294394",
+              "name": "belladonna alkaloids 0.2 MG / ergotamine tartrate 0.6 MG / phenobarbital 40 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:29:15.211327",
+  "source": "RxNorm"
+}

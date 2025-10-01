@@ -1,0 +1,10 @@
+{
+  "query": "MK-1496",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:16:08.685328",
+  "source": "RxNorm"
+}

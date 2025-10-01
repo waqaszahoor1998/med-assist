@@ -1,0 +1,16 @@
+{
+  "rxcui": "312022",
+  "properties": {
+    "properties": {
+      "rxcui": "312022",
+      "name": "nitrous oxide 99 % Gas for Inhalation",
+      "synonym": "",
+      "tty": "SCD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T16:30:43.563305",
+  "source": "RxNorm"
+}

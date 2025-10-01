@@ -1,0 +1,64 @@
+{
+  "query": "Pimavanserin",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2049271",
+              "name": "pimavanserin 10 MG Oral Tablet [Nuplazid]",
+              "synonym": "Nuplazid 10 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2049278",
+              "name": "pimavanserin 34 MG Oral Capsule [Nuplazid]",
+              "synonym": "Nuplazid 34 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2049269",
+              "name": "pimavanserin 10 MG Oral Tablet",
+              "synonym": "pimavanserin 10 mg (as pimavanserin tartrate 11.8 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2049275",
+              "name": "pimavanserin 34 MG Oral Capsule",
+              "synonym": "pimavanserin 34 mg (as pimavanserin tartrate 40 MG) Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T15:56:27.662234",
+  "source": "RxNorm"
+}

@@ -1,0 +1,64 @@
+{
+  "query": "Cloprostenol",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1495271",
+              "name": "cloprostenol 0.25 MG/ML Injectable Solution [Estrumate]",
+              "synonym": "Estrumate 250 MCG per ML Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1803014",
+              "name": "cloprostenol 0.25 MG/ML Injectable Solution [Synchsure]",
+              "synonym": "Synchsure 0.25 MG/ML Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "631032",
+              "name": "cloprostenol 0.25 MG/ML Injectable Solution [Estroplan]",
+              "synonym": "Estroplan 0.25 MG/ML Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "406625",
+              "name": "cloprostenol 0.25 MG/ML Injectable Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:04:52.439157",
+  "source": "RxNorm"
+}

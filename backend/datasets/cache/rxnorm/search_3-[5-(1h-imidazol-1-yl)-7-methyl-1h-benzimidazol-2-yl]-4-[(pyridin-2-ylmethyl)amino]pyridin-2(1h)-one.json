@@ -1,0 +1,10 @@
+{
+  "query": "3-[5-(1H-IMIDAZOL-1-YL)-7-METHYL-1H-BENZIMIDAZOL-2-YL]-4-[(PYRIDIN-2-YLMETHYL)AMINO]PYRIDIN-2(1H)-ONE",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:45:50.297803",
+  "source": "RxNorm"
+}

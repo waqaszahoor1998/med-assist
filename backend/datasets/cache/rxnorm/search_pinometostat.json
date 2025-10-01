@@ -1,0 +1,10 @@
+{
+  "query": "Pinometostat",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:23:44.756496",
+  "source": "RxNorm"
+}

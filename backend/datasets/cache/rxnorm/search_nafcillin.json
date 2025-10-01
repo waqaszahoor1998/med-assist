@@ -1,0 +1,62 @@
+{
+  "query": "Nafcillin",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD"
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1721458",
+              "name": "nafcillin 1000 MG Injection",
+              "synonym": "nafcillin 1 GM Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1721460",
+              "name": "nafcillin 2000 MG Injection",
+              "synonym": "nafcillin 2 GM Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "239189",
+              "name": "nafcillin 100 MG/ML Injectable Solution",
+              "synonym": "nafcillin (as nafcillin sodium) 100 MG/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "311897",
+              "name": "nafcillin 250 MG Oral Capsule",
+              "synonym": "nafcillin (as nafcillin sodium) 250 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:24:20.491200",
+  "source": "RxNorm"
+}

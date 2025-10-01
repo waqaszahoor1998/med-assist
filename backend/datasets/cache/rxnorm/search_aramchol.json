@@ -1,0 +1,10 @@
+{
+  "query": "Aramchol",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:24:46.957527",
+  "source": "RxNorm"
+}

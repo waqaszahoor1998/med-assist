@@ -1,0 +1,10 @@
+{
+  "query": "Tesaglitazar",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:24:48.236825",
+  "source": "RxNorm"
+}

@@ -1,0 +1,64 @@
+{
+  "query": "Doravirine",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2055766",
+              "name": "doravirine 100 MG Oral Tablet [Pifeltro]",
+              "synonym": "Pifeltro 100 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2055815",
+              "name": "doravirine 100 MG / lamivudine 300 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet [Delstrigo]",
+              "synonym": "DORAVIRINE 100 MG / 3TC 300 MG / Tenofovir disoproxil fumarate 300 MG Oral Tablet [Delstrigo]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2055760",
+              "name": "doravirine 100 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2055813",
+              "name": "doravirine 100 MG / lamivudine 300 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet",
+              "synonym": "DORAVIRINE 100 MG / 3TC 300 MG / Tenofovir disoproxil fumarate 300 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:51:26.857694",
+  "source": "RxNorm"
+}

@@ -1,0 +1,82 @@
+{
+  "query": "Vadadustat",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2679307",
+              "name": "vadadustat 150 MG Oral Tablet [Vafseo]",
+              "synonym": "Vafseo 150 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2679311",
+              "name": "vadadustat 300 MG Oral Tablet [Vafseo]",
+              "synonym": "Vafseo 300 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2679315",
+              "name": "vadadustat 450 MG Oral Tablet [Vafseo]",
+              "synonym": "Vafseo 450 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2679301",
+              "name": "vadadustat 150 MG Oral Tablet",
+              "synonym": "vadadustat 150 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2679309",
+              "name": "vadadustat 300 MG Oral Tablet",
+              "synonym": "vadadustat 300 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2679313",
+              "name": "vadadustat 450 MG Oral Tablet",
+              "synonym": "vadadustat 450 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:48:17.505080",
+  "source": "RxNorm"
+}

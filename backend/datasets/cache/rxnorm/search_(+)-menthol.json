@@ -1,0 +1,10 @@
+{
+  "query": "(+)-menthol",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T17:54:39.369481",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Cyclohexyl-{4-[5-(3,4-Dichlorophenyl)-2-Piperidin-4-Yl-3-Propyl-3h-Imidazol-4-Yl]-Pyrimidin-2-Yl}Amine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:55:38.688348",
+  "source": "RxNorm"
+}

@@ -1,0 +1,136 @@
+{
+  "query": "Talazoparib",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2099952",
+              "name": "talazoparib 0.25 MG Oral Capsule [Talzenna]",
+              "synonym": "Talzenna 0.25 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2099956",
+              "name": "talazoparib 1 MG Oral Capsule [Talzenna]",
+              "synonym": "Talzenna 1 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2591512",
+              "name": "talazoparib 0.5 MG Oral Capsule [Talzenna]",
+              "synonym": "Talzenna 0.5 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2591521",
+              "name": "talazoparib 0.75 MG Oral Capsule [Talzenna]",
+              "synonym": "Talzenna 0.75 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2639962",
+              "name": "talazoparib 0.1 MG Oral Capsule [Talzenna]",
+              "synonym": "Talzenna 0.1 MG (as talazoparib tosylate 0.145 MG) Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2639966",
+              "name": "talazoparib 0.35 MG Oral Capsule [Talzenna]",
+              "synonym": "Talzenna 0.35 MG (as talazoparib tosylate 0.509 MG) Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2099946",
+              "name": "talazoparib 0.25 MG Oral Capsule",
+              "synonym": "talazoparib 0.25 MG (as talazoparib tosylate 0.363 MG) Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2099954",
+              "name": "talazoparib 1 MG Oral Capsule",
+              "synonym": "talazoparib 1 MG (as talazoparib tosylate 1.453 MG) Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2591510",
+              "name": "talazoparib 0.5 MG Oral Capsule",
+              "synonym": "talazoparib 0.5 MG (as talazoparib tosylate 0.727 MG) Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2591520",
+              "name": "talazoparib 0.75 MG Oral Capsule",
+              "synonym": "talazoparib 0.75 MG (as talazoparib tosylate 1.09 MG) Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2639960",
+              "name": "talazoparib 0.1 MG Oral Capsule",
+              "synonym": "talazoparib 0.1 MG (as talazoparib tosylate 0.145 MG) Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2639964",
+              "name": "talazoparib 0.35 MG Oral Capsule",
+              "synonym": "talazoparib 0.35 MG (as talazoparib tosylate 0.509 MG) Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:18:47.521574",
+  "source": "RxNorm"
+}

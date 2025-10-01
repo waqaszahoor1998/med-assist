@@ -1,0 +1,10 @@
+{
+  "query": "2'-(4-Dimethylaminophenyl)-5-(4-Methyl-1-Piperazinyl)-2,5'-Bi-Benzimidazole",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T04:36:46.229069",
+  "source": "RxNorm"
+}

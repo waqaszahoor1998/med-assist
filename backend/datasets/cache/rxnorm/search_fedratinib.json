@@ -1,0 +1,46 @@
+{
+  "query": "Fedratinib",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2197501",
+              "name": "fedratinib 100 MG Oral Capsule [Inrebic]",
+              "synonym": "Inrebic 100 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2197495",
+              "name": "fedratinib 100 MG Oral Capsule",
+              "synonym": "fedratinib (as fedratinib dihydrochloride 117.3 MG) 100 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T19:02:47.594833",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Xenon Xe-127",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T17:39:02.991809",
+  "source": "RxNorm"
+}

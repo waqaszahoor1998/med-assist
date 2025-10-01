@@ -1,0 +1,10 @@
+{
+  "query": "4-(dimethylamino)-N-[7-(hydroxyamino)-7-oxoheptyl]benzamide",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:02:52.453381",
+  "source": "RxNorm"
+}

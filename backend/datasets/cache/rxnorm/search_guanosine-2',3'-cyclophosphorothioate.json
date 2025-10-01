@@ -1,0 +1,10 @@
+{
+  "query": "Guanosine-2',3'-cyclophosphorothioate",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:29:49.792152",
+  "source": "RxNorm"
+}

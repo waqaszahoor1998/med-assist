@@ -1,0 +1,16 @@
+{
+  "rxcui": "2677578",
+  "properties": {
+    "properties": {
+      "rxcui": "2677578",
+      "name": "flumethasone 0.5 MG/ML Injectable Solution [Bimasone]",
+      "synonym": "Bimasone 0.5 MG/ML Injectable Solution",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T21:27:27.312595",
+  "source": "RxNorm"
+}

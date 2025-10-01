@@ -1,0 +1,46 @@
+{
+  "query": "Artemether",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "847734",
+              "name": "artemether 20 MG / lumefantrine 120 MG Oral Tablet [Coartem]",
+              "synonym": "Coartem (artemether 20 MG / lumefantrine 120 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "847731",
+              "name": "artemether 20 MG / lumefantrine 120 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:31:18.727126",
+  "source": "RxNorm"
+}

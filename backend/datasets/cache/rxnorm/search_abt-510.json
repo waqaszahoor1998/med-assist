@@ -1,0 +1,10 @@
+{
+  "query": "ABT-510",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:58:35.585737",
+  "source": "RxNorm"
+}

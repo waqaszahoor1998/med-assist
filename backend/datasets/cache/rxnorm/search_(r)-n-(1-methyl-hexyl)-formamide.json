@@ -1,0 +1,10 @@
+{
+  "query": "(R)-N-(1-Methyl-Hexyl)-Formamide",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:24:46.879708",
+  "source": "RxNorm"
+}

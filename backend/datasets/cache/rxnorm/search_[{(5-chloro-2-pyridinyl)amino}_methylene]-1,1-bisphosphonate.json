@@ -1,0 +1,10 @@
+{
+  "query": "[{(5-Chloro-2-Pyridinyl)Amino} Methylene]-1,1-Bisphosphonate",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:51:28.076599",
+  "source": "RxNorm"
+}

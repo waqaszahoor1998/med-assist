@@ -1,0 +1,10 @@
+{
+  "query": "MK-0873",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:29:26.383129",
+  "source": "RxNorm"
+}

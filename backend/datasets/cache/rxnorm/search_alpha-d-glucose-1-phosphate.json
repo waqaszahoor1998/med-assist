@@ -1,0 +1,10 @@
+{
+  "query": "alpha-D-glucose-1-phosphate",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:14:34.942483",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "ABT-751",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:48:12.464807",
+  "source": "RxNorm"
+}

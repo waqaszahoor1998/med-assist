@@ -1,0 +1,23 @@
+{
+  "drug_name": "Fructose",
+  "generic_name": [
+    "DEXTROSE(GLUCOSE),LEVULOSE(FRUCTOSE),PHOSPHORIC ACID"
+  ],
+  "brand_names": [
+    "Discount Drug Mart nausea control Cherry Flavor"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    "Warnings this product contains fructose and should not be taken by persons with hereditary fructose intolerance (HFI). Do not use if you have allergic reactions to any of the ingredients in this product Ask a doctor before use if you have diabetes Stop use and ask a doctor if symptoms persist, return or get worse If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)"
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    "Directions for maximum effectiveness never dilute or drink fluids of any kind immediately before or after taking this product repeat dose every 15 minutes or until distress subsides do not take more than 5 doses in 1 hour without consulting a doctor measure only with dosing cup provided. Dosing cup to be used with this product only. Do not use with other products. mL= milliliter age dose adults and children 12 years of age and over 15 mL or 30 mL children 2 to under 12 years of age 5 ml or 10 mL"
+  ],
+  "indications": [
+    "Uses for relief of upset stomach associated with nausea"
+  ],
+  "fetched_at": "2025-10-01T06:52:23.945126",
+  "source": "OpenFDA"
+}

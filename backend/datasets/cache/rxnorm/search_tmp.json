@@ -1,0 +1,10 @@
+{
+  "query": "TMP",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T11:36:01.595839",
+  "source": "RxNorm"
+}

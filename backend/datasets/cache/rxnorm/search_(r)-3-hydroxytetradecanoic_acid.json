@@ -1,0 +1,10 @@
+{
+  "query": "(R)-3-hydroxytetradecanoic acid",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:10:58.942974",
+  "source": "RxNorm"
+}

@@ -1,0 +1,46 @@
+{
+  "query": "Cobimetinib",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1722376",
+              "name": "cobimetinib 20 MG Oral Tablet [Cotellic]",
+              "synonym": "Cotellic 20 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1722370",
+              "name": "cobimetinib 20 MG Oral Tablet",
+              "synonym": "cobimetinib 20 MG (as cobimetinib fumarate 22 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T15:54:49.187136",
+  "source": "RxNorm"
+}

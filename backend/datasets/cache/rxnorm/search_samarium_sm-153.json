@@ -1,0 +1,46 @@
+{
+  "query": "Samarium Sm-153",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "797659",
+              "name": "3 ML samarium Sm153 50 MCI/ML Injection [Quadramet]",
+              "synonym": "Quadramet 50 MCI/ML per 3 ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "797657",
+              "name": "3 ML samarium Sm153 50 MCI/ML Injection",
+              "synonym": "samarium Sm 153 50 MCI/ML per 3 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T19:23:03.608469",
+  "source": "RxNorm"
+}

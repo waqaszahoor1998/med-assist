@@ -1,0 +1,10 @@
+{
+  "query": "SRT-2104",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:43:46.100012",
+  "source": "RxNorm"
+}

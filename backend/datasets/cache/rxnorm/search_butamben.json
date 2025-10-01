@@ -1,0 +1,100 @@
+{
+  "query": "Butamben",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1722107",
+              "name": "benzocaine 140 MG/ML / butamben 20 MG/ML / tetracaine 20 MG/ML Mucosal Spray [Cetacaine]",
+              "synonym": "Cetacaine 14 % / 2 % / 2 % Mucosal Spray",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "209970",
+              "name": "benzocaine 0.14 MG/MG / butamben 0.02 MG/MG / tetracaine 0.02 MG/MG Topical Gel [Cetacaine]",
+              "synonym": "Cetacaine (benzocaine 14 % / butamben 2 % / tetracaine 2 % ) Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "209971",
+              "name": "benzocaine 0.14 MG/MG / butamben 0.02 MG/MG / tetracaine 0.02 MG/MG Topical Ointment [Cetacaine]",
+              "synonym": "Cetacaine (benzocaine 14 % / butamben 2 % / tetracaine 2 % ) Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "543789",
+              "name": "benzocaine 140 MG/ML / butamben 20 MG/ML / tetracaine 20 MG/ML Mucous Membrane Topical Solution [Cetacaine]",
+              "synonym": "Cetacaine (benzocaine 14 % / butamben 2 % / tetracaine 2 % ) Mucous Membrane Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "308645",
+              "name": "benzocaine 0.14 MG/MG / butamben 0.02 MG/MG / tetracaine 0.02 MG/MG Topical Gel",
+              "synonym": "benzocaine 14 % / butamben 2 % / tetracaine 2 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308647",
+              "name": "benzocaine 0.14 MG/MG / butamben 0.02 MG/MG / tetracaine 0.02 MG/MG Topical Ointment",
+              "synonym": "benzocaine 14 % / butamben 2 % / tetracaine 2 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "543786",
+              "name": "benzocaine 140 MG/ML / butamben 20 MG/ML / tetracaine 20 MG/ML Mucous Membrane Topical Solution",
+              "synonym": "benzocaine 14 % / butamben 2 % / tetracaine HCl 2 % Mucous Membrane Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "999683",
+              "name": "benzocaine 140 MG/ML / butamben 20 MG/ML / tetracaine 20 MG/ML Mucosal Spray",
+              "synonym": "benzocaine 14 % / butamben 2 % / tetracaine 2 % Mucosal Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:46:55.716335",
+  "source": "RxNorm"
+}

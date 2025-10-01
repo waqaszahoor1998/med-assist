@@ -1,0 +1,82 @@
+{
+  "query": "Afatinib",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1430449",
+              "name": "afatinib 20 MG Oral Tablet [Gilotrif]",
+              "synonym": "Gilotrif 20 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1430453",
+              "name": "afatinib 30 MG Oral Tablet [Gilotrif]",
+              "synonym": "Gilotrif 30 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1430457",
+              "name": "afatinib 40 MG Oral Tablet [Gilotrif]",
+              "synonym": "Gilotrif 40 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1430446",
+              "name": "afatinib 20 MG Oral Tablet",
+              "synonym": "afatinib 20 MG (as afatinib dimaleate 29.56 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1430451",
+              "name": "afatinib 30 MG Oral Tablet",
+              "synonym": "afatinib 30 MG (as afatinib dimaleate 44.34 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1430455",
+              "name": "afatinib 40 MG Oral Tablet",
+              "synonym": "afatinib 40 MG (as afatinib dimaleate 59.12 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:07:28.965198",
+  "source": "RxNorm"
+}

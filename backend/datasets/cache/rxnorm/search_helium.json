@@ -1,0 +1,152 @@
+{
+  "query": "Helium",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD"
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1373011",
+              "name": "helium 79.6 % / oxygen 20.4 % Gas for Inhalation",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1432283",
+              "name": "helium 20 % / nitrogen 30 % / oxygen 50 % Gas for Inhalation",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "310693",
+              "name": "helium 99 % Gas for Inhalation",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "347048",
+              "name": "helium 70 % / oxygen 30 % Gas for Inhalation",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "347675",
+              "name": "helium 99.9 % Gas for Inhalation",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "347697",
+              "name": "helium 60 % / oxygen 40 % Gas for Inhalation",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "348600",
+              "name": "helium 75 % / oxygen 25 % Gas for Inhalation",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "413100",
+              "name": "helium 100 % Gas for Inhalation",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "413105",
+              "name": "helium 50 % / oxygen 50 % Gas for Inhalation",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "542167",
+              "name": "helium 79 % / oxygen 21 % Gas for Inhalation",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "542169",
+              "name": "helium 80 % / oxygen 20 % Gas for Inhalation",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "899374",
+              "name": "helium 9 % / nitrogen 56 % / oxygen 35 % Gas for Inhalation",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "995446",
+              "name": "helium 67 % / oxygen 33 % Gas for Inhalation",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "997972",
+              "name": "helium 99.2 % Gas for Inhalation",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:24:02.767368",
+  "source": "RxNorm"
+}

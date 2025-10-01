@@ -1,0 +1,10 @@
+{
+  "query": "[(4S)-2,2-dimethyl-1,3-dioxolan-4-yl]methyl hydrogen hex-5-enylphosphonate",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:56:30.476364",
+  "source": "RxNorm"
+}

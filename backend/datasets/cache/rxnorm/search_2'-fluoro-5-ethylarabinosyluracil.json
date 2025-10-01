@@ -1,0 +1,10 @@
+{
+  "query": "2'-fluoro-5-ethylarabinosyluracil",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:29:29.657604",
+  "source": "RxNorm"
+}

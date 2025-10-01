@@ -1,0 +1,10 @@
+{
+  "query": "A-98881",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:12:50.286730",
+  "source": "RxNorm"
+}

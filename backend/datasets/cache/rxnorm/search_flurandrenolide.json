@@ -1,0 +1,163 @@
+{
+  "query": "Flurandrenolide",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1923326",
+              "name": "flurandrenolide 0.5 MG/ML Topical Lotion [Nolix]",
+              "synonym": "Nolix 0.05 % Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1998475",
+              "name": "flurandrenolide 0.5 MG/ML Topical Cream [Nolix]",
+              "synonym": "Nolix 0.05 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "205610",
+              "name": "flurandrenolide 0.5 MG/ML Topical Lotion [Cordran]",
+              "synonym": "Cordran 0.05 % Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "205612",
+              "name": "flurandrenolide 0.0005 MG/MG Topical Ointment [Cordran]",
+              "synonym": "Cordran 0.05 % Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "797697",
+              "name": "flurandrenolide 0.004 MG/SQCM Medicated Tape [Cordran]",
+              "synonym": "Cordran 4 MCG/SQCM Medicated Tape",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "898418",
+              "name": "flurandrenolide 0.25 MG/ML Topical Cream [Cordran]",
+              "synonym": "Cordran 0.025 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "898420",
+              "name": "flurandrenolide 0.5 MG/ML Topical Cream [Cordran]",
+              "synonym": "Cordran 0.5 MG/ML Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "197716",
+              "name": "flurandrenolide 0.25 MG/ML Topical Cream",
+              "synonym": "flurandrenolide 0.025 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "197717",
+              "name": "flurandrenolide 0.00025 MG/MG Topical Ointment",
+              "synonym": "flurandrenolide 0.025 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "197718",
+              "name": "flurandrenolide 0.5 MG/ML Topical Cream",
+              "synonym": "flurandrenolide 0.05 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "197719",
+              "name": "flurandrenolide 0.5 MG/ML Topical Lotion",
+              "synonym": "flurandrenolide 0.05 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "197720",
+              "name": "flurandrenolide 0.0005 MG/MG Topical Ointment",
+              "synonym": "flurandrenolide 0.05 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "245636",
+              "name": "flurandrenolide 0.125 MG/ML Topical Cream",
+              "synonym": "flurandrenolide 0.0125 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "245637",
+              "name": "flurandrenolide 0.000125 MG/MG Topical Ointment",
+              "synonym": "flurandrenolide 0.0125 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "797694",
+              "name": "flurandrenolide 0.004 MG/SQCM Medicated Tape",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T22:10:14.001519",
+  "source": "RxNorm"
+}

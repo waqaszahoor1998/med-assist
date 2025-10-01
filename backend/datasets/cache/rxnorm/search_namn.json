@@ -1,0 +1,10 @@
+{
+  "query": "Namn",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:55:25.781194",
+  "source": "RxNorm"
+}

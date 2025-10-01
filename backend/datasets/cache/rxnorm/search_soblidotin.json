@@ -1,0 +1,10 @@
+{
+  "query": "Soblidotin",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:12:00.578412",
+  "source": "RxNorm"
+}

@@ -1,0 +1,21 @@
+{
+  "drug_name": "CHROMOPHORE (ASP-TYR-GLY)",
+  "generic_name": [
+    "CHROMOPHORE (ASP-TYR-GLY)"
+  ],
+  "brand_names": [],
+  "drug_interactions": [],
+  "warnings": [
+    "Warnings For external use only. Do not use on broken skin Ask a doctor before use if you have kidney disease Stop use if rash or irritation occurs Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    "Directions apply to underarms only"
+  ],
+  "indications": [
+    "Use reduces underarm wetness"
+  ],
+  "fetched_at": "2025-10-01T15:36:27.928232",
+  "source": "OpenFDA"
+}

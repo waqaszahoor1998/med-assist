@@ -1,0 +1,10 @@
+{
+  "query": "Norcamphor",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:46:51.193966",
+  "source": "RxNorm"
+}

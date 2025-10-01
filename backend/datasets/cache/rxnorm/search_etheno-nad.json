@@ -1,0 +1,10 @@
+{
+  "query": "Etheno-NAD",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:59:24.915705",
+  "source": "RxNorm"
+}

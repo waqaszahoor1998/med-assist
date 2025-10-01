@@ -1,0 +1,10 @@
+{
+  "query": "(2R)-2-Acetamido-3-(octadecyloxy)propyl 2-(methylsulfanyl)ethyl hydrogen phosphate",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T06:29:29.154086",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "lambda-bis(2,2'-bipyridine)imidazole osmium (II)",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:44:52.457774",
+  "source": "RxNorm"
+}

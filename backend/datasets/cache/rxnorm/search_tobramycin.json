@@ -1,0 +1,293 @@
+{
+  "query": "Tobramycin",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1374574",
+              "name": "{224 (tobramycin 28 MG Inhalation Powder [Tobi]) } Pack [TOBI Podhaler Kit]",
+              "synonym": "TOBI Podhaler Kit, 224",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1661560",
+              "name": "{56 (tobramycin 28 MG Inhalation Powder [Tobi]) } Pack [TOBI Podhaler Weekly Kit]",
+              "synonym": "TOBI Podhaler Weekly Kit, 56",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1661567",
+              "name": "{8 (tobramycin 28 MG Inhalation Powder [Tobi]) } Pack [TOBI Podhaler Daily Kit]",
+              "synonym": "TOBI Podhaler Daily Kit, 8",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1374570",
+              "name": "{224 (tobramycin 28 MG Inhalation Powder) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1661466",
+              "name": "{8 (tobramycin 28 MG Inhalation Powder) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1661559",
+              "name": "{56 (tobramycin 28 MG Inhalation Powder) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1011080",
+              "name": "dexamethasone 0.5 MG/ML / tobramycin 3 MG/ML Ophthalmic Suspension [Tobradex]",
+              "synonym": "Tobradex (dexamethasone 0.05 % / tobramycin 0.3 % ) Ophthalmic Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1314768",
+              "name": "tobramycin 75 MG/ML Inhalation Solution [Bethkis]",
+              "synonym": "Bethkis 75 MG/ML Inhalation Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1374573",
+              "name": "tobramycin 28 MG Inhalation Powder [Tobi]",
+              "synonym": "Tobi 28 MG Inhalation Powder",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1596030",
+              "name": "tobramycin 60 MG/ML Inhalation Solution [Kitabis]",
+              "synonym": "Kitabis 60 MG/ML Inhalation Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "207846",
+              "name": "tobramycin 3 MG/ML Ophthalmic Solution [Tobrex]",
+              "synonym": "Tobrex 0.3 % Ophthalmic Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "207850",
+              "name": "tobramycin 0.003 MG/MG Ophthalmic Ointment [Tobrex]",
+              "synonym": "Tobrex 0.3 % Ophthalmic Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "208813",
+              "name": "dexamethasone 1 MG/ML / tobramycin 3 MG/ML Ophthalmic Suspension [Tobradex]",
+              "synonym": "TobraDex (dexamethasone 0.1 % / tobramycin 0.3 % ) Ophthalmic Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "208821",
+              "name": "dexamethasone 0.001 MG/MG / tobramycin 0.003 MG/MG Ophthalmic Ointment [Tobradex]",
+              "synonym": "Tobradex (tobramycin 0.3 % / dexamethasone 0.1 % ) Ophthalmic Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "213194",
+              "name": "tobramycin 60 MG/ML Inhalation Solution [Tobi]",
+              "synonym": "Tobi 60 MG/ML Inhalation Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "545259",
+              "name": "loteprednol etabonate 5 MG/ML / tobramycin 3 MG/ML Ophthalmic Suspension [Zylet]",
+              "synonym": "Zylet (loteprednol etabonate 0.5 % / tobramycin 0.3 % ) Ophthalmic Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1249626",
+              "name": "fluorometholone acetate 1 MG/ML / tobramycin 3 MG/ML Ophthalmic Suspension",
+              "synonym": "fluorometholone acetate 0.1 % / tobramycin 0.3 % Ophthalmic Drops",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1314763",
+              "name": "tobramycin 75 MG/ML Inhalation Solution",
+              "synonym": "tobramycin 300 MG per 4 ML Inhalation Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1374569",
+              "name": "tobramycin 28 MG Inhalation Powder",
+              "synonym": "tobramcyin 28 MG Inhalation Powder",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "242825",
+              "name": "50 ML tobramycin 1.2 MG/ML Injection",
+              "synonym": "tobramycin (as tobramycin sulfate) 60 MG per 50 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "309682",
+              "name": "dexamethasone 0.001 MG/MG / tobramycin 0.003 MG/MG Ophthalmic Ointment",
+              "synonym": "dexamethasone 0.1 % / tobramycin 0.3 % Ophthalmic Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "309683",
+              "name": "dexamethasone 1 MG/ML / tobramycin 3 MG/ML Ophthalmic Suspension",
+              "synonym": "dexamethasone 0.1 % / tobramycin 0.3 % Ophthalmic Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "313414",
+              "name": "tobramycin 0.003 MG/MG Ophthalmic Ointment",
+              "synonym": "tobramycin 0.3 % Ophthalmic Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "313415",
+              "name": "tobramycin 3 MG/ML Ophthalmic Solution",
+              "synonym": "tobramycin 0.3 % Ophthalmic Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "313416",
+              "name": "tobramycin 10 MG/ML Injectable Solution",
+              "synonym": "tobramycin (as tobramycin sulfate) 10 MG/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "348719",
+              "name": "tobramycin 60 MG/ML Inhalation Solution",
+              "synonym": "tobramycin 300 MG per 5 ML Inhalation Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "545255",
+              "name": "loteprednol etabonate 5 MG/ML / tobramycin 3 MG/ML Ophthalmic Suspension",
+              "synonym": "loteprednol etabonate 0.5 % / tobramycin 0.3 % Ophthalmic Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "597823",
+              "name": "tobramycin 40 MG/ML Injectable Solution",
+              "synonym": "tobramycin (as tobramycin sulfate) 40 MG/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "849115",
+              "name": "dexamethasone 0.5 MG/ML / tobramycin 3 MG/ML Ophthalmic Suspension",
+              "synonym": "dexamethasone 0.05 % / tobramycin 0.3 % Ophthalmic Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:28:38.945830",
+  "source": "RxNorm"
+}

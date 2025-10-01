@@ -1,0 +1,10 @@
+{
+  "query": "2-[1-METHYLHEXYL]-4,6-DINITROPHENOL",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:48:15.795016",
+  "source": "RxNorm"
+}

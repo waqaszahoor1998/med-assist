@@ -1,0 +1,24 @@
+{
+  "query": "2,2-bis(4-hydroxy-3-tert-butylphenyl)propane",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD"
+        },
+        {
+          "tty": "SCD"
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T19:28:14.815331",
+  "source": "RxNorm"
+}

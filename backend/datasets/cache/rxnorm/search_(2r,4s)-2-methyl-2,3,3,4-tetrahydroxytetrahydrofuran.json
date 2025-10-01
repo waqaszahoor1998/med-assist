@@ -1,0 +1,10 @@
+{
+  "query": "(2r,4s)-2-Methyl-2,3,3,4-Tetrahydroxytetrahydrofuran",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:20:10.164337",
+  "source": "RxNorm"
+}

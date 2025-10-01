@@ -1,0 +1,10 @@
+{
+  "query": "1,3-DI(N-Propyloxy-A-mannopyranosyl)-carbomyl 5-methyazido-benzene",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:50:46.724661",
+  "source": "RxNorm"
+}

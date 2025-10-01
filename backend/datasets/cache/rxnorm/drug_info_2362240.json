@@ -1,0 +1,16 @@
+{
+  "rxcui": "2362240",
+  "properties": {
+    "properties": {
+      "rxcui": "2362240",
+      "name": "capmatinib 150 MG Oral Tablet [Tabrecta]",
+      "synonym": "Tabrecta 150 MG Oral Tablet",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T18:20:30.005930",
+  "source": "RxNorm"
+}

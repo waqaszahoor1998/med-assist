@@ -1,0 +1,10 @@
+{
+  "query": "2'-O-butyl-5-methyluridine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:32:55.318816",
+  "source": "RxNorm"
+}

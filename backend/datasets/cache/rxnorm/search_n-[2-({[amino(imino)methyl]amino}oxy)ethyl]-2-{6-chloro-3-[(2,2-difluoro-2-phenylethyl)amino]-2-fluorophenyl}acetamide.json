@@ -1,0 +1,10 @@
+{
+  "query": "N-[2-({[amino(imino)methyl]amino}oxy)ethyl]-2-{6-chloro-3-[(2,2-difluoro-2-phenylethyl)amino]-2-fluorophenyl}acetamide",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:51:33.592110",
+  "source": "RxNorm"
+}

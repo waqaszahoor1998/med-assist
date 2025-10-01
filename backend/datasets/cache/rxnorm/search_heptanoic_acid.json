@@ -1,0 +1,91 @@
+{
+  "query": "Heptanoic acid",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1251893",
+              "name": "heptanoic acid 15 MG/ML Topical Solution [Chem-Star Recover]",
+              "synonym": "Chem-Star Recover 1.5 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1423479",
+              "name": "heptanoic acid 3 MG/ML / lactic acid 14 MG/ML Topical Solution [Valiant Shield]",
+              "synonym": "Valiant Shield (heptanoic acid 0.3 % / lactic acid 1.4 % ) Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "991273",
+              "name": "heptanoic acid 15 MG/ML Topical Solution [Artec]",
+              "synonym": "Artec 15 MG/ML Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1252027",
+              "name": "heptanoic acid 4 MG/ML / iodine 10 MG/ML Topical Solution",
+              "synonym": "heptanoic acid 0.4 % / iodine 1 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1423474",
+              "name": "heptanoic acid 3 MG/ML / lactic acid 14 MG/ML Topical Solution",
+              "synonym": "heptanoic acid 0.3 % / lactic acid 1.4 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "991263",
+              "name": "heptanoic acid 7 MG/ML Topical Solution",
+              "synonym": "heptanoic acid 0.7 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "991269",
+              "name": "heptanoic acid 15 MG/ML Topical Solution",
+              "synonym": "heptanoic acid 1.5 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T03:18:52.452799",
+  "source": "RxNorm"
+}

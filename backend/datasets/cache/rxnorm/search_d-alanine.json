@@ -1,0 +1,10 @@
+{
+  "query": "D-Alanine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:29:55.246144",
+  "source": "RxNorm"
+}

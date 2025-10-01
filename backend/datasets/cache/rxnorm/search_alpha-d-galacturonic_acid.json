@@ -1,0 +1,10 @@
+{
+  "query": "alpha-D-galacturonic acid",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:45:45.655414",
+  "source": "RxNorm"
+}

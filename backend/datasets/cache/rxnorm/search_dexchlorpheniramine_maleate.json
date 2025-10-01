@@ -1,0 +1,172 @@
+{
+  "query": "Dexchlorpheniramine maleate",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2183912",
+              "name": "dexchlorpheniramine maleate 0.4 MG/ML Oral Solution [Ryclora]",
+              "synonym": "Ryclora 0.4 MG/ML Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1293239",
+              "name": "dexchlorpheniramine maleate 2 MG / pseudoephedrine hydrochloride 60 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1298226",
+              "name": "dexchlorpheniramine maleate 0.2 MG/ML / pseudoephedrine hydrochloride 6 MG/ML Oral Solution",
+              "synonym": "dexchlorpheniramine maleate 1 MG / pseudoephedrine HCl 30 MG per 5 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1298433",
+              "name": "dexchlorpheniramine maleate 0.2 MG/ML / dextromethorphan hydrobromide 3 MG/ML / pseudoephedrine hydrochloride 6 MG/ML Oral Solution",
+              "synonym": "dexchlorpheniramine maleate 1 MG / dextromethorphan HBr 15 MG / pseudoephedrine HCl 30 MG per 5 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1369424",
+              "name": "chlophedianol hydrochloride 2.5 MG/ML / dexchlorpheniramine maleate 0.2 MG/ML / pseudoephedrine hydrochloride 6 MG/ML Oral Solution",
+              "synonym": "chlophedianol hydrochloride 12.5 MG / dexchlorpheniramine maleate 1 MG / pseudoephedrine hydrochloride 30 MG per 5 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1369971",
+              "name": "chlophedianol hydrochloride 6.25 MG/ML / dexchlorpheniramine maleate 0.5 MG/ML / pseudoephedrine hydrochloride 15 MG/ML Oral Solution",
+              "synonym": "chlophedianol HCl 6.25 MG/ML / dexchlorpheniramine maleate 0.5 MG/ML / pseudoephedrine HCl 15 MG/ML Oral Drops",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1369972",
+              "name": "chlophedianol hydrochloride 5 MG/ML / dexchlorpheniramine maleate 0.4 MG/ML / pseudoephedrine hydrochloride 12 MG/ML Oral Solution",
+              "synonym": "chlophedianol HCl 25 MG / dexchlorpheniramine maleate 2 MG / pseudoephedrine HCl 60 MG per 5 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1370680",
+              "name": "dexchlorpheniramine maleate 2 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1440003",
+              "name": "codeine phosphate 1.8 MG/ML / dexchlorpheniramine maleate 0.2 MG/ML / phenylephrine hydrochloride 1 MG/ML Oral Solution",
+              "synonym": "codeine phosphate 9 MG / dexchlorpheniramine maleate 1 MG / phenylephrine hydrochloride 5 MG per 5 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1990881",
+              "name": "dexchlorpheniramine maleate 0.2 MG/ML / dextromethorphan hydrobromide 2 MG/ML / phenylephrine hydrochloride 1 MG/ML Oral Solution",
+              "synonym": "dexchlorpheniramine maleate 1 MG / dextromethorphan HBr 10 MG / phenylephrine HCl 5 MG per 5 mL Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2181304",
+              "name": "12 HR dexchlorpheniramine maleate 6 MG / phenylephrine hydrochloride 40 MG Extended Release Oral Tablet",
+              "synonym": "dexchlorpheniramine 6 MG / phenylephrine 40 MG 12 HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2183907",
+              "name": "dexchlorpheniramine maleate 0.4 MG/ML Oral Solution",
+              "synonym": "dexchlorpheniramine 2 MG per 5 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2184108",
+              "name": "dexchlorpheniramine maleate 2 MG / phenylephrine hydrochloride 10 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2184127",
+              "name": "dexchlorpheniramine maleate 6 MG Extended Release Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2184130",
+              "name": "dexchlorpheniramine maleate 6 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2671454",
+              "name": "chlophedianol hydrochloride 2.5 MG/ML / dexchlorpheniramine maleate 0.2 MG/ML Oral Solution",
+              "synonym": "chlophedianol hydrochloride 12.5 MG / dexchlorpheniramine maleate 1 MG per 5 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:42:03.095418",
+  "source": "RxNorm"
+}

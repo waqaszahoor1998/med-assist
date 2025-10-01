@@ -1,0 +1,10 @@
+{
+  "query": "KW-7158",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:00:12.099059",
+  "source": "RxNorm"
+}

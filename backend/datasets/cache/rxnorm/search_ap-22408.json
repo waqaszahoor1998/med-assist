@@ -1,0 +1,10 @@
+{
+  "query": "AP-22408",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:31:58.911411",
+  "source": "RxNorm"
+}

@@ -1,0 +1,44 @@
+{
+  "query": "Atracurium besylate",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD"
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1718913",
+              "name": "5 ML atracurium besylate 10 MG/ML Injection",
+              "synonym": "atracurium besylate 50 MG per 5 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "966768",
+              "name": "atracurium besylate 10 MG/ML Injectable Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:31:09.879256",
+  "source": "RxNorm"
+}

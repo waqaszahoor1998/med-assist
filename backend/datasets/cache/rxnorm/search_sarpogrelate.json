@@ -1,0 +1,10 @@
+{
+  "query": "Sarpogrelate",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:42:33.796612",
+  "source": "RxNorm"
+}

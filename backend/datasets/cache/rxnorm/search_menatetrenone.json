@@ -1,0 +1,89 @@
+{
+  "query": "Menatetrenone",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD"
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1741417",
+              "name": "cholecalciferol 10000 UNT / menatetrenone 0.1 MG Oral Capsule",
+              "synonym": "cholecalciferol 10,000 UNT / menatetrenone 100 MCG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2563600",
+              "name": "cholecalciferol 0.025 MG / menatetrenone 0.1 MG Oral Tablet",
+              "synonym": "vitamin D3 1000 UNT / vitamin K2 0.1 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2572284",
+              "name": "cholecalciferol 1.25 MG / menatetrenone 0.2 MG Oral Capsule",
+              "synonym": "vitamin D3 50,000 UNT / vitamin K2 200 MCG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2598689",
+              "name": "cholecalciferol 0.125 MG / menatetrenone 0.09 MG Oral Capsule",
+              "synonym": "cholecalciferol 125 MCG / menatetrenone 90 MCG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2684625",
+              "name": "cholecalciferol 0.1 MG / menatetrenone 0.1 MG Oral Capsule",
+              "synonym": "vitamin D3 0.1 MG / vitamin K2 0.1 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "831107",
+              "name": "menatetrenone 5 MG Oral Capsule",
+              "synonym": "vitamin K2 5 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "846931",
+              "name": "menatetrenone 0.15 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:41:32.701472",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "TU-514",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:38:39.885100",
+  "source": "RxNorm"
+}

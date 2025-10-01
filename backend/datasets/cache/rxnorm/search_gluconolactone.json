@@ -1,0 +1,46 @@
+{
+  "query": "Gluconolactone",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1792398",
+              "name": "citric acid 66 MG/ML / gluconolactone 1.98 MG/ML / magnesium carbonate 32.7 MG/ML Irrigation Solution [Renacidin]",
+              "synonym": "Renacidin (citric acid 1980.6 MG / gluconolactone 59.4 MG / magnesium carbonate 980.4 MG) per 30 ML Irrigation Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1792396",
+              "name": "citric acid 66 MG/ML / gluconolactone 1.98 MG/ML / magnesium carbonate 32.7 MG/ML Irrigation Solution",
+              "synonym": "citric acid 1980.6 MG / gluconolactone 59.4 MG / magnesium carbonate 980.4 MG per 30 ML Irrigation Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T15:31:33.276727",
+  "source": "RxNorm"
+}

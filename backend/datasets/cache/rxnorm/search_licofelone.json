@@ -1,0 +1,10 @@
+{
+  "query": "Licofelone",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:38:30.452610",
+  "source": "RxNorm"
+}

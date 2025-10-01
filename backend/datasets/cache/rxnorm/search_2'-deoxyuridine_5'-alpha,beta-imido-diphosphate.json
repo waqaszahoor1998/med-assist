@@ -1,0 +1,10 @@
+{
+  "query": "2'-deoxyuridine 5'-alpha,beta-imido-diphosphate",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:51:07.803328",
+  "source": "RxNorm"
+}

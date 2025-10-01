@@ -1,0 +1,10 @@
+{
+  "query": "CHROMOPHORE (GLU-TYR-GLY)",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:35:49.188487",
+  "source": "RxNorm"
+}

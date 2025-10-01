@@ -1,0 +1,109 @@
+{
+  "query": "Oxitriptan",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1293420",
+              "name": "5-hydroxytryptophan 50 MG / magnesium oxide 50 MG / melatonin 2 MG / tryptophan 100 MG / vitamin B6 10 MG Oral Capsule [Somnicin]",
+              "synonym": "Somnicin (5-Hydroxytryptophan 50 MG / Magnesium Oxide 50 MG / Melatonin 2 MG / Tryptophan 100 MG / Vitamin B6 10 MG) Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1293413",
+              "name": "5-hydroxytryptophan 50 MG / magnesium oxide 50 MG / melatonin 2 MG / tryptophan 100 MG / vitamin B6 10 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1424836",
+              "name": "5-hydroxytryptophan 200 MG Oral Capsule",
+              "synonym": "5-HTP 200 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1945212",
+              "name": "5-hydroxytryptophan 50 MG / melatonin 6 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2605720",
+              "name": "5-hydroxytryptophan 100 MG Extended Release Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2609006",
+              "name": "5-hydroxytryptophan 100 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "410503",
+              "name": "5-hydroxytryptophan 100 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "485514",
+              "name": "5-hydroxytryptophan 50 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "664855",
+              "name": "5-hydroxytryptophan 50 MG / vitamin B6 1 MG Disintegrating Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T03:20:03.932654",
+  "source": "RxNorm"
+}

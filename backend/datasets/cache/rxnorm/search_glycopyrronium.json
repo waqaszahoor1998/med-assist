@@ -1,0 +1,352 @@
+{
+  "query": "Glycopyrronium",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "102166",
+              "name": "glycopyrrolate 2 MG Oral Tablet [Robinul]",
+              "synonym": "Robinul 2 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1437975",
+              "name": "glycopyrrolate 1.5 MG Oral Tablet [Glycate]",
+              "synonym": "Glycate 1.5 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1790644",
+              "name": "120 ACTUAT formoterol fumarate 0.0048 MG/ACTUAT / glycopyrrolate 0.009 MG/ACTUAT Metered Dose Inhaler [Bevespi]",
+              "synonym": "Bevespi 4.8/9 Metered Dose Inhaler, 120 ACTUAT",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1992571",
+              "name": "glycopyrrolate 0.025 MG/ML Inhalation Solution [Lonhala]",
+              "synonym": "Lonhala 25 MCG/ML Inhalation Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2054120",
+              "name": "glycopyrronium 24 MG/ML Medicated Pad [Qbrexza]",
+              "synonym": "Qbrexza 2.4 % Medicated Cloth",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "205886",
+              "name": "glycopyrrolate 1 MG Oral Tablet [Robinul]",
+              "synonym": "Robinul 1 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2371715",
+              "name": "5 ML glycopyrrolate 0.2 MG/ML Prefilled Syringe [Glyrx]",
+              "synonym": "5 ML Glyrx 0.2 MG/ML Prefilled Syringe",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2371718",
+              "name": "1 ML glycopyrrolate 0.2 MG/ML Injection [Glyrx]",
+              "synonym": "1 ML Glyrx 0.2 MG/ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2371796",
+              "name": "2 ML glycopyrrolate 0.2 MG/ML Injection [Glyrx]",
+              "synonym": "2 ML Glyrx 0.2 MG/ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2387328",
+              "name": "28 ACTUAT budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0048 MG/ACTUAT / glycopyrrolate 0.009 MG/ACTUAT Metered Dose Inhaler [Breztri]",
+              "synonym": "BREZTRI (budesonide 160 MCG/ACTUAT / formoterol fumarate 4.8 MCG/ACTUAT / glycopyrrolate 9 MCG/ACTUAT) Metered Dose Inhaler, 28 ACTUAT",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2387331",
+              "name": "120 ACTUAT budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0048 MG/ACTUAT / glycopyrrolate 0.009 MG/ACTUAT Metered Dose Inhaler [Breztri]",
+              "synonym": "BREZTRI (budesonide 160 MCG/ACTUAT / formoterol fumarate 4.8 MCG/ACTUAT / glycopyrrolate 9 MCG/ACTUAT) Metered Dose Inhaler, 120 ACTUAT",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2473384",
+              "name": "3 ML glycopyrrolate 0.2 MG/ML Prefilled Syringe [Glyrx]",
+              "synonym": "3 ML Glyrx 0.2 MG/ML Prefilled Syringe",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2589281",
+              "name": "glycopyrrolate 1.7 MG Disintegrating Oral Tablet [Dartisla]",
+              "synonym": "Dartisla 1.7 MG Disintegrating Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2637047",
+              "name": "3 ML glycopyrrolate 0.2 MG/ML / neostigmine methylsulfate 1 MG/ML Prefilled Syringe [Prevduo]",
+              "synonym": "Prevduo (neostigmine methylsulfate 3 MG / glycopyrrolate 0.6 MG) per 3 ML Prefilled Syringe",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2668160",
+              "name": "glycopyrrolate 0.85 MG Disintegrating Oral Tablet [Dartisla]",
+              "synonym": "Dartisla 0.85 MG Disintegrating Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "999965",
+              "name": "glycopyrrolate 0.2 MG/ML Oral Solution [Cuvposa]",
+              "synonym": "Cuvposa 0.2 MG/ML Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "106525",
+              "name": "glycopyrrolate 0.5 MG/ML / neostigmine 2.5 MG/ML Injectable Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1247658",
+              "name": "glycopyrrolate 1.5 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1731582",
+              "name": "1 ML glycopyrrolate 0.2 MG/ML Injection",
+              "synonym": "glycopyrrolate 0.2 MG per 1 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1731590",
+              "name": "2 ML glycopyrrolate 0.2 MG/ML Injection",
+              "synonym": "glycopyrrolate 0.4 MG per 2 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1790639",
+              "name": "120 ACTUAT formoterol fumarate 0.0048 MG/ACTUAT / glycopyrrolate 0.009 MG/ACTUAT Metered Dose Inhaler",
+              "synonym": "formoterol fumarate 0.0048 MG/ACTUAT / glycopyrrolate 0.009 MG/ACTUAT 120 ACTUAT Metered Dose Inhaler",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "197738",
+              "name": "glycopyrrolate 1 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "197739",
+              "name": "glycopyrrolate 2 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1992566",
+              "name": "glycopyrrolate 0.025 MG/ML Inhalation Solution",
+              "synonym": "glycopyrrolate 25 MCG/ML Inhalation Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2054118",
+              "name": "glycopyrronium 24 MG/ML Medicated Pad",
+              "synonym": "glycopyrronium 2.4 % Medicated Cloth",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2101490",
+              "name": "1 ML glycopyrrolate 0.2 MG/ML Prefilled Syringe",
+              "synonym": "glycopyrrolate 0.2 MG per 1 ML Prefilled Syringe",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2101495",
+              "name": "2 ML glycopyrrolate 0.2 MG/ML Prefilled Syringe",
+              "synonym": "glycopyrrolate 0.4 MG per 2 ML Prefilled Syringe",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2371710",
+              "name": "5 ML glycopyrrolate 0.2 MG/ML Prefilled Syringe",
+              "synonym": "glycopyrrolate 1 MG per 5 ML Prefilled Syringe",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "238212",
+              "name": "glycopyrrolate 0.2 MG/ML Injectable Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2387326",
+              "name": "28 ACTUAT budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0048 MG/ACTUAT / glycopyrrolate 0.009 MG/ACTUAT Metered Dose Inhaler",
+              "synonym": "budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0048 MG/ACTUAT / glycopyrrolate 0.009 MG/ACTUAT 28 ACTUAT Metered Dose Inhaler",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2387329",
+              "name": "120 ACTUAT budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0048 MG/ACTUAT / glycopyrrolate 0.009 MG/ACTUAT Metered Dose Inhaler",
+              "synonym": "budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0048 MG/ACTUAT / glycopyrrolate 0.009 MG/ACTUAT 120 ACTUAT Metered Dose Inhaler",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2473383",
+              "name": "3 ML glycopyrrolate 0.2 MG/ML Prefilled Syringe",
+              "synonym": "glycopyrrolate 0.6 MG per 3 ML Prefilled Syringe",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2589274",
+              "name": "glycopyrrolate 1.7 MG Disintegrating Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2637041",
+              "name": "3 ML glycopyrrolate 0.2 MG/ML / neostigmine methylsulfate 1 MG/ML Prefilled Syringe",
+              "synonym": "neostigmine methylsulfate 3 MG / glycopyrrolate 0.6 MG per 3 ML Prefilled Syringe",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2668158",
+              "name": "glycopyrrolate 0.85 MG Disintegrating Oral Tablet",
+              "synonym": "glycopyrrolate 0.85 MG Disintegrating Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "999961",
+              "name": "glycopyrrolate 0.2 MG/ML Oral Solution",
+              "synonym": "glycopyrrolate 1 MG per 5 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T22:31:57.042106",
+  "source": "RxNorm"
+}

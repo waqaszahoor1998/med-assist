@@ -1,0 +1,16 @@
+{
+  "rxcui": "198356",
+  "properties": {
+    "properties": {
+      "rxcui": "198356",
+      "name": "cisapride 10 MG Oral Tablet",
+      "synonym": "cisapride (as cisapride monohydrate) 10 MG Oral Tablet",
+      "tty": "SCD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T21:23:55.990924",
+  "source": "RxNorm"
+}

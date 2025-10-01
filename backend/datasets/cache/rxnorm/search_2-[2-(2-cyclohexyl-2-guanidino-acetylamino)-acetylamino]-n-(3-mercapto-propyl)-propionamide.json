@@ -1,0 +1,10 @@
+{
+  "query": "2-[2-(2-Cyclohexyl-2-guanidino-acetylamino)-acetylamino]-N-(3-mercapto-propyl)-propionamide",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T13:21:51.187309",
+  "source": "RxNorm"
+}

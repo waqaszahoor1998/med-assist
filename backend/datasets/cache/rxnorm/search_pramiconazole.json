@@ -1,0 +1,10 @@
+{
+  "query": "Pramiconazole",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:17:46.744523",
+  "source": "RxNorm"
+}

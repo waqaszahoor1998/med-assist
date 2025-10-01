@@ -1,0 +1,16 @@
+{
+  "rxcui": "967388",
+  "properties": {
+    "properties": {
+      "rxcui": "967388",
+      "name": "amphotericin B liposomal 50 MG Injection [AmBisome]",
+      "synonym": "AmBisome 50 MG Injection",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T21:28:30.101856",
+  "source": "RxNorm"
+}

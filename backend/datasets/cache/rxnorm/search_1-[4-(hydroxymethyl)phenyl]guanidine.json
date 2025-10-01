@@ -1,0 +1,10 @@
+{
+  "query": "1-[4-(hydroxymethyl)phenyl]guanidine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:41:27.594509",
+  "source": "RxNorm"
+}

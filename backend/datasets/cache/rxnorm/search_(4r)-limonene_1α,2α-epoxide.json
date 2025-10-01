@@ -1,0 +1,10 @@
+{
+  "query": "(4R)-limonene 1\u03b1,2\u03b1-epoxide",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:18:15.176948",
+  "source": "RxNorm"
+}

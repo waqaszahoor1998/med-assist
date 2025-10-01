@@ -1,0 +1,136 @@
+{
+  "query": "Oclacitinib",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1487017",
+              "name": "oclacitinib 16 MG Oral Tablet [Apoquel]",
+              "synonym": "Apoquel 16 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1487021",
+              "name": "oclacitinib 3.6 MG Oral Tablet [Apoquel]",
+              "synonym": "Apoquel 3.6 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1487025",
+              "name": "oclacitinib 5.4 MG Oral Tablet [Apoquel]",
+              "synonym": "Apoquel 5.4 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2643180",
+              "name": "oclacitinib 16 MG Chewable Tablet [Apoquel]",
+              "synonym": "Apoquel 16 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2643184",
+              "name": "oclacitinib 3.6 MG Chewable Tablet [Apoquel]",
+              "synonym": "Apoquel 3.6 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2643188",
+              "name": "oclacitinib 5.4 MG Chewable Tablet [Apoquel]",
+              "synonym": "Apoquel 5.4 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1487011",
+              "name": "oclacitinib 16 MG Oral Tablet",
+              "synonym": "oclacitinib 16 MG (as oclacitinib maleate) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1487019",
+              "name": "oclacitinib 3.6 MG Oral Tablet",
+              "synonym": "oclacitinib 3.6 MG (as oclacitinib maleate) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1487023",
+              "name": "oclacitinib 5.4 MG Oral Tablet",
+              "synonym": "oclacitinib 5.4 MG (as oclacitinib maleate) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2643176",
+              "name": "oclacitinib 16 MG Chewable Tablet",
+              "synonym": "oclacitinib 16 MG (as oclacitinib maleate) Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2643182",
+              "name": "oclacitinib 3.6 MG Chewable Tablet",
+              "synonym": "oclacitinib 3.6 MG (as oclacitinib maleate) Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2643186",
+              "name": "oclacitinib 5.4 MG Chewable Tablet",
+              "synonym": "oclacitinib 5.4 MG (as oclacitinib maleate) Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:00:37.328733",
+  "source": "RxNorm"
+}

@@ -1,0 +1,23 @@
+{
+  "drug_name": "4-(2,5-Dichloro-Thiophen-3-Yl)-Pyrimidin-2-Ylamine",
+  "generic_name": [
+    "POVIDONE-IODINE"
+  ],
+  "brand_names": [
+    "Betadine"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    "Warnings For external use only"
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    "Directions clean the affected area spray a small amount of the product on the area 1 to 3 times daily may be covered with a sterile bandage if bandaged, let dry first"
+  ],
+  "indications": [
+    "Uses First aid to help prevent infection in minor cuts scrapes burns"
+  ],
+  "fetched_at": "2025-10-01T03:23:05.345543",
+  "source": "OpenFDA"
+}

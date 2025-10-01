@@ -1,0 +1,10 @@
+{
+  "query": "Clevudine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:30:18.156417",
+  "source": "RxNorm"
+}

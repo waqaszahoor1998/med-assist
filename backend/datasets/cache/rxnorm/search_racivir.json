@@ -1,0 +1,10 @@
+{
+  "query": "Racivir",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:15:32.036781",
+  "source": "RxNorm"
+}

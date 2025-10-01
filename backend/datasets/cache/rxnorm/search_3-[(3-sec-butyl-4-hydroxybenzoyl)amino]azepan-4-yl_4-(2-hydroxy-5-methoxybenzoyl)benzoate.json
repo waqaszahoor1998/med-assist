@@ -1,0 +1,10 @@
+{
+  "query": "3-[(3-sec-butyl-4-hydroxybenzoyl)amino]azepan-4-yl 4-(2-hydroxy-5-methoxybenzoyl)benzoate",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:45:10.183078",
+  "source": "RxNorm"
+}

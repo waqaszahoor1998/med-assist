@@ -1,0 +1,10 @@
+{
+  "query": "Depreotide",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:10:34.069882",
+  "source": "RxNorm"
+}

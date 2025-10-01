@@ -1,0 +1,23 @@
+{
+  "drug_name": "Adenosine Diphosphate 5-(Beta-Ethyl)-4-Methyl-Thiazole-2-Carboxylic Acid",
+  "generic_name": [
+    "POVIDONE-IODINE"
+  ],
+  "brand_names": [
+    "Betadine"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    "Warnings For external use only"
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    "Directions clean the affected area spray a small amount of the product on the area 1 to 3 times daily may be covered with a sterile bandage if bandaged, let dry first"
+  ],
+  "indications": [
+    "Uses First aid to help prevent infection in minor cuts scrapes burns"
+  ],
+  "fetched_at": "2025-10-01T15:20:57.047847",
+  "source": "OpenFDA"
+}

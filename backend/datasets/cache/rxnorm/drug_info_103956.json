@@ -1,0 +1,16 @@
+{
+  "rxcui": "103956",
+  "properties": {
+    "properties": {
+      "rxcui": "103956",
+      "name": "alprostadil 0.02 MG Injection [Caverject]",
+      "synonym": "Caverject 20 MCG Injection",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T21:34:05.216940",
+  "source": "RxNorm"
+}

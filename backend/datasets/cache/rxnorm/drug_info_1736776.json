@@ -1,0 +1,16 @@
+{
+  "rxcui": "1736776",
+  "properties": {
+    "properties": {
+      "rxcui": "1736776",
+      "name": "10 ML oxaliplatin 5 MG/ML Injection",
+      "synonym": "oxaliplatin 50 MG per 10 ML Injection",
+      "tty": "SCD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T21:18:01.356689",
+  "source": "RxNorm"
+}

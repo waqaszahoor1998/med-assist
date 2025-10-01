@@ -1,0 +1,10 @@
+{
+  "query": "GET-73",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:24:12.105673",
+  "source": "RxNorm"
+}

@@ -1,0 +1,838 @@
+{
+  "query": "Pyrantel",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1006637",
+              "name": "ivermectin 0.136 MG / pyrantel 114 MG Chewable Tablet [Heartgard Plus]",
+              "synonym": "Heartgard Plus for Dogs 26-50 lbs. (ivermectin 136 MCG / pyrantel 114 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1006643",
+              "name": "ivermectin 0.272 MG / pyrantel 227 MG Chewable Tablet [Heartgard Plus]",
+              "synonym": "Heartgard Plus for Dogs 51-100 lbs. (ivermectin 272 MCG / pyrantel 227 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1006647",
+              "name": "ivermectin 0.068 MG / pyrantel 57 MG Chewable Tablet [Heartgard Plus]",
+              "synonym": "Heartgard Plus for Dogs Up to 25 lbs. (ivermectin 68 MCG / pyrantel 57 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1006855",
+              "name": "pyrantel 2.27 MG/ML Oral Suspension [RFD]",
+              "synonym": "RFD 2.27 MG/ML Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1006859",
+              "name": "pyrantel 4.54 MG/ML Oral Suspension [Nemex]",
+              "synonym": "Nemex 4.54 MG/ML Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1009332",
+              "name": "pyrantel 0.15 MG/MG Oral Paste [Strongid]",
+              "synonym": "Strongid 15 % Oral Paste",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1010736",
+              "name": "pyrantel 0.15 MG/MG Oral Paste [Equistrength]",
+              "synonym": "Equistrength 0.15 MG/MG Oral Paste",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1373121",
+              "name": "pyrantel 4.54 MG/ML Oral Suspension [Liqui-Vict 2X]",
+              "synonym": "Liqui-Vict 2X 4.54 MG/ML Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1423674",
+              "name": "ivermectin 0.136 MG / pyrantel 114 MG Chewable Tablet [Tri-Heart Plus]",
+              "synonym": "Tri-Heart Plus (ivermectin 136 MCG / pyrantel 114 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1423676",
+              "name": "ivermectin 0.272 MG / pyrantel 227 MG Chewable Tablet [Tri-Heart Plus]",
+              "synonym": "Tri-Heart Plus (ivermectin 272 MCG / pyrantel 227 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1423678",
+              "name": "ivermectin 0.068 MG / pyrantel 57 MG Chewable Tablet [Tri-Heart Plus]",
+              "synonym": "Tri-Heart Plus (ivermectin 68 MCG / pyrantel 57 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1432149",
+              "name": "pyrantel 4.54 MG/ML Oral Suspension [Worm Protector 2X]",
+              "synonym": "Worm Protector 2X 4.54 MG/ML Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1433550",
+              "name": "pyrantel pamoate 0.439 MG/MG Oral Paste [Exodus]",
+              "synonym": "Exodus 43.9 % Oral Paste",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1808849",
+              "name": "praziquantel 114 MG / pyrantel pamoate 114 MG Chewable Tablet [Virbantel]",
+              "synonym": "Virbantel (praziquantel 114 MG / pyrantel pamoate 114 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1808851",
+              "name": "praziquantel 30 MG / pyrantel pamoate 30 MG Chewable Tablet [Virbantel]",
+              "synonym": "Virbantel (praziquantel 30 MG / pyrantel pamoate 30 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2205737",
+              "name": "ivermectin 0.136 MG / praziquantel 114 MG / pyrantel pamoate 114 MG Chewable Tablet [Iverhart]",
+              "synonym": "Iverhart (ivermectin 136 MCG / praziquantel 114 MG / pyrantel pamoate 114 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2205741",
+              "name": "ivermectin 0.272 MG / praziquantel 228 MG / pyrantel pamoate 228 MG Chewable Tablet [Iverhart]",
+              "synonym": "Iverhart (ivermectin 272 MCG / praziquantel 228 MG / pyrantel pamoate 228 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2205745",
+              "name": "ivermectin 0.034 MG / praziquantel 28.5 MG / pyrantel pamoate 28.5 MG Chewable Tablet [Iverhart]",
+              "synonym": "Iverhart (ivermectin 34 MCG / praziquantel 28.5 MG / pyrantel pamoate 28.5 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2205749",
+              "name": "ivermectin 0.068 MG / praziquantel 57 MG / pyrantel pamoate 57 MG Chewable Tablet [Iverhart]",
+              "synonym": "Iverhart (ivermectin 68 MCG / praziquantel 57 MG / pyrantel pamoate 57 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2281743",
+              "name": "moxidectin 0.24 MG / pyrantel pamoate 50 MG / sarolaner 12 MG Chewable Tablet [Simparica TRIO]",
+              "synonym": "Simparica TRIO (moxidectin 0.24 MG / pyrantel pamoate 50 MG / sarolaner 12 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2281749",
+              "name": "moxidectin 0.48 MG / pyrantel pamoate 100 MG / sarolaner 24 MG Chewable Tablet [Simparica TRIO]",
+              "synonym": "Simparica TRIO (moxidectin 0.48 MG / pyrantel pamoate 100 MG / sarolaner 24 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2281755",
+              "name": "moxidectin 0.06 MG / pyrantel pamoate 12.5 MG / sarolaner 3 MG Chewable Tablet [Simparica TRIO]",
+              "synonym": "Simparica TRIO (moxidectin 0.06 MG / pyrantel pamoate 12.5 MG / sarolaner 3 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2281761",
+              "name": "moxidectin 0.96 MG / pyrantel pamoate 200 MG / sarolaner 48 MG Chewable Tablet [Simparica TRIO]",
+              "synonym": "Simparica TRIO (moxidectin 0.96 MG / pyrantel pamoate 200 MG / sarolaner 48 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2281767",
+              "name": "moxidectin 0.12 MG / pyrantel pamoate 25 MG / sarolaner 6 MG Chewable Tablet [Simparica TRIO]",
+              "synonym": "Simparica TRIO (moxidectin 0.12 MG / pyrantel pamoate 25 MG / sarolaner 6 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2281773",
+              "name": "moxidectin 1.44 MG / pyrantel pamoate 300 MG / sarolaner 72 MG Chewable Tablet [Simparica TRIO]",
+              "synonym": "Simparica TRIO (moxidectin 1.44 MG / pyrantel pamoate 300 MG / sarolaner 72 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2642691",
+              "name": "afoxolaner 150 MG / moxidectin 0.72 MG / pyrantel pamoate 300 MG Chewable Tablet [NexGard Plus]",
+              "synonym": "NexGard Plus (afoxolaner 150 MG / moxidectin 0.72 MG / pyrantel pamoate 300 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2642697",
+              "name": "afoxolaner 18.75 MG / moxidectin 0.09 MG / pyrantel pamoate 37.5 MG Chewable Tablet [NexGard Plus]",
+              "synonym": "NexGard Plus (afoxolaner 18.75 MG / moxidectin 0.09 MG / pyrantel pamoate 37.5 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2642707",
+              "name": "afoxolaner 37.5 MG / moxidectin 0.18 MG / pyrantel pamoate 75 MG Chewable Tablet [NexGard Plus]",
+              "synonym": "NexGard Plus (afoxolaner 37.5 MG / moxidectin 0.18 MG / pyrantel pamoate 75 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2642713",
+              "name": "afoxolaner 75 MG / moxidectin 0.36 MG / pyrantel pamoate 150 MG Chewable Tablet [NexGard Plus]",
+              "synonym": "NexGard Plus (afoxolaner 75 MG / moxidectin 0.36 MG / pyrantel pamoate 150 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2667862",
+              "name": "ivermectin 0.136 MG / praziquantel 114 MG / pyrantel 114 MG Chewable Tablet [Vetrishield]",
+              "synonym": "VetriShield Max (ivermectin 0.136 MG / praziquantel 114 MG / pyrantel 114 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2667864",
+              "name": "ivermectin 0.272 MG / praziquantel 228 MG / pyrantel 228 MG Chewable Tablet [Vetrishield]",
+              "synonym": "VetriShield Max (ivermectin 0.272 MG / praziquantel 228 MG / pyrantel 228 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2667866",
+              "name": "ivermectin 0.034 MG / praziquantel 28.5 MG / pyrantel 28.5 MG Chewable Tablet [Vetrishield]",
+              "synonym": "VetriShield Max (ivermectin 0.034 MG / praziquantel 28.5 MG / pyrantel 28.5 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2667869",
+              "name": "ivermectin 0.068 MG / praziquantel 57 MG / pyrantel 57 MG Chewable Tablet [Vetrishield]",
+              "synonym": "VetriShield Max (ivermectin 68 MCG / praziquantel 57 MG / pyrantel 57 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2669729",
+              "name": "afoxolaner 9.375 MG / moxidectin 0.045 MG / pyrantel pamoate 18.75 MG Chewable Tablet [NexGard Plus]",
+              "synonym": "NexGard Plus (afoxolaner 9.375 MG / moxidectin 0.045 MG / pyrantel pamoate 18.75 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2716736",
+              "name": "fenbendazole 42.9 MG/ML / pyrantel 28.5 MG/ML Oral Suspension [GiarcidiaZap-Wormer]",
+              "synonym": "GiarCidia Zap-Wormer (fenbendazole 42.86 MG/ML / pyrantel 28.54 MG/ML) Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "404175",
+              "name": "pyrantel pamoate 144 MG/ML Oral Suspension [Ascarel]",
+              "synonym": "Ascarel 144 MG per 1 ML Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "882496",
+              "name": "pyrantel 4.54 MG/ML Oral Suspension [Sure Shot 2X]",
+              "synonym": "Sure Shot 2X 4.54 MG/ML Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "892097",
+              "name": "febantel 680 MG / praziquantel 136 MG / pyrantel 136 MG Oral Tablet [Drontal Plus]",
+              "synonym": "Drontal Plus for large dogs (45 lbs. and greater) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "892101",
+              "name": "febantel 680 MG / praziquantel 136 MG / pyrantel 136 MG Chewable Tablet [Drontal Plus]",
+              "synonym": "Drontal Plus for large dogs (45 lbs. and greater) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "892309",
+              "name": "praziquantel 18.2 MG / pyrantel 72.6 MG Oral Tablet [Drontal]",
+              "synonym": "Drontal (praziquantel 18.2 MG / pyrantel 72.6 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "892316",
+              "name": "febantel 113 MG / praziquantel 22.7 MG / pyrantel 22.7 MG Oral Tablet [Drontal Plus]",
+              "synonym": "Drontal Plus for puppies and small dogs (2-25 lbs.) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "892327",
+              "name": "febantel 340 MG / praziquantel 68 MG / pyrantel 68 MG Oral Tablet [Drontal Plus]",
+              "synonym": "Drontal Plus for medium sized dogs (26 to 60 lbs.) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "892331",
+              "name": "febantel 113 MG / praziquantel 22.7 MG / pyrantel 22.7 MG Chewable Tablet [Drontal Plus]",
+              "synonym": "Drontal Plus Taste Tabs for puppies and small dogs (2-25 lbs) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "892337",
+              "name": "febantel 340 MG / praziquantel 68 MG / pyrantel 68 MG Chewable Tablet [Drontal Plus]",
+              "synonym": "Drontal Plus Taste Tabs for medium sized dogs (26-60 lbs) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "905257",
+              "name": "praziquantel 114 MG / pyrantel pamoate 114 MG Chewable Tablet [Triple Wormer]",
+              "synonym": "Triple Wormer (praziquantel 114 MG / pyrantel pamoate 114 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "905310",
+              "name": "praziquantel 30 MG / pyrantel pamoate 30 MG Chewable Tablet [Triple Wormer]",
+              "synonym": "Triple Wormer (praziquantel 30 MG / pyrantel pamoate 30 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "993300",
+              "name": "pyrantel 4.54 MG/ML Oral Solution [Sentry HC Worm X DS]",
+              "synonym": "Sentry HC Worm X DS for dogs 4.54 MG/ML Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "996023",
+              "name": "praziquantel 114 MG / pyrantel pamoate 114 MG Chewable Tablet [Sentry HC Worm X Plus]",
+              "synonym": "Sentry HC Worm X Plus Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "996927",
+              "name": "praziquantel 30 MG / pyrantel pamoate 30 MG Chewable Tablet [Sentry HC Worm X Plus]",
+              "synonym": "Sentry HC Worm X Plus (praziquantel 30 MG / pyrantel pamoate 30 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1006632",
+              "name": "ivermectin 0.136 MG / pyrantel 114 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1006641",
+              "name": "ivermectin 0.272 MG / pyrantel 227 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1006645",
+              "name": "ivermectin 0.068 MG / pyrantel 57 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1006851",
+              "name": "pyrantel 2.27 MG/ML Oral Suspension",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1009330",
+              "name": "pyrantel 0.15 MG/MG Oral Paste",
+              "synonym": "pyrantel (as pyrantel pamoate) 15 % Oral Paste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1433543",
+              "name": "pyrantel pamoate 0.439 MG/MG Oral Paste",
+              "synonym": "pyrantel pamoate 43.9 % Oral Paste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "199106",
+              "name": "pyrantel pamoate 144 MG/ML Oral Suspension",
+              "synonym": "pyrantel pamoate 144 MG per 1 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "199107",
+              "name": "pyrantel 180 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2205730",
+              "name": "ivermectin 0.136 MG / praziquantel 114 MG / pyrantel pamoate 114 MG Chewable Tablet",
+              "synonym": "ivermectin 136 MCG / praziquantel 114 MG / pyrantel pamoate 114 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2205739",
+              "name": "ivermectin 0.272 MG / praziquantel 228 MG / pyrantel pamoate 228 MG Chewable Tablet",
+              "synonym": "ivermectin 272 MCG / praziquantel 228 MG / pyrantel pamoate 228 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2205743",
+              "name": "ivermectin 0.034 MG / praziquantel 28.5 MG / pyrantel pamoate 28.5 MG Chewable Tablet",
+              "synonym": "ivermectin 34 MCG / praziquantel 28.5 MG / pyrantel pamoate 28.5 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2205747",
+              "name": "ivermectin 0.068 MG / praziquantel 57 MG / pyrantel pamoate 57 MG Chewable Tablet",
+              "synonym": "ivermectin 68 MCG / praziquantel 57 MG / pyrantel pamoate 57 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2281736",
+              "name": "moxidectin 0.24 MG / pyrantel pamoate 50 MG / sarolaner 12 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2281747",
+              "name": "moxidectin 0.48 MG / pyrantel pamoate 100 MG / sarolaner 24 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2281753",
+              "name": "moxidectin 0.06 MG / pyrantel pamoate 12.5 MG / sarolaner 3 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2281759",
+              "name": "moxidectin 0.96 MG / pyrantel pamoate 200 MG / sarolaner 48 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2281765",
+              "name": "moxidectin 0.12 MG / pyrantel pamoate 25 MG / sarolaner 6 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2281771",
+              "name": "moxidectin 1.44 MG / pyrantel pamoate 300 MG / sarolaner 72 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2642684",
+              "name": "afoxolaner 150 MG / moxidectin 0.72 MG / pyrantel pamoate 300 MG Chewable Tablet",
+              "synonym": "afoxolaner 150 MG / moxidectin 0.72 MG / pyrantel pamoate 300 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2642695",
+              "name": "afoxolaner 18.75 MG / moxidectin 0.09 MG / pyrantel pamoate 37.5 MG Chewable Tablet",
+              "synonym": "afoxolaner 18.75 MG / moxidectin 0.09 MG / pyrantel pamoate 37.5 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2642705",
+              "name": "afoxolaner 37.5 MG / moxidectin 0.18 MG / pyrantel pamoate 75 MG Chewable Tablet",
+              "synonym": "afoxolaner 37.5 MG / moxidectin 0.18 MG / pyrantel pamoate 75 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2642711",
+              "name": "afoxolaner 75 MG / moxidectin 0.36 MG / pyrantel pamoate 150 MG Chewable Tablet",
+              "synonym": "afoxolaner 75 MG / moxidectin 0.36 MG / pyrantel pamoate 150 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2669727",
+              "name": "afoxolaner 9.375 MG / moxidectin 0.045 MG / pyrantel pamoate 18.75 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2716730",
+              "name": "fenbendazole 42.9 MG/ML / pyrantel 28.5 MG/ML Oral Suspension",
+              "synonym": "fenbendazole 42.9 MG / pyrantel 28.5 MG per 1 mL Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "312733",
+              "name": "pyrantel 50 MG/ML Oral Suspension",
+              "synonym": "pyrantel (as pyrantel pamoate) 50 MG/ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "668538",
+              "name": "pyrantel pamoate 720.5 MG Chewable Tablet",
+              "synonym": "pyrantel pamoate 720.5 MG (pyrantel 250 MG) Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "882492",
+              "name": "pyrantel 4.54 MG/ML Oral Suspension",
+              "synonym": "pyrantel (as pyrantel pamoate) 4.54 MG/ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "892093",
+              "name": "febantel 680 MG / praziquantel 136 MG / pyrantel 136 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "892099",
+              "name": "febantel 680 MG / praziquantel 136 MG / pyrantel 136 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "892305",
+              "name": "praziquantel 18.2 MG / pyrantel 72.6 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "892314",
+              "name": "febantel 113 MG / praziquantel 22.7 MG / pyrantel 22.7 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "892325",
+              "name": "febantel 340 MG / praziquantel 68 MG / pyrantel 68 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "892330",
+              "name": "febantel 113 MG / praziquantel 22.7 MG / pyrantel 22.7 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "892336",
+              "name": "febantel 340 MG / praziquantel 68 MG / pyrantel 68 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "895883",
+              "name": "ivermectin 0.136 MG / praziquantel 114 MG / pyrantel 114 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "895893",
+              "name": "ivermectin 0.272 MG / praziquantel 228 MG / pyrantel 228 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "895899",
+              "name": "ivermectin 0.034 MG / praziquantel 28.5 MG / pyrantel 28.5 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "895905",
+              "name": "ivermectin 0.068 MG / praziquantel 57 MG / pyrantel 57 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "901821",
+              "name": "praziquantel 114 MG / pyrantel pamoate 114 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "901824",
+              "name": "praziquantel 30 MG / pyrantel pamoate 30 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "993296",
+              "name": "pyrantel 4.54 MG/ML Oral Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:47:38.384624",
+  "source": "RxNorm"
+}

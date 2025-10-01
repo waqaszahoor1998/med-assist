@@ -1,0 +1,10 @@
+{
+  "query": "NB-001",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:13:58.389928",
+  "source": "RxNorm"
+}

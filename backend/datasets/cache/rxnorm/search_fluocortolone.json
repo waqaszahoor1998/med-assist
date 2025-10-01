@@ -1,0 +1,35 @@
+{
+  "query": "Fluocortolone",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD"
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "103462",
+              "name": "fluocortolone caproate 0.0025 MG/MG / fluocortolone pivalate 0.0025 MG/MG Topical Ointment",
+              "synonym": "fluocortolone 0.5 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:11:22.721878",
+  "source": "RxNorm"
+}

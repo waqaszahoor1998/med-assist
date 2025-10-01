@@ -1,0 +1,64 @@
+{
+  "query": "Fesoterodine",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "810075",
+              "name": "24 HR fesoterodine fumarate 4 MG Extended Release Oral Tablet [Toviaz]",
+              "synonym": "24 HR Toviaz 4 MG Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "810079",
+              "name": "24 HR fesoterodine fumarate 8 MG Extended Release Oral Tablet [Toviaz]",
+              "synonym": "24 HR Toviaz 8 MG Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "810071",
+              "name": "24 HR fesoterodine fumarate 4 MG Extended Release Oral Tablet",
+              "synonym": "fesoterodine fumarate 4 MG 24 HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "810077",
+              "name": "24 HR fesoterodine fumarate 8 MG Extended Release Oral Tablet",
+              "synonym": "fesoterodine fumarate 8 MG 24 HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:31:54.005775",
+  "source": "RxNorm"
+}

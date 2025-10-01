@@ -1,0 +1,16 @@
+{
+  "rxcui": "262095",
+  "properties": {
+    "properties": {
+      "rxcui": "262095",
+      "name": "atorvastatin 80 MG Oral Tablet [Lipitor]",
+      "synonym": "Lipitor 80 MG Oral Tablet",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T20:54:54.401581",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "4,6-dideoxy-4-amino-alpha-D-glucose",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:42:33.077346",
+  "source": "RxNorm"
+}

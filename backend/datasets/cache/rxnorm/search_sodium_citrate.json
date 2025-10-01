@@ -1,0 +1,190 @@
+{
+  "query": "Sodium citrate",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2397257",
+              "name": "5000 ML sodium chloride 5.03 MG/ML / sodium citrate 5.29 MG/ML Injection [Regiocit]",
+              "synonym": "5000 ML NaCl 5.03 MG/ML / sodium citrate 5.29 MG/ML Injection [Regiocit]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2596185",
+              "name": "sodium citrate 230 MG Chewable Tablet [Emetrol Chewables]",
+              "synonym": "Emetrol Chewables 230 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2671579",
+              "name": "sodium citrate 460 MG Powder for Oral Solution [Emetrol Powder]",
+              "synonym": "Emetrol Powder 460 MG Powder for Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "543018",
+              "name": "citric acid 66.8 MG/ML / sodium citrate 100 MG/ML Oral Solution [Cytra 2]",
+              "synonym": "Cytra 2 Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "544553",
+              "name": "citric acid 128 MG/ML / sodium citrate 98 MG/ML Oral Solution [Oracit]",
+              "synonym": "Oracit (citric acid 128 MG/ML / sodium citrate 98 MG/ML) Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "806396",
+              "name": "calcium chloride 0.004 MEQ/ML / magnesium chloride 0.003 MEQ/ML / potassium chloride 0.01 MEQ/ML / sodium acetate 0.0475 MEQ/ML / sodium chloride 0.109 MEQ/ML / sodium citrate 0.012 MEQ/ML Ophthalmic Solution [BSS Ophthalmic Solution]",
+              "synonym": "BSS Ophthalmic Solution (calcium chloride 0.048 % / magnesium chloride 0.03 % / potassium chloride 0.075 % / sodium acetate 0.39 % / sodium chloride 0.64 % / sodium citrate 0.17 % ) Ophthalmic Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "828618",
+              "name": "citric acid 66.8 MG/ML / potassium citrate 110 MG/ML / sodium citrate 100 MG/ML Oral Solution [Cytra-3]",
+              "synonym": "Cytra-3 Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1049306",
+              "name": "fructose 175 MG / glucose 968 MG / sodium citrate 230 MG Chewable Tablet",
+              "synonym": "dextrose 968 MG / fructose 175 MG / trisodium citrate dihydrate 230 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "105533",
+              "name": "sodium bicarbonate 13.1 MG/ML / sodium citrate 4.7 MG/ML Oral Solution",
+              "synonym": "NaHCO3 13.1 MG/ML / sodium citrate 4.7 MG/ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2002800",
+              "name": "sodium citrate 230 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2397251",
+              "name": "5000 ML sodium chloride 5.03 MG/ML / sodium citrate 5.29 MG/ML Injection",
+              "synonym": "citrate 18 mmol / sodium 140 mmol per L Injection (EUA)",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2671573",
+              "name": "sodium citrate 460 MG Powder for Oral Solution",
+              "synonym": "sodium citrate 460 MG Powder for Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "309317",
+              "name": "citric acid 66.8 MG/ML / potassium citrate 110 MG/ML / sodium citrate 100 MG/ML Oral Solution",
+              "synonym": "Citric Acid 66.8 MG/ML / K+ citrate 110 MG/ML / sodium citrate 100 MG/ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "313026",
+              "name": "sodium citrate 467 MG/ML Injectable Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "486042",
+              "name": "citric acid 60 MG/ML / sodium citrate 100 MG/ML Oral Solution",
+              "synonym": "citric acid 300 MG / sodium citrate 500 MG per 5 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "543014",
+              "name": "citric acid 66.8 MG/ML / sodium citrate 100 MG/ML Oral Solution",
+              "synonym": "citric acid 334 MG / sodium citrate 500 MG per 5 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "544550",
+              "name": "citric acid 128 MG/ML / sodium citrate 98 MG/ML Oral Solution",
+              "synonym": "citric acid 640 MG / sodium citrate 490 MG per 5 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "806392",
+              "name": "calcium chloride 0.004 MEQ/ML / magnesium chloride 0.003 MEQ/ML / potassium chloride 0.01 MEQ/ML / sodium acetate 0.0475 MEQ/ML / sodium chloride 0.109 MEQ/ML / sodium citrate 0.012 MEQ/ML Ophthalmic Solution",
+              "synonym": "calcium chloride 0.048 % / magnesium chloride 0.03 % / potassium chloride 0.075 % / sodium acetate 0.39 % / sodium chloride 0.64 % / sodium citrate 0.17 % Ophthalmic Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:23:55.146030",
+  "source": "RxNorm"
+}

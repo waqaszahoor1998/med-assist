@@ -1,0 +1,10 @@
+{
+  "query": "4-[(3R)-3-Amino-4-(2,4,5-trifluorophenyl)butanoyl]-3-(2,2,2-trifluoroethyl)-1,4-diazepan-2-one",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:43:54.268036",
+  "source": "RxNorm"
+}

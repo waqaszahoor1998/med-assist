@@ -1,0 +1,10 @@
+{
+  "query": "1-[5-Methyl-2-(trifluoromethyl)furan-3-yl]-3-[5-[2-[[6-(1H-1,2,4-triazol-5-ylamino)pyrimidin-4-yl]amino]ethyl]-1,3-thiazol-2-yl]urea",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:49:55.178625",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "2,5-di-tert-butylhydroquinone",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:34:42.716242",
+  "source": "RxNorm"
+}

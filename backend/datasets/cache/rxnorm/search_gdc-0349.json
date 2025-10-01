@@ -1,0 +1,10 @@
+{
+  "query": "GDC-0349",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:31:38.524110",
+  "source": "RxNorm"
+}

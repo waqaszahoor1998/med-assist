@@ -1,0 +1,158 @@
+{
+  "query": "Aprepitant",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "754509",
+              "name": "{1 (aprepitant 125 MG Oral Capsule [Emend]) / 2 (aprepitant 80 MG Oral Capsule [Emend]) } Pack [Emend Tri-Fold Pack]",
+              "synonym": "Emend Tri-Fold Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "754508",
+              "name": "{1 (aprepitant 125 MG Oral Capsule) / 2 (aprepitant 80 MG Oral Capsule) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1729311",
+              "name": "aprepitant 125 MG Powder for Oral Suspension [Emend]",
+              "synonym": "Emend 125 MG Powder for Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1995155",
+              "name": "18 ML aprepitant 7.2 MG/ML Injection [Cinvanti]",
+              "synonym": "Cinvanti 130 MG per 18 ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2631788",
+              "name": "4.4 ML aprepitant 7.2 MG/ML Injection [Aponvie]",
+              "synonym": "4.4 ML Aponvie 7.2 MG/ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "404465",
+              "name": "aprepitant 80 MG Oral Capsule [Emend]",
+              "synonym": "Emend 80 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "404466",
+              "name": "aprepitant 125 MG Oral Capsule [Emend]",
+              "synonym": "Emend 125 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "644278",
+              "name": "aprepitant 40 MG Oral Capsule [Emend]",
+              "synonym": "Emend 40 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1729308",
+              "name": "aprepitant 125 MG Powder for Oral Suspension",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1995150",
+              "name": "18 ML aprepitant 7.2 MG/ML Injection",
+              "synonym": "aprepitant 130 MG per 18 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2631783",
+              "name": "4.4 ML aprepitant 7.2 MG/ML Injection",
+              "synonym": "aprepitant 32 MG per 4.4 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "403810",
+              "name": "aprepitant 80 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "403811",
+              "name": "aprepitant 125 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "644088",
+              "name": "aprepitant 40 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:28:04.150191",
+  "source": "RxNorm"
+}

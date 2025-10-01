@@ -1,0 +1,10 @@
+{
+  "query": "KOS-2187",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:07:08.317138",
+  "source": "RxNorm"
+}

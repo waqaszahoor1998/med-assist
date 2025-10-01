@@ -1,0 +1,10 @@
+{
+  "query": "3-[[(3R,4S,5S,6R)-7-Benzyl-4,5-dihydroxy-1,1-dioxo-3,6-bis(phenoxymethyl)-1,2,7-thiadiazepan-2-yl]methyl]-N-methylbenzamide",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:25:21.904181",
+  "source": "RxNorm"
+}

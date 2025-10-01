@@ -1,0 +1,10 @@
+{
+  "query": "S-8510",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:23:37.476567",
+  "source": "RxNorm"
+}

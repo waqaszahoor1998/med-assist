@@ -1,0 +1,10 @@
+{
+  "query": "AL-4623",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T04:30:50.375276",
+  "source": "RxNorm"
+}

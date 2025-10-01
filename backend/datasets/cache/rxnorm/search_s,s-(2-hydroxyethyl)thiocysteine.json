@@ -1,0 +1,10 @@
+{
+  "query": "S,S-(2-Hydroxyethyl)Thiocysteine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:29:49.483370",
+  "source": "RxNorm"
+}

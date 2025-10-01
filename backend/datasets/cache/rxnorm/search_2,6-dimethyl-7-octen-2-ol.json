@@ -1,0 +1,10 @@
+{
+  "query": "2,6-Dimethyl-7-Octen-2-Ol",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:50:13.842353",
+  "source": "RxNorm"
+}

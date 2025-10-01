@@ -1,0 +1,23 @@
+{
+  "drug_name": "Dihydroxyacetone",
+  "generic_name": [
+    "DIHYDROXYACETONE 10%"
+  ],
+  "brand_names": [
+    "GZE Tanning Cream"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    "For external use only."
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    "Apply evenly an abundant quantity over the entire body and reapply frequently,especially after swimming, toweling &perspiring. Strictly avoid the eye area."
+  ],
+  "indications": [
+    "Apply evenly an abundant quantity over the entire body and reapply frequently,especially after swimming, toweling & perspiring. Strictly avoid the eye area."
+  ],
+  "fetched_at": "2025-10-01T02:29:15.355089",
+  "source": "OpenFDA"
+}

@@ -1,0 +1,25 @@
+{
+  "drug_name": "Alcaftadine",
+  "generic_name": [
+    "ALCAFTADINE"
+  ],
+  "brand_names": [
+    "LASTACAFT"
+  ],
+  "drug_interactions": [],
+  "warnings": [],
+  "adverse_reactions": [
+    "6 ADVERSE REACTIONS The most common ocular adverse reactions, occurring in less than 4% of eyes treated with LASTACAFT \u00ae , were eye irritation, burning and/or stinging on instillation, eye redness, and eye pruritus. ( 6.1 ) To report SUSPECTED ADVERSE REACTIONS, contact Allergan at 1-800-678-1605 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice. The most frequent ocular adverse reactions, occurring in less than 4% of eyes treated with LASTACAFT \u00ae , were eye irritation, burning and/or stinging upon instillation, eye redness and eye pruritus. The most frequent non-ocular adverse reactions, occurring in less than 3% of subjects with eyes treated with LASTACAFT \u00ae , were nasopharyngitis and headache. Some of these events were similar to the underlying disease being studied. 6. 2 Postmarketing Experience The following adverse reactions have been identified during post-approval use of LASTACAFT \u00ae . Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. These reactions include eye discharge, eye swelling, erythema of eyelid, eyelid edema, lacrimation increased, vision blurred, hypersensitivity reactions including swelling of the face or allergic dermatitis, and somnolence."
+  ],
+  "contraindications": [
+    "4 CONTRAINDICATIONS LASTACAFT \u00ae is contraindicated in patients with hypersensitivity to any component in the product. Hypersensitivity ( 4 )"
+  ],
+  "dosage_administration": [
+    "2 DOSAGE AND ADMINISTRATION Instill one drop in each eye once daily. If more than 1 topical ophthalmic medicinal product is being used, each one should be administered at least 5 minutes apart. Instill one drop in each eye once daily. ( 2 )"
+  ],
+  "indications": [
+    "1 INDICATIONS AND USAGE LASTACAFT \u00ae is an H 1 histamine receptor antagonist indicated for the prevention of itching associated with allergic conjunctivitis. LASTACAFT \u00ae is an H 1 histamine receptor antagonist indicated for the prevention of itching associated with allergic conjunctivitis. ( 1 )"
+  ],
+  "fetched_at": "2025-10-01T16:35:44.945651",
+  "source": "OpenFDA"
+}

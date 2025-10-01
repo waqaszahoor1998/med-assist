@@ -1,0 +1,73 @@
+{
+  "query": "Tafenoquine",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2054102",
+              "name": "tafenoquine 100 MG Oral Tablet [Arakoda]",
+              "synonym": "Arakoda 100 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2109239",
+              "name": "tafenoquine 150 MG Oral Tablet [Krintafel]",
+              "synonym": "Krintafel 150 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2705375",
+              "name": "tafenoquine 100 MG Oral Tablet [Kodatef]",
+              "synonym": "Kodatef 100 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2054096",
+              "name": "tafenoquine 100 MG Oral Tablet",
+              "synonym": "tafenoquine (as tafenoquine succinate) 100 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2109233",
+              "name": "tafenoquine 150 MG Oral Tablet",
+              "synonym": "tafenoquine (as tafenoquine succinate) 150 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:27:15.032175",
+  "source": "RxNorm"
+}

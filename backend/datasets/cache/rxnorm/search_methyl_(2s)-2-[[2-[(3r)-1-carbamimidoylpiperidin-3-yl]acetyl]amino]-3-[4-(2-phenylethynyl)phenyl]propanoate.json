@@ -1,0 +1,10 @@
+{
+  "query": "Methyl (2S)-2-[[2-[(3R)-1-carbamimidoylpiperidin-3-yl]acetyl]amino]-3-[4-(2-phenylethynyl)phenyl]propanoate",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:43:12.664186",
+  "source": "RxNorm"
+}

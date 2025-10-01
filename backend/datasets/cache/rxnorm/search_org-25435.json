@@ -1,0 +1,10 @@
+{
+  "query": "ORG-25435",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:52:14.124699",
+  "source": "RxNorm"
+}

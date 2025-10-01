@@ -1,0 +1,140 @@
+{
+  "query": "Levomilnacipran",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1433250",
+              "name": "{2 (24 HR levomilnacipran 20 MG Extended Release Oral Capsule [Fetzima]) / 26 (24 HR levomilnacipran 40 MG Extended Release Oral Capsule [Fetzima]) } Pack [Fetzima Pack]",
+              "synonym": "Fetzima Titration Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2636818",
+              "name": "{2 (24 HR levomilnacipran 20 MG Extended Release Oral Capsule [Fetzima]) / 5 (24 HR levomilnacipran 40 MG Extended Release Oral Capsule [Fetzima]) } Pack [Fetzima Titration Sample Pack]",
+              "synonym": "Fetzima Titration Sample Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1433249",
+              "name": "{2 (24 HR levomilnacipran 20 MG Extended Release Oral Capsule) / 26 (24 HR levomilnacipran 40 MG Extended Release Oral Capsule) } Pack",
+              "synonym": "levomilnacipran 20 MG 24HR Extended Release Oral Capsule (2) / levomilnacipran 40 MG 24HR Extended Release Oral Capsule (26) Pack (Capsule)",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2636817",
+              "name": "{2 (24 HR levomilnacipran 20 MG Extended Release Oral Capsule) / 5 (24 HR levomilnacipran 40 MG Extended Release Oral Capsule) } Pack",
+              "synonym": "levomilnacipran 20 MG 24HR Extended Release Oral Capsule (2) / levomilnacipran 40 MG 24HR Extended Release Oral Capsule (5) Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1433223",
+              "name": "24 HR levomilnacipran 120 MG Extended Release Oral Capsule [Fetzima]",
+              "synonym": "24 HR Fetzima 120 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1433229",
+              "name": "24 HR levomilnacipran 20 MG Extended Release Oral Capsule [Fetzima]",
+              "synonym": "24 HR Fetzima 20 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1433235",
+              "name": "24 HR levomilnacipran 40 MG Extended Release Oral Capsule [Fetzima]",
+              "synonym": "24 HR Fetzima 40 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1433241",
+              "name": "24 HR levomilnacipran 80 MG Extended Release Oral Capsule [Fetzima]",
+              "synonym": "24 HR Fetzima 80 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1433217",
+              "name": "24 HR levomilnacipran 120 MG Extended Release Oral Capsule",
+              "synonym": "levomilnacipran 120 MG (as levomilnacipran hydrochloride 137.8 MG) 24 HR Extended Release Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1433227",
+              "name": "24 HR levomilnacipran 20 MG Extended Release Oral Capsule",
+              "synonym": "levomilnacipran 20 MG (as levomilnacipran hydrochloride 23 MG) 24 HR Extended Release Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1433233",
+              "name": "24 HR levomilnacipran 40 MG Extended Release Oral Capsule",
+              "synonym": "levomilnacipran 40 MG 24HR Extended Release Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1433239",
+              "name": "24 HR levomilnacipran 80 MG Extended Release Oral Capsule",
+              "synonym": "levomilnacipran 80 MG 24 HR Extended Release Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:07:37.421215",
+  "source": "RxNorm"
+}

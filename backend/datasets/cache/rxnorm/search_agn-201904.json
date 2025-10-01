@@ -1,0 +1,10 @@
+{
+  "query": "AGN-201904",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:34:45.293988",
+  "source": "RxNorm"
+}

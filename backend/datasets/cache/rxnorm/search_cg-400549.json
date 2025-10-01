@@ -1,0 +1,10 @@
+{
+  "query": "CG-400549",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:54:05.290429",
+  "source": "RxNorm"
+}

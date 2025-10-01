@@ -1,0 +1,10 @@
+{
+  "query": "({3-[1-(4-Hydroxy-2-oxo-2H-chromen-3-yl)-propyl]-phenylcarbamoyl}-methyl)-carbamic acid tert-butyl ester",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:57:49.428043",
+  "source": "RxNorm"
+}

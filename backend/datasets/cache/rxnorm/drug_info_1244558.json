@@ -1,0 +1,16 @@
+{
+  "rxcui": "1244558",
+  "properties": {
+    "properties": {
+      "rxcui": "1244558",
+      "name": "mitomycin 0.2 MG/ML Ophthalmic Solution [Mitosol]",
+      "synonym": "Mitosol 0.2 MG/ML Ophthalmic Solution",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T21:06:21.342142",
+  "source": "RxNorm"
+}

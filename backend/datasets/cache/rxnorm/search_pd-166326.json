@@ -1,0 +1,10 @@
+{
+  "query": "PD-166326",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:54:51.240184",
+  "source": "RxNorm"
+}

@@ -1,0 +1,80 @@
+{
+  "query": "Trichloroacetaldehyde",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD"
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "104680",
+              "name": "chloral hydrate 414 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "197458",
+              "name": "chloral hydrate 325 MG Rectal Suppository",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "197461",
+              "name": "chloral hydrate 650 MG Rectal Suppository",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "755618",
+              "name": "chloral hydrate 100 MG/ML Oral Solution",
+              "synonym": "chloral hydrate 500 MG per 5 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "755621",
+              "name": "chloral hydrate 50 MG/ML Oral Solution",
+              "synonym": "chloral hydrate 250 MG per 5 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "756273",
+              "name": "chloral hydrate 28.6 MG/ML Oral Solution",
+              "synonym": "chloral hydrate 143 MG per 5 ML Elixir",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T03:05:58.885147",
+  "source": "RxNorm"
+}

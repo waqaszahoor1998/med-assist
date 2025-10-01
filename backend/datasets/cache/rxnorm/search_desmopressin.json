@@ -1,0 +1,217 @@
+{
+  "query": "Desmopressin",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1723234",
+              "name": "1 ML desmopressin acetate 0.004 MG/ML Injection [DDAVP]",
+              "synonym": "DDAVP 40 MCG per 1 ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1797861",
+              "name": "desmopressin acetate 0.15 MG/ACTUAT Metered Dose Nasal Spray [Stimate]",
+              "synonym": "Stimate 0.15 MG/ACTUAT Metered Dose Nasal Spray",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1874130",
+              "name": "desmopressin acetate 0.00083 MG/ACTUAT Metered Dose Nasal Spray [Noctiva]",
+              "synonym": "Noctiva 0.83 MCG/ACTUAT Metered Dose Nasal Spray",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1991411",
+              "name": "desmopressin acetate 0.00166 MG/ACTUAT Metered Dose Nasal Spray [Noctiva]",
+              "synonym": "Noctiva 1.66 MCG/ACTUAT Metered Dose Nasal Spray",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2048718",
+              "name": "desmopressin acetate 0.0277 MG Sublingual Tablet [Nocdurna]",
+              "synonym": "Nocdurna 0.0277 MG Sublingual Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2048722",
+              "name": "desmopressin acetate 0.0553 MG Sublingual Tablet [Nocdurna]",
+              "synonym": "Nocdurna 0.0553 MG Sublingual Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "849503",
+              "name": "desmopressin acetate 0.004 MG/ML Injectable Solution [DDAVP]",
+              "synonym": "DDAVP 4 MCG/ML Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "849517",
+              "name": "desmopressin acetate 0.1 MG Oral Tablet [DDAVP]",
+              "synonym": "DDAVP 0.1 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "849522",
+              "name": "desmopressin acetate 0.1 MG/ML Nasal Solution [DDAVP]",
+              "synonym": "DDAVP 0.01 % Nasal Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "849524",
+              "name": "desmopressin acetate 0.2 MG Oral Tablet [DDAVP]",
+              "synonym": "DDAVP 0.2 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1723232",
+              "name": "1 ML desmopressin acetate 0.004 MG/ML Injection",
+              "synonym": "desmopressin acetate 4 MCG per 1 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1797859",
+              "name": "desmopressin acetate 0.15 MG/ACTUAT Metered Dose Nasal Spray",
+              "synonym": "desmopressin acetate 150 MCG/ACTUAT Metered Dose Nasal Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1874124",
+              "name": "desmopressin acetate 0.00083 MG/ACTUAT Metered Dose Nasal Spray",
+              "synonym": "desmopressin acetate 0.83 MCG/ACTUAT Metered Dose Nasal Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1874132",
+              "name": "desmopressin acetate 0.00166 MG/ACTUAT Metered Dose Nasal Spray",
+              "synonym": "desmopressin acetate 1.66 MCG/ACTUAT Metered Dose Nasal Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2048716",
+              "name": "desmopressin acetate 0.0277 MG Sublingual Tablet",
+              "synonym": "desmopressin acetate 27.7 MCG (desmopressin 25 MCG) Sublingual Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2048720",
+              "name": "desmopressin acetate 0.0553 MG Sublingual Tablet",
+              "synonym": "desmopressin acetate 55.3 MCG (desmopressin 50 MCG) Sublingual Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "833008",
+              "name": "desmopressin acetate 0.2 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "849501",
+              "name": "desmopressin acetate 0.004 MG/ML Injectable Solution",
+              "synonym": "desmopressin acetate 4 MCG/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "849506",
+              "name": "desmopressin acetate 0.01 MG/ACTUAT Nasal Spray",
+              "synonym": "desmopressin acetate 0.01 % Nasal Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "849515",
+              "name": "desmopressin acetate 0.1 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "849520",
+              "name": "desmopressin acetate 0.1 MG/ML Nasal Solution",
+              "synonym": "desmopressin acetate 0.01 % Nasal Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T20:55:17.579395",
+  "source": "RxNorm"
+}

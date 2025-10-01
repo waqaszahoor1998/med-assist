@@ -1,0 +1,10 @@
+{
+  "query": "Semagacestat",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:00:33.309156",
+  "source": "RxNorm"
+}

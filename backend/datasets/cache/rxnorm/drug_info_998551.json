@@ -1,0 +1,16 @@
+{
+  "rxcui": "998551",
+  "properties": {
+    "properties": {
+      "rxcui": "998551",
+      "name": "fluprednidene 1 MG/ML / miconazole nitrate 20 MG/ML Topical Cream",
+      "synonym": "fluprednidene 0.1 % / miconazole nitrate 2 % Topical Cream",
+      "tty": "SCD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T17:11:16.268472",
+  "source": "RxNorm"
+}

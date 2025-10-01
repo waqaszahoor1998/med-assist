@@ -1,0 +1,10 @@
+{
+  "query": "2-deoxy-2,3-dehydro-N-acetylneuraminic acid",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T04:36:05.793675",
+  "source": "RxNorm"
+}

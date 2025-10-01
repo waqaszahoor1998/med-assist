@@ -1,0 +1,361 @@
+{
+  "query": "Aluminum hydroxide",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1040048",
+              "name": "aluminum hydroxide 40 MG/ML / magnesium hydroxide 40 MG/ML / simethicone 4 MG/ML Oral Suspension [Milantex]",
+              "synonym": "Milantex (aluminum hydroxide 200 MG / milk of magnesia 200 MG / simethicone 20 MG) per 5 ML Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1086458",
+              "name": "aluminum hydroxide 80 MG / magnesium trisilicate 14.2 MG Chewable Tablet [Gaviscon Chewable]",
+              "synonym": "Gaviscon Chewable 80/14.2 Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1250282",
+              "name": "aluminum hydroxide 160 MG / magnesium carbonate 105 MG Chewable Tablet [Acid Gone]",
+              "synonym": "Acid Gone Extra Strength (aluminum hydroxide 160 MG / magnesium carbonate 105 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1251355",
+              "name": "aluminum hydroxide 6.33 MG/ML / magnesium carbonate 23.9 MG/ML Oral Suspension [Acid Gone]",
+              "synonym": "Acid Gone (aluminum hydroxide 95 MG / magnesium carbonate 358 MG) per 15 ML Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1251365",
+              "name": "aluminum hydroxide 6.33 MG/ML / magnesium carbonate 23.9 MG/ML Oral Suspension [Gaviscon]",
+              "synonym": "Gaviscon (aluminum hydroxide 95 MG / magnesium carbonate 358 MG) per 15 ML Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1441553",
+              "name": "aluminum hydroxide 0.00275 MG/MG Topical Ointment [Derma Gran]",
+              "synonym": "Derma Gran 0.275 % Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "210000",
+              "name": "aluminum hydroxide 80 MG/ML / magnesium hydroxide 80 MG/ML / simethicone 8 MG/ML Oral Suspension [Almacone]",
+              "synonym": "Almacone Double Strength 400 MG / 400 MG / 40 MG per 5 ML Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "210015",
+              "name": "aluminum hydroxide 40 MG/ML / magnesium hydroxide 40 MG/ML / simethicone 4 MG/ML Oral Suspension [Almacone]",
+              "synonym": "Almacone (aluminum hydroxide 40 MG/ML / magnesium hydroxide 40 MG/ML / simethicone 4 MG/ML) Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "210031",
+              "name": "aluminum hydroxide 40 MG/ML / magnesium hydroxide 40 MG/ML / simethicone 4 MG/ML Oral Suspension [Maalox Plus]",
+              "synonym": "Maalox Plus (aluminum hydroxide 40 MG / milk of magnesia 40 MG / simethicone 4 MG) per ML Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "210037",
+              "name": "aluminum hydroxide 40 MG/ML / magnesium hydroxide 40 MG/ML / simethicone 4 MG/ML Oral Suspension [Mintox Plus]",
+              "synonym": "Mintox Plus (aluminum hydroxide 40 MG/ML / magnesium hydroxide 40 MG/ML / simethicone 4 MG/ML) Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "211633",
+              "name": "aluminum hydroxide 200 MG / magnesium hydroxide 200 MG / simethicone 25 MG Chewable Tablet [Gelusil]",
+              "synonym": "Gelusil (aluminum hydroxide 200 MG / magnesium hydroxide 200 MG / simethicone 25 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "211637",
+              "name": "aluminum hydroxide 200 MG / magnesium hydroxide 200 MG / simethicone 25 MG Chewable Tablet [Mintox Plus]",
+              "synonym": "Mintox (aluminum hydroxide 200 MG / magnesium hydroxide 200 MG / simethicone 25 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "212978",
+              "name": "aluminum hydroxide 160 MG / magnesium carbonate 105 MG Chewable Tablet [Gaviscon]",
+              "synonym": "Gaviscon Extra Strength (aluminum hydroxide 160 MG / magnesium carbonate 105 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "404176",
+              "name": "aluminum hydroxide 80 MG/ML / magnesium hydroxide 80 MG/ML / simethicone 8 MG/ML Oral Suspension [Maalox Max]",
+              "synonym": "Maalox Max (aluminum hydroxide 400 MG / milk of magnesia 400 MG / simethicone 40 MG) per 5 ML Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "404472",
+              "name": "aluminum hydroxide 50.8 MG/ML / magnesium carbonate 47.5 MG/ML Oral Suspension [Gaviscon]",
+              "synonym": "Gaviscon Extra Strength Liquid (aluminum hydroxide 254 MG / magnesium carbonate 237.5 MG) per 5 ML Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "643496",
+              "name": "aluminum hydroxide 80 MG/ML / magnesium hydroxide 80 MG/ML / simethicone 8 MG/ML Oral Suspension [Comfort Gel]",
+              "synonym": "Comfort Gel (aluminum hydroxide 400 MG / magnesium hydroxide 400 MG / simethicone 40 MG) per 5 ML Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "708127",
+              "name": "aluminum hydroxide 80 MG/ML / magnesium hydroxide 80 MG/ML / simethicone 8 MG/ML Oral Suspension [Mintox Plus]",
+              "synonym": "Mintox (aluminum hydroxide 400 MG / milk of magnesia 400 MG / simethicone 40 MG) per 5 ML Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "104024",
+              "name": "aluminum hydroxide 600 MG / magnesium hydroxide 300 MG Oral Tablet",
+              "synonym": "aluminum hydroxide 600 MG / milk of magnesia 300 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1368022",
+              "name": "aluminum hydroxide 0.012 MG/MG Topical Ointment",
+              "synonym": "aluminum hydroxide 1.2 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1376207",
+              "name": "aluminum hydroxide 160 MG / magnesium hydroxide 105 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "237870",
+              "name": "aluminum hydroxide 80 MG/ML / magnesium hydroxide 80 MG/ML / simethicone 8 MG/ML Oral Suspension",
+              "synonym": "aluminum hydroxide 400 MG / magnesium hydroxide 400 MG / simethicone 40 MG per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "243447",
+              "name": "aluminum hydroxide 475 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "243449",
+              "name": "aluminum hydroxide 500 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "243463",
+              "name": "aluminum hydroxide 40 MG/ML / magnesium hydroxide 40 MG/ML Oral Suspension",
+              "synonym": "aluminum hydroxide 200 MG / milk of magnesia 200 MG per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "245001",
+              "name": "aluminum hydroxide 50.8 MG/ML / magnesium carbonate 47.5 MG/ML Oral Suspension",
+              "synonym": "aluminum hydroxide 254 MG / magnesium carbonate 237.5 MG per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "245346",
+              "name": "aluminum hydroxide 100 MG/ML / magnesium hydroxide 100 MG/ML Oral Suspension",
+              "synonym": "aluminum hydroxide 500 MG / milk of magnesia 500 MG per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "251288",
+              "name": "aluminum hydroxide 44 MG/ML / magnesium hydroxide 39 MG/ML Oral Suspension",
+              "synonym": "aluminum hydroxide 220 MG / milk of magnesia 195 MG per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "252203",
+              "name": "aluminum hydroxide 6.33 MG/ML / magnesium carbonate 23.9 MG/ML Oral Suspension",
+              "synonym": "aluminum hydroxide 32 MG / magnesium carbonate 119 MG per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "307746",
+              "name": "aluminum hydroxide 40 MG/ML / magnesium hydroxide 40 MG/ML / simethicone 4 MG/ML Oral Suspension",
+              "synonym": "aluminum hydroxide 200 MG / milk of magnesia 200 MG / dimethicone 20 MG per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "307747",
+              "name": "aluminum hydroxide 200 MG / magnesium hydroxide 200 MG / simethicone 25 MG Chewable Tablet",
+              "synonym": "aluminum hydroxide 200 MG / milk of magnesia 200 MG / simethicone 25 MG Chewable Tab",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308072",
+              "name": "aluminum hydroxide 160 MG / magnesium carbonate 105 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308078",
+              "name": "aluminum hydroxide 64 MG/ML Oral Suspension",
+              "synonym": "aluminum hydroxide 320 MG per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308085",
+              "name": "aluminum hydroxide 120 MG/ML / magnesium hydroxide 60 MG/ML Oral Suspension",
+              "synonym": "aluminum hydroxide 600 MG / milk of magnesia 300 MG per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308087",
+              "name": "aluminum hydroxide 80 MG / magnesium trisilicate 20 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "416994",
+              "name": "aluminum hydroxide 0.00275 MG/MG Topical Ointment",
+              "synonym": "aluminum hydroxide 0.275 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "422163",
+              "name": "aluminum hydroxide 35 MG/ML / magnesium hydroxide 40 MG/ML Oral Suspension",
+              "synonym": "aluminum hydroxide 175 MG / milk of magnesia 200 MG per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "731000",
+              "name": "aluminum hydroxide 80 MG / magnesium trisilicate 14.2 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:33:31.079316",
+  "source": "RxNorm"
+}

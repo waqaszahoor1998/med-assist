@@ -1,0 +1,10 @@
+{
+  "query": "CR665",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:53:40.577253",
+  "source": "RxNorm"
+}

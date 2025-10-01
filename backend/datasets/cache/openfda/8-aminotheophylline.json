@@ -1,0 +1,23 @@
+{
+  "drug_name": "8-Aminotheophylline",
+  "generic_name": [
+    "CUPRUM 8 SPECIAL ORDER"
+  ],
+  "brand_names": [
+    "Cuprum 8 Special Order"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    "Warnings: Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated. Do not use if allergic to any ingredient. Contains traces of lactose. Consult a doctor before use for serious conditions or if conditions worsen or persist. If pregnant or nursing, consult a doctor before use."
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    "Take the contents of one ampule under the tongue and hold for 30 seconds, then swallow."
+  ],
+  "indications": [
+    "Directions: FOR ORAL USE."
+  ],
+  "fetched_at": "2025-10-01T02:29:29.734563",
+  "source": "OpenFDA"
+}

@@ -1,0 +1,46 @@
+{
+  "query": "Ceftobiprole",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2703567",
+              "name": "ceftobiprole medocaril sodium 667 MG Injection [Zevtera]",
+              "synonym": "Zevtera 667 MG Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2703561",
+              "name": "ceftobiprole medocaril sodium 667 MG Injection",
+              "synonym": "ceftobiprole medocaril sodium 667 MG (equivalent to ceftobiprole 500 MG) Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T15:47:57.726924",
+  "source": "RxNorm"
+}

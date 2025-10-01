@@ -1,0 +1,57 @@
+{
+  "query": "Estetrol",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "2539032",
+              "name": "{24 (drospirenone 3 MG / estetrol 14.2 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Nextstellis 28 Day]",
+              "synonym": "Nextstellis 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "2539036",
+              "name": "{24 (drospirenone 3 MG / estetrol 14.2 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD"
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2539033",
+              "name": "drospirenone 3 MG / estetrol 14.2 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:46:51.858180",
+  "source": "RxNorm"
+}

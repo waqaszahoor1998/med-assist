@@ -1,0 +1,64 @@
+{
+  "query": "Clopidogrel",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "213169",
+              "name": "clopidogrel 75 MG Oral Tablet [Plavix]",
+              "synonym": "Plavix 75 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "749198",
+              "name": "clopidogrel 300 MG Oral Tablet [Plavix]",
+              "synonym": "Plavix 300 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "309362",
+              "name": "clopidogrel 75 MG Oral Tablet",
+              "synonym": "clopidogrel 75 MG (as clopidogrel bisulfate 97.875 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "749196",
+              "name": "clopidogrel 300 MG Oral Tablet",
+              "synonym": "clopidogrel 300 MG (as clopidogrel bisulfate 391.5 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:32:50.767714",
+  "source": "RxNorm"
+}

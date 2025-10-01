@@ -1,0 +1,10 @@
+{
+  "query": "N,N-[2,5-O-Dibenzyl-glucaryl]-DI-[1-amino-indan-2-OL]",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:34:13.202759",
+  "source": "RxNorm"
+}

@@ -1,0 +1,16 @@
+{
+  "rxcui": "1000000",
+  "properties": {
+    "properties": {
+      "rxcui": "1000000",
+      "name": "amlodipine 5 MG / hydrochlorothiazide 12.5 MG / olmesartan medoxomil 40 MG Oral Tablet [Tribenzor]",
+      "synonym": "Amlodipine 5 MG / HCTZ 12.5 MG / Olmesartan medoxomil 40 MG Oral Tablet [Tribenzor]",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T21:03:57.573141",
+  "source": "RxNorm"
+}

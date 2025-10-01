@@ -1,0 +1,16 @@
+{
+  "rxcui": "1116758",
+  "properties": {
+    "properties": {
+      "rxcui": "1116758",
+      "name": "chloroquine phosphate 500 MG Oral Tablet",
+      "synonym": "chloroquine phosphate 500 MG (chloroquine 300 MG) Oral Tablet",
+      "tty": "SCD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T21:24:30.603877",
+  "source": "RxNorm"
+}

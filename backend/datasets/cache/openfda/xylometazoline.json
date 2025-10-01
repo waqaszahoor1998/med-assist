@@ -1,0 +1,23 @@
+{
+  "drug_name": "Xylometazoline",
+  "generic_name": [
+    "XYLOMETAZOLINE HYDROCHLORIDE"
+  ],
+  "brand_names": [
+    "Metarivin Soln. 0.1%"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    "\u25a0 When using this product Stop use and ask a doctor if nervousness, diziness, or sleepness occur. Pain, nasal congestion or cough gets worse or lasts more than 7 days. fever gets worse or lasts more than 3 days New symtoms occur. keep out of reach of children. In case of overdose, get medical help or contact a poison contral center right away. If pregnant or breast-feeding, ask a health professional before use."
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    "for nasal use"
+  ],
+  "indications": [
+    "Adults and children 7 years and older: Spray into the nose 3 times a day"
+  ],
+  "fetched_at": "2025-10-01T16:31:00.546011",
+  "source": "OpenFDA"
+}

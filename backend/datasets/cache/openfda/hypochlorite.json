@@ -1,0 +1,23 @@
+{
+  "drug_name": "Hypochlorite",
+  "generic_name": [
+    "ALLIUM SATIVUM, ARSENICUM ALBUM, BENZOICUM ACIDUM, BERBERIS VULGARIS, BETULA VERRUCOSA, CALCAREA CARBONICA, CARBOLICUM ACIDUM, CHELIDONIUM MAJUS, CHLORINUM, CITRICUM ACIDUM, HISTAMINUM, ICHTHYOLUM, JUNIPERUS COMMUNIS, LYCOPODIUM CLAVATUM, MERCURIUS SOLUBILIS, NATRUM BICARBONICUM, SODIUM HYPOCHLORITE, SOLIDAGO VIRGAUREA, SULPHUR"
+  ],
+  "brand_names": [
+    "N03 EXCHEM"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    "Warnings: If pregnant or breastfeeding , ask a health professional before use. Do not use if clear seal over the cap is broken or missing. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Stop use and ask a doctor if headache, fatigue, swollen tonsils, nausea, dizziness, itching, coughing, burning pains, or other symptoms do not improve within 7 days or are accompanied by fever."
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    "Adults & children ages 12 years and over: Take 10 drops under the tongue 1-3 times a day, or as directed by your healthcare professional. Consult a physician for use in children under 12 years of age."
+  ],
+  "indications": [
+    "Uses: For temporary relief of minor: headache* fatigue* swollen tonsils* nausea* dizziness* itching* coughing* burning pains* *Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "fetched_at": "2025-10-01T17:45:26.165368",
+  "source": "OpenFDA"
+}

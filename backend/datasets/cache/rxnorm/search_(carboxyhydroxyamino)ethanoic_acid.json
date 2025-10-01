@@ -1,0 +1,10 @@
+{
+  "query": "(Carboxyhydroxyamino)Ethanoic Acid",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:19:45.782429",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "(5R,6S,7S,8S)-5-hydroxymethyl-6,7,8-trihydroxy-tetrazolo[1,5-A]piperidine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:50:56.036601",
+  "source": "RxNorm"
+}

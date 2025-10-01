@@ -1,0 +1,10 @@
+{
+  "query": "Nitroaspirin",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:59:17.866135",
+  "source": "RxNorm"
+}

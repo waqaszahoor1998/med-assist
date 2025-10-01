@@ -1,0 +1,10 @@
+{
+  "query": "Repinotan",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:23:44.895929",
+  "source": "RxNorm"
+}

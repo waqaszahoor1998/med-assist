@@ -1,0 +1,16 @@
+{
+  "rxcui": "1946651",
+  "properties": {
+    "properties": {
+      "rxcui": "1946651",
+      "name": "meropenem 1000 MG / vaborbactam 1000 MG Injection [Vabomere]",
+      "synonym": "Vabomere (meropenem / vaborbactam) 2 GM Injection",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T21:33:13.957105",
+  "source": "RxNorm"
+}

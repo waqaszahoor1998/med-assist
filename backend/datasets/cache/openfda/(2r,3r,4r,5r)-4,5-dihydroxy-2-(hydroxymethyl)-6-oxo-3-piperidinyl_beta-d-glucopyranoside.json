@@ -1,0 +1,21 @@
+{
+  "drug_name": "(2R,3R,4R,5R)-4,5-Dihydroxy-2-(hydroxymethyl)-6-oxo-3-piperidinyl beta-D-glucopyranoside",
+  "generic_name": [
+    "(2R,3R,4R,5R)-4,5-Dihydroxy-2-(hydroxymethyl)-6-oxo-3-piperidinyl beta-D-glucopyranoside"
+  ],
+  "brand_names": [],
+  "drug_interactions": [],
+  "warnings": [
+    "Warning"
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    "24g/powder"
+  ],
+  "indications": [
+    "Fluids metabolism smooth Blood metabolism smooth Reducing body fat Elimination of waste in blood Remove swelling Acquiring gastrointestinal satisfaction Reducing food intake"
+  ],
+  "fetched_at": "2025-10-01T06:28:40.515722",
+  "source": "OpenFDA"
+}

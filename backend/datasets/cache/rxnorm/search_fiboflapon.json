@@ -1,0 +1,10 @@
+{
+  "query": "Fiboflapon",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:18:57.015719",
+  "source": "RxNorm"
+}

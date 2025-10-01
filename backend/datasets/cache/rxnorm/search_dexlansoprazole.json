@@ -1,0 +1,82 @@
+{
+  "query": "Dexlansoprazole",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1736034",
+              "name": "dexlansoprazole 30 MG Disintegrating Oral Tablet [Dexilant]",
+              "synonym": "Dexilant 30 MG Disintegrating Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "902624",
+              "name": "dexlansoprazole 30 MG Delayed Release Oral Capsule [Dexilant]",
+              "synonym": "Dexilant 30 MG Delayed Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "902626",
+              "name": "dexlansoprazole 60 MG Delayed Release Oral Capsule [Dexilant]",
+              "synonym": "Dexilant 60 MG Delayed Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1736031",
+              "name": "dexlansoprazole 30 MG Disintegrating Oral Tablet",
+              "synonym": "dexlansoprazole 30 MG Disintegrating Delayed Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "833204",
+              "name": "dexlansoprazole 30 MG Delayed Release Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "833213",
+              "name": "dexlansoprazole 60 MG Delayed Release Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T15:56:48.926441",
+  "source": "RxNorm"
+}

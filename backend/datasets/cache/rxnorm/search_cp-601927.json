@@ -1,0 +1,10 @@
+{
+  "query": "CP-601927",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:47:33.306495",
+  "source": "RxNorm"
+}

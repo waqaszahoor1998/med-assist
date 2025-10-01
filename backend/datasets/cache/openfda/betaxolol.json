@@ -1,0 +1,27 @@
+{
+  "drug_name": "Betaxolol",
+  "generic_name": [
+    "BETAXOLOL HYDROCHLORIDE"
+  ],
+  "brand_names": [
+    "Betoptic S"
+  ],
+  "drug_interactions": [
+    "7 DRUG INTERACTIONS Oral beta-adrenergic receptor inhibitors may have additive effects. (7.1 ) Catecholamine-depleting drugs may have additive effects. ( 7.2 ) Concomitant adrenergic psychotropic drugs may have additive effects. ( 7.3 ) 7.1 Oral Beta-Adrenergic Receptor Inhibitors Patients who are receiving a beta-adrenergic receptor inhibitor orally and BETOPTIC S should be observed for a potential additive effect either on the IOP or on the known systemic effects of beta blockade. 7.2 Catecholamine-Depleting Drugs Close observation of the patient is recommended when a beta-adrenergic receptor inhibitor is administered to patients receiving catecholamine-depleting drugs, such as reserpine, because of possible additive effects and the production of hypotension and/or bradycardia, which may result in vertigo, syncope, or postural hypotension. 7.3 Concomitant Adrenergic Psychotropic Drugs Betaxolol is an adrenergic receptor inhibitor; therefore, caution should be exercised in patients using concomitant adrenergic psychotropic drugs. 7.4 Calcium Antagonists, Antiarrhythmics and Digitalis The concomitant use of a beta-adrenergic receptor inhibitor with calcium antagonists, antiarrhythmics (including amiodarone) or digitalis may have additive effects resulting in hypotension and/or marked bradycardia."
+  ],
+  "warnings": [],
+  "adverse_reactions": [
+    "6 ADVERSE REACTIONS The most frequent adverse reaction is transient ocular discomfort. ( 6.1 ) To report SUSPECTED ADVERSE REACTIONS, contact Novartis Pharmaceuticals Corporation at 1-888-669-6682 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch . 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. In clinical trials, the most frequent adverse reaction associated with the use of BETOPTIC S has been transient ocular discomfort. The following other adverse reactions have been reported in small numbers of patients: Ocular: blurred vision, corneal punctate keratitis, foreign body sensation, photophobia, tearing, itching, dryness of eyes, erythema, inflammation, discharge, ocular pain, decreased visual acuity, and crusty lashes. Systemic Adverse Reactions Include : Cardiovascular: Bradycardia, heart block, and congestive failure. Pulmonary: Pulmonary distress characterized by dyspnea, bronchospasm, thickened bronchial secretions, asthma, and respiratory failure. Central Nervous System: Insomnia, dizziness, vertigo, headaches, depression, lethargy, and increase in signs, and symptoms of myasthenia gravis. Other: Hives, toxic epidermal necrolysis, hair loss and glossitis. Perversions of taste and smell have been reported. In a 3-month, double-masked, active-controlled, multicenter study in pediatric patients, the adverse reaction profile of BETOPTIC S was comparable to that seen in adult patients. 6.2 Additional Potential Adverse Reactions Associated With Betaxolol Additional medical events reported with other formulations of betaxolol include allergic reactions, decreased corneal sensitivity, corneal punctate staining which may appear in dendritic formation, edema, and anisocoria."
+  ],
+  "contraindications": [
+    "4 CONTRAINDICATIONS BETOPTIC S is contraindicated in patients with: sinus bradycardia greater than a first degree atrioventricular (AV) block cardiogenic shock patients with overt cardiac failure hypersensitivity to any component of this product Hypersensitivity to any component of this product. ( 4 ) Sinus bradycardia, second or third degree atrioventricular (AV) block, overt cardiac failure, and cardiogenic shock. ( 4 )"
+  ],
+  "dosage_administration": [
+    "2 DOSAGE AND ADMINISTRATION Instill one drop of BETOPTIC S in the affected eye(s) twice daily. Shake well before using. BETOPTIC S may be used alone or in combination with other IOP lowering medications. Advise patients requiring concomitant topical ophthalmic medications to administer these at least 10 minutes before instilling BETOPTIC S. Instill one drop in the affected eye(s) twice daily. ( 2 )"
+  ],
+  "indications": [
+    "1 INDICATIONS AND USAGE BETOPTIC S \u00ae (betaxolol hydrochloride ophthalmic suspension) 0.25% is indicated for the treatment of elevated intraocular pressure (IOP) in patients with chronic open-angle glaucoma or ocular hypertension. BETOPTIC S is a beta-adrenergic receptor inhibitor indicated for the treatment of elevated intraocular pressure (IOP) in patients with chronic open-angle glaucoma or ocular hypertension. ( 1 )"
+  ],
+  "fetched_at": "2025-09-30T21:00:53.623496",
+  "source": "OpenFDA"
+}

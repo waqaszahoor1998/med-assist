@@ -1,0 +1,10 @@
+{
+  "query": "N-[(6-butoxynaphthalen-2-yl)sulfonyl]-D-glutamic acid",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:53:06.345349",
+  "source": "RxNorm"
+}

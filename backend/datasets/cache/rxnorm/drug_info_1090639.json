@@ -1,0 +1,16 @@
+{
+  "rxcui": "1090639",
+  "properties": {
+    "properties": {
+      "rxcui": "1090639",
+      "name": "alanine 8.8 MG/ML / arginine 4.89 MG/ML / calcium chloride 0.004 MEQ/ML / dibasic potassium phosphate 2.61 MG/ML / glucose 100 MG/ML / glycine 4.38 MG/ML / histidine 2.04 MG/ML / isoleucine 2.55 MG/ML / leucine 3.11 MG/ML / lysine 2.47 MG/ML / magnesium chloride 0.01 MEQ/ML / methionine 1.7 MG/ML / phenylalanine 2.38 MG/ML / proline 2.89 MG/ML / serine 2.13 MG/ML / sodium acetate trihydrate 2.97 MG/ML / sodium chloride 0.013 MEQ/ML / threonine 1.79 MG/ML / tryptophan 0.77 MG/ML / tyrosine 0.17 MG/ML / valine 2.47 MG/ML Injectable Solution [Clinimix E 4.25/10]",
+      "synonym": "Clinimix E 4.25/10 (4.25 % amino acids with electrolytes in dextrose 10 % ) Injectable Solution",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T20:57:05.759712",
+  "source": "RxNorm"
+}

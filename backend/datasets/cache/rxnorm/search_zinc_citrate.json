@@ -1,0 +1,100 @@
+{
+  "query": "Zinc citrate",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1114342",
+              "name": "ascorbic acid 60 MG / biotin 0.3 MG / folic acid 0.8 MG / mecobalamin 0.006 MG / niacinamide 20 MG / pantothenate 10 MG / pyridoxine 10 MG / riboflavin 1.7 MG / thiamine 1.5 MG / zinc citrate 50 MG Oral Tablet [Dialyvite 800 with Zinc]",
+              "synonym": "Dialyvite 800 with Zinc 50 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "826653",
+              "name": "ascorbic acid 60 MG / biotin 0.3 MG / folic acid 0.8 MG / mecobalamin 0.006 MG / niacinamide 20 MG / pantothenate 10 MG / pyridoxine 10 MG / riboflavin 1.7 MG / thiamine 1.5 MG / zinc citrate 15 MG Oral Tablet [Dialyvite 800 with Zinc]",
+              "synonym": "Dialyvite 800 with Zinc 15 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1358170",
+              "name": "chromium, chelated 0.2 MG / manganese gluconate 5 MG / zinc citrate 25 MG Oral Tablet",
+              "synonym": "chromium amino acid chelate 200 MCG / manganese gluconate 5 MG / zinc chelate 25 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "253000",
+              "name": "beta sitosterol 300 MG / zinc citrate 15 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "411556",
+              "name": "zinc citrate 30 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "411557",
+              "name": "zinc citrate 50 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "826650",
+              "name": "ascorbic acid 60 MG / biotin 0.3 MG / folic acid 0.8 MG / mecobalamin 0.006 MG / niacinamide 20 MG / pantothenate 10 MG / pyridoxine 10 MG / riboflavin 1.7 MG / thiamine 1.5 MG / zinc citrate 15 MG Oral Tablet",
+              "synonym": "vit-C 60 MG / Biotin 0.3 MG / folate 0.8 MG / mecobalamin 0.006 MG / Niacinamide 20 MG / pantothenate 10 MG / vit-B6 10 MG / Riboflavin 1.7 MG / vit-B1 1.5 MG / ZINC CITRATE 15 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "826656",
+              "name": "ascorbic acid 60 MG / biotin 0.3 MG / folic acid 0.8 MG / mecobalamin 0.006 MG / niacinamide 20 MG / pantothenate 10 MG / pyridoxine 10 MG / riboflavin 1.7 MG / thiamine 1.5 MG / zinc citrate 50 MG Oral Tablet",
+              "synonym": "vit-C 60 MG / Biotin 0.3 MG / folate 0.8 MG / mecobalamin 0.006 MG / Niacinamide 20 MG / pantothenate 10 MG / vit-B6 10 MG / Riboflavin 1.7 MG / vit-B1 1.5 MG / ZINC CITRATE 50 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:47:23.009786",
+  "source": "RxNorm"
+}

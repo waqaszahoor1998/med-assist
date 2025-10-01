@@ -1,0 +1,199 @@
+{
+  "query": "Phenyl salicylate",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1037236",
+              "name": "benzoic acid 9 MG / hyoscyamine sulfate 0.12 MG / methenamine 81.6 MG / methylene blue 10.8 MG / phenyl salicylate 36.2 MG Oral Tablet [Hyophen]",
+              "synonym": "Hyophen (benzoic acid 9 MG / hyoscyamine sulfate 0.12 MG / methenamine 81.6 MG / methylene blue 10.8 MG / phenyl salicylate 36.2 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1047791",
+              "name": "hyoscyamine sulfate 0.12 MG / methenamine 81.6 MG / methylene blue 10.8 MG / phenyl salicylate 36.2 MG / sodium phosphate, monobasic 40.8 MG Oral Tablet [Phosphasal]",
+              "synonym": "Phosphasal (hyoscyamine sulfate 0.12 MG / methenamine 81.6 MG / methylene blue 10.8 MG / phenyl salicylate 36.2 MG / sodium phosphate, monobasic 40.8 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1047795",
+              "name": "hyoscyamine sulfate 0.12 MG / methenamine 81.6 MG / methylene blue 10.8 MG / phenyl salicylate 36.2 MG / sodium phosphate, monobasic 40.8 MG Oral Tablet [Utira]",
+              "synonym": "Utira-C (hyoscyamine sulfate 0.12 MG / methenamine 81.6 MG / methylene blue 10.8 MG / phenyl salicylate 36.2 MG / sodium phosphate, monobasic 40.8 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1048340",
+              "name": "hyoscyamine sulfate 0.12 MG / methenamine 81 MG / methylene blue 10.8 MG / phenyl salicylate 32.4 MG / sodium phosphate, monobasic 40.8 MG Oral Tablet [Urelle]",
+              "synonym": "Urelle (hyoscyamine sulfate 0.12 MG / methenamine 81 MG / methylene blue 10.8 MG / phenyl salicylate 32.4 MG / sodium phosphate, monobasic 40.8 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1087367",
+              "name": "hyoscyamine sulfate 0.12 MG / methenamine 118 MG / methylene blue 10 MG / phenyl salicylate 36 MG / sodium phosphate, monobasic 40.8 MG Oral Capsule [Uribel]",
+              "synonym": "Uribel (hyoscyamine sulfate 0.12 MG / methenamine 118 MG / methylene blue 10 MG / phenyl salicylate 36 MG / sodium phosphate, monobasic 40.8 MG) Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1087457",
+              "name": "hyoscyamine sulfate 0.12 MG / methenamine 81.6 MG / methylene blue 10.8 MG / phenyl salicylate 36.2 MG / sodium phosphate, monobasic 40.8 MG Oral Tablet [Uretron DS]",
+              "synonym": "Uretron D-S (hyoscyamine sulfate 0.12 MG / methenamine 81.6 MG / methylene blue 10.8 MG / phenyl salicylate 36.2 MG / sodium phosphate, monobasic 40.8 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1101637",
+              "name": "hyoscyamine sulfate 0.12 MG / methenamine 120 MG / methylene blue 10 MG / phenyl salicylate 36 MG / sodium phosphate, monobasic 40.8 MG Oral Capsule [Ustell]",
+              "synonym": "Ustell (hyoscyamine sulfate 0.12 MG / methenamine 120 MG / methylene blue 10 MG / phenyl salicylate 36 MG / sodium phosphate, monobasic 40.8 MG) Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1245492",
+              "name": "benzoic acid 9 MG / hyoscyamine sulfate 0.12 MG / methenamine 81.6 MG / methylene blue 10.8 MG / phenyl salicylate 36.2 MG Oral Tablet [Prosed DS]",
+              "synonym": "Prosed DS (benzoic acid 9 MG / hyoscyamine sulfate 0.12 MG / methenamine 81.6 MG / methylene blue 10.8 MG / phenyl salicylate 36.2 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1440875",
+              "name": "hyoscyamine sulfate 0.12 MG / methenamine 120 MG / methylene blue 10.8 MG / phenyl salicylate 36.2 MG / sodium phosphate, monobasic 40.8 MG Oral Tablet [Urimar Reformulated Oct 2013]",
+              "synonym": "Urimar-T (Hyoscyamine Sulfate 0.12 MG / Methenamine 120 MG / Methylene blue 10.8 MG / phenyl salicylate 36.2 MG / Sodium Phosphate, Monobasic 40.8 MG) Oral Tablet, Reformulated Oct 2013",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1547952",
+              "name": "hyoscyamine sulfate 0.12 MG / methenamine 81.6 MG / methylene blue 10.8 MG / phenyl salicylate 36.2 MG / sodium phosphate, monobasic 40.8 MG Oral Tablet [Urin DS]",
+              "synonym": "Urin DS (hyoscyamine sulfate 0.12 MG / methenamine 81.6 MG / methylene blue 10.8 MG / phenyl salicylate 36.2 MG / sodium phosphate, monobasic 40.8 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2640308",
+              "name": "hyoscyamine sulfate 0.12 MG / methenamine 120 MG / methylene blue 10.8 MG / phenyl salicylate 36.2 MG / sodium phosphate, monobasic 40.8 MG Oral Capsule [Urimar Reformulated Oct 2013]",
+              "synonym": "Urimar-T (hyoscyamine sulfate 0.12 MG / methenamine 120 MG / methylene blue 10.8 MG / phenyl salicylate 36.2 MG / sodium phosphate, monobasic 40.8 MG) Oral Capsule, reformulated Oct 2013",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2670308",
+              "name": "benzoic acid 9 MG / hyoscyamine sulfate 0.12 MG / methenamine 81.6 MG / methylene blue 10.8 MG / phenyl salicylate 36.2 MG Oral Tablet [Uribel Tabs]",
+              "synonym": "Uribel Tabs (benzoic acid 9 MG / hyoscyamine sulfate 0.12 MG / methenamine 81.6 MG / methylene blue 10.8 MG / phenyl salicylate 36.2 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1037234",
+              "name": "benzoic acid 9 MG / hyoscyamine sulfate 0.12 MG / methenamine 81.6 MG / methylene blue 10.8 MG / phenyl salicylate 36.2 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1047786",
+              "name": "hyoscyamine sulfate 0.12 MG / methenamine 81.6 MG / methylene blue 10.8 MG / phenyl salicylate 36.2 MG / sodium phosphate, monobasic 40.8 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1048307",
+              "name": "hyoscyamine sulfate 0.12 MG / methenamine 120 MG / methylene blue 10 MG / phenyl salicylate 36 MG / sodium phosphate, monobasic 40.8 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1048336",
+              "name": "hyoscyamine sulfate 0.12 MG / methenamine 81 MG / methylene blue 10.8 MG / phenyl salicylate 32.4 MG / sodium phosphate, monobasic 40.8 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1087365",
+              "name": "hyoscyamine sulfate 0.12 MG / methenamine 118 MG / methylene blue 10 MG / phenyl salicylate 36 MG / sodium phosphate, monobasic 40.8 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1440869",
+              "name": "hyoscyamine sulfate 0.12 MG / methenamine 120 MG / methylene blue 10.8 MG / phenyl salicylate 36.2 MG / sodium phosphate, monobasic 40.8 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2637557",
+              "name": "hyoscyamine sulfate 0.12 MG / methenamine 120 MG / methylene blue 10.8 MG / phenyl salicylate 36.2 MG / sodium phosphate, monobasic 40.8 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:42:45.976701",
+  "source": "RxNorm"
+}

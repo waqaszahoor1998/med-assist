@@ -1,0 +1,10 @@
+{
+  "query": "MKC-1",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:02:06.894202",
+  "source": "RxNorm"
+}

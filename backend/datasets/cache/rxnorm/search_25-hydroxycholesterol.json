@@ -1,0 +1,10 @@
+{
+  "query": "25-Hydroxycholesterol",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:37:34.502225",
+  "source": "RxNorm"
+}

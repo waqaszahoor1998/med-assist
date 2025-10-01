@@ -1,0 +1,16 @@
+{
+  "rxcui": "1244636",
+  "properties": {
+    "properties": {
+      "rxcui": "1244636",
+      "name": "betamethasone valerate 1.2 MG/ML Topical Foam [Luxiq]",
+      "synonym": "Luxiq 0.12 % Topical Foam",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T21:13:31.939196",
+  "source": "RxNorm"
+}

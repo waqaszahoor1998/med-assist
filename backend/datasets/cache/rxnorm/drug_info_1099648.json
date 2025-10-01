@@ -1,0 +1,16 @@
+{
+  "rxcui": "1099648",
+  "properties": {
+    "properties": {
+      "rxcui": "1099648",
+      "name": "5 ML valproic acid 100 MG/ML Injection",
+      "synonym": "5 ML VPA 100 MG/ML Injection",
+      "tty": "SCD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T21:06:59.907794",
+  "source": "RxNorm"
+}

@@ -1,0 +1,118 @@
+{
+  "query": "Bosutinib",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1307630",
+              "name": "bosutinib 100 MG Oral Tablet [Bosulif]",
+              "synonym": "Bosulif 100 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1307635",
+              "name": "bosutinib 500 MG Oral Tablet [Bosulif]",
+              "synonym": "Bosulif 500 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1987734",
+              "name": "bosutinib 400 MG Oral Tablet [Bosulif]",
+              "synonym": "Bosulif 400 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2672326",
+              "name": "bosutinib 100 MG Oral Capsule [Bosulif]",
+              "synonym": "Bosulif 100 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2672328",
+              "name": "bosutinib 50 MG Oral Capsule [Bosulif]",
+              "synonym": "Bosulif 50 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1307624",
+              "name": "bosutinib 100 MG Oral Tablet",
+              "synonym": "bosutinib 100 MG (as bosutinib monohydrate 103.4 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1307633",
+              "name": "bosutinib 500 MG Oral Tablet",
+              "synonym": "bosutinib 500 MG (as bosutinib monohydrate 516.98 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1987732",
+              "name": "bosutinib 400 MG Oral Tablet",
+              "synonym": "bosutinib 400 MG (as bosutinib monohydrate 413.6 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2669663",
+              "name": "bosutinib 100 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2669665",
+              "name": "bosutinib 50 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:27:38.916038",
+  "source": "RxNorm"
+}

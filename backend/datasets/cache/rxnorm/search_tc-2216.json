@@ -1,0 +1,10 @@
+{
+  "query": "TC-2216",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:08:39.635445",
+  "source": "RxNorm"
+}

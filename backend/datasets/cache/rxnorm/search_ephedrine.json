@@ -1,0 +1,343 @@
+{
+  "query": "Ephedrine",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1116102",
+              "name": "ephedrine hydrochloride 12.5 MG / guaifenesin 200 MG Oral Tablet [Primatene with ephedrine & guaifenesin]",
+              "synonym": "Primatene (ephedrine hydrochloride 12.5 MG / guaifenesin 200 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1116148",
+              "name": "ephedrine sulfate 25 MG / guaifenesin 400 MG Oral Tablet [Bronkaid]",
+              "synonym": "Bronkaid 25/400 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1796730",
+              "name": "1 ML ephedrine sulfate 50 MG/ML Injection [Akovaz]",
+              "synonym": "Akovaz 50 MG per 1 ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2368461",
+              "name": "10 ML ephedrine sulfate 5 MG/ML Injection [Emerphed]",
+              "synonym": "10 ML Emerphed 5 MG/ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2396449",
+              "name": "ephedrine sulfate 25 MG Oral Tablet [Bronkaid Max]",
+              "synonym": "Bronkaid Max 25 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2560090",
+              "name": "5 ML ephedrine hydrochloride 4.7 MG/ML Injection [Rezipres]",
+              "synonym": "Rezipres 23.5 MG per 5 ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2586845",
+              "name": "5 ML ephedrine sulfate 5 MG/ML Prefilled Syringe [Akovaz]",
+              "synonym": "5 ML Akovaz 5 MG/ML Prefilled Syringe",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2591390",
+              "name": "ephedrine hydrochloride 12.5 MG Oral Tablet [Primatene with ephedrine]",
+              "synonym": "Primatene with ephedrine 12.5 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2631015",
+              "name": "5 ML ephedrine sulfate 5 MG/ML Prefilled Syringe [Emerphed]",
+              "synonym": "Emerphed 25 MG per 5 ML Prefilled Syringe",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2631018",
+              "name": "10 ML ephedrine sulfate 5 MG/ML Prefilled Syringe [Emerphed]",
+              "synonym": "Emerphed 50 MG per 10 ML Prefilled Syringe",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2671680",
+              "name": "10 ML ephedrine hydrochloride 4.7 MG/ML Injection [Rezipres]",
+              "synonym": "10 ML Rezipres 4.7 MG/ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1115979",
+              "name": "ephedrine hydrochloride 0.8 MG/ML Oral Solution",
+              "synonym": "ephedrine hydrochloride 4 MG per 5 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1115981",
+              "name": "ephedrine sulfate 10 MG/ML Injectable Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1115985",
+              "name": "ephedrine hydrochloride 10 MG/ML Nasal Solution",
+              "synonym": "ephedrine hydrochloride 1 % Nasal Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1115987",
+              "name": "ephedrine hydrochloride 11 MG / theophylline 120 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1115991",
+              "name": "ephedrine hydrochloride 12.5 MG / guaifenesin 200 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1115993",
+              "name": "ephedrine sulfate 15 MG / theophylline 120 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1115995",
+              "name": "ephedrine hydrochloride 15 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1116115",
+              "name": "ephedrine sulfate 2.5 MG/ML Nasal Spray",
+              "synonym": "ephedrine sulfate 0.25 % Nasal Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1116145",
+              "name": "ephedrine hydrochloride 25 MG / guaifenesin 200 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1116146",
+              "name": "ephedrine sulfate 25 MG / guaifenesin 400 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1116160",
+              "name": "ephedrine hydrochloride 3 MG/ML Oral Solution",
+              "synonym": "ephedrine hydrochloride 15 MG per 5 ML Elixir",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1116191",
+              "name": "ephedrine sulfate 25 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1116194",
+              "name": "ephedrine sulfate 25 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1116196",
+              "name": "ephedrine hydrochloride 3 MG/ML Injectable Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1116231",
+              "name": "ephedrine hydrochloride 30 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1116233",
+              "name": "ephedrine hydrochloride 30 MG/ML Injectable Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1116285",
+              "name": "ephedrine hydrochloride 5 MG/ML Nasal Solution",
+              "synonym": "ephedrine hydrochloride 0.5 % Nasal Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1116294",
+              "name": "1 ML ephedrine sulfate 50 MG/ML Injection",
+              "synonym": "ephedrine sulfate 50 MG per 1 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2368456",
+              "name": "10 ML ephedrine sulfate 5 MG/ML Injection",
+              "synonym": "ephedrine sulfate 50 MG per 10 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2534871",
+              "name": "ephedrine hydrochloride 12.5 MG Oral Tablet",
+              "synonym": "ephedrine HCl 12.5 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2560085",
+              "name": "5 ML ephedrine hydrochloride 4.7 MG/ML Injection",
+              "synonym": "ephedrine hydrochloride 23.5 MG per 5 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2586841",
+              "name": "5 ML ephedrine sulfate 5 MG/ML Prefilled Syringe",
+              "synonym": "ephedrine sulfate 25 MG (equivalent to 19 MG ephedrine) per 5 ML Prefilled Syringe",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2631017",
+              "name": "10 ML ephedrine sulfate 5 MG/ML Prefilled Syringe",
+              "synonym": "ephedrine sulfate 50 MG per 10 ML Prefilled Syringe",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2671679",
+              "name": "10 ML ephedrine hydrochloride 4.7 MG/ML Injection",
+              "synonym": "ephedrine hydrochloride 47 MG per 10 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T23:36:59.442583",
+  "source": "RxNorm"
+}

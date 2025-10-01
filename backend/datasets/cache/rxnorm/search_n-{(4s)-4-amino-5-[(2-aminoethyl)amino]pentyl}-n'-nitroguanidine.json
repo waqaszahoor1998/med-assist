@@ -1,0 +1,10 @@
+{
+  "query": "N-{(4S)-4-Amino-5-[(2-aminoethyl)amino]pentyl}-N'-nitroguanidine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:40:08.780914",
+  "source": "RxNorm"
+}

@@ -1,0 +1,16 @@
+{
+  "rxcui": "210238",
+  "properties": {
+    "properties": {
+      "rxcui": "210238",
+      "name": "gallium nitrate 25 MG/ML Injectable Solution [Ganite]",
+      "synonym": "Ganite 25 MG/ML Injectable Solution",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T15:55:26.111503",
+  "source": "RxNorm"
+}

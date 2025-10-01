@@ -1,0 +1,23 @@
+{
+  "drug_name": "PHA-793887",
+  "generic_name": [
+    "SOME BY MI AHA BHA PHA 30 DAYS MIRACLE ACNE CLEAR FOAM"
+  ],
+  "brand_names": [
+    "SOME BY MI AHA BHA PHA 30 DAYS MIRACLE ACNE CLEAR FOAM"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    "For external use only"
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    "DOSAGE & ADMINISTRATION"
+  ],
+  "indications": [
+    "\u25a0 For the treatment of acne \u25a0 Clears acne pimples \u25a0 Helps prevent new acne pimples from forming."
+  ],
+  "fetched_at": "2025-10-01T19:12:24.135635",
+  "source": "OpenFDA"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "2-[3-(5-Mercapto-[1,3,4]thiadiazol-2-yl)-ureido]-N-methyl-3-phenyl-propionamide",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:44:57.794880",
+  "source": "RxNorm"
+}

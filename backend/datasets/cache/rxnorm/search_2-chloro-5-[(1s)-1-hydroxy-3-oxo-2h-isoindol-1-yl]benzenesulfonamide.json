@@ -1,0 +1,10 @@
+{
+  "query": "2-chloro-5-[(1S)-1-hydroxy-3-oxo-2H-isoindol-1-yl]benzenesulfonamide",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:52:39.305072",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "(2E,3S)-3-hydroxy-5'-[(4-hydroxypiperidin-1-yl)sulfonyl]-3-methyl-1,3-dihydro-2,3'-biindol-2'(1'H)-one",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:48:39.873055",
+  "source": "RxNorm"
+}

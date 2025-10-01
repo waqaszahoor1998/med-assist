@@ -1,0 +1,27 @@
+{
+  "drug_name": "Prednisolone",
+  "generic_name": [
+    "PREDNISOLONE ACETATE"
+  ],
+  "brand_names": [
+    "PRED FORTE"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    "WARNINGS Prolonged use of corticosteroids may result in posterior subcapsular cataract formation and may increase intraocular pressure in susceptible individuals, resulting in glaucoma with damage to the optic nerve, defects in visual acuity and fields of vision. Prolonged use may also suppress the host immune response and thus increase the hazard of secondary ocular infections. If this product is used for 10 days or longer, intraocular pressure should be routinely monitored even though it may be difficult in children and uncooperative patients. Steroids should be used with caution in the presence of glaucoma. Intraocular pressure should be checked frequently. Various ocular diseases and long-term use of topical corticosteroids have been known to cause corneal and scleral thinning. Use of topical corticosteroids in the presence of thin corneal or scleral tissue may lead to perforation. Acute purulent infections of the eye may be masked or activity enhanced by the presence of corticosteroid medication. The use of steroids after cataract surgery may delay healing and increase the incidence of bleb formation. Use of ocular steroids may prolong the course and may exacerbate the severity of many viral infections of the eye (including herpes simplex). Employment of a corticosteroid medication in the treatment of patients with a history of herpes simplex requires great caution; frequent slit lamp microscopy is recommended. PRED FORTE \u00ae suspension contains sodium bisulfite, a sulfite that may cause allergic-type reactions, including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people. The overall prevalence of sulfite sensitivity in the general population is unknown and probably low. Sulfite sensitivity is seen more frequently in asthmatic than in non-asthmatic people."
+  ],
+  "adverse_reactions": [
+    "ADVERSE REACTIONS The following adverse reactions have been identified during use of PRED FORTE \u00ae . Because reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Adverse reactions include elevation of intraocular pressure (IOP) with possible development of glaucoma and infrequent optic nerve damage, posterior subcapsular cataract formation, and delayed wound healing. The development of secondary ocular infection (bacterial, fungal, and viral) has occurred. Fungal and viral infections of the cornea are particularly prone to develop coincidentally with long-term applications of steroids. The possibility of fungal invasion should be considered in any persistent corneal ulceration where steroid treatment has been used (see PRECAUTIONS ). Other adverse reactions reported with the use of prednisolone acetate ophthalmic suspension include: allergic reactions; dysgeusia; eye pain; foreign body sensation; headache; pruritus; rash; transient burning and stinging upon instillation and other minor symptoms of ocular irritation; urticaria; and visual disturbance (blurry vision). Keratitis, conjunctivitis, corneal ulcers, mydriasis, conjunctival hyperemia, loss of accommodation and ptosis have occasionally been reported following local use of corticosteroids. Corticosteroid-containing preparations have also been reported to cause acute anterior uveitis and perforation of the globe."
+  ],
+  "contraindications": [
+    "CONTRAINDICATIONS PRED FORTE \u00ae suspension is contraindicated in acute untreated purulent ocular infections, in most viral diseases of the cornea and conjunctiva including epithelial herpes simplex keratitis (dendritic keratitis), vaccinia, and varicella, and also in mycobacterial infection of the eye and fungal diseases of ocular structures. PRED FORTE \u00ae suspension is also contraindicated in individuals with known or suspected hypersensitivity to any of the ingredients of this preparation and to other corticosteroids."
+  ],
+  "dosage_administration": [
+    "DOSAGE AND ADMINISTRATION Shake well before using. Instill one to two drops into the conjunctival sac two to four times daily. During the initial 24 to 48 hours, the dosing frequency may be increased if necessary. Care should be taken not to discontinue therapy prematurely. If signs and symptoms fail to improve after 2 days, the patient should be re-evaluated (see PRECAUTIONS )."
+  ],
+  "indications": [
+    "INDICATIONS AND USAGE PRED FORTE \u00ae is indicated for the treatment of steroid-responsive inflammation of the palpebral and bulbar conjunctiva, cornea, and anterior segment of the globe."
+  ],
+  "fetched_at": "2025-09-30T22:11:03.895956",
+  "source": "OpenFDA"
+}

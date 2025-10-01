@@ -1,0 +1,10 @@
+{
+  "query": "Latrunculin A",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:04:52.621706",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "PG-701",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:48:03.865305",
+  "source": "RxNorm"
+}

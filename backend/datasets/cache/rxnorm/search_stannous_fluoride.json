@@ -1,0 +1,208 @@
+{
+  "query": "Stannous fluoride",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1037030",
+              "name": "stannous fluoride 0.004 MG/MG Oral Gel [Doctor's Choice]",
+              "synonym": "Doctor's Choice 0.4 % Oral Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1037034",
+              "name": "stannous fluoride 0.004 MG/MG Oral Gel [Kid's Choice]",
+              "synonym": "Kid's Choice 0.4 % Oral Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1192947",
+              "name": "stannous fluoride 0.004 MG/MG Oral Gel [Omni Gel]",
+              "synonym": "Omni Gel 0.4 % Oral Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1435516",
+              "name": "stannous fluoride 6.3 MG/ML Mouthwash [Gelato Perio Rinse]",
+              "synonym": "Gelato Perio Rinse 6.3 MG/ML Mouthwash",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1654969",
+              "name": "stannous fluoride 1 MG/ML Mouthwash [MedActive Rinse]",
+              "synonym": "MedActive Rinse 1 MG/ML Mouthwash",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "630265",
+              "name": "stannous fluoride 6.3 MG/ML Mouthwash [Dental Resources Perio Maintenance Rinse]",
+              "synonym": "Dental Resources Perio Maintenance Rinse 6.3 MG/ML Mouthwash",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "630287",
+              "name": "stannous fluoride 6.3 MG/ML Mouthwash [Stangard]",
+              "synonym": "Stangard 6.3 MG/ML Mouthwash",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "630303",
+              "name": "stannous fluoride 16.4 MG/ML Mouthwash [Dental Resources brand of Stannous Fluoride]",
+              "synonym": "Dental Resources brand of Stannous Fluoride 1.64 % Mouthwash",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "750088",
+              "name": "stannous fluoride 0.004 MG/MG Oral Gel [Gel-Kam]",
+              "synonym": "Gel-Kam 0.4 % Oral Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "750094",
+              "name": "stannous fluoride 0.004 MG/MG Oral Gel [Perfect Choice]",
+              "synonym": "Perfect Choice 0.4 % Oral Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "750100",
+              "name": "stannous fluoride 6.3 MG/ML Mouthwash [Gel-Kam]",
+              "synonym": "Gel-Kam 0.63 % Mouthwash",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "750102",
+              "name": "stannous fluoride 6.3 MG/ML Mouthwash [Gingi Med]",
+              "synonym": "Gingimed 0.63 % Oral Rinse",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "750104",
+              "name": "stannous fluoride 6.3 MG/ML Mouthwash [Perio Med]",
+              "synonym": "Perio Med 6.3 MG/ML Mouthwash",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1654967",
+              "name": "stannous fluoride 1 MG/ML Mouthwash",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "237847",
+              "name": "stannous fluoride 0.004 MG/MG Oral Gel",
+              "synonym": "stannous fluoride 0.4 % (fluoride ion 0.16 % ) Oral Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "260225",
+              "name": "stannous fluoride 11 MG/ML Paste",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "416784",
+              "name": "stannous fluoride 0.00454 MG/MG Toothpaste",
+              "synonym": "stannous fluoride 0.454 % (fluoride ion 0.14 % ) Toothpaste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "486247",
+              "name": "stannous fluoride 16.4 MG/ML Mouthwash",
+              "synonym": "stannous fluoride 1.64 % (fluoride ion 1.6 % ) Mouthwash",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "583459",
+              "name": "stannous fluoride 6.3 MG/ML Mouthwash",
+              "synonym": "stannous fluoride 0.63 % Dental Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "831735",
+              "name": "stannous fluoride 11 MG/ML Oral Cream",
+              "synonym": "stannous fluoride 1.1 % Oral Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:43:58.501048",
+  "source": "RxNorm"
+}

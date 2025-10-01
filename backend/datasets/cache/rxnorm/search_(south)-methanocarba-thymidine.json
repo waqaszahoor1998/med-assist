@@ -1,0 +1,10 @@
+{
+  "query": "(South)-Methanocarba-Thymidine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:18:05.959419",
+  "source": "RxNorm"
+}

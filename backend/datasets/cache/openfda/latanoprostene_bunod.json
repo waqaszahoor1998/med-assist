@@ -1,0 +1,25 @@
+{
+  "drug_name": "Latanoprostene bunod",
+  "generic_name": [
+    "LATANOPROSTENE BUNOD OPHTHALMIC SOLUTION, 0.024%"
+  ],
+  "brand_names": [
+    "Latanoprostene Bunod Ophthalmic Solution, 0.024%"
+  ],
+  "drug_interactions": [],
+  "warnings": [],
+  "adverse_reactions": [
+    "6 ADVERSE REACTIONS The following adverse reactions are described elsewhere in the labeling: \u2022 Pigmentation [ see Warnings and Precautions (5.1) ] \u2022 Eyelash Changes [ see Warnings and Precautions (5.2) ] \u2022 Intraocular Inflammation [ see Warnings and Precautions (5.3) ] \u2022 Macular Edema [ see Warnings and Precautions (5.4) ] \u2022 Bacterial Keratitis [ see Warnings and Precautions (5.5) ] \u2022 Use with Contact Lens [ see Warnings and Precautions (5.6 )] Most common ocular adverse reactions with incidence \u2265 2% are conjunctival hyperemia (6%), eye irritation (4%), eye pain (3%), and instillation site pain (2%). ( 6.1 ) To report SUSPECTED ADVERSE REACTIONS, contact Gland Pharma at (609) 250-7990 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. Latanoprostene bunod ophthalmic solution was evaluated in 811 patients in 2 controlled clinical trials of up to 12 months duration. The most common ocular adverse reactions observed in patients treated with latanoprostene bunod were: conjunctival hyperemia (6%), eye irritation (4%), eye pain (3%), and instillation site pain (2%). Approximately 0.6% of patients discontinued therapy due to ocular adverse reactions including ocular hyperemia, conjunctival irritation, eye irritation, eye pain, conjunctival edema, vision blurred, punctate keratitis and foreign body sensation."
+  ],
+  "contraindications": [
+    "4 CONTRAINDICATIONS None. None."
+  ],
+  "dosage_administration": [
+    "2 DOSAGE AND ADMINISTRATION The recommended dosage is one drop in the conjunctival sac of the affected eye(s) once daily in the evening. Do not administer latanoprostene bunod ophthalmic solution, 0.024% more than once daily since it has been shown that more frequent administration of prostaglandin analogs may lessen the intraocular pressure lowering effect. If latanoprostene bunod ophthalmic solution is to be used concomitantly with other topical ophthalmic drug products to lower intraocular pressure, administer each drug product at least five (5) minutes apart. One drop in the affected eye(s) once daily in the evening."
+  ],
+  "indications": [
+    "1 INDICATIONS AND USAGE Latanoprostene bunod ophthalmic solution, 0.024% is indicated for the reduction of intraocular pressure (IOP) in patients with open-angle glaucoma or ocular hypertension. Latanoprostene bunod ophthalmic solution is a prostaglandin analog indicated for the reduction of intraocular pressure in patients with open-angle glaucoma or ocular hypertension."
+  ],
+  "fetched_at": "2025-10-01T18:12:23.730457",
+  "source": "OpenFDA"
+}

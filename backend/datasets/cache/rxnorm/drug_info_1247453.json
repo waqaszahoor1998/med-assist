@@ -1,0 +1,16 @@
+{
+  "rxcui": "1247453",
+  "properties": {
+    "properties": {
+      "rxcui": "1247453",
+      "name": "fluorescein sodium 2.5 MG/ML / proparacaine hydrochloride 5 MG/ML Ophthalmic Solution [Fluoracaine]",
+      "synonym": "Fluoracaine (fluorescein sodium 0.25 % / proparacaine hydrochloride 0.5 % ) Ophthalmic Drops",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T21:29:07.719703",
+  "source": "RxNorm"
+}

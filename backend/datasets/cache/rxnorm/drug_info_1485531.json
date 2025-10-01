@@ -1,0 +1,16 @@
+{
+  "rxcui": "1485531",
+  "properties": {
+    "properties": {
+      "rxcui": "1485531",
+      "name": "alpha tocopherol 30 UNT / ascorbic acid 25 MG / cholecalciferol 170 UNT / doconexent 265 MG / docusate sodium 55 MG / ferrous fumarate 30 MG / folic acid 1.2 MG / pyridoxine hydrochloride 25 MG / tricalcium phosphate 160 MG Oral Capsule",
+      "synonym": "alpha Tocopherol 30 UNT / vit-C 25 MG / Cholecalciferol 170 UNT / doconexent 265 MG / DOSS Sodium 55 MG / Ferrous fumarate 30 MG / folate 1.2 MG / vit-B6 Hydrochloride 25 MG / tricalcium phosphate 160 MG Oral Capsule",
+      "tty": "SCD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T03:55:53.016787",
+  "source": "RxNorm"
+}

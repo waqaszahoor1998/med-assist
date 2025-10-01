@@ -1,0 +1,10 @@
+{
+  "query": "3,8,9,10-tetrahydroxy-7-hydroxymethyl-6-oxa-1,3-diaza-spiro[4.5]decane-2,4-dione",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:57:51.454091",
+  "source": "RxNorm"
+}

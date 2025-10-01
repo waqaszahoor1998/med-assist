@@ -1,0 +1,10 @@
+{
+  "query": "Amphomycin",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:04:30.123249",
+  "source": "RxNorm"
+}

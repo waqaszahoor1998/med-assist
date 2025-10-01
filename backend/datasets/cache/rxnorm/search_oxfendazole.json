@@ -1,0 +1,46 @@
+{
+  "query": "Oxfendazole",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1095405",
+              "name": "oxfendazole 225 MG/ML Oral Suspension [Synanthic]",
+              "synonym": "Synanthic 225 MG/ML Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "855508",
+              "name": "oxfendazole 225 MG/ML Oral Suspension",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:00:56.696775",
+  "source": "RxNorm"
+}

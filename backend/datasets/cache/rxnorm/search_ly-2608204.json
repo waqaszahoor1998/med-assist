@@ -1,0 +1,10 @@
+{
+  "query": "LY-2608204",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:50:18.263550",
+  "source": "RxNorm"
+}

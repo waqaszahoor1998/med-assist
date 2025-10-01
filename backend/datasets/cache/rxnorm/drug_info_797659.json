@@ -1,0 +1,16 @@
+{
+  "rxcui": "797659",
+  "properties": {
+    "properties": {
+      "rxcui": "797659",
+      "name": "3 ML samarium Sm153 50 MCI/ML Injection [Quadramet]",
+      "synonym": "Quadramet 50 MCI/ML per 3 ML Injection",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T18:56:58.584350",
+  "source": "RxNorm"
+}

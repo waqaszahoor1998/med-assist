@@ -1,0 +1,44 @@
+{
+  "query": "Benzydamine",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD"
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1236084",
+              "name": "benzydamine hydrochloride 1.5 MG/ML Oral Spray",
+              "synonym": "benzydamine hydrochloride 0.15 % Oral Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1236091",
+              "name": "benzydamine hydrochloride 30 MG/ML Topical Cream",
+              "synonym": "benzydamine hydrochloride 3 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:19:28.208804",
+  "source": "RxNorm"
+}

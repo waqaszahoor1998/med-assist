@@ -1,0 +1,10 @@
+{
+  "query": "alpha-maltotriose",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:34:46.786581",
+  "source": "RxNorm"
+}

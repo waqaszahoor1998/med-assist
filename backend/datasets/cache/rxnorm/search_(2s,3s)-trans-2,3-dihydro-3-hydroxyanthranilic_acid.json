@@ -1,0 +1,10 @@
+{
+  "query": "(2s,3s)-Trans-2,3-Dihydro-3-Hydroxyanthranilic Acid",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:43:59.916933",
+  "source": "RxNorm"
+}

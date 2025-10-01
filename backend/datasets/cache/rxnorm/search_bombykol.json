@@ -1,0 +1,10 @@
+{
+  "query": "Bombykol",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:21:25.820146",
+  "source": "RxNorm"
+}

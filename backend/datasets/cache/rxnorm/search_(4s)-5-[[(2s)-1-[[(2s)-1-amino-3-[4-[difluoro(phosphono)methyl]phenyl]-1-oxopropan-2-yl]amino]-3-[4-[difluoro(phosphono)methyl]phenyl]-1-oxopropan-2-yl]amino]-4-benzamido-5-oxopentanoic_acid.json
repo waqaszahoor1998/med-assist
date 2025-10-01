@@ -1,0 +1,10 @@
+{
+  "query": "(4S)-5-[[(2S)-1-[[(2S)-1-Amino-3-[4-[difluoro(phosphono)methyl]phenyl]-1-oxopropan-2-yl]amino]-3-[4-[difluoro(phosphono)methyl]phenyl]-1-oxopropan-2-yl]amino]-4-benzamido-5-oxopentanoic acid",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:44:24.068282",
+  "source": "RxNorm"
+}

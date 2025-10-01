@@ -1,0 +1,10 @@
+{
+  "query": "(3R)-4-(p-toluenesulfonyl)-1,4-thiazane-3-carboxylicacid-L-phenylalanine ethyl ester",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T01:38:17.889026",
+  "source": "RxNorm"
+}

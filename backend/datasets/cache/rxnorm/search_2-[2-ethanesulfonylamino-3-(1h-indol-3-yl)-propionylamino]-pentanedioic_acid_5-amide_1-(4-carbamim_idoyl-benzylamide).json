@@ -1,0 +1,10 @@
+{
+  "query": "2-[2-ETHANESULFONYLAMINO-3-(1H-INDOL-3-YL)-PROPIONYLAMINO]-PENTANEDIOIC ACID 5-AMIDE 1-(4-CARBAMIM IDOYL-BENZYLAMIDE)",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:40:06.380620",
+  "source": "RxNorm"
+}

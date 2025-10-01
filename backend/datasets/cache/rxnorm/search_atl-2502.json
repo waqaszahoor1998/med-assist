@@ -1,0 +1,10 @@
+{
+  "query": "ATL-2502",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:56:41.876693",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Argadin",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:20:25.528763",
+  "source": "RxNorm"
+}

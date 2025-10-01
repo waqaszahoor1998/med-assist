@@ -1,0 +1,10 @@
+{
+  "query": "Zinc;[amino-[2-[[5-[amino(azaniumylidene)methyl]benzimidazol-1-id-2-yl]methyl]benzimidazol-1-id-5-yl]methylidene]azanium",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T04:36:39.315613",
+  "source": "RxNorm"
+}

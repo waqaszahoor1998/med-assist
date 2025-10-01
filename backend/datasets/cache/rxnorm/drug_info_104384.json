@@ -1,0 +1,16 @@
+{
+  "rxcui": "104384",
+  "properties": {
+    "properties": {
+      "rxcui": "104384",
+      "name": "ramipril 2.5 MG Oral Capsule [Altace]",
+      "synonym": "Altace 2.5 MG Oral Capsule",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T20:59:38.976421",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "S-(Dimethylarsenic)Cysteine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T04:34:55.052838",
+  "source": "RxNorm"
+}

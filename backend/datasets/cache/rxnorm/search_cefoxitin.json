@@ -1,0 +1,82 @@
+{
+  "query": "Cefoxitin",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1665105",
+              "name": "cefoxitin 1000 MG Injection [Mefoxin]",
+              "synonym": "Mefoxin 1 GM Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1665109",
+              "name": "cefoxitin 2000 MG Injection [Mefoxin]",
+              "synonym": "Mefoxin 2 GM Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1665102",
+              "name": "cefoxitin 1000 MG Injection",
+              "synonym": "cefoxitin 1 GM Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1665107",
+              "name": "cefoxitin 2000 MG Injection",
+              "synonym": "cefoxitin 2 GM Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1739890",
+              "name": "cefoxitin 100 MG/ML Injectable Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "309072",
+              "name": "cefoxitin 200 MG/ML Injectable Solution",
+              "synonym": "cefoxitin (as cefoxitin sodium) 200 MG/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T23:32:32.786377",
+  "source": "RxNorm"
+}

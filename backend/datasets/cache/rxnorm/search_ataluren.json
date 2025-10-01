@@ -1,0 +1,10 @@
+{
+  "query": "Ataluren",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:51:00.539175",
+  "source": "RxNorm"
+}

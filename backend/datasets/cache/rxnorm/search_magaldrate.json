@@ -1,0 +1,55 @@
+{
+  "query": "Magaldrate",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1086970",
+              "name": "magaldrate 108 MG/ML / simethicone 8 MG/ML Oral Suspension [Ri-Mag Plus]",
+              "synonym": "Ri-Mag Plus 540 MG / 40 MG per 5 ML Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "249681",
+              "name": "magaldrate 80 MG/ML Oral Suspension",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "311415",
+              "name": "magaldrate 108 MG/ML / simethicone 8 MG/ML Oral Suspension",
+              "synonym": "magaldrate 540 MG / simethicone 40 MG per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:09:00.943500",
+  "source": "RxNorm"
+}

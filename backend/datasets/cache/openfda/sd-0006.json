@@ -1,0 +1,23 @@
+{
+  "drug_name": "SD-0006",
+  "generic_name": [
+    "SD ALCOHOL"
+  ],
+  "brand_names": [
+    "CoreTex Antibacterial Hand Sanitizer"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    "Warnings: For external use only. Flammable. Do not use near heat, flame or while smoking. When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water. Avoid contact with broken skin. Do not inhale or ingest. Stop use and ask a doctor if irritation or rash appears and lasts. Keep out of reach of children. If swallowed, get help or contact a Poison Control Center right away."
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    "Directions: Put enough product in your palm to cover hands and rub hands together briskly until dry."
+  ],
+  "indications": [
+    "Uses: Hand Sanitizer to help reduce bacteria on the skin."
+  ],
+  "fetched_at": "2025-10-01T16:51:28.977500",
+  "source": "OpenFDA"
+}

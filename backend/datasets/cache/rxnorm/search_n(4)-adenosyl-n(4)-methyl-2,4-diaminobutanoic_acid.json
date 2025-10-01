@@ -1,0 +1,10 @@
+{
+  "query": "N(4)-Adenosyl-N(4)-methyl-2,4-diaminobutanoic acid",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:43:20.138685",
+  "source": "RxNorm"
+}

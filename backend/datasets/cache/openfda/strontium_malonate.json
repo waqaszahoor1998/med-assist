@@ -1,0 +1,23 @@
+{
+  "drug_name": "Strontium malonate",
+  "generic_name": [
+    "STRONTIUM OXYDATUM"
+  ],
+  "brand_names": [
+    "Strontium Oxydatum"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    ""
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    ""
+  ],
+  "indications": [
+    ""
+  ],
+  "fetched_at": "2025-10-01T16:04:17.543803",
+  "source": "OpenFDA"
+}

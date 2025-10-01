@@ -1,0 +1,24 @@
+{
+  "query": "M-Cresol",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD"
+        },
+        {
+          "tty": "SCD"
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T02:29:24.756329",
+  "source": "RxNorm"
+}

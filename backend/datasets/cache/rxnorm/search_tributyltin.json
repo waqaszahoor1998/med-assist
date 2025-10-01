@@ -1,0 +1,10 @@
+{
+  "query": "Tributyltin",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:57:00.306395",
+  "source": "RxNorm"
+}

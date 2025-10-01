@@ -1,0 +1,46 @@
+{
+  "query": "Difluprednate",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "804547",
+              "name": "difluprednate 0.5 MG/ML Ophthalmic Suspension [Durezol]",
+              "synonym": "DUREZOL 0.05 % Ophthalmic Emulsion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "804544",
+              "name": "difluprednate 0.5 MG/ML Ophthalmic Suspension",
+              "synonym": "difluprednate 0.05 % Ophthalmic Emulsion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:37:06.291155",
+  "source": "RxNorm"
+}

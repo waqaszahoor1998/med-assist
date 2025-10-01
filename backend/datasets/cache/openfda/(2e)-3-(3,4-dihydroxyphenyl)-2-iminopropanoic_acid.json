@@ -1,0 +1,23 @@
+{
+  "drug_name": "(2E)-3-(3,4-DIHYDROXYPHENYL)-2-IMINOPROPANOIC ACID",
+  "generic_name": [
+    "POVIDONE-IODINE"
+  ],
+  "brand_names": [
+    "Lights Povindone Iodine Scrub"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    "Warnings: Do not use if allergic to iodine For external use only Do not use in eyes Avoid pooling beneath patient. Prolonged exposure to wet solution may cause skiin irritation."
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    "Directions: Apply locally as needed."
+  ],
+  "indications": [
+    "Use: Antiseptic skin preparation"
+  ],
+  "fetched_at": "2025-10-01T16:51:46.472650",
+  "source": "OpenFDA"
+}

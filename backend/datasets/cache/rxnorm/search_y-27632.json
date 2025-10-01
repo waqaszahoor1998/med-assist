@@ -1,0 +1,10 @@
+{
+  "query": "Y-27632",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:59:23.395752",
+  "source": "RxNorm"
+}

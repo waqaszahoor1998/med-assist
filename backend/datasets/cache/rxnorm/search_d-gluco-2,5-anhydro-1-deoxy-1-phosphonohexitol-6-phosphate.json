@@ -1,0 +1,10 @@
+{
+  "query": "D-Gluco-2,5-Anhydro-1-Deoxy-1-Phosphonohexitol-6-Phosphate",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:55:48.192232",
+  "source": "RxNorm"
+}

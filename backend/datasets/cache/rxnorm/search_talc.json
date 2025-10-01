@@ -1,0 +1,109 @@
+{
+  "query": "Talc",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2003398",
+              "name": "talc 2000 MG Topical Powder [Steritalc]",
+              "synonym": "Steritalc 2000 MG Topical Powder",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2003402",
+              "name": "talc 3000 MG Topical Powder [Steritalc]",
+              "synonym": "Steritalc 3000 MG Topical Powder",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2003405",
+              "name": "talc 4000 MG Topical Powder [Steritalc]",
+              "synonym": "Steritalc 4000 MG Topical Powder",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "546480",
+              "name": "talc 4000 MG Powder Spray [Sclerosol]",
+              "synonym": "Sclerosol 4 GM Intrapleural Powder Spray",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2003393",
+              "name": "talc 2000 MG Topical Powder",
+              "synonym": "talc 2 GM Powder for Intrapleural Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2003400",
+              "name": "talc 3000 MG Topical Powder",
+              "synonym": "talc 3 GM Powder for Intrapleural Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2003403",
+              "name": "talc 4000 MG Topical Powder",
+              "synonym": "talc 4 GM Powder for Intrapleural Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "546477",
+              "name": "talc 4000 MG Powder Spray",
+              "synonym": "talc, sterile, 4 GM Intrapleural Powder Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "876229",
+              "name": "talc 5000 MG Topical Powder",
+              "synonym": "talc 5 GM Intrapleural Powder",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:40:51.722767",
+  "source": "RxNorm"
+}

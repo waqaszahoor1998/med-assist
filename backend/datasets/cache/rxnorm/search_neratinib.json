@@ -1,0 +1,46 @@
+{
+  "query": "Neratinib",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1940654",
+              "name": "neratinib 40 MG Oral Tablet [Nerlynx]",
+              "synonym": "Nerlynx 40 MG (as neratinib maleate 48.31 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1940648",
+              "name": "neratinib 40 MG Oral Tablet",
+              "synonym": "neratinib 40 MG (as neratinib maleate 48.31 mg) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:23:03.287929",
+  "source": "RxNorm"
+}

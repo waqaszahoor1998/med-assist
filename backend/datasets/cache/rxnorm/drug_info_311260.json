@@ -1,0 +1,16 @@
+{
+  "rxcui": "311260",
+  "properties": {
+    "properties": {
+      "rxcui": "311260",
+      "name": "lactose 250 MG Oral Capsule",
+      "synonym": "",
+      "tty": "SCD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T15:26:15.503462",
+  "source": "RxNorm"
+}

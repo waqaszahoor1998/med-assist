@@ -1,0 +1,10 @@
+{
+  "query": "(S)-Aspartimide",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:44:38.357520",
+  "source": "RxNorm"
+}

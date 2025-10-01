@@ -1,0 +1,10 @@
+{
+  "query": "GSK-690693",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:15:11.155358",
+  "source": "RxNorm"
+}

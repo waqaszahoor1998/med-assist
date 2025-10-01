@@ -1,0 +1,10 @@
+{
+  "query": "FKB-001",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:16:35.387207",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "2-[2-(4-Chloro-Phenylsulfanyl)-Acetylamino]-3-(4-Guanidino-Phenyl)-Propionamide",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:43:02.038745",
+  "source": "RxNorm"
+}

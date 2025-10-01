@@ -1,0 +1,25 @@
+{
+  "drug_name": "Exametazime",
+  "generic_name": [
+    "TECHNETIUM TC-99M EXAMETAZIME"
+  ],
+  "brand_names": [
+    "CERETEC"
+  ],
+  "drug_interactions": [],
+  "warnings": [],
+  "adverse_reactions": [
+    "ADVERSE REACTIONS Rash with generalized erythema, facial edema and fever has been reported in less than 1% of patients. A transient increase in blood pressure was seen in 8% of patients."
+  ],
+  "contraindications": [
+    "CONTRAINDICATIONS None known."
+  ],
+  "dosage_administration": [
+    "DOSAGE AND ADMINISTRATION Tc99m labeled leukocytes for adjunctive localization of intra-abdominal infection or inflammation. The normal adult (70 kg) dose is 0.259-0.925 GBq (7-25 mCi) as Tc99m labeled leukocytes by intravenous injection. Optimal planar imaging is between 2-4 hours. Cerebral Scintigraphy The recommended dose range for i.v. administration, of reconstituted sodium pertechnetate Tc99m exametazime in the average adult (70 kg) is 370-740 MBq (10-20 mCi). Dynamic imaging may be performed between 0 to 10 minutes following injection. Static imaging may be performed from 15 minutes up to 6 hours after injection."
+  ],
+  "indications": [
+    "INDICATIONS AND USAGE Technetium Tc99m exametazime scintigraphy may be useful as an adjunct in the detection of altered regional cerebral perfusion in stroke. Tc99m exametazime is indicated for leukocyte labeled scintigraphy as an adjunct in the localization of intra-abdominal infection and inflammatory bowel disease."
+  ],
+  "fetched_at": "2025-10-01T17:48:31.525799",
+  "source": "OpenFDA"
+}

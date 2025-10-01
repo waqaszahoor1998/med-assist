@@ -1,0 +1,16 @@
+{
+  "rxcui": "1191264",
+  "properties": {
+    "properties": {
+      "rxcui": "1191264",
+      "name": "fluocinolone acetonide 0.1 MG/ML / hydroquinone 40 MG/ML / tretinoin 0.5 MG/ML Topical Cream [Tri-Luma]",
+      "synonym": "Tri-Luma (fluocinolone acetonide 0.01 % / hydroquinone 4 % / tretinoin 0.05 % ) Topical Cream",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T21:32:34.172084",
+  "source": "RxNorm"
+}

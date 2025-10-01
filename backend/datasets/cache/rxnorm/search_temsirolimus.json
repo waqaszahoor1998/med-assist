@@ -1,0 +1,46 @@
+{
+  "query": "Temsirolimus",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "725108",
+              "name": "1.2 ML temsirolimus 25 MG/ML Injection [Torisel]",
+              "synonym": "Torisel 25 MG/ML per 1.2 ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "722289",
+              "name": "1.2 ML temsirolimus 25 MG/ML Injection",
+              "synonym": "temsirolimus 25 MG/ML per 1.2 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:17:15.752183",
+  "source": "RxNorm"
+}

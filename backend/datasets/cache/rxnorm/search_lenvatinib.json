@@ -1,0 +1,212 @@
+{
+  "query": "Lenvatinib",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1604350",
+              "name": "{30 (lenvatinib 10 MG Oral Capsule [Lenvima]) / 30 (lenvatinib 4 MG Oral Capsule [Lenvima]) } Pack [Lenvima 14]",
+              "synonym": "Lenvima 14 MG Daily Dose 30 Day Supply Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1604352",
+              "name": "{60 (lenvatinib 10 MG Oral Capsule [Lenvima]) / 30 (lenvatinib 4 MG Oral Capsule [Lenvima]) } Pack [Lenvima 24]",
+              "synonym": "Lenvima 24 MG Daily Dose 30 Day Supply Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1604384",
+              "name": "{30 (lenvatinib 10 MG Oral Capsule [Lenvima]) } Pack [Lenvima 10]",
+              "synonym": "Lenvima 10 MG Daily Dose 30 Day Supply Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1604395",
+              "name": "{60 (lenvatinib 10 MG Oral Capsule [Lenvima]) } Pack [Lenvima 20]",
+              "synonym": "Lenvima 20 MG Daily Dose 30 Day Supply Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1792393",
+              "name": "{30 (lenvatinib 10 MG Oral Capsule [Lenvima]) / 60 (lenvatinib 4 MG Oral Capsule [Lenvima]) } Pack [Lenvima 18]",
+              "synonym": "Lenvima 18 MG (as lenvatinib mesylate) Daily Dose 30 Day Supply Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1796665",
+              "name": "{60 (lenvatinib 4 MG Oral Capsule [Lenvima]) } Pack [Lenvima 8]",
+              "synonym": "Lenvima 8 MG Daily Dose 30 Day Supply Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2054157",
+              "name": "{30 (lenvatinib 4 MG Oral Capsule [Lenvima]) } Pack [Lenvima 4]",
+              "synonym": "Lenvima 4 MG (as lenvatinib mesylate) Daily Dose 30 Day Supply Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2054159",
+              "name": "{90 (lenvatinib 4 MG Oral Capsule [Lenvima]) } Pack [Lenvima 12]",
+              "synonym": "Lenvima 12 MG (as lenvatinib mesylate) Daily Dose 30 Day Supply Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1604349",
+              "name": "{30 (lenvatinib 10 MG Oral Capsule) / 30 (lenvatinib 4 MG Oral Capsule) } Pack",
+              "synonym": "lenvatinib 14 MG Daily Dose 30 Day Supply Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1604351",
+              "name": "{60 (lenvatinib 10 MG Oral Capsule) / 30 (lenvatinib 4 MG Oral Capsule) } Pack",
+              "synonym": "lenvatinib 24 MG Daily Dose 30 Day Supply Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1604383",
+              "name": "{30 (lenvatinib 10 MG Oral Capsule) } Pack",
+              "synonym": "lenvatinib 10 MG Daily Dose 30 Day Supply Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1604394",
+              "name": "{60 (lenvatinib 10 MG Oral Capsule) } Pack",
+              "synonym": "lenvatinib 20 MG Daily Dose 30 Day Supply Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1792392",
+              "name": "{30 (lenvatinib 10 MG Oral Capsule) / 60 (lenvatinib 4 MG Oral Capsule) } Pack",
+              "synonym": "lenvatinib 14 MG (as lenvatinib mesylate) Daily Dose 30 Day Supply Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1796664",
+              "name": "{60 (lenvatinib 4 MG Oral Capsule) } Pack",
+              "synonym": "lenvatinib 8 MG Daily Dose 30 Day Supply Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2054156",
+              "name": "{30 (lenvatinib 4 MG Oral Capsule) } Pack",
+              "synonym": "lenvatinib 4 MG Daily Dose 30 Day Supply Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2054158",
+              "name": "{90 (lenvatinib 4 MG Oral Capsule) } Pack",
+              "synonym": "lenvatinib 12 MG Daily Dose 30 Day Supply Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1792377",
+              "name": "lenvatinib 4 MG Oral Capsule [Lenvima]",
+              "synonym": "Lenvima 4 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1796538",
+              "name": "lenvatinib 10 MG Oral Capsule [Lenvima]",
+              "synonym": "Lenvima 10 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1604345",
+              "name": "lenvatinib 10 MG Oral Capsule",
+              "synonym": "lenvatinib 10 MG (as lenvatinib mesylate 12.25 MG) Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1604348",
+              "name": "lenvatinib 4 MG Oral Capsule",
+              "synonym": "lenvatinib 4 MG (as lenvatinib mesylate 4.9 MG) Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:18:42.204128",
+  "source": "RxNorm"
+}

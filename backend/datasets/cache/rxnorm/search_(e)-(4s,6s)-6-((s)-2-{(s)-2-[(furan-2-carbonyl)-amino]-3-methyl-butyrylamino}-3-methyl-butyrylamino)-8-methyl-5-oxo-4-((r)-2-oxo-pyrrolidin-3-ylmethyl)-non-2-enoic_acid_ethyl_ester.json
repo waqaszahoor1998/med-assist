@@ -1,0 +1,10 @@
+{
+  "query": "(E)-(4S,6S)-6-((S)-2-{(S)-2-[(FURAN-2-CARBONYL)-AMINO]-3-METHYL-BUTYRYLAMINO}-3-METHYL-BUTYRYLAMINO)-8-METHYL-5-OXO-4-((R)-2-OXO-PYRROLIDIN-3-YLMETHYL)-NON-2-ENOIC ACID ETHYL ESTER",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:33:47.002468",
+  "source": "RxNorm"
+}

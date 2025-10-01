@@ -1,0 +1,10 @@
+{
+  "query": "TAS-106",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:29:26.296611",
+  "source": "RxNorm"
+}

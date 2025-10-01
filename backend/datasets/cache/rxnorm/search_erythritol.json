@@ -1,0 +1,24 @@
+{
+  "query": "Erythritol",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD"
+        },
+        {
+          "tty": "SCD"
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T15:26:58.867875",
+  "source": "RxNorm"
+}

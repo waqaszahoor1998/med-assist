@@ -1,0 +1,23 @@
+{
+  "drug_name": "Trichloroethylene",
+  "generic_name": [
+    "ACETONE, ANILINUM, BENZINUM, BENZOPYRENE, CARBO VEGETABILIS, CARBOLICUM ACIDUM, CARBON TETRACHLORIDE, ETHER, MAGNESIA SULPHURICA, METHYL ALCOHOL, PETROLEUM, PHENOLPHTHALEIN, PHOSPHORUS, PICRICUM ACIDUM, PINE TAR, PLUMBOUS CHLORIDE, PLUMBUM METALLICUM, SULPHONALUM, SULPHURICUM ACIDUM, TEREBINTHINA, TRICHLOROETHYLENE, VANADIUM METALLICUM"
+  ],
+  "brand_names": [
+    "N02 PETROCHEM"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    "Warnings: If pregnant or breastfeeding , ask a health professional before use. Do not use if clear seal over the cap is broken or missing. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Stop use and ask a doctor if headache, rash, muscle aches, itching, dizziness, confusion, diarrhea, or other symptoms do not improve within 7 days or are accompanied by fever."
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    "Directions: Adults & children ages 12 years and over: Take 10 drops under the tongue 3 times a day, or as directed by your healthcare professional. Consult a physician for use in children under 12 years of age."
+  ],
+  "indications": [
+    "Uses: Uses: For temporary relief of minor: headache* rash* muscle aches* itching* dizziness* confusion* diarrhea* *Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated."
+  ],
+  "fetched_at": "2025-10-01T22:57:59.452079",
+  "source": "OpenFDA"
+}

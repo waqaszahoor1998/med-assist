@@ -1,0 +1,16 @@
+{
+  "rxcui": "104490",
+  "properties": {
+    "properties": {
+      "rxcui": "104490",
+      "name": "simvastatin 10 MG Oral Tablet [Zocor]",
+      "synonym": "Zocor 10 MG Oral Tablet",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T21:26:05.147748",
+  "source": "RxNorm"
+}

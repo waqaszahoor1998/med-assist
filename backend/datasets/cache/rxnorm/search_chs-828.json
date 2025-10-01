@@ -1,0 +1,10 @@
+{
+  "query": "CHS-828",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:26:50.091003",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "m-Chlorophenylpiperazine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:39:10.682130",
+  "source": "RxNorm"
+}

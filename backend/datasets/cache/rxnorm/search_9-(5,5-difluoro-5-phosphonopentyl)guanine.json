@@ -1,0 +1,10 @@
+{
+  "query": "9-(5,5-Difluoro-5-Phosphonopentyl)Guanine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T12:26:28.932220",
+  "source": "RxNorm"
+}

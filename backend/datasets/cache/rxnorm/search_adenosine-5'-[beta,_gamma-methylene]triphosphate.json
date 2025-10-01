@@ -1,0 +1,10 @@
+{
+  "query": "Adenosine-5'-[Beta, Gamma-Methylene]Triphosphate",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T04:32:24.097337",
+  "source": "RxNorm"
+}

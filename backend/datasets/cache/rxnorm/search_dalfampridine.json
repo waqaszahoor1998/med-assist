@@ -1,0 +1,46 @@
+{
+  "query": "Dalfampridine",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "897025",
+              "name": "12 HR dalfampridine 10 MG Extended Release Oral Tablet [Ampyra]",
+              "synonym": "12 HR Ampyra 10 MG Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "897021",
+              "name": "12 HR dalfampridine 10 MG Extended Release Oral Tablet",
+              "synonym": "dalfampridine 10 MG 12 HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:28:46.301214",
+  "source": "RxNorm"
+}

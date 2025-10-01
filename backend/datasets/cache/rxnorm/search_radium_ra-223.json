@@ -1,0 +1,10 @@
+{
+  "query": "Radium Ra-223",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:18:28.002346",
+  "source": "RxNorm"
+}

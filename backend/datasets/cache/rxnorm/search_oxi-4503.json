@@ -1,0 +1,10 @@
+{
+  "query": "OXI-4503",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:53:24.295672",
+  "source": "RxNorm"
+}

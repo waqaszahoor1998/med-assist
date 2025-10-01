@@ -1,0 +1,10 @@
+{
+  "query": "GLPG-0492",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:00:25.859375",
+  "source": "RxNorm"
+}

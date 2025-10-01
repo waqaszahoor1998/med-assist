@@ -1,0 +1,24 @@
+{
+  "query": "Semduramicin",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD"
+        },
+        {
+          "tty": "SCD"
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:06:46.305604",
+  "source": "RxNorm"
+}

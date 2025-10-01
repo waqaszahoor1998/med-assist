@@ -1,0 +1,10 @@
+{
+  "query": "CX-717",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:51:45.235287",
+  "source": "RxNorm"
+}

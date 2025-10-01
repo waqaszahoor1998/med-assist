@@ -1,0 +1,10 @@
+{
+  "query": "4SC-203",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:11:28.979621",
+  "source": "RxNorm"
+}

@@ -1,0 +1,46 @@
+{
+  "query": "Pacritinib",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2595254",
+              "name": "pacritinib 100 MG Oral Capsule [Vonjo]",
+              "synonym": "Vonjo 100 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2595248",
+              "name": "pacritinib 100 MG Oral Capsule",
+              "synonym": "pacritinib 100 MG (as pacritinib citrate 141 MG) Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:14:51.887984",
+  "source": "RxNorm"
+}

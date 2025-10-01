@@ -1,0 +1,16 @@
+{
+  "rxcui": "1091094",
+  "properties": {
+    "properties": {
+      "rxcui": "1091094",
+      "name": "carbon dioxide 99.1 % Gas for Inhalation",
+      "synonym": "",
+      "tty": "SCD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T17:24:15.579934",
+  "source": "RxNorm"
+}

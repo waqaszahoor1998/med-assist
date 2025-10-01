@@ -1,0 +1,10 @@
+{
+  "query": "(1S)-1-Phenylethyl (4-acetamidobenzyl)phosphonate",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:56:27.237874",
+  "source": "RxNorm"
+}

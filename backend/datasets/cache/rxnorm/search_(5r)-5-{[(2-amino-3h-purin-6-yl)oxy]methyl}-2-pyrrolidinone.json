@@ -1,0 +1,10 @@
+{
+  "query": "(5R)-5-{[(2-Amino-3H-purin-6-yl)oxy]methyl}-2-pyrrolidinone",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:17:10.278359",
+  "source": "RxNorm"
+}

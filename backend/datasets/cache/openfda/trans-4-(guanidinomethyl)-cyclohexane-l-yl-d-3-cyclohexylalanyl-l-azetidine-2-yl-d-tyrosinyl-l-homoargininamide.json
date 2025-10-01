@@ -1,0 +1,24 @@
+{
+  "drug_name": "TRANS-4-(GUANIDINOMETHYL)-CYCLOHEXANE-L-YL-D-3-CYCLOHEXYLALANYL-L-AZETIDINE-2-YL-D-TYROSINYL-L-HOMOARGININAMIDE",
+  "generic_name": [
+    "LIDOCAINE 4%"
+  ],
+  "brand_names": [
+    "Pain Reliveing Patch"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    "Warnings For external use only Do not use more than 1 patch on vour bodv at a time on cut, irritated.or swolen skin on puncture wounds for more than one week without consulting a doctor",
+    "DO NOT USE: More than 1 patch at a time On wounds or damaged skin For more than one week without consulting a doctor If you are allergic to any ingredients of this product"
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    "Directions Adults and children 12 years of age and older: Wash and dry the affected area. Peel off the backing film from one side of the patch carefully Apply the exposed portion of the patch to the affected area. Gently press the patch with your hand to fit the affected area completely. Do not exercise vigorously during use to prevent the patch from falling off. Use only 1 patch for a maximum of 8 hours. Children under 12 years of age: Ask a doctor before use."
+  ],
+  "indications": [
+    "USE For the temporary relief of pain"
+  ],
+  "fetched_at": "2025-10-01T15:36:59.229267",
+  "source": "OpenFDA"
+}

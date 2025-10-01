@@ -1,0 +1,16 @@
+{
+  "rxcui": "248175",
+  "properties": {
+    "properties": {
+      "rxcui": "248175",
+      "name": "dexamethasone 0.02 MG/ACTUAT / tramazoline 0.12 MG/ACTUAT Nasal Spray",
+      "synonym": "tramazoline 120 MCG/ACTUAT / dexamethasone 20 MCG/ACTUAT Nasal Spray",
+      "tty": "SCD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T19:31:08.907016",
+  "source": "RxNorm"
+}

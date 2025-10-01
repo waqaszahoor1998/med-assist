@@ -1,0 +1,10 @@
+{
+  "query": "Methyl Methylsulfinylmethyl Sulfide",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:51:56.426692",
+  "source": "RxNorm"
+}

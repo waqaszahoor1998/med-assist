@@ -1,0 +1,10 @@
+{
+  "query": "LG-100268",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:36:23.388616",
+  "source": "RxNorm"
+}

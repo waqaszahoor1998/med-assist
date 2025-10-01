@@ -1,0 +1,23 @@
+{
+  "drug_name": "1-(2,6-Dichlorophenyl)-5-(2,4-Difluorophenyl)-7-Piperidin-4-Yl-3,4-Dihydroquinolin-2(1h)-One",
+  "generic_name": [
+    "TETRAPEPTIDE-1,PALMITOYL TRIPEPTIDE-1"
+  ],
+  "brand_names": [
+    "GZE EYELASH GROWTH SERUM"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    "For external use only."
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    "Just like you would with an eyeliner, apply the serum with the applicator tip to the root area of the upper eyelashes or brows. For best results, use daily."
+  ],
+  "indications": [
+    "Just like you would with an eyeliner, apply the serum with the applicator tip to the root area of the upper eyelashes or brows. For best results, use daily."
+  ],
+  "fetched_at": "2025-10-01T02:36:37.063337",
+  "source": "OpenFDA"
+}

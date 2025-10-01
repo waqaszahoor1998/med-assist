@@ -1,0 +1,10 @@
+{
+  "query": "3-Methyl-5-(7-{4-[(4R)-4-methyl-4,5-dihydro-1,3-oxazol-2-yl]phenoxy}heptyl)-1,2-oxazole",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:59:06.146771",
+  "source": "RxNorm"
+}

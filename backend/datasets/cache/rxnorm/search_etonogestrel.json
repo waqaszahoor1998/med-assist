@@ -1,0 +1,91 @@
+{
+  "query": "Etonogestrel",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1111011",
+              "name": "etonogestrel 68 MG Drug Implant [Nexplanon]",
+              "synonym": "Nexplanon 68 MG Drug Implant",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1367439",
+              "name": "21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System [NuvaRing]",
+              "synonym": "NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal System",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2266506",
+              "name": "21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System [EluRyng]",
+              "synonym": "EluRyng 0.12/0.015 MG per 24HR 21 Day Vaginal System",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2622921",
+              "name": "21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System [Haloette]",
+              "synonym": "Haloette 0.12/0.015 MG per 24HR 21 Day Vaginal System",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2644707",
+              "name": "21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System [Enilloring]",
+              "synonym": "EnilloRing 0.12/0.015 MG per 24HR 21 Day Vaginal System",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1367436",
+              "name": "21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System",
+              "synonym": "ethinyl estradiol 15 MCG / etonogestrel 120 MCG per 24HR 3 Week Vaginal System",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "389221",
+              "name": "etonogestrel 68 MG Drug Implant",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:05:13.143525",
+  "source": "RxNorm"
+}

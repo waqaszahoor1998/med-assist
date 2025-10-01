@@ -1,0 +1,10 @@
+{
+  "query": "E-7820",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:03:01.652614",
+  "source": "RxNorm"
+}

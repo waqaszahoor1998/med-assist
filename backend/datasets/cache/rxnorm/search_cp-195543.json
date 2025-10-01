@@ -1,0 +1,10 @@
+{
+  "query": "CP-195543",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:30:29.076238",
+  "source": "RxNorm"
+}

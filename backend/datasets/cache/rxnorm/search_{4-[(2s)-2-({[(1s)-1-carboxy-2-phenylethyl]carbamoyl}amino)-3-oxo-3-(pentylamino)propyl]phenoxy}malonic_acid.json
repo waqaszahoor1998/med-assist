@@ -1,0 +1,10 @@
+{
+  "query": "{4-[(2S)-2-({[(1S)-1-Carboxy-2-phenylethyl]carbamoyl}amino)-3-oxo-3-(pentylamino)propyl]phenoxy}malonic acid",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:57:28.047664",
+  "source": "RxNorm"
+}

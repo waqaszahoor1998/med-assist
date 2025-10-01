@@ -1,0 +1,24 @@
+{
+  "query": "Gemeprost",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD"
+        },
+        {
+          "tty": "SCD"
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:10:51.855806",
+  "source": "RxNorm"
+}

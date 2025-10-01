@@ -1,0 +1,25 @@
+{
+  "drug_name": "Lusutrombopag",
+  "generic_name": [
+    "LUSUTROMBOPAG"
+  ],
+  "brand_names": [
+    "Mulpleta"
+  ],
+  "drug_interactions": [],
+  "warnings": [],
+  "adverse_reactions": [
+    "6 ADVERSE REACTIONS The following serious adverse reactions are discussed in detail in other sections of the labeling: Thrombotic/Thromboembolic Complications [see Warnings and Precautions (5.1) ] The most common adverse reaction (\u22653%): headache. ( 6.1 ) To report SUSPECTED ADVERSE REACTIONS, contact Shionogi Inc. at 1-800-849-9707 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. The safety of MULPLETA was evaluated in 3 randomized, double-blind, placebo-controlled trials, L-PLUS 1, L-PLUS 2, and M0626, in which patients with chronic liver disease and thrombocytopenia were treated with MULPLETA (N=171) or placebo (N=170) at a dose of 3 mg daily for up to 7 days prior to a scheduled procedure. The majority of patients were males (59%), and median age was 61 years (range 19-88). The racial and ethnic distribution was White (50%), Asian (47%), Black (<1%), and Other (3%). The most common adverse reactions (those occurring in at least 3%) in the MULPLETA-treated group across the pooled data from the three trials are summarized in table 1. Table 1. Adverse Reactions with a Frequency \u22653% in Patients Treated with MULPLETA (Pooled Data (L-PLUS 1, L-PLUS 2, and M0626)) Adverse Reaction Includes treatment-emergent adverse reactions occurring at a rate higher than placebo. MULPLETA 3 mg (N=171) % Placebo (N=170) % Headache 5 4 The incidence of serious adverse events was 5% (9 of 171 patients) in the MULPLETA group and 7% (12 of 170 patients) in the placebo group. The most common serious adverse reaction reported with MULPLETA was portal vein thrombosis [see Warnings and Precautions (5.1) ] . No adverse reactions resulted in discontinuation of MULPLETA."
+  ],
+  "contraindications": [
+    "4 CONTRAINDICATIONS None. None."
+  ],
+  "dosage_administration": [
+    "2 DOSAGE AND ADMINISTRATION Begin MULPLETA dosing 8-14 days prior to a scheduled procedure. ( 2.1 ) Patients should undergo their procedure 2-8 days after the last dose. ( 2.1 ) Recommended Dosage: 3 mg orally once daily with or without food for 7 days. ( 2.1 ) 2.1 Recommended Dosage Begin MULPLETA dosing 8-14 days prior to a scheduled procedure. Patients should undergo their procedure 2-8 days after the last dose. The recommended dosage of MULPLETA is 3 mg taken orally once daily with or without food for 7 days. In the case of a missed dose of MULPLETA, patients should take the missed dose as soon as possible on the same day and return to the normal schedule the following day. MULPLETA has been investigated only as a single 7-day once daily dosing regimen in clinical trials in patients with chronic liver disease [see Clinical Studies (14) ] . MULPLETA should not be administered to patients with chronic liver disease in an attempt to normalize platelet counts. 2.2 Monitoring Obtain a platelet count prior to initiation of MULPLETA therapy and not more than 2 days before the procedure."
+  ],
+  "indications": [
+    "1 INDICATIONS AND USAGE MULPLETA is indicated for the treatment of thrombocytopenia in adult patients with chronic liver disease who are scheduled to undergo a procedure. MULPLETA is a thrombopoietin receptor agonist indicated for the treatment of thrombocytopenia in adult patients with chronic liver disease who are scheduled to undergo a procedure. ( 1 )"
+  ],
+  "fetched_at": "2025-10-01T19:34:21.768993",
+  "source": "OpenFDA"
+}

@@ -1,0 +1,172 @@
+{
+  "query": "Deflazacort",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1870950",
+              "name": "deflazacort 6 MG Oral Tablet [Emflaza]",
+              "synonym": "Emflaza 6 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1870952",
+              "name": "deflazacort 30 MG Oral Tablet [Emflaza]",
+              "synonym": "Emflaza 30 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1870956",
+              "name": "deflazacort 18 MG Oral Tablet [Emflaza]",
+              "synonym": "Emflaza 18 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1870960",
+              "name": "deflazacort 36 MG Oral Tablet [Emflaza]",
+              "synonym": "Emflaza 36 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1870968",
+              "name": "deflazacort 22.75 MG/ML Oral Suspension [Emflaza]",
+              "synonym": "Emflaza 22.75 MG/ML Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2716704",
+              "name": "deflazacort 18 MG Oral Tablet [Jaythari]",
+              "synonym": "Jaythari 18 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2716706",
+              "name": "deflazacort 30 MG Oral Tablet [Jaythari]",
+              "synonym": "Jaythari 30 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2716708",
+              "name": "deflazacort 36 MG Oral Tablet [Jaythari]",
+              "synonym": "Jaythari 36 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2716710",
+              "name": "deflazacort 6 MG Oral Tablet [Jaythari]",
+              "synonym": "Jaythari 6 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2719198",
+              "name": "deflazacort 22.75 MG/ML Oral Suspension [Pyquvi]",
+              "synonym": "Pyquvi 22.75 MG/ML Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "153098",
+              "name": "deflazacort 6 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "153880",
+              "name": "deflazacort 30 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1870954",
+              "name": "deflazacort 18 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1870958",
+              "name": "deflazacort 36 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1870964",
+              "name": "deflazacort 22.75 MG/ML Oral Suspension",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "226432",
+              "name": "deflazacort 1 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:27:55.185231",
+  "source": "RxNorm"
+}

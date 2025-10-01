@@ -1,0 +1,10 @@
+{
+  "query": "1-deoxy-1-{2,6,8-trioxo-7-[4-(phosphonooxy)butyl]-1,2,3,6,7,8-hexahydro-9H-purin-9-yl}-D-arabinitol",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:44:29.439199",
+  "source": "RxNorm"
+}

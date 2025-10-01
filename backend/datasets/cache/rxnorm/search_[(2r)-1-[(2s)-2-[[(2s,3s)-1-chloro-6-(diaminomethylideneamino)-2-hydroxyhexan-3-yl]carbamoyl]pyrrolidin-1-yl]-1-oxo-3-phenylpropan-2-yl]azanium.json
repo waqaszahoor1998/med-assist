@@ -1,0 +1,10 @@
+{
+  "query": "[(2R)-1-[(2S)-2-[[(2S,3S)-1-Chloro-6-(diaminomethylideneamino)-2-hydroxyhexan-3-yl]carbamoyl]pyrrolidin-1-yl]-1-oxo-3-phenylpropan-2-yl]azanium",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:41:01.593649",
+  "source": "RxNorm"
+}

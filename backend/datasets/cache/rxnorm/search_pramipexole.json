@@ -1,0 +1,262 @@
+{
+  "query": "Pramipexole",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1114481",
+              "name": "24 HR pramipexole dihydrochloride 2.25 MG Extended Release Oral Tablet [Mirapex]",
+              "synonym": "24 HR Mirapex 2.25 MG Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1114487",
+              "name": "24 HR pramipexole dihydrochloride 3.75 MG Extended Release Oral Tablet [Mirapex]",
+              "synonym": "24 HR Mirapex 3.75 MG Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "858627",
+              "name": "pramipexole dihydrochloride 0.75 MG Oral Tablet [Mirapex]",
+              "synonym": "Mirapex 0.75 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "859035",
+              "name": "pramipexole dihydrochloride 0.125 MG Oral Tablet [Mirapex]",
+              "synonym": "Mirapex 0.125 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "859042",
+              "name": "pramipexole dihydrochloride 0.25 MG Oral Tablet [Mirapex]",
+              "synonym": "Mirapex 0.25 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "859046",
+              "name": "pramipexole dihydrochloride 0.5 MG Oral Tablet [Mirapex]",
+              "synonym": "Mirapex 0.5 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "859050",
+              "name": "pramipexole dihydrochloride 1.5 MG Oral Tablet [Mirapex]",
+              "synonym": "Mirapex 1.5 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "859054",
+              "name": "pramipexole dihydrochloride 1 MG Oral Tablet [Mirapex]",
+              "synonym": "Mirapex 1 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "901537",
+              "name": "24 HR pramipexole dihydrochloride 4.5 MG Extended Release Oral Tablet [Mirapex]",
+              "synonym": "24 HR Mirapex 4.5 MG Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "901543",
+              "name": "24 HR pramipexole dihydrochloride 0.375 MG Extended Release Oral Tablet [Mirapex]",
+              "synonym": "24 HR Mirapex 0.375 MG Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "901547",
+              "name": "24 HR pramipexole dihydrochloride 0.75 MG Extended Release Oral Tablet [Mirapex]",
+              "synonym": "24 HR Mirapex 0.75 MG Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "901551",
+              "name": "24 HR pramipexole dihydrochloride 1.5 MG Extended Release Oral Tablet [Mirapex]",
+              "synonym": "24 HR Mirapex 1.5 MG Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "901557",
+              "name": "24 HR pramipexole dihydrochloride 3 MG Extended Release Oral Tablet [Mirapex]",
+              "synonym": "24 HR Mirapex 3 MG Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1114479",
+              "name": "24 HR pramipexole dihydrochloride 2.25 MG Extended Release Oral Tablet",
+              "synonym": "pramipexole dihydrochloride 2.25 MG 24 HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1114485",
+              "name": "24 HR pramipexole dihydrochloride 3.75 MG Extended Release Oral Tablet",
+              "synonym": "pramipexole dihydrochloride 3.75 MG 24 HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "858625",
+              "name": "pramipexole dihydrochloride 0.75 MG Oral Tablet",
+              "synonym": "pramipexole dihydrochloride 0.75 MG (pramipexole 0.525 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "859033",
+              "name": "pramipexole dihydrochloride 0.125 MG Oral Tablet",
+              "synonym": "pramipexole dihydrochloride 0.125 MG (pramipexole 0.088 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "859040",
+              "name": "pramipexole dihydrochloride 0.25 MG Oral Tablet",
+              "synonym": "pramipexole dihydrochloride 0.25 MG (pramipexole 0.18 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "859044",
+              "name": "pramipexole dihydrochloride 0.5 MG Oral Tablet",
+              "synonym": "pramipexole dihydrochloride 0.5 MG (pramipexole 0.35 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "859048",
+              "name": "pramipexole dihydrochloride 1.5 MG Oral Tablet",
+              "synonym": "pramipexole dihydrochloride 1.5 MG (equivalent to pramipexole 1 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "859052",
+              "name": "pramipexole dihydrochloride 1 MG Oral Tablet",
+              "synonym": "pramipexole dihydrochloride 1 MG (pramipexole 0.7 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "901534",
+              "name": "24 HR pramipexole dihydrochloride 4.5 MG Extended Release Oral Tablet",
+              "synonym": "pramipexole dihydrochloride 4.5 MG 24 HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "901541",
+              "name": "24 HR pramipexole dihydrochloride 0.375 MG Extended Release Oral Tablet",
+              "synonym": "pramipexole dihydrochloride 0.375 MG 24 HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "901546",
+              "name": "24 HR pramipexole dihydrochloride 0.75 MG Extended Release Oral Tablet",
+              "synonym": "pramipexole dihydrochloride 0.75 MG 24 HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "901550",
+              "name": "24 HR pramipexole dihydrochloride 1.5 MG Extended Release Oral Tablet",
+              "synonym": "pramipexole dihydrochloride 1.5 MG 24 HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "901555",
+              "name": "24 HR pramipexole dihydrochloride 3 MG Extended Release Oral Tablet",
+              "synonym": "pramipexole dihydrochloride 3 MG 24 HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:12:10.018957",
+  "source": "RxNorm"
+}

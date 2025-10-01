@@ -1,0 +1,100 @@
+{
+  "query": "Bimatoprost",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1009341",
+              "name": "bimatoprost 0.1 MG/ML Ophthalmic Solution [Lumigan]",
+              "synonym": "Lumigan 0.01 % Ophthalmic Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1041497",
+              "name": "bimatoprost 0.3 MG/ML Topical Solution [Latisse]",
+              "synonym": "Latisse 0.3 MG/ML Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2286607",
+              "name": "bimatoprost 0.01 MG Drug Implant [Durysta]",
+              "synonym": "Durysta 10 MCG Drug Implant",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "285128",
+              "name": "bimatoprost 0.3 MG/ML Ophthalmic Solution [Lumigan]",
+              "synonym": "Lumigan 0.03 % Ophthalmic Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1009339",
+              "name": "bimatoprost 0.1 MG/ML Ophthalmic Solution",
+              "synonym": "bimatoprost 0.01 % Ophthalmic Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1041495",
+              "name": "bimatoprost 0.3 MG/ML Topical Solution",
+              "synonym": "bimatoprost 0.03 % Eyelash Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2286602",
+              "name": "bimatoprost 0.01 MG Drug Implant",
+              "synonym": "bimatoprost 10 MCG Drug Implant",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308739",
+              "name": "bimatoprost 0.3 MG/ML Ophthalmic Solution",
+              "synonym": "bimatoprost 0.03 % Ophthalmic Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T22:30:08.776985",
+  "source": "RxNorm"
+}

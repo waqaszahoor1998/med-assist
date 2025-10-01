@@ -1,0 +1,10 @@
+{
+  "query": "7-Methyl-7,8-dihydroguanosine 5'-(tetrahydrogen triphosphate)",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:38:50.200684",
+  "source": "RxNorm"
+}

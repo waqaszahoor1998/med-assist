@@ -1,0 +1,27 @@
+{
+  "drug_name": "Alvimopan",
+  "generic_name": [
+    "ALVIMOPAN"
+  ],
+  "brand_names": [
+    "Alvimopan"
+  ],
+  "drug_interactions": [
+    "7 DRUG INTERACTIONS 7.1 Effects of Alvimopan on Intravenous Morphine Coadministration of alvimopan does not appear to alter the pharmacokinetics of morphine and its metabolite, morphine-6-glucuronide, to a clinically significant degree when morphine is administered intravenously. Dosage adjustment for intravenously administered morphine is not necessary when it is coadministered with alvimopan. 7.2 Effects of Concomitant Acid Blockers or Antibiotics A population pharmacokinetic analysis suggests that the pharmacokinetics of alvimopan were not affected by concomitant administration of acid blockers (proton pump inhibitors (PPIs), histamine-2 (H 2 ) receptor antagonists) or antibiotics. No dosage adjustments are necessary in patients taking acid blockers or antibiotics with alvimopan."
+  ],
+  "warnings": [],
+  "adverse_reactions": [
+    "6 ADVERSE REACTIONS The following clinically significant adverse reactions are described elsewhere in the labeling: Potential Risk of Myocardial Infarction with Long-Term Use [see Warnings and Precautions ( 5.1 )] Gastrointestinal-Related Adverse Reactions in Opioid-Tolerant Patients [see Warnings and Precautions ( 5.3 )] Risk of Serious Adverse Reactions in Patients with Severe Hepatic Impairment [see Warnings and Precautions ( 5.4 )] Risk of Serious Adverse Reactions in Patients with Complete Gastrointestinal Obstruction [see Warnings and Precautions ( 5.6 )] Risk of Serious Adverse Reactions in Pancreatic and Gastric Anastomoses [see Warnings and Precautions ( 5.7 )] Most common adverse reaction (\u22651.5%): dyspepsia. ( 6.1 ) To report SUSPECTED ADVERSE REACTIONS, contact Hikma Pharmaceuticals USA Inc. at 1-800-962-8364 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be compared directly with rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice. The adverse event information from clinical trials does, however, provide a basis for identifying the adverse events that appear to be related to drug use and for approximating rates. The data described below reflect exposure to alvimopan 12 mg in 1,793 patients in 10 placebo-controlled studies. The population was 19 to 97 years old, 64% were female, and 84% were Caucasian; 64% were undergoing a surgery that included bowel resection. The first dose of alvimopan was administered 30 minutes to 5 hours before the scheduled start of surgery and then twice daily until hospital discharge (or for a maximum of 7 days of postoperative treatment). Among alvimopan-treated patients undergoing surgeries that included a bowel resection, the most common adverse reaction (incidence \u22651.5%) occurring with a higher frequency than placebo was dyspepsia (alvimopan, 1.5%; placebo, 0.8%). Adverse reactions are events that occurred after the first dose of study medication treatment and within 7 days of the last dose of study medication or events present at baseline that increased in severity after the start of study medication treatment."
+  ],
+  "contraindications": [
+    "4 CONTRAINDICATIONS Alvimopan capsules are contraindicated in patients who have taken therapeutic doses of opioids for more than 7 consecutive days immediately prior to taking alvimopan capsules [see Warnings and Precautions ( 5.3 )] . Patients who have taken therapeutic doses of opioids for more than 7 consecutive days prior to taking alvimopan capsules. ( 4 )"
+  ],
+  "dosage_administration": [
+    "2 DOSAGE AND ADMINISTRATION For hospital use only. The recommended adult dosage of alvimopan capsules is 12 mg administered 30 minutes to 5 hours prior to surgery followed by 12 mg twice daily beginning the day after surgery until discharge for a maximum of 7 days. Patients should not receive more than 15 doses of alvimopan capsules. Alvimopan capsules can be taken with or without food [see Clinical Pharmacology ( 12.3 )] . For hospital use only. ( 2 ) The recommended dosage is 12 mg administered 30 minutes to 5 hours prior to surgery followed by 12 mg twice daily beginning the day after surgery until discharge for a maximum of 7 days. Patients should not receive more than 15 doses of alvimopan capsules. ( 2 )"
+  ],
+  "indications": [
+    "1 INDICATIONS AND USAGE Alvimopan capsules are indicated to accelerate the time to upper and lower gastrointestinal recovery following surgeries that include partial bowel resection with primary anastomosis. Alvimopan capsules are an opioid antagonist indicated to accelerate the time to upper and lower gastrointestinal recovery following surgeries that include partial bowel resection with primary anastomosis. ( 1 )"
+  ],
+  "fetched_at": "2025-10-01T16:16:47.325727",
+  "source": "OpenFDA"
+}

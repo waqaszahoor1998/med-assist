@@ -1,0 +1,23 @@
+{
+  "drug_name": "Formaldehyde",
+  "generic_name": [
+    "INFLUENZA A VIRUS A/VICTORIA/4897/2022 IVR-238 (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA A VIRUS A/DARWIN/9/2021 IVR-228 (H3N2) HEMAGGLUTININ ANTIGEN (UV, FORMALDEHYDE INACTIVATED),INFLUENZA B VIRUS B/MICHIGAN/01/2021 HEMAGGLUTININ ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA B VIRUS B/PHUKET/3073/2013 HEMAGGLUTININ ANTIGEN (FORMALDEHYDE INACTIVATED)"
+  ],
+  "brand_names": [
+    "INFLUENZINUM"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    ""
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    "Adults and children: At the onset of symptoms, dissolve 5 pellets under the tongue 3 times a day until symptoms are relieved or as directed by a doctor."
+  ],
+  "indications": [
+    "Relieves after effects of flu or flu-like symptoms * See symptoms on front panel."
+  ],
+  "fetched_at": "2025-10-01T04:29:15.329737",
+  "source": "OpenFDA"
+}

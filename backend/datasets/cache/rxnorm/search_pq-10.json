@@ -1,0 +1,10 @@
+{
+  "query": "PQ-10",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:55:16.085940",
+  "source": "RxNorm"
+}

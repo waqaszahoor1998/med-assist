@@ -1,0 +1,208 @@
+{
+  "query": "Eltrombopag",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1245003",
+              "name": "eltrombopag 12.5 MG Oral Tablet [Promacta]",
+              "synonym": "Promacta 12.5 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1859501",
+              "name": "eltrombopag 25 MG Powder for Oral Suspension [Promacta]",
+              "synonym": "Promacta 25 MG Powder for Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2058981",
+              "name": "eltrombopag 12.5 MG Powder for Oral Suspension [Promacta]",
+              "synonym": "Promacta (as eltrombopag olamine) 12.5 MG Powder for Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2675193",
+              "name": "eltrombopag 18 MG Oral Tablet [Alvaiz]",
+              "synonym": "Alvaiz 18 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2675197",
+              "name": "eltrombopag 36 MG Oral Tablet [Alvaiz]",
+              "synonym": "Alvaiz 36 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2675201",
+              "name": "eltrombopag 54 MG Oral Tablet [Alvaiz]",
+              "synonym": "Alvaiz 54 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2675205",
+              "name": "eltrombopag 9 MG Oral Tablet [Alvaiz]",
+              "synonym": "Alvaiz 9 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "825425",
+              "name": "eltrombopag 25 MG Oral Tablet [Promacta]",
+              "synonym": "Promacta 25 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "825429",
+              "name": "eltrombopag 50 MG Oral Tablet [Promacta]",
+              "synonym": "Promacta 50 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "884619",
+              "name": "eltrombopag 75 MG Oral Tablet [Promacta]",
+              "synonym": "Promacta 75 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1245001",
+              "name": "eltrombopag 12.5 MG Oral Tablet",
+              "synonym": "eltrombopag (as eltrombopag olamine) 12.5 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1859498",
+              "name": "eltrombopag 25 MG Powder for Oral Suspension",
+              "synonym": "eltrombopag (as eltrombopag olamine) 25 MG Powder for Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2058980",
+              "name": "eltrombopag 12.5 MG Powder for Oral Suspension",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2675187",
+              "name": "eltrombopag 18 MG Oral Tablet",
+              "synonym": "eltrombopag 18 MG (as eltrombopag choline 22.2 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2675195",
+              "name": "eltrombopag 36 MG Oral Tablet",
+              "synonym": "eltrombopag 36 MG (as eltrombopag choline 44.4 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2675199",
+              "name": "eltrombopag 54 MG Oral Tablet",
+              "synonym": "eltrombopag 54 MG (as eltrombopag choline 66.6 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2675203",
+              "name": "eltrombopag 9 MG Oral Tablet",
+              "synonym": "eltrombopag 9 MG (as eltrombopag choline 11.1 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "825421",
+              "name": "eltrombopag 25 MG Oral Tablet",
+              "synonym": "eltrombopag (as eltrombopag olamine) 25 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "825427",
+              "name": "eltrombopag 50 MG Oral Tablet",
+              "synonym": "eltrombopag (as eltrombopag olamine) 50 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "884617",
+              "name": "eltrombopag 75 MG Oral Tablet",
+              "synonym": "eltrombopag (as eltrombopag olamine) 75 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:13:51.640911",
+  "source": "RxNorm"
+}

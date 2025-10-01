@@ -1,0 +1,208 @@
+{
+  "query": "Pemetrexed",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1728075",
+              "name": "pemetrexed 500 MG Injection [Alimta]",
+              "synonym": "Alimta 500 MG Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1728079",
+              "name": "pemetrexed 100 MG Injection [Alimta]",
+              "synonym": "Alimta 100 MG Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2590677",
+              "name": "pemetrexed 25 MG/ML Injectable Solution [Pemfexy]",
+              "synonym": "Pemfexy 500 MG per 20 ML Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2637964",
+              "name": "10 ML pemetrexed 10 MG/ML Injection [Pemrydi Rtu]",
+              "synonym": "Pemrydi Rtu 100 MG per 10 ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2637967",
+              "name": "100 ML pemetrexed 10 MG/ML Injection [Pemrydi Rtu]",
+              "synonym": "Pemrydi Rtu 1000 MG per 100 ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2637969",
+              "name": "50 ML pemetrexed 10 MG/ML Injection [Pemrydi Rtu]",
+              "synonym": "Pemrydi Rtu 500 MG per 50 ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2699339",
+              "name": "pemetrexed 100 MG Injection [Axtle]",
+              "synonym": "Axtle 100 MG Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2699341",
+              "name": "pemetrexed 500 MG Injection [Axtle]",
+              "synonym": "Axtle 500 MG Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1728072",
+              "name": "pemetrexed 500 MG Injection",
+              "synonym": "pemetrexed 500 MG Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1728077",
+              "name": "pemetrexed 100 MG Injection",
+              "synonym": "pemetrexed 100 MG Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2590672",
+              "name": "pemetrexed 25 MG/ML Injectable Solution",
+              "synonym": "pemetrexed 500 MG per 20 ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2601728",
+              "name": "pemetrexed 1000 MG Injection",
+              "synonym": "pemetrexed (as disodium heptahydrate) 1 GM Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2602136",
+              "name": "pemetrexed 750 MG Injection",
+              "synonym": "pemetrexed (as disodium heptahydrate) 750 MG Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2602363",
+              "name": "20 ML pemetrexed 25 MG/ML Injection",
+              "synonym": "pemetrexed (as monohydrate) 500 MG per 20 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2602365",
+              "name": "40 ML pemetrexed 25 MG/ML Injection",
+              "synonym": "pemetrexed (as monohydrate) 1 GM per 40 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2602366",
+              "name": "4 ML pemetrexed 25 MG/ML Injection",
+              "synonym": "pemetrexed (as monohydrate) 100 MG per 4 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2605341",
+              "name": "34 ML pemetrexed 25 MG/ML Injection",
+              "synonym": "pemetrexed 840 MG per 34 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2637958",
+              "name": "10 ML pemetrexed 10 MG/ML Injection",
+              "synonym": "pemetrexed (as disodium hemipentahydrate) 100 MG per 10 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2637966",
+              "name": "100 ML pemetrexed 10 MG/ML Injection",
+              "synonym": "pemetrexed (as disodium hemipentahydrate) 1000 MG per 100 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2637968",
+              "name": "50 ML pemetrexed 10 MG/ML Injection",
+              "synonym": "pemetrexed (as disodium hemipentahydrate) 500 MG per 50 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:26:13.997627",
+  "source": "RxNorm"
+}

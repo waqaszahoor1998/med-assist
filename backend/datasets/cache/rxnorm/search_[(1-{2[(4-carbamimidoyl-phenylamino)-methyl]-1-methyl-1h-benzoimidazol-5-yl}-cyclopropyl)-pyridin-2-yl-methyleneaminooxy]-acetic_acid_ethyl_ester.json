@@ -1,0 +1,10 @@
+{
+  "query": "[(1-{2[(4-Carbamimidoyl-Phenylamino)-Methyl]-1-Methyl-1h-Benzoimidazol-5-Yl}-Cyclopropyl)-Pyridin-2-Yl-Methyleneaminooxy]-Acetic Acid Ethyl Ester",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T06:29:18.671394",
+  "source": "RxNorm"
+}

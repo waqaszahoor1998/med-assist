@@ -1,0 +1,16 @@
+{
+  "rxcui": "1101840",
+  "properties": {
+    "properties": {
+      "rxcui": "1101840",
+      "name": "phenol 14 MG/ML Mucosal Spray [Ora Relief]",
+      "synonym": "Ora Relief 1.4 % Mucosal Spray",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T03:33:46.467569",
+  "source": "RxNorm"
+}

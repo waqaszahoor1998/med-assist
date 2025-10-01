@@ -1,0 +1,10 @@
+{
+  "query": "Talnetant",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:21:12.840555",
+  "source": "RxNorm"
+}

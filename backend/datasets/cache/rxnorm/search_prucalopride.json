@@ -1,0 +1,64 @@
+{
+  "query": "Prucalopride",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2107351",
+              "name": "prucalopride 1 MG Oral Tablet [Motegrity]",
+              "synonym": "Motegrity 1 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2107355",
+              "name": "prucalopride 2 MG Oral Tablet [Motegrity]",
+              "synonym": "Motegrity 2 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2107345",
+              "name": "prucalopride 1 MG Oral Tablet",
+              "synonym": "prucalopride 1 MG (equivalent to prucalopride succinate 1.32 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2107353",
+              "name": "prucalopride 2 MG Oral Tablet",
+              "synonym": "prucalopride 2 MG (equivalent to prucalopride succinate 2.64 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:23:02.590437",
+  "source": "RxNorm"
+}

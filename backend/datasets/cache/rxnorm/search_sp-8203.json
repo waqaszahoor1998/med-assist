@@ -1,0 +1,10 @@
+{
+  "query": "SP-8203",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:12:56.220685",
+  "source": "RxNorm"
+}

@@ -1,0 +1,100 @@
+{
+  "query": "Tenapanor",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2199685",
+              "name": "tenapanor 50 MG Oral Tablet [Ibsrela]",
+              "synonym": "Ibsrela 50 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2669446",
+              "name": "tenapanor 10 MG Oral Tablet [Xphozah]",
+              "synonym": "Xphozah 10 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2669450",
+              "name": "tenapanor 20 MG Oral Tablet [Xphozah]",
+              "synonym": "Xphozah 20 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2669454",
+              "name": "tenapanor 30 MG Oral Tablet [Xphozah]",
+              "synonym": "Xphozah 30 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2199679",
+              "name": "tenapanor 50 MG Oral Tablet",
+              "synonym": "tenapanor 50 MG (as tenapanor hydrochloride 53.2 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2669440",
+              "name": "tenapanor 10 MG Oral Tablet",
+              "synonym": "tenapanor 10 MG (as tenapanor hydrochloride 10.6 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2669448",
+              "name": "tenapanor 20 MG Oral Tablet",
+              "synonym": "tenapanor 20 MG (as tenapanor hydrochloride 21.3 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2669452",
+              "name": "tenapanor 30 MG Oral Tablet",
+              "synonym": "tenapanor 30 MG (as tenapanor hydrochloride 31.9 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:18:55.736880",
+  "source": "RxNorm"
+}

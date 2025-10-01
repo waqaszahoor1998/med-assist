@@ -1,0 +1,10 @@
+{
+  "query": "KRN-7000",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:46:36.880017",
+  "source": "RxNorm"
+}

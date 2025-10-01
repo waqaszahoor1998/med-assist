@@ -1,0 +1,10 @@
+{
+  "query": "Canavanine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:32:05.232851",
+  "source": "RxNorm"
+}

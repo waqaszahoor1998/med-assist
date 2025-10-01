@@ -1,0 +1,91 @@
+{
+  "query": "Amikacin",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2059189",
+              "name": "amikacin liposomal 70.3 MG/ML Inhalation Suspension [Arikayce]",
+              "synonym": "Arikayce 70.3 MG/ML Inhalation Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1598047",
+              "name": "amikacin 250 MG/ML Injectable Solution",
+              "synonym": "amikacin (as amikacin sulfate) 250 MG/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1723156",
+              "name": "2 ML amikacin 250 MG/ML Injection",
+              "synonym": "amikacin (as amikacin sulfate) 500 MG per 2 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1723160",
+              "name": "4 ML amikacin 250 MG/ML Injection",
+              "synonym": "amikacin (as amikacin sulfate) 1 GM per 4 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2059184",
+              "name": "amikacin liposomal 70.3 MG/ML Inhalation Suspension",
+              "synonym": "amikacin liposomal 590 MG per 8.4 ML Inhalation Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "905148",
+              "name": "amikacin sulfate 50 MG/ML Injectable Solution",
+              "synonym": "amikacin sulfate 100 MG per 2 ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "905156",
+              "name": "amikacin sulfate 5 MG/ML Injectable Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:15:53.473148",
+  "source": "RxNorm"
+}

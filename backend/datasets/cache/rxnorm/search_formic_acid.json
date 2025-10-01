@@ -1,0 +1,68 @@
+{
+  "query": "Formic acid",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1102207",
+              "name": "{6 (ascorbic acid 100 MG / biotin 0.3 MG / calcium carbonate 100 MG / calcium pantothenate 7 MG / folic acid 1 MG / niacin 25 MG / pyridoxine hydrochloride 30 MG / riboflavin 5 MG / succinic acid 150 MG / thiamine hydrochloride 5 MG / vitamin B12 0.01 MG Oral Tablet) / 24 (ascorbic acid 100 MG / biotin 0.3 MG / calcium pantothenate 0.3 MG / ferrous bisglycinate 65 MG / folic acid 1 MG / formic acid 155 MG / iron-dextran complex 65 MG / niacin 25 MG / pyridoxine hydrochloride 30 MG / riboflavin 5 MG / thiamine hydrochloride 5 MG / vitamin B12 0.01 MG Oral Tablet [Irospan Tablet]) } Pack [Irospan 24/6 Kit]",
+              "synonym": "Irospan 24/6 Kit",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1102202",
+              "name": "{6 (ascorbic acid 100 MG / biotin 0.3 MG / calcium carbonate 100 MG / calcium pantothenate 7 MG / folic acid 1 MG / niacin 25 MG / pyridoxine hydrochloride 30 MG / riboflavin 5 MG / succinic acid 150 MG / thiamine hydrochloride 5 MG / vitamin B12 0.01 MG Oral Tablet) / 24 (ascorbic acid 100 MG / biotin 0.3 MG / calcium pantothenate 0.3 MG / ferrous bisglycinate 65 MG / folic acid 1 MG / formic acid 155 MG / iron-dextran complex 65 MG / niacin 25 MG / pyridoxine hydrochloride 30 MG / riboflavin 5 MG / thiamine hydrochloride 5 MG / vitamin B12 0.01 MG Oral Tablet) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1102206",
+              "name": "ascorbic acid 100 MG / biotin 0.3 MG / calcium pantothenate 0.3 MG / ferrous bisglycinate 65 MG / folic acid 1 MG / formic acid 155 MG / iron-dextran complex 65 MG / niacin 25 MG / pyridoxine hydrochloride 30 MG / riboflavin 5 MG / thiamine hydrochloride 5 MG / vitamin B12 0.01 MG Oral Tablet [Irospan Tablet]",
+              "synonym": "vit-C 100 MG / biotin 0.3 MG / calcium pantothenate 0.3 MG / ferrous bisglycinate 65 MG / folate 1 MG / formic acid 155 MG / iron-dextran complex 65 MG / vit-B3 25 MG / vit-B6 hydrochloride 30 MG / riboflavin 5 MG / vit-B1 hydrochloride 5 MG / vitamin B12 0.01 MG Oral Tablet [Irospan Tablet]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1102196",
+              "name": "ascorbic acid 100 MG / biotin 0.3 MG / calcium pantothenate 0.3 MG / ferrous bisglycinate 65 MG / folic acid 1 MG / formic acid 155 MG / iron-dextran complex 65 MG / niacin 25 MG / pyridoxine hydrochloride 30 MG / riboflavin 5 MG / thiamine hydrochloride 5 MG / vitamin B12 0.01 MG Oral Tablet",
+              "synonym": "vit-C 100 MG / biotin 0.3 MG / calcium pantothenate 0.3 MG / ferrous bisglycinate 65 MG / folate 1 MG / formic acid 155 MG / iron-dextran complex 65 MG / vit-B3 25 MG / vit-B6 hydrochloride 30 MG / riboflavin 5 MG / vit-B1 hydrochloride 5 MG / vitamin B12 0.01 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T02:36:26.611315",
+  "source": "RxNorm"
+}

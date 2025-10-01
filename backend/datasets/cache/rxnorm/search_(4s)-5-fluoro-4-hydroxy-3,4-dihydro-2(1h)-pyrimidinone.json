@@ -1,0 +1,10 @@
+{
+  "query": "(4S)-5-Fluoro-4-hydroxy-3,4-dihydro-2(1H)-pyrimidinone",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T06:30:31.104053",
+  "source": "RxNorm"
+}

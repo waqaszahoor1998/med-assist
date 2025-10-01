@@ -1,0 +1,10 @@
+{
+  "query": "Avoralstat",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:39:39.619565",
+  "source": "RxNorm"
+}

@@ -1,0 +1,23 @@
+{
+  "drug_name": "ALT-2074",
+  "generic_name": [
+    "ACHORION SCHO, ALTERNARIA ALT, ASPERGILLUS FUM, ASPERGILLUS NIGER, BOLETUS SAT, BOTRYTIS CIN, CANDIDA PARAP, CLADOSPORIUM MET, FUSARIUM OXY, HELMINTHOSPORIUM SAT, MICROSPORON FUR, MUCOR MUECEDO, PULLULARIA PULL, RHIZOPUS NIG, SACCHAROMYCES CER, TRICHOPHYTON SPP, USTILAGO MAYDIS"
+  ],
+  "brand_names": [
+    "Fungus Nosode"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    "WARNINGS: Consult a physician for use in children under 12 years of age. IF PREGNANT OR BREAST-FEEDING , ask a health care professional before use. KEEP OUT OF THE REACH OF CHILDREN. In case of overdose (or accidental ingestion) get medical help or contact a Poison Control Center right away. Do not use if TAMPER EVIDENT seal is broken or missing."
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    "DIRECTIONS: Adults & children above 12 years: 10 drops orally 2 times daily, or as directed by a health care professional."
+  ],
+  "indications": [
+    "USES: Temporarily relieves the pain of fungal infections.**"
+  ],
+  "fetched_at": "2025-10-01T16:02:33.833043",
+  "source": "OpenFDA"
+}

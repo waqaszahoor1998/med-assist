@@ -1,0 +1,10 @@
+{
+  "query": "Zinc protoporphyrin",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T04:33:28.652015",
+  "source": "RxNorm"
+}

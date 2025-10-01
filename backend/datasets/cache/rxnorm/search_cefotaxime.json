@@ -1,0 +1,100 @@
+{
+  "query": "Cefotaxime",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "105174",
+              "name": "cefotaxime 200 MG/ML Injectable Solution [Claforan]",
+              "synonym": "Claforan 200 MG/ML Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1656316",
+              "name": "cefotaxime 1000 MG Injection [Claforan]",
+              "synonym": "Claforan 1 GM Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1656320",
+              "name": "cefotaxime 2000 MG Injection [Claforan]",
+              "synonym": "Claforan 2 GM Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1656313",
+              "name": "cefotaxime 1000 MG Injection",
+              "synonym": "cefotaxime (as cefotaxime sodium) 1 GM Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1656318",
+              "name": "cefotaxime 2000 MG Injection",
+              "synonym": "cefotaxime (as cefotaxime sodium) 2 GM Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1747121",
+              "name": "50 ML cefotaxime 40 MG/ML Injection",
+              "synonym": "cefotaxime 2 GM per 50 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "309065",
+              "name": "cefotaxime 200 MG/ML Injectable Solution",
+              "synonym": "cefotaxime (as cefotaxime sodium) 10 GM per 50 ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "309068",
+              "name": "cefotaxime 500 MG Injection",
+              "synonym": "cefotaxime (as cefotaxime sodium) 500 MG Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:16:20.269866",
+  "source": "RxNorm"
+}

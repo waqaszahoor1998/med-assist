@@ -1,0 +1,329 @@
+{
+  "query": "Magnesium sulfate",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1001690",
+              "name": "{2 (480 ML) (magnesium sulfate 0.0277 MEQ/ML / potassium sulfate 0.0374 MEQ/ML / sodium sulfate 0.257 MEQ/ML Oral Solution) } Pack [Suprep Bowel Prep Kit]",
+              "synonym": "Suprep Bowel Prep Kit",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2390768",
+              "name": "{2 (355 ML) (magnesium sulfate 0.0277 MEQ/ML / potassium sulfate 0.0374 MEQ/ML / sodium sulfate 0.257 MEQ/ML Oral Solution) } Pack [Suprep Pediatric Bowel Prep Kit]",
+              "synonym": "Suprep Pediatric Bowel Prep Kit",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2641144",
+              "name": "{2 (magnesium sulfate 900 MG / polyethylene glycol 3350 179000 MG / potassium chloride 1120 MG / sodium chloride 500 MG / sodium sulfate 7300 MG Powder for Oral Solution) } Pack [Suflave]",
+              "synonym": "Suflave Kit (polyethylene glycol 3350 178.7 GM / potassium chloride 1.12 GM / magnesium sulfate 0.9 GM / sodium chloride 0.5 GM / sodium sulfate 7.3 GM) Powder for Oral Solution",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1001689",
+              "name": "{2 (480 ML) (magnesium sulfate 0.0277 MEQ/ML / potassium sulfate 0.0374 MEQ/ML / sodium sulfate 0.257 MEQ/ML Oral Solution) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2390767",
+              "name": "{2 (355 ML) (magnesium sulfate 0.0277 MEQ/ML / potassium sulfate 0.0374 MEQ/ML / sodium sulfate 0.257 MEQ/ML Oral Solution) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2641143",
+              "name": "{2 (magnesium sulfate 900 MG / polyethylene glycol 3350 179000 MG / potassium chloride 1120 MG / sodium chloride 500 MG / sodium sulfate 7300 MG Powder for Oral Solution) } Pack",
+              "synonym": "Bowel Prep Kit (polyethylene glycol 3350 178.7 GM / potassium chloride 1.12 GM / magnesium sulfate 0.9 GM / sodium chloride 0.5 GM / sodium sulfate 7.3 GM) Powder for Oral Solution",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1087399",
+              "name": "copper sulfate 0.8 MG / ferrous fumarate 324 MG / folic acid 1 MG / magnesium sulfate 6.9 MG / manganese sulfate 1.3 MG / niacinamide 30 MG / pantothenic acid 10 MG / pyridoxine 5 MG / riboflavin 6 MG / sodium ascorbate 200 MG / thiamine 10 MG / vitamin B12 0.015 MG / zinc sulfate 18.2 MG Oral Capsule [Hemocyte Plus]",
+              "synonym": "copper sulfate 0.8 MG / ferrous fumarate 324 MG / folate 1 MG / magnesium sulfate 6.9 MG / manganese sulfate 1.3 MG / niacinamide 30 MG / pantothenic acid 10 MG / vit-B6 5 MG / riboflavin 6 MG / sodium ascorbate 200 MG / vit-B1 10 MG / vitamin B12 0.015 MG / ZnSO4 18.2 MG Oral Capsule [Hemocyte Plus]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1111750",
+              "name": "dexpanthenol 0.2 MG/ML / magnesium sulfate 0.0467 MG/ML / manganese sulfate 0.0467 MG/ML / niacinamide 0.467 MG/ML / pyridoxine 0.0467 MG/ML / riboflavin 0.04 MG/ML / thiamine 0.0333 MG/ML / vitamin B12 0.000133 MG/ML / zinc sulfate 0.333 MG/ML Oral Solution [Ellis Tonic]",
+              "synonym": "Ellis Tonic Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1111752",
+              "name": "dexpanthenol 0.2 MG/ML / magnesium sulfate 0.0467 MG/ML / manganese sulfate 0.0467 MG/ML / niacinamide 0.467 MG/ML / pyridoxine 0.0467 MG/ML / riboflavin 0.04 MG/ML / thiamine 0.0333 MG/ML / vitamin B12 0.000133 MG/ML / zinc sulfate 0.333 MG/ML Oral Solution [Eldertonic]",
+              "synonym": "Eldertonic Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1314672",
+              "name": "ascorbic acid 210 MG / biotin 0.3 MG / calcium pantothenate 7 MG / copper sulfate 0.8 MG / ferrous fumarate 130 MG / folic acid 1 MG / magnesium sulfate 6.9 MG / manganese sulfate 1.3 MG / niacin 20 MG / polysaccharide iron complex 92.4 MG / pyridoxine hydrochloride 25 MG / riboflavin 5 MG / thiamine mononitrate 5 MG / vitamin B12 0.01 MG / zinc sulfate 18.2 MG Oral Capsule [Concept OB]",
+              "synonym": "vit-C 210 MG / biotin 0.3 MG / calcium pantothenate 7 MG / copper sulfate 0.8 MG / ferrous fumarate 130 MG / folate 1 MG / magnesium sulfate 6.9 MG / manganese sulfate 1.3 MG / vit-B3 20 MG / polysaccharide iron complex 92.4 MG / vit-B6 hydrochloride 25 MG / riboflavin 5 MG / vit-B1 mononitrate 5 MG / vitamin B12 0.01 MG / ZnSO4 18.2 MG Oral Capsule [Concept OB]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2465556",
+              "name": "magnesium sulfate 225 MG / potassium chloride 188 MG / sodium sulfate 1479 MG Oral Tablet [Sutab]",
+              "synonym": "Sutab 1.479 GM / 0.188 GM / 0.225 GM Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "801445",
+              "name": "magnesium sulfate 0.2 MG/ML / monobasic potassium phosphate 0.063 MG/ML / potassium chloride 0.005 MEQ/ML / sodium chloride 0.14 MEQ/ML / sodium phosphate dihydrate 0.088 MG/ML Irrigation Solution [Tis-U-Sol]",
+              "synonym": "Tis-U-Sol Irrigation Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1053346",
+              "name": "magnesium sulfate 1000 MG Granules for Oral Solution",
+              "synonym": "Epsom salt 100 % Granules for Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1111748",
+              "name": "dexpanthenol 0.2 MG/ML / magnesium sulfate 0.0467 MG/ML / manganese sulfate 0.0467 MG/ML / niacinamide 0.467 MG/ML / pyridoxine 0.0467 MG/ML / riboflavin 0.04 MG/ML / thiamine 0.0333 MG/ML / vitamin B12 0.000133 MG/ML / zinc sulfate 0.333 MG/ML Oral Solution",
+              "synonym": "dexpanthenol 0.2 MG/ML / magnesium sulfate 0.0467 MG/ML / manganese sulfate 0.0467 MG/ML / niacinamide 0.467 MG/ML / vit-B6 0.0467 MG/ML / riboflavin 0.04 MG/ML / vit-B1 0.0333 MG/ML / vitamin B12 0.000133 MG/ML / ZnSO4 0.333 MG/ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1120068",
+              "name": "magnesium sulfate 0.0277 MEQ/ML / potassium sulfate 0.0374 MEQ/ML / sodium sulfate 0.257 MEQ/ML Oral Solution",
+              "synonym": "Magnesium Sulfate 0.0277 MEQ/ML / K+ sulfate 0.0374 MEQ/ML / sodium sulfate 0.257 MEQ/ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1314666",
+              "name": "ascorbic acid 210 MG / biotin 0.3 MG / calcium pantothenate 7 MG / copper sulfate 0.8 MG / ferrous fumarate 130 MG / folic acid 1 MG / magnesium sulfate 6.9 MG / manganese sulfate 1.3 MG / niacin 20 MG / polysaccharide iron complex 92.4 MG / pyridoxine hydrochloride 25 MG / riboflavin 5 MG / thiamine mononitrate 5 MG / vitamin B12 0.01 MG / zinc sulfate 18.2 MG Oral Capsule",
+              "synonym": "vit-C 210 MG / biotin 0.3 MG / calcium pantothenate 7 MG / copper sulfate 0.8 MG / ferrous fumarate 130 MG / folate 1 MG / magnesium sulfate 6.9 MG / manganese sulfate 1.3 MG / vit-B3 20 MG / polysaccharide iron complex 92.4 MG / vit-B6 hydrochloride 25 MG / riboflavin 5 MG / vit-B1 mononitrate 5 MG / vitamin B12 0.01 MG / ZnSO4 18.2 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1658221",
+              "name": "2 ML magnesium sulfate 500 MG/ML Injection",
+              "synonym": "magnesium sulfate 1 GM per 2 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1658236",
+              "name": "20 ML magnesium sulfate 500 MG/ML Injection",
+              "synonym": "magnesium sulfate 10 GM per 20 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1658244",
+              "name": "10 ML magnesium sulfate 500 MG/ML Injection",
+              "synonym": "magnesium sulfate 5 GM per 10 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1658245",
+              "name": "50 ML magnesium sulfate 500 MG/ML Injection",
+              "synonym": "magnesium sulfate 25 GM per 50 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1658259",
+              "name": "50 ML magnesium sulfate 40 MG/ML Injection",
+              "synonym": "magnesium sulfate 2 GM per 50 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1658262",
+              "name": "100 ML magnesium sulfate 40 MG/ML Injection",
+              "synonym": "magnesium sulfate 4 GM per 100 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1658264",
+              "name": "500 ML magnesium sulfate 40 MG/ML Injection",
+              "synonym": "magnesium sulfate 20 GM per 500 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1658265",
+              "name": "1000 ML magnesium sulfate 40 MG/ML Injection",
+              "synonym": "magnesium sulfate 40 GM per 1000 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1666549",
+              "name": "magnesium sulfate 100 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1945074",
+              "name": "magnesium sulfate 0.4 MG/MG Topical Ointment",
+              "synonym": "magnesium sulfate 40 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2465554",
+              "name": "magnesium sulfate 225 MG / potassium chloride 188 MG / sodium sulfate 1479 MG Oral Tablet",
+              "synonym": "magnesium sulfate 225 MG / K+ chloride 188 MG / sodium sulfate 1479 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2641142",
+              "name": "magnesium sulfate 900 MG / polyethylene glycol 3350 179000 MG / potassium chloride 1120 MG / sodium chloride 500 MG / sodium sulfate 7300 MG Powder for Oral Solution",
+              "synonym": "magnesium sulfate 900 MG / polyethylene glycol 3350 179000 MG / K+ chloride 1120 MG / NaCl 500 MG / sodium sulfate 7300 MG Powder for Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "801442",
+              "name": "magnesium sulfate 0.2 MG/ML / monobasic potassium phosphate 0.063 MG/ML / potassium chloride 0.005 MEQ/ML / sodium chloride 0.14 MEQ/ML / sodium phosphate dihydrate 0.088 MG/ML Irrigation Solution",
+              "synonym": "Magnesium Sulfate 0.2 MG/ML / Monobasic K+ phosphate 0.063 MG/ML / K+ Chloride 0.005 MEQ/ML / NaCl 0.14 MEQ/ML / SODIUM PHOSPHATE DIHYDRATE 0.088 MG/ML Irrigation Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "802693",
+              "name": "copper sulfate 0.8 MG / ferrous fumarate 324 MG / folic acid 1 MG / magnesium sulfate 6.9 MG / manganese sulfate 1.3 MG / niacinamide 30 MG / pantothenic acid 10 MG / pyridoxine 5 MG / riboflavin 6 MG / sodium ascorbate 200 MG / thiamine 10 MG / vitamin B12 0.015 MG / zinc sulfate 18.2 MG Oral Capsule",
+              "synonym": "copper sulfate 0.8 MG / ferrous fumarate 324 MG / folate 1 MG / magnesium sulfate 6.9 MG / manganese sulfate 1.3 MG / niacinamide 30 MG / pantothenic acid 10 MG / vit-B6 5 MG / riboflavin 6 MG / sodium ascorbate 200 MG / vit-B1 10 MG / vitamin B12 0.015 MG / ZnSO4 18.2 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "829734",
+              "name": "50 ML magnesium sulfate 80 MG/ML Injection",
+              "synonym": "magnesium sulfate 4 GM per 50 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "829757",
+              "name": "100 ML magnesium sulfate 10 MG/ML Injection",
+              "synonym": "magnesium sulfate 1 GM per 100 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "829762",
+              "name": "10 ML magnesium sulfate 500 MG/ML Prefilled Syringe",
+              "synonym": "magnesium sulfate 5 GM per 10 ML Prefilled Syringe",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:27:03.585669",
+  "source": "RxNorm"
+}

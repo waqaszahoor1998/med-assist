@@ -1,0 +1,262 @@
+{
+  "query": "Sofosbuvir",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1484922",
+              "name": "sofosbuvir 400 MG Oral Tablet [Sovaldi]",
+              "synonym": "Sovaldi 400 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1591949",
+              "name": "ledipasvir 90 MG / sofosbuvir 400 MG Oral Tablet [Harvoni]",
+              "synonym": "Harvoni (ledipasvir 90 MG / sofosbuvir 400 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1799218",
+              "name": "sofosbuvir 400 MG / velpatasvir 100 MG Oral Tablet [Epclusa]",
+              "synonym": "Epclusa (sofosbuvir 400 MG / velpatasvir 100 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1939335",
+              "name": "sofosbuvir 400 MG / velpatasvir 100 MG / voxilaprevir 100 MG Oral Tablet [Vosevi]",
+              "synonym": "Vosevi 400/100/100 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2203893",
+              "name": "sofosbuvir 200 MG Oral Tablet [Sovaldi]",
+              "synonym": "Sovaldi 200 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2203897",
+              "name": "ledipasvir 45 MG / sofosbuvir 200 MG Oral Tablet [Harvoni]",
+              "synonym": "Harvoni (ledipasvir 45 MG / sofosbuvir 200 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2203999",
+              "name": "sofosbuvir 150 MG Oral Pellet [Sovaldi]",
+              "synonym": "Sovaldi 150 MG Oral Pellet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2204092",
+              "name": "sofosbuvir 200 MG Oral Pellet [Sovaldi]",
+              "synonym": "Sovaldi 200 MG Oral Pellet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2204102",
+              "name": "ledipasvir 33.75 MG / sofosbuvir 150 MG Oral Pellet [Harvoni]",
+              "synonym": "Harvoni (ledipasvir 33.75 MG / sofosbuvir 150 MG) per packet Oral Pellets",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2204104",
+              "name": "ledipasvir 45 MG / sofosbuvir 200 MG Oral Pellet [Harvoni]",
+              "synonym": "Harvoni (ledipasvir 45 MG / sofosbuvir 200 MG) per packet Oral Pellets",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2288816",
+              "name": "sofosbuvir 200 MG / velpatasvir 50 MG Oral Tablet [Epclusa]",
+              "synonym": "Epclusa (sofosbuvir 200 MG / velpatasvir 50 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2584199",
+              "name": "sofosbuvir 150 MG / velpatasvir 37.5 MG Oral Pellet [Epclusa]",
+              "synonym": "Epclusa (sofosbuvir 150 MG / velpatasvir 37.5 MG) Oral Pellet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2584201",
+              "name": "sofosbuvir 200 MG / velpatasvir 50 MG Oral Pellet [Epclusa]",
+              "synonym": "Epclusa (sofosbuvir 200 MG / velpatasvir 50 MG) Oral Pellet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1484916",
+              "name": "sofosbuvir 400 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1591943",
+              "name": "ledipasvir 90 MG / sofosbuvir 400 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1799212",
+              "name": "sofosbuvir 400 MG / velpatasvir 100 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1939329",
+              "name": "sofosbuvir 400 MG / velpatasvir 100 MG / voxilaprevir 100 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2203891",
+              "name": "sofosbuvir 200 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2203895",
+              "name": "ledipasvir 45 MG / sofosbuvir 200 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2203993",
+              "name": "sofosbuvir 150 MG Oral Pellet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2204090",
+              "name": "sofosbuvir 200 MG Oral Pellet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2204100",
+              "name": "ledipasvir 33.75 MG / sofosbuvir 150 MG Oral Pellet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2204103",
+              "name": "ledipasvir 45 MG / sofosbuvir 200 MG Oral Pellet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2288814",
+              "name": "sofosbuvir 200 MG / velpatasvir 50 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2584196",
+              "name": "sofosbuvir 150 MG / velpatasvir 37.5 MG Oral Pellet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2584200",
+              "name": "sofosbuvir 200 MG / velpatasvir 50 MG Oral Pellet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:08:45.421744",
+  "source": "RxNorm"
+}

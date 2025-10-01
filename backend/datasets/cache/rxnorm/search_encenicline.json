@@ -1,0 +1,10 @@
+{
+  "query": "Encenicline",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:16:46.937494",
+  "source": "RxNorm"
+}

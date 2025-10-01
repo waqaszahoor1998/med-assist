@@ -1,0 +1,10 @@
+{
+  "query": "7-methyl-guanosine-5'-triphosphate-5'-guanosine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T04:34:38.450220",
+  "source": "RxNorm"
+}

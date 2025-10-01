@@ -1,0 +1,10 @@
+{
+  "query": "3-(3-Methyl-2-buten-1-yl)-3H-purin-6-amine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:52:49.288646",
+  "source": "RxNorm"
+}

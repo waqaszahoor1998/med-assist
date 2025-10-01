@@ -1,0 +1,10 @@
+{
+  "query": "5-(acetylamino)-3,5-dideoxy-3-fluoro-D-erythro-alpha-L-manno-non-2-ulopyranosonic acid",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T10:08:02.883266",
+  "source": "RxNorm"
+}

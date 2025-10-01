@@ -1,0 +1,10 @@
+{
+  "query": "Duvoglustat",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:31:11.213194",
+  "source": "RxNorm"
+}

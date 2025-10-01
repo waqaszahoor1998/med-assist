@@ -1,0 +1,35 @@
+{
+  "query": "Hydrotalcite",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD"
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "104023",
+              "name": "hydrotalcite 100 MG/ML Oral Suspension",
+              "synonym": "hydrotalcite 500 MG per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T22:57:49.002257",
+  "source": "RxNorm"
+}

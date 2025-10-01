@@ -1,0 +1,82 @@
+{
+  "query": "Osilodrostat",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2286281",
+              "name": "osilodrostat 1 MG Oral Tablet [Isturisa]",
+              "synonym": "Isturisa 1 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2286285",
+              "name": "osilodrostat 10 MG Oral Tablet [Isturisa]",
+              "synonym": "Isturisa 10 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2286290",
+              "name": "osilodrostat 5 MG Oral Tablet [Isturisa]",
+              "synonym": "Isturisa 5 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2286275",
+              "name": "osilodrostat 1 MG Oral Tablet",
+              "synonym": "osilodrostat 1 MG (as osilodrostat phosphate 1.4 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2286283",
+              "name": "osilodrostat 10 MG Oral Tablet",
+              "synonym": "osilodrostat 10 MG (as osilodrostat phosphate 14.3 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2286288",
+              "name": "osilodrostat 5 MG Oral Tablet",
+              "synonym": "osilodrostat 5 MG (as osilodrostat phosphate 7.2 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:23:32.049414",
+  "source": "RxNorm"
+}

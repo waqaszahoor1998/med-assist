@@ -1,0 +1,35 @@
+{
+  "query": "Pyruvic acid",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD"
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "259289",
+              "name": "glycolate 120 MG/ML / pyruvic acid 10 MG/ML Topical Cream",
+              "synonym": "glycolic acid 12 % / pyruvic acid 1 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T20:56:04.907245",
+  "source": "RxNorm"
+}

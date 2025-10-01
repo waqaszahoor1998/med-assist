@@ -1,0 +1,10 @@
+{
+  "query": "NPS-2143",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:03:44.732721",
+  "source": "RxNorm"
+}

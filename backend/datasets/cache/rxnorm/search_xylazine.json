@@ -1,0 +1,64 @@
+{
+  "query": "Xylazine",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1099901",
+              "name": "xylazine 100 MG/ML Injectable Solution [AnaSed]",
+              "synonym": "AnaSed 100 MG/ML Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1536495",
+              "name": "xylazine 100 MG/ML Injectable Solution [Rompun]",
+              "synonym": "Rompun (as xylazine hydrochloride) 100 MG/ML Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1543402",
+              "name": "xylazine 100 MG/ML Injectable Solution [Xylamed]",
+              "synonym": "Xylamed 100 MG/ML Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1099899",
+              "name": "xylazine 100 MG/ML Injectable Solution",
+              "synonym": "xylazine (as xylazine HCl) 100 MG/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:03:23.931529",
+  "source": "RxNorm"
+}

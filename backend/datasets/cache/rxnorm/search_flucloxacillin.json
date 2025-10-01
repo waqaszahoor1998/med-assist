@@ -1,0 +1,107 @@
+{
+  "query": "Flucloxacillin",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD"
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "105099",
+              "name": "floxacillin 167 MG/ML Injectable Solution",
+              "synonym": "floxacillin (as floxacillin sodium) 167 MG/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "105100",
+              "name": "floxacillin 250 MG/ML Injectable Solution",
+              "synonym": "floxacillin (as floxacillin sodium) 250 MG/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "105101",
+              "name": "floxacillin 400 MG/ML Injectable Solution",
+              "synonym": "floxacillin (as floxacillin sodium) 400 MG/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "199468",
+              "name": "floxacillin 250 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "199469",
+              "name": "floxacillin 500 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "247647",
+              "name": "floxacillin 50 MG/ML Oral Suspension",
+              "synonym": "floxacillin (as floxacillin magnesium) 50 MG/ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "247684",
+              "name": "floxacillin 25 MG/ML Oral Suspension",
+              "synonym": "floxacillin (as floxacillin sodium) 25 MG/ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "250463",
+              "name": "ampicillin 250 MG / floxacillin 250 MG Oral Capsule",
+              "synonym": "ampicillin (as ampicillin trihydrate) 250 MG / floxacillin (as floxacillin sodium) 250 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "755759",
+              "name": "floxacillin 50 MG/ML Oral Solution",
+              "synonym": "floxacillin (as floxacillin sodium) 50 MG/ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:05:52.103321",
+  "source": "RxNorm"
+}

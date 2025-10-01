@@ -1,0 +1,10 @@
+{
+  "query": "Cenerimod",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:13:15.470062",
+  "source": "RxNorm"
+}

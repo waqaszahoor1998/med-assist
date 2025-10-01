@@ -1,0 +1,739 @@
+{
+  "query": "Simethicone",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1040048",
+              "name": "aluminum hydroxide 40 MG/ML / magnesium hydroxide 40 MG/ML / simethicone 4 MG/ML Oral Suspension [Milantex]",
+              "synonym": "Milantex (aluminum hydroxide 200 MG / milk of magnesia 200 MG / simethicone 20 MG) per 5 ML Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1086970",
+              "name": "magaldrate 108 MG/ML / simethicone 8 MG/ML Oral Suspension [Ri-Mag Plus]",
+              "synonym": "Ri-Mag Plus 540 MG / 40 MG per 5 ML Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1117570",
+              "name": "simethicone 80 MG Chewable Tablet [Bicarsim]",
+              "synonym": "Bicarsim 80 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1235456",
+              "name": "aluminum magnesium silicate 200 MG / magnesium hydroxide 60 MG / simethicone 20 MG Oral Tablet [Inon Ace Tablet]",
+              "synonym": "Inon Ace Tablet (aluminum magnesium silicate 200 MG / magnesium hydroxide 60 MG / simethicone 20 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1366212",
+              "name": "simethicone 125 MG Oral Tablet [Bicarsim]",
+              "synonym": "Bicarsim 125 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1426827",
+              "name": "loperamide hydrochloride 2 MG / simethicone 125 MG Oral Tablet [Imodium Multi-Symptom Relief]",
+              "synonym": "Imodium Multi-Symptom Relief (loperamide HCl 2 MG / simethicone 125 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1537320",
+              "name": "simethicone 250 MG Oral Capsule [Phazyme]",
+              "synonym": "Phazyme 250 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1741569",
+              "name": "calcium carbonate 750 MG / simethicone 250 MG Chewable Tablet [Phazyme Gas & Acid]",
+              "synonym": "Phazyme Gas & Acid (calcium carbonate 750 MG / simethicone 250 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1999202",
+              "name": "calcium carbonate 400 MG / simethicone 40 MG Chewable Tablet [Mylicon Children's]",
+              "synonym": "Mylicon Children's (calcium Carbonate 400 MG / simethicone 40 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2000686",
+              "name": "calcium carbonate 750 MG / simethicone 80 MG Chewable Tablet [Tums with Gas Relief]",
+              "synonym": "Tums with Gas Relief (calcium carbonate 750 MG / simethicone 80 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "210000",
+              "name": "aluminum hydroxide 80 MG/ML / magnesium hydroxide 80 MG/ML / simethicone 8 MG/ML Oral Suspension [Almacone]",
+              "synonym": "Almacone Double Strength 400 MG / 400 MG / 40 MG per 5 ML Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "210015",
+              "name": "aluminum hydroxide 40 MG/ML / magnesium hydroxide 40 MG/ML / simethicone 4 MG/ML Oral Suspension [Almacone]",
+              "synonym": "Almacone (aluminum hydroxide 40 MG/ML / magnesium hydroxide 40 MG/ML / simethicone 4 MG/ML) Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "210031",
+              "name": "aluminum hydroxide 40 MG/ML / magnesium hydroxide 40 MG/ML / simethicone 4 MG/ML Oral Suspension [Maalox Plus]",
+              "synonym": "Maalox Plus (aluminum hydroxide 40 MG / milk of magnesia 40 MG / simethicone 4 MG) per ML Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "210037",
+              "name": "aluminum hydroxide 40 MG/ML / magnesium hydroxide 40 MG/ML / simethicone 4 MG/ML Oral Suspension [Mintox Plus]",
+              "synonym": "Mintox Plus (aluminum hydroxide 40 MG/ML / magnesium hydroxide 40 MG/ML / simethicone 4 MG/ML) Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "210273",
+              "name": "simethicone 80 MG Chewable Tablet [Gas-X]",
+              "synonym": "Gas-X 80 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "210295",
+              "name": "simethicone 125 MG Chewable Tablet [Gas-X]",
+              "synonym": "Gas-X 125 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "210299",
+              "name": "simethicone 125 MG Oral Capsule [Gas-X]",
+              "synonym": "Gas-X 125 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "210318",
+              "name": "simethicone 66.7 MG/ML Oral Suspension [Little Tummys]",
+              "synonym": "Little Tummys 66.7 MG/ML Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "211633",
+              "name": "aluminum hydroxide 200 MG / magnesium hydroxide 200 MG / simethicone 25 MG Chewable Tablet [Gelusil]",
+              "synonym": "Gelusil (aluminum hydroxide 200 MG / magnesium hydroxide 200 MG / simethicone 25 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "211637",
+              "name": "aluminum hydroxide 200 MG / magnesium hydroxide 200 MG / simethicone 25 MG Chewable Tablet [Mintox Plus]",
+              "synonym": "Mintox (aluminum hydroxide 200 MG / magnesium hydroxide 200 MG / simethicone 25 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2119393",
+              "name": "simethicone 250 MG Oral Capsule [Gas-X]",
+              "synonym": "Gas-X 250 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2474339",
+              "name": "citric acid 1530 MG / simethicone 40 MG / sodium bicarbonate 2210 MG Granules for Oral Solution [E-Z-Gas II]",
+              "synonym": "citric acid 1530 MG / simethicone 40 MG / NaHCO3 2210 MG Granules for Oral Solution [E-Z-Gas II]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2478331",
+              "name": "simethicone 500 MG Oral Capsule [Phazyme]",
+              "synonym": "Phazyme 500 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2590817",
+              "name": "calcium carbonate 750 MG / simethicone 250 MG Chewable Tablet [Gas-X Total Relief]",
+              "synonym": "Gas-X Total Relief (calcium carbonate 750 MG / simethicone 250 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2599612",
+              "name": "calcium carbonate 80 MG/ML / simethicone 8 MG/ML Oral Suspension [Mylicon Children's]",
+              "synonym": "Mylicon Children's (calcium carbonate 400 MG / simethicone 40 MG per 5 ML) Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2716712",
+              "name": "simethicone 500 MG Oral Capsule [Gas-X]",
+              "synonym": "Gas-X 500 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "351603",
+              "name": "simethicone 125 MG Oral Capsule [Gas Aide]",
+              "synonym": "Gas Aide 125 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "352091",
+              "name": "simethicone 180 MG Oral Capsule [Phazyme]",
+              "synonym": "Phazyme 180 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "404176",
+              "name": "aluminum hydroxide 80 MG/ML / magnesium hydroxide 80 MG/ML / simethicone 8 MG/ML Oral Suspension [Maalox Max]",
+              "synonym": "Maalox Max (aluminum hydroxide 400 MG / milk of magnesia 400 MG / simethicone 40 MG) per 5 ML Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "404507",
+              "name": "calcium carbonate 500 MG / simethicone 125 MG Chewable Tablet [Gas-X with Maalox]",
+              "synonym": "Gas-X w/ Maalox Extra Strength (calcium carbonate 500 MG / simethicone 125 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "404509",
+              "name": "calcium carbonate 1000 MG / simethicone 60 MG Chewable Tablet [Maalox Max Quick Dissolve]",
+              "synonym": "Maalox Max Quick Dissolve (calcium carbonate 1000 MG / simethicone 60 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "603288",
+              "name": "simethicone 80 MG Chewable Tablet [Mi-Acid Gas Relief]",
+              "synonym": "Mi-Acid Gas Relief 80 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "643496",
+              "name": "aluminum hydroxide 80 MG/ML / magnesium hydroxide 80 MG/ML / simethicone 8 MG/ML Oral Suspension [Comfort Gel]",
+              "synonym": "Comfort Gel (aluminum hydroxide 400 MG / magnesium hydroxide 400 MG / simethicone 40 MG) per 5 ML Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "701678",
+              "name": "calcium carbonate 420 MG / simethicone 21 MG Chewable Tablet [Titralac Plus]",
+              "synonym": "Titralac Plus (calcium carbonate 420 MG / simethicone 21 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "705159",
+              "name": "simethicone 62.5 MG Oral Film [Gas-X]",
+              "synonym": "Gas-X 62.5 MG Oral Film",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "708127",
+              "name": "aluminum hydroxide 80 MG/ML / magnesium hydroxide 80 MG/ML / simethicone 8 MG/ML Oral Suspension [Mintox Plus]",
+              "synonym": "Mintox (aluminum hydroxide 400 MG / milk of magnesia 400 MG / simethicone 40 MG) per 5 ML Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "809376",
+              "name": "simethicone 66.7 MG/ML Oral Suspension [Mylicon]",
+              "synonym": "Mylicon 66.7 MG/ML Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "860055",
+              "name": "simethicone 180 MG Oral Capsule [Gas-X]",
+              "synonym": "Gas-X 180 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "978000",
+              "name": "loperamide hydrochloride 2 MG / simethicone 125 MG Chewable Tablet [Imodium Advanced]",
+              "synonym": "Imodium Advanced (loperamide hydrochloride 2 MG / simethicone 125 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1235450",
+              "name": "aluminum magnesium silicate 200 MG / magnesium hydroxide 60 MG / simethicone 20 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "142065",
+              "name": "simethicone 8.4 MG/ML Oral Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1492387",
+              "name": "calcium carbonate 750 MG / simethicone 80 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1649510",
+              "name": "calcium carbonate 1000 MG / magnesium hydroxide 200 MG / simethicone 40 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1741562",
+              "name": "calcium carbonate 750 MG / simethicone 250 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1788932",
+              "name": "calcium carbonate 80 MG/ML / magnesium hydroxide 27 MG/ML / simethicone 8 MG/ML Oral Suspension",
+              "synonym": "calcium carbonate 800 MG / magnesium hydroxide 270 MG / simethicone 80 MG per 10 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198852",
+              "name": "simethicone 125 MG Oral Capsule",
+              "synonym": "dimethicone 125 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198853",
+              "name": "simethicone 125 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198857",
+              "name": "simethicone 66.7 MG/ML Oral Suspension",
+              "synonym": "simethicone 20 MG per 0.3 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1999195",
+              "name": "calcium carbonate 400 MG / simethicone 40 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "199971",
+              "name": "simethicone 100 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2262288",
+              "name": "simethicone 25 MG/ML Oral Suspension",
+              "synonym": "simethicone 125 MG per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2281844",
+              "name": "calcium carbonate 120 MG/ML / magnesium hydroxide 27 MG/ML / simethicone 8 MG/ML Oral Suspension",
+              "synonym": "calcium carbonate 1200 MG / magnesium hydroxide 270 MG / simethicone 80 MG per 10 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2282016",
+              "name": "calcium carbonate 1330 MG / magnesium hydroxide 235 MG / simethicone 40 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "237867",
+              "name": "calcium carbonate 420 MG / simethicone 21 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "237870",
+              "name": "aluminum hydroxide 80 MG/ML / magnesium hydroxide 80 MG/ML / simethicone 8 MG/ML Oral Suspension",
+              "synonym": "aluminum hydroxide 400 MG / magnesium hydroxide 400 MG / simethicone 40 MG per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "245213",
+              "name": "activated charcoal 400 MG / simethicone 80 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "245368",
+              "name": "simethicone 40 MG/ML Oral Suspension",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2474333",
+              "name": "citric acid 1530 MG / simethicone 40 MG / sodium bicarbonate 2210 MG Granules for Oral Solution",
+              "synonym": "citric acid 1530 MG / simethicone 40 MG / NaHCO3 2210 MG Granules for Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2477951",
+              "name": "simethicone 500 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "252294",
+              "name": "simethicone 180 MG Oral Capsule",
+              "synonym": "dimethicone 180 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2556794",
+              "name": "calcium carbonate 1000 MG / magnesium hydroxide 270 MG / simethicone 80 MG Chewable Tablet",
+              "synonym": "calcium carbonate 1000 MG / magnesium hydroxide 270 MG / dimethicone 80 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2595235",
+              "name": "simethicone 250 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2599608",
+              "name": "calcium carbonate 80 MG/ML / simethicone 8 MG/ML Oral Suspension",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "307746",
+              "name": "aluminum hydroxide 40 MG/ML / magnesium hydroxide 40 MG/ML / simethicone 4 MG/ML Oral Suspension",
+              "synonym": "aluminum hydroxide 200 MG / milk of magnesia 200 MG / dimethicone 20 MG per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "307747",
+              "name": "aluminum hydroxide 200 MG / magnesium hydroxide 200 MG / simethicone 25 MG Chewable Tablet",
+              "synonym": "aluminum hydroxide 200 MG / milk of magnesia 200 MG / simethicone 25 MG Chewable Tab",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308841",
+              "name": "calcium carbonate 280 MG / magnesium hydroxide 128 MG / simethicone 20 MG Chewable Tablet",
+              "synonym": "calcium carbonate 280 MG (calcium 112 MG) / milk of magnesia 128 MG / simethicone 20 MG Chewable Tab",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "311415",
+              "name": "magaldrate 108 MG/ML / simethicone 8 MG/ML Oral Suspension",
+              "synonym": "magaldrate 540 MG / simethicone 40 MG per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "312957",
+              "name": "simethicone 166 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "314216",
+              "name": "simethicone 80 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "314221",
+              "name": "simethicone 125 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "403826",
+              "name": "calcium carbonate 500 MG / simethicone 125 MG Chewable Tablet",
+              "synonym": "calcium carbonate 500 MG (calcium 200 MG) / simethicone 125 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "403828",
+              "name": "calcium carbonate 1000 MG / simethicone 60 MG Chewable Tablet",
+              "synonym": "calcium carbonate 1000 MG (calcium 400 MG) / simethicone 60 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "412111",
+              "name": "simethicone 250 MG Oral Capsule",
+              "synonym": "dimethicone 250 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "433906",
+              "name": "simethicone 42 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "476553",
+              "name": "calcium carbonate 675 MG / magnesium hydroxide 135 MG / simethicone 60 MG Chewable Tablet",
+              "synonym": "calcium carbonate 675 MG / milk of magnesia 135 MG / simethicone 60 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "705156",
+              "name": "simethicone 62.5 MG Oral Film",
+              "synonym": "simethicone 62.5 MG Oral Strip",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "729826",
+              "name": "poloxamer 407 0.02 MG/MG / simethicone 0.0012 MG/MG Oral Gel",
+              "synonym": "poloxamer 407 2 % / simethicone 0.12 % Oral Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "977998",
+              "name": "loperamide hydrochloride 2 MG / simethicone 125 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "978001",
+              "name": "loperamide hydrochloride 2 MG / simethicone 125 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:40:59.484686",
+  "source": "RxNorm"
+}

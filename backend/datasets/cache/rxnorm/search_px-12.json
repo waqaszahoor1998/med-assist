@@ -1,0 +1,10 @@
+{
+  "query": "PX-12",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:58:50.083469",
+  "source": "RxNorm"
+}

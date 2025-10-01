@@ -1,0 +1,100 @@
+{
+  "query": "Olodaterol",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1546083",
+              "name": "60 ACTUAT olodaterol 0.0025 MG/ACTUAT Inhalation Spray [Striverdi]",
+              "synonym": "60 ACTUAT Striverdi 0.0025 MG/ACTUAT Inhalation Spray",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1651271",
+              "name": "28 ACTUAT olodaterol 0.0025 MG/ACTUAT / tiotropium 0.0025 MG/ACTUAT Inhalation Spray [Stiolto]",
+              "synonym": "Stiolto Respimat 2.5 MCG/2.5 MCG per ACTUAT Metered Dose Inhalation Spray, 28 ACTUAT",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1651275",
+              "name": "60 ACTUAT olodaterol 0.0025 MG/ACTUAT / tiotropium 0.0025 MG/ACTUAT Inhalation Spray [Stiolto]",
+              "synonym": "Stiolto Respimat 2.5 MCG/2.5 MCG per ACTUAT Metered Dose Inhalation Spray, 60 ACTUAT",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2166928",
+              "name": "10 ACTUAT olodaterol 0.0025 MG/ACTUAT / tiotropium 0.0025 MG/ACTUAT Inhalation Spray [Stiolto]",
+              "synonym": "Stiolto Respimat 2.5 MCG/2.5 MCG per ACTUAT Metered Dose Inhalation Spray, 10 ACTUAT",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1546082",
+              "name": "60 ACTUAT olodaterol 0.0025 MG/ACTUAT Inhalation Spray",
+              "synonym": "60 ACTUAT olodaterol 0.0025 MG/ACTUAT Metered Dose Inhalation Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1651266",
+              "name": "28 ACTUAT olodaterol 0.0025 MG/ACTUAT / tiotropium 0.0025 MG/ACTUAT Inhalation Spray",
+              "synonym": "olodaterol 2.5 MCG / tiotropium 2.5 MCG per ACTUAT Metered Dose Inhalation Spray, 28 ACTUAT",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1651274",
+              "name": "60 ACTUAT olodaterol 0.0025 MG/ACTUAT / tiotropium 0.0025 MG/ACTUAT Inhalation Spray",
+              "synonym": "olodaterol 2.5 MCG (as olodaterol HCl 2.736 MCG) / tiotropium 2.5 MCG (as tiotropium bromide 3.124 MCG) per ACTUAT Metered Dose Inhalation Spray, 60 ACTUAT",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2166927",
+              "name": "10 ACTUAT olodaterol 0.0025 MG/ACTUAT / tiotropium 0.0025 MG/ACTUAT Inhalation Spray",
+              "synonym": "olodaterol 2.5 MCG / tiotropium 2.5 MCG per ACTUAT Metered Dose Inhalation Spray, 10 ACTUAT",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:18:58.873209",
+  "source": "RxNorm"
+}

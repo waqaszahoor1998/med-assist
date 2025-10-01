@@ -1,0 +1,64 @@
+{
+  "query": "Elacestrant",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2628484",
+              "name": "elacestrant 86 MG Oral Tablet [Orserdu]",
+              "synonym": "Orserdu 86 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2628489",
+              "name": "elacestrant 345 MG Oral Tablet [Orserdu]",
+              "synonym": "Orserdu 345 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2628478",
+              "name": "elacestrant 86 MG Oral Tablet",
+              "synonym": "elacestrant 86 MG (equivalent to elacestrant dihydrochloride 100 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2628487",
+              "name": "elacestrant 345 MG Oral Tablet",
+              "synonym": "elacestrant 345 MG (equivalent to elacestrant dihydrochloride 400 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:19:37.914449",
+  "source": "RxNorm"
+}

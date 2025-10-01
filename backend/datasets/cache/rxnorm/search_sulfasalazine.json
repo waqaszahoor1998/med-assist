@@ -1,0 +1,91 @@
+{
+  "query": "Sulfasalazine",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "208437",
+              "name": "sulfasalazine 500 MG Oral Tablet [Azulfidine]",
+              "synonym": "Azulfidine 500 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "724154",
+              "name": "sulfasalazine 500 MG Delayed Release Oral Tablet [Azulfidine]",
+              "synonym": "Azulfidine 500 MG Delayed Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "104121",
+              "name": "sulfasalazine 50 MG/ML Oral Suspension",
+              "synonym": "sulfasalazine 250 MG per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "104122",
+              "name": "sulfasalazine 30 MG/ML Enema",
+              "synonym": "sulfasalazine 3 GM per 100 ML Enema",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198232",
+              "name": "sulfasalazine 500 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "250607",
+              "name": "sulfasalazine 500 MG Rectal Suppository",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "313142",
+              "name": "sulfasalazine 500 MG Delayed Release Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:35:09.211850",
+  "source": "RxNorm"
+}

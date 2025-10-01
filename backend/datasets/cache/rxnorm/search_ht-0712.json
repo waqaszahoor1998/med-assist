@@ -1,0 +1,10 @@
+{
+  "query": "HT-0712",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:11:52.799397",
+  "source": "RxNorm"
+}

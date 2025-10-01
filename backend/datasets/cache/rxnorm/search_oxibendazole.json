@@ -1,0 +1,46 @@
+{
+  "query": "Oxibendazole",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1009349",
+              "name": "oxibendazole 0.227 MG/MG Oral Paste [Anthelcide EQ]",
+              "synonym": "Anthelcide EQ 22.7 % Oral Paste",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1009345",
+              "name": "oxibendazole 0.227 MG/MG Oral Paste",
+              "synonym": "oxibendazole 22.7 % Oral Paste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T15:47:36.121021",
+  "source": "RxNorm"
+}

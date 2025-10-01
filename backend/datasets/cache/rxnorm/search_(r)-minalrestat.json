@@ -1,0 +1,10 @@
+{
+  "query": "(R)-minalrestat",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:45:32.780301",
+  "source": "RxNorm"
+}

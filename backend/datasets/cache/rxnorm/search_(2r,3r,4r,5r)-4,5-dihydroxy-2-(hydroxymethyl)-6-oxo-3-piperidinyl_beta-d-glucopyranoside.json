@@ -1,0 +1,10 @@
+{
+  "query": "(2R,3R,4R,5R)-4,5-Dihydroxy-2-(hydroxymethyl)-6-oxo-3-piperidinyl beta-D-glucopyranoside",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T06:28:41.936010",
+  "source": "RxNorm"
+}

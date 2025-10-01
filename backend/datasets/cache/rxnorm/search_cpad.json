@@ -1,0 +1,10 @@
+{
+  "query": "Cpad",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T06:27:40.011400",
+  "source": "RxNorm"
+}

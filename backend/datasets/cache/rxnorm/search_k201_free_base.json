@@ -1,0 +1,10 @@
+{
+  "query": "K201 free base",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:18:30.202712",
+  "source": "RxNorm"
+}

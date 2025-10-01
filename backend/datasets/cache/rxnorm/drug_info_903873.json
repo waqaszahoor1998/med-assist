@@ -1,0 +1,16 @@
+{
+  "rxcui": "903873",
+  "properties": {
+    "properties": {
+      "rxcui": "903873",
+      "name": "24 HR fluvoxamine maleate 100 MG Extended Release Oral Capsule",
+      "synonym": "fluvoxamine maleate 100 MG 24 HR Extended Release Oral Capsule",
+      "tty": "SCD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T20:59:31.074746",
+  "source": "RxNorm"
+}

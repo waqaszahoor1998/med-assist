@@ -1,0 +1,10 @@
+{
+  "query": "AEE-788",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:06:00.105290",
+  "source": "RxNorm"
+}

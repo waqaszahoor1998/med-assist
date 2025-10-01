@@ -1,0 +1,73 @@
+{
+  "query": "Betaxolol",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "213729",
+              "name": "betaxolol 2.5 MG/ML Ophthalmic Suspension [Betoptic S]",
+              "synonym": "Betoptic S 0.25 % Ophthalmic Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1297753",
+              "name": "betaxolol hydrochloride 10 MG Oral Tablet",
+              "synonym": "betaxolol hydrochloride 10 MG (betaxolol 8.94 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1297757",
+              "name": "betaxolol hydrochloride 20 MG Oral Tablet",
+              "synonym": "betaxolol hydrochloride (betaxolol 17.88 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308719",
+              "name": "betaxolol 2.5 MG/ML Ophthalmic Suspension",
+              "synonym": "betaxolol 0.25 % Ophthalmic Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308720",
+              "name": "betaxolol 5 MG/ML Ophthalmic Solution",
+              "synonym": "betaxolol 0.5 % Ophthalmic Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:00:55.023759",
+  "source": "RxNorm"
+}

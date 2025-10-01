@@ -1,0 +1,16 @@
+{
+  "rxcui": "1011646",
+  "properties": {
+    "properties": {
+      "rxcui": "1011646",
+      "name": "1.7 ML articaine hydrochloride 40 MG/ML / epinephrine 0.005 MG/ML Cartridge [Articadent]",
+      "synonym": "Articadent 4 % with epinephrine 1:200,000 1.7 ML Cartridge",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T17:13:31.243069",
+  "source": "RxNorm"
+}

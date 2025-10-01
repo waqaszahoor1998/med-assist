@@ -1,0 +1,136 @@
+{
+  "query": "Diiodohydroxyquinoline",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1191394",
+              "name": "aloe polysaccharide 0.01 MG/MG / hydrocortisone acetate 0.02 MG/MG / iodoquinol 0.01 MG/MG Topical Gel [Alcortin A]",
+              "synonym": "Alcortin A (aloe polysaccharides 1 % / hydrocortisone acetate 2 % / iodoquinol 1 % ) Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1191414",
+              "name": "hydrocortisone 0.02 MG/MG / iodoquinol 0.01 MG/MG Topical Gel [Alcortin]",
+              "synonym": "Alcortin (hydrocortisone 2 % / iodoquinol 1 % ) Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1436949",
+              "name": "hydrocortisone acetate 19 MG/ML / iodoquinol 10 MG/ML Topical Cream [Vytone]",
+              "synonym": "Vytone (hydrocortisone acetate 1.9 % / iodoquinol 1 % ) Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1928875",
+              "name": "aloe polysaccharide 0.01 MG/MG / iodoquinol 0.0125 MG/MG Topical Gel [Quinja]",
+              "synonym": "Quinja 1 % / 1.25 % Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "351706",
+              "name": "hydrocortisone 10 MG/ML / iodoquinol 10 MG/ML Topical Cream [Dermazene]",
+              "synonym": "Dermazene (hydrocortisone 1 % / iodoquinol 1 % ) Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1191376",
+              "name": "aloe polysaccharide 0.01 MG/MG / hydrocortisone acetate 0.02 MG/MG / iodoquinol 0.01 MG/MG Topical Gel",
+              "synonym": "aloe polysaccharides 1 % / hydrocortisone acetate 2 % / iodoquinol 1 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1436947",
+              "name": "hydrocortisone acetate 19 MG/ML / iodoquinol 10 MG/ML Topical Cream",
+              "synonym": "hydrocortisone acetate 1.9 % / iodoquinol 1 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "197825",
+              "name": "iodoquinol 210 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "197826",
+              "name": "iodoquinol 650 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "310870",
+              "name": "hydrocortisone 10 MG/ML / iodoquinol 10 MG/ML Topical Cream",
+              "synonym": "hydrocortisone 1 % / iodoquinol 1 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "544118",
+              "name": "hydrocortisone 0.02 MG/MG / iodoquinol 0.01 MG/MG Topical Gel",
+              "synonym": "hydrocortisone 2 % / iodoquinol 1 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "858356",
+              "name": "aloe polysaccharide 0.01 MG/MG / iodoquinol 0.0125 MG/MG Topical Gel",
+              "synonym": "aloe polysaccharide 1 % / iodoquinol 1.25 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:21:06.124721",
+  "source": "RxNorm"
+}

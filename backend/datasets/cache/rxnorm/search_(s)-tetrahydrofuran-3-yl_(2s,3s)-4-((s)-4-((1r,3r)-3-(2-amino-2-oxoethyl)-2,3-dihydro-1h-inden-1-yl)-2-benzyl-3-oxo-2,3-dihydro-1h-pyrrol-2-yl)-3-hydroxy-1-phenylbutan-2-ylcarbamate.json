@@ -1,0 +1,10 @@
+{
+  "query": "(S)-TETRAHYDROFURAN-3-YL (2S,3S)-4-((S)-4-((1R,3R)-3-(2-AMINO-2-OXOETHYL)-2,3-DIHYDRO-1H-INDEN-1-YL)-2-BENZYL-3-OXO-2,3-DIHYDRO-1H-PYRROL-2-YL)-3-HYDROXY-1-PHENYLBUTAN-2-YLCARBAMATE",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:37:45.766680",
+  "source": "RxNorm"
+}

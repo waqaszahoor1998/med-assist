@@ -1,0 +1,10 @@
+{
+  "query": "CHROMOPHORE (LYS-TYR-GLY)",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:35:42.190637",
+  "source": "RxNorm"
+}

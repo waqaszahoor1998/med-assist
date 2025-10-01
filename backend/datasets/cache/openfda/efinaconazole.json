@@ -1,0 +1,27 @@
+{
+  "drug_name": "Efinaconazole",
+  "generic_name": [
+    "EFINACONAZOLE"
+  ],
+  "brand_names": [
+    "JUBLIA"
+  ],
+  "drug_interactions": [
+    "7 DRUG INTERACTIONS In vitro studies have shown that JUBLIA, at therapeutic concentrations, neither inhibits nor induces cytochrome P450 (CYP450) enzymes."
+  ],
+  "warnings": [],
+  "adverse_reactions": [
+    "6 ADVERSE REACTIONS The most common adverse reactions (incidence >1%) were ingrown toenails, application site dermatitis, application site vesicles, and application site pain. (6.1) To report SUSPECTED ADVERSE REACTIONS, contact Bausch Health US, LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. In two clinical trials, 1227 subjects were treated with JUBLIA, 1161 for at least 24 weeks and 780 for 48 weeks. Adverse reactions reported within 48 weeks of treatment and in at least 1% of subjects treated with JUBLIA and those reported in subjects treated with the vehicle are presented in Table 1 . Table 1: Adverse Reactions Reported by at Least 1% of Subjects Treated for up to 48 Weeks Adverse Event, n (%) JUBLIA (N=1,227) Vehicle (N=413) Ingrown toenail 28 (2.3%) 3 (0.7%) Application site dermatitis 27 (2.2%) 1 (0.2%) Application site vesicles 20 (1.6%) 0 (0.0%) Application site pain 13 (1.1%) 1 (0.2%) 6.2 Postmarketing Experience The following adverse reactions have been identified during post-approval use of JUBLIA. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency or establish a causal relationship to drug exposure. General Disorders and Administration Site Conditions: Application site erythema and exfoliation Skin and Subcutaneous Tissue Disorders: Onychomadesis, Nail discoloration"
+  ],
+  "contraindications": [
+    "4 CONTRAINDICATIONS None. None. (4)"
+  ],
+  "dosage_administration": [
+    "2 DOSAGE AND ADMINISTRATION Apply JUBLIA to affected toenails once daily for 48 weeks, using the integrated flow-through brush applicator. When applying JUBLIA, ensure the toenail, the toenail folds, toenail bed, hyponychium, and the undersurface of the toenail plate, are completely covered. JUBLIA is for topical use only and not for oral, ophthalmic, or intravaginal use. \u2022 Apply JUBLIA to affected toenails once daily for 48 weeks using the integrated flow-through brush applicator. (2) \u2022 When applying JUBLIA, ensure the toenail, the toenail folds, toenail bed, hyponychium, and the undersurface of the toenail plate, are completely covered. (2) \u2022 For topical use only. Not for oral, ophthalmic, or intravaginal use. (2)"
+  ],
+  "indications": [
+    "1 INDICATIONS AND USAGE JUBLIA (efinaconazole) topical solution, 10% is an azole antifungal indicated for the topical treatment of onychomycosis of the toenail(s) due to Trichophyton rubrum and Trichophyton mentagrophytes . JUBLIA is an azole antifungal indicated for the topical treatment of onychomycosis of the toenail(s) due to Trichophyton rubrum and Trichophyton mentagrophytes . (1)"
+  ],
+  "fetched_at": "2025-10-01T17:15:17.316918",
+  "source": "OpenFDA"
+}

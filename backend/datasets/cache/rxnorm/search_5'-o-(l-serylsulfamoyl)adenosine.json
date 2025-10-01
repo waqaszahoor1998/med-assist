@@ -1,0 +1,10 @@
+{
+  "query": "5'-O-(L-Serylsulfamoyl)adenosine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T04:30:33.384583",
+  "source": "RxNorm"
+}

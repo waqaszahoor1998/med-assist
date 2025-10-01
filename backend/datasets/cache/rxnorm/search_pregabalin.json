@@ -1,0 +1,262 @@
+{
+  "query": "Pregabalin",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1994389",
+              "name": "24 HR pregabalin 165 MG Extended Release Oral Tablet [Lyrica]",
+              "synonym": "24 HR Lyrica 165 MG Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1994392",
+              "name": "24 HR pregabalin 330 MG Extended Release Oral Tablet [Lyrica]",
+              "synonym": "24 HR Lyrica 330 MG Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1994395",
+              "name": "24 HR pregabalin 82.5 MG Extended Release Oral Tablet [Lyrica]",
+              "synonym": "24 HR Lyrica 82.5 MG Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2671060",
+              "name": "pregabalin 50 MG/ML Oral Solution [Bonqat]",
+              "synonym": "Bonqat 50 MG/ML Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "607018",
+              "name": "pregabalin 100 MG Oral Capsule [Lyrica]",
+              "synonym": "Lyrica 100 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "607020",
+              "name": "pregabalin 150 MG Oral Capsule [Lyrica]",
+              "synonym": "Lyrica 150 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "607022",
+              "name": "pregabalin 200 MG Oral Capsule [Lyrica]",
+              "synonym": "Lyrica 200 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "607024",
+              "name": "pregabalin 225 MG Oral Capsule [Lyrica]",
+              "synonym": "Lyrica 225 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "607026",
+              "name": "pregabalin 25 MG Oral Capsule [Lyrica]",
+              "synonym": "Lyrica 25 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "607028",
+              "name": "pregabalin 300 MG Oral Capsule [Lyrica]",
+              "synonym": "Lyrica 300 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "607033",
+              "name": "pregabalin 50 MG Oral Capsule [Lyrica]",
+              "synonym": "Lyrica 50 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "607038",
+              "name": "pregabalin 75 MG Oral Capsule [Lyrica]",
+              "synonym": "Lyrica 75 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "898718",
+              "name": "pregabalin 20 MG/ML Oral Solution [Lyrica]",
+              "synonym": "Lyrica 20 MG/ML Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1988974",
+              "name": "24 HR pregabalin 165 MG Extended Release Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1988977",
+              "name": "24 HR pregabalin 330 MG Extended Release Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1988980",
+              "name": "24 HR pregabalin 82.5 MG Extended Release Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2671054",
+              "name": "pregabalin 50 MG/ML Oral Solution",
+              "synonym": "pregabalin 50 MG per 1 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "483438",
+              "name": "pregabalin 100 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "483440",
+              "name": "pregabalin 150 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "483442",
+              "name": "pregabalin 25 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "483444",
+              "name": "pregabalin 300 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "483446",
+              "name": "pregabalin 200 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "483448",
+              "name": "pregabalin 50 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "483450",
+              "name": "pregabalin 75 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "577127",
+              "name": "pregabalin 225 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "898715",
+              "name": "pregabalin 20 MG/ML Oral Solution",
+              "synonym": "pregabalin 20 MG per 1 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:01:59.238394",
+  "source": "RxNorm"
+}

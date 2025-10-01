@@ -1,0 +1,10 @@
+{
+  "query": "Ecopipam",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:49:36.499886",
+  "source": "RxNorm"
+}

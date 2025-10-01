@@ -1,0 +1,16 @@
+{
+  "rxcui": "2106362",
+  "properties": {
+    "properties": {
+      "rxcui": "2106362",
+      "name": "rifamycin SV 194 MG Delayed Release Oral Tablet [Aemcolo]",
+      "synonym": "Aemcolo 194 MG Delayed Release Oral Tablet",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T18:18:23.204184",
+  "source": "RxNorm"
+}

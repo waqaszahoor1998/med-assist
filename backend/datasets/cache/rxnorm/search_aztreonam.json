@@ -1,0 +1,100 @@
+{
+  "query": "Aztreonam",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1664984",
+              "name": "aztreonam 1000 MG Injection [Azactam]",
+              "synonym": "Azactam 1000 MG Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1664988",
+              "name": "aztreonam 2000 MG Injection [Azactam]",
+              "synonym": "Azactam 2000 MG Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2705360",
+              "name": "avibactam 500 MG / aztreonam 1500 MG Injection [Emblaveo]",
+              "synonym": "Emblaveo 2 GM Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "901614",
+              "name": "aztreonam 75 MG/ML Inhalation Solution [Cayston]",
+              "synonym": "Cayston 75 MG/ML Inhalation Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1664981",
+              "name": "aztreonam 1000 MG Injection",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1664986",
+              "name": "aztreonam 2000 MG Injection",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2705355",
+              "name": "avibactam 500 MG / aztreonam 1500 MG Injection",
+              "synonym": "avibactam sodium / aztreonam 2 GM Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "901610",
+              "name": "aztreonam 75 MG/ML Inhalation Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:09:55.355554",
+  "source": "RxNorm"
+}

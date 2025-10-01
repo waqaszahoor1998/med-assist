@@ -1,0 +1,100 @@
+{
+  "query": "Arimoclomol",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2694294",
+              "name": "arimoclomol 124 MG Oral Capsule [Miplyffa]",
+              "synonym": "Miplyffa 124 MG (equivalent to 200 MG arimoclomol citrate) Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2694298",
+              "name": "arimoclomol 47 MG Oral Capsule [Miplyffa]",
+              "synonym": "Miplyffa 47 MG (equivalent to 75 MG arimoclomol citrate) Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2694302",
+              "name": "arimoclomol 62 MG Oral Capsule [Miplyffa]",
+              "synonym": "Miplyffa 62 MG (equivalent to 100 MG arimoclomol citrate) Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2694306",
+              "name": "arimoclomol 93 MG Oral Capsule [Miplyffa]",
+              "synonym": "Miplyffa 93 MG (equivalent to 150 MG arimoclomol citrate) Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2694288",
+              "name": "arimoclomol 124 MG Oral Capsule",
+              "synonym": "arimoclomol 124 MG (equivalent to 200 MG arimoclomol citrate) Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2694296",
+              "name": "arimoclomol 47 MG Oral Capsule",
+              "synonym": "arimoclomol 47 MG (equivalent to 75 MG arimoclomol citrate) Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2694300",
+              "name": "arimoclomol 62 MG Oral Capsule",
+              "synonym": "arimoclomol 62 MG (equivalent to 100 MG arimoclomol citrate) Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2694304",
+              "name": "arimoclomol 93 MG Oral Capsule",
+              "synonym": "arimoclomol 93 MG (equivalent to 150 MG arimoclomol citrate) Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T15:51:19.916310",
+  "source": "RxNorm"
+}

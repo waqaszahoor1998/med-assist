@@ -1,0 +1,10 @@
+{
+  "query": "MK-0731",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:52:32.810696",
+  "source": "RxNorm"
+}

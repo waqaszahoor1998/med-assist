@@ -1,0 +1,10 @@
+{
+  "query": "Cis-[4,5-Bis-(4-Bromophenyl)-2-(2-Ethoxy-4-Methoxyphenyl)-4,5-Dihydroimidazol-1-Yl]-[4-(2-Hydroxyethyl)Piperazin-1-Yl]Methanone",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:15:51.298725",
+  "source": "RxNorm"
+}

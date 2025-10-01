@@ -1,0 +1,10 @@
+{
+  "query": "PNU-142721",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:55:29.649727",
+  "source": "RxNorm"
+}

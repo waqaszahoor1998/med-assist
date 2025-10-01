@@ -1,0 +1,1949 @@
+{
+  "query": "Cholecalciferol",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1100471",
+              "name": "{30 (ascorbic acid 120 MG / calcium citrate 125 MG / cholecalciferol 400 UNT / folic acid 1 MG / iron carbonyl 20 MG / pyridoxine hydrochloride 25 MG Oral Tablet) / 10 (pyridoxine hydrochloride 25 MG Oral Tablet) } Pack [CitraNatal B-Calm Kit]",
+              "synonym": "CitraNatal B-Calm 30 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "995864",
+              "name": "{30 (calcium ascorbate 25 MG / calcium carbonate 400 MG / cholecalciferol 200 UNT / folic acid 2 MG / pyridoxine hydrochloride 25 MG Oral Tablet [Encora AM Tablet]) / 30 (calcium ascorbate 25 MG / calcium carbonate 600 MG / cholecalciferol 600 UNT / folic acid 0.5 MG / pyridoxine hydrochloride 12.5 MG Oral Tablet [Encora PM Tablet]) / 60 (linoleic acid 10 MG / omega-3 acid ethyl esters (USP) 650 MG / vitamin E 50 UNT Oral Capsule [Encora Capsule]) } Pack [Encora]",
+              "synonym": "Encora 30 Day Tablet and Capsule Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1100470",
+              "name": "{30 (ascorbic acid 120 MG / calcium citrate 125 MG / cholecalciferol 400 UNT / folic acid 1 MG / iron carbonyl 20 MG / pyridoxine hydrochloride 25 MG Oral Tablet) / 10 (pyridoxine hydrochloride 25 MG Oral Tablet) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "995855",
+              "name": "{30 (calcium ascorbate 25 MG / calcium carbonate 400 MG / cholecalciferol 200 UNT / folic acid 2 MG / pyridoxine hydrochloride 25 MG Oral Tablet) / 30 (calcium ascorbate 25 MG / calcium carbonate 600 MG / cholecalciferol 600 UNT / folic acid 0.5 MG / pyridoxine hydrochloride 12.5 MG Oral Tablet) / 60 (linoleic acid 10 MG / omega-3 acid ethyl esters (USP) 650 MG / vitamin E 50 UNT Oral Capsule) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1087285",
+              "name": "boron 1.5 MG / calcium carbonate 500 MG / cholecalciferol 300 UNT / folic acid 1.1 MG / magnesium oxide 100 MG / pyridoxine 12.5 MG / vitamin B12 0.25 MG Oral Tablet [Folgard OS]",
+              "synonym": "boron 1.5 MG / calcium carbonate 500 MG / cholecalciferol 300 UNT / folate 1.1 MG / magnesium oxide 100 MG / vit-B6 12.5 MG / vitamin B12 0.25 MG Oral Tablet [Folgard OS]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1090972",
+              "name": "ascorbic acid 10.8 MG/ML / cholecalciferol 72 UNT/ML / dl-alpha tocopheryl acetate 2.7 UNT/ML / niacinamide 2.44 MG/ML / pyridoxine 0.189 MG/ML / riboflavin 0.216 MG/ML / thiamine hydrochloride 0.168 MG/ML / vitamin A 450 UNT/ML / vitamin B12 0.00081 MG/ML Oral Solution [Multi-Delyn]",
+              "synonym": "vit-C 10.8 MG/ML / cholecalciferol 72 UNT/ML / dl-alpha tocopheryl acetate 2.7 UNT/ML / niacinamide 2.44 MG/ML / vit-B6 0.189 MG/ML / riboflavin 0.216 MG/ML / vit-B1 hydrochloride 0.168 MG/ML / vitamin A 450 UNT/ML / vitamin B12 0.00081 MG/ML Oral Solution [Multi-Delyn]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1098887",
+              "name": "cholecalciferol 0.05 MG Oral Tablet [D3 Dots]",
+              "synonym": "D3 Dots 0.05 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1116183",
+              "name": "ascorbic acid 100 MG / calcium carbonate 200 MG / cholecalciferol 0.01 MG / copper sulfate 2 MG / dl-alpha tocopheryl acetate 30 UNT / ferrous fumarate 65 MG / folic acid 1 MG / magnesium oxide 10 MG / niacinamide 20 MG / potassium iodide 0.15 MG / pyridoxine hydrochloride 5 MG / retinol acetate 4000 UNT / riboflavin 3.4 MG / thiamine mononitrate 3 MG / vitamin B12 0.012 MG / zinc sulfate 15 MG Oral Tablet [Lactocal]",
+              "synonym": "Lactocal (calcium carbonate 200 MG / copper sulfate 2 MG / cyanocobalamin 12 MCG / folate 1 MG / iron (as ferrous fumarate) 65 MG / magnesium oxide 10 MG / nicotinamide 20 MG / potassium iodide 0.15 MG / vitamin A 4000 UNT / vitamin B1 3 MG / vitamin B2 3.4 MG / vitamin B6 5 MG / vitamin C 100 MG / vitamin E 30 UNT / vitamin D 400 UNT/ML / zinc sulfate 15 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1116511",
+              "name": "cholecalciferol 0.05 MG Oral Tablet [Thera-D]",
+              "synonym": "Thera-D 0.05 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1116514",
+              "name": "cholecalciferol 0.1 MG Oral Tablet [Thera-D]",
+              "synonym": "Thera-D 0.1 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1119573",
+              "name": "ascorbic acid 30 MG / cholecalciferol 1000 UNT / cuprous oxide 2 MG / folic acid 1 MG / magnesium oxide 20 MG / niacin 15 MG / polysaccharide iron complex 29 MG / potassium iodide 0.15 MG / pyridoxine hydrochloride 2.5 MG / riboflavin 1.8 MG / thiamine mononitrate 1.6 MG / vitamin A 1100 UNT / vitamin B12 0.012 MG / vitamin E 20 UNT / zinc oxide 25 MG Oral Capsule [Vitafol-One]",
+              "synonym": "vit-C 30 MG / cholecalciferol 1000 UNT / cuprous oxide 2 MG / folate 1 MG / magnesium oxide 20 MG / vit-B3 15 MG / polysaccharide iron complex 29 MG / K+ iodide 0.15 MG / vit-B6 hydrochloride 2.5 MG / riboflavin 1.8 MG / vit-B1 mononitrate 1.6 MG / vitamin A 1100 UNT / vitamin B12 0.012 MG / vitamin E 20 UNT / ZNO 25 MG Oral Capsule [Vitafol-One]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1193046",
+              "name": "cholecalciferol 1000 UNT / folic acid 1 MG / omega-3 acid ethyl esters (USP) 500 MG / phytosterols 200 MG / pyridoxine hydrochloride 12.5 MG / vitamin B12 0.5 MG Oral Capsule [Animi-3 with Vitamin D]",
+              "synonym": "cholecalciferol 1000 UNT / folate 1 MG / omega-3 acid ethyl esters (USP) 500 MG / phytosterols 200 MG / vit-B6 hydrochloride 12.5 MG / vitamin B12 0.5 MG Oral Capsule [Animi-3 with Vitamin D]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1243364",
+              "name": "calcium carbonate 1250 MG / cholecalciferol 600 UNT Chewable Tablet [Os-Cal 500 with D]",
+              "synonym": "Os-Cal Chewable (calcium carbonate 1250 MG (calcium 500 MG) / vitamin D3 600 UNT) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1243393",
+              "name": "calcium carbonate 1250 MG / cholecalciferol 600 UNT Oral Tablet [Os-Cal 500 with D]",
+              "synonym": "Os-Cal Extra D3 (calcium carbonate 1250 MG (calcium 500 MG) / vitamin D3 600 UNT) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1243415",
+              "name": "calcium carbonate 1250 MG / cholecalciferol 200 UNT Oral Tablet [Os-Cal 500 with D]",
+              "synonym": "Os-Cal Calcium with D3 (calcium carbonate 1250 MG (calcium 500 MG) / vitamin D3 200 UNT) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1297389",
+              "name": "calcium carbonate 1250 MG / cholecalciferol 200 UNT Oral Tablet [Oysco 500 with D]",
+              "synonym": "Oysco 500 with D (calcium carbonate 1250 MG (calcium 500 MG) / vitamin D3 200 UNT) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1299817",
+              "name": "calcium carbonate 250 MG/ML / cholecalciferol 80 UNT/ML Oral Solution [Cal-Quick]",
+              "synonym": "Cal-Quick (calcium carbonate 1250 MG / vitamin D3 400 UNT) per 5 ML Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1303916",
+              "name": "cholecalciferol 1.25 MG Oral Tablet [Dialyvite Vitamin D3 Max]",
+              "synonym": "Dialyvite Vitamin D3 Max 1.25 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1304564",
+              "name": "alpha-tocopherol acetate 1 UNT/ML / ascorbic acid 20 MG/ML / biotin 0.006 MG/ML / cholecalciferol 20 UNT/ML / dexpanthenol 1.5 MG/ML / folic acid 0.06 MG/ML / niacinamide 4 MG/ML / pyridoxine hydrochloride 0.6 MG/ML / riboflavin 0.36 MG/ML / thiamine hydrochloride 0.6 MG/ML / vitamin A palmitate 330 UNT/ML / vitamin B12 0.0005 MG/ML / vitamin K1 0.015 MG/ML Injectable Solution [Infuvite]",
+              "synonym": "Infuvite Adult Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1305222",
+              "name": "alpha-tocopherol acetate 1.4 UNT/ML / ascorbic acid 16 MG/ML / biotin 0.004 MG/ML / cholecalciferol 80 UNT/ML / dexpanthenol 1 MG/ML / folic acid 0.028 MG/ML / niacinamide 3.4 MG/ML / pyridoxine hydrochloride 0.2 MG/ML / riboflavin 0.28 MG/ML / thiamine hydrochloride 0.24 MG/ML / vitamin A palmitate 460 UNT/ML / vitamin B12 0.0002 MG/ML / vitamin K1 0.04 MG/ML Injectable Solution [Infuvite Pediatric]",
+              "synonym": "Infuvite Pediatric Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1310954",
+              "name": "calcium carbonate 1500 MG / cholecalciferol 800 UNT Oral Tablet [Caltrate Plus D]",
+              "synonym": "Caltrate Plus D 600/800 (calcium carbonate 1500 MG (calcium 600 MG) / vitamin D3 800 UNT) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1366149",
+              "name": "cholecalciferol 14000 UNT / vitamin E 34 UNT Oral Wafer [Replesta NX]",
+              "synonym": "Replesta NX (vitamin D3 14,000 UNT / vitamin E 34 UNT) Chewable Oral Wafer",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1423393",
+              "name": "cholecalciferol 6.67 UNT/ML / glucose 250 MG/ML Oral Solution [ReliOn Glucose]",
+              "synonym": "ReliOn Glucose (cholecalciferol 400 UNT / glucose 15 GM per 60 ML) Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1428828",
+              "name": "ascorbic acid 60 MG / cholecalciferol 0.01 MG / folic acid 0.3 MG / niacin 13.5 MG / riboflavin 1.2 MG / sodium fluoride 2.2 MG / thiamine 1.05 MG / vitamin A 0.75 MG / vitamin B12 0.0045 MG / vitamin B6 1.05 MG / vitamin E 15 UNT Chewable Tablet [MVC-Fluoride]",
+              "synonym": "vit-C 60 MG / cholecalciferol 0.01 MG / folate 0.3 MG / vit-B3 13.5 MG / riboflavin 1.2 MG / sodium fluoride 2.2 MG / vit-B1 1.05 MG / vitamin A 0.75 MG / vitamin B12 0.0045 MG / vitamin B6 1.05 MG / vitamin E 15 UNT Chewable Tablet [MVC-Fluoride]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1435917",
+              "name": "cholecalciferol 0.625 MG Oral Capsule [Decara]",
+              "synonym": "Decara 25,000 UNT Vegicaps",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1437788",
+              "name": "calcium carbonate 1250 MG / cholecalciferol 0.01 MG Oral Tablet [Ostercal-D]",
+              "synonym": "Ostercal-D 500 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1442443",
+              "name": "calcium carbonate 1500 MG / cholecalciferol 800 UNT Chewable Tablet [Caltrate Plus D]",
+              "synonym": "Caltrate 600 + D Soft Chews",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1488353",
+              "name": "cholecalciferol 1.25 MG Oral Capsule [Decara]",
+              "synonym": "Decara 1.25 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1716031",
+              "name": "alpha tocopherol 300 UNT/ML / cholecalciferol 10000 UNT/ML / vitamin A 100000 UNT/ML Injectable Solution [Vital E- A + D3]",
+              "synonym": "Vital E- A + D3 (vitamin A 100000 UNT/ML / vitamin D3 10000 UNT/ML / vitamin E 300 UNT/ML) Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1716036",
+              "name": "alpha tocopherol 300 UNT/ML / cholecalciferol 100000 UNT/ML / vitamin A 200000 UNT/ML Injectable Solution [Vital E- Repro]",
+              "synonym": "Vital E- Repro (vitamin A 200000 UNT/ML / vitamin D3 100000 UNT/ML / vitamin E 300 UNT/ML) Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1716042",
+              "name": "alpha tocopherol 500 UNT/ML / cholecalciferol 50000 UNT/ML / vitamin A 50000 UNT/ML Injectable Solution [Vital E- Newborn]",
+              "synonym": "Vital E- Newborn (vitamin A 50000 UNT/ML / vitamin D3 50000 UNT/ML / vitamin E 500 UNT/ML) Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1788858",
+              "name": "cholecalciferol 1.25 MG Oral Tablet [Decalcitrol]",
+              "synonym": "Decalcitrol 1.25 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1789542",
+              "name": "cholecalciferol 0.01 MG / tricalcium phosphate 658 MG Chewable Tablet [Caltrate Gummy Bites]",
+              "synonym": "cholecalciferol 400 UNT / tricalcium phosphate 658 MG Chewable Tablet [Caltrate Gummy Bites]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1794559",
+              "name": "cholecalciferol 0.01 MG/ML Oral Solution [D-Vi-Sol]",
+              "synonym": "D-Vi-Sol 0.01 MG/ML Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "209638",
+              "name": "cholecalciferol 0.01 MG Oral Tablet [Delta D3]",
+              "synonym": "Delta D3 0.01 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2275183",
+              "name": "calcium carbonate 1625 MG / cholecalciferol 0.0125 MG / vitamin K 0.04 MG Chewable Tablet [Viactiv Calcium Plus D]",
+              "synonym": "Viactiv Calcium Plus D (calcium carbonate 1625 MG / cholecalciferol 500 UNT / vitamin K 0.04 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2569088",
+              "name": "cholecalciferol 0.25 MG / folic acid 1 MG Oral Tablet [Folditam]",
+              "synonym": "cholecalciferol 0.25 MG / folate 1 MG Oral Tablet [Folditam]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2671097",
+              "name": "cholecalciferol 0.125 MG / levomefolate calcium 1 MG Oral Tablet [Folixate]",
+              "synonym": "Folixate (cholecalciferol 5000 UNT / levomefolate calcium 1000 MCG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "809559",
+              "name": "calcium carbonate 625 MG / cholecalciferol 125 UNT Oral Tablet [Oysco D]",
+              "synonym": "Oysco D (calcium carbonate 625 MG (calcium 250 MG) / vitamin D3 125 UNT) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "833741",
+              "name": "calcium carbonate 1500 MG / cholecalciferol 200 UNT Oral Tablet [Caltrate Plus D]",
+              "synonym": "Caltrate Plus D 600/200 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "864669",
+              "name": "calcium carbonate 1500 MG / cholecalciferol 1000 UNT Oral Tablet [Osteo-Poretical]",
+              "synonym": "Osteo-Poretical Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "876679",
+              "name": "ascorbic acid 35 MG/ML / cholecalciferol 0.01 MG/ML / vitamin A 0.45 MG/ML Oral Solution [Tri-Vi-Sol]",
+              "synonym": "Tri-Vi-Sol (vitamin A 1500 UNT/ML / vitamin D 400 UNT/ML / vitamin C 35 MG/ML) Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "876861",
+              "name": "ascorbic acid 35 MG/ML / cholecalciferol 0.01 MG/ML / niacin 8 MG/ML / riboflavin 0.6 MG/ML / thiamine 0.5 MG/ML / vitamin A 0.45 MG/ML / vitamin B12 0.002 MG/ML / vitamin B6 0.4 MG/ML / vitamin E 2.25 MG/ML Oral Solution [Poly-Vi-Sol]",
+              "synonym": "Poly-Vi-Sol (Vitamin A 1500 UNT/ML / Vitamin D 400 UNT/ML / Vitamin E 5 UNT/ML / Vitamin C 35 MG/ML / Thiamin 0.5 MG/ML / Riboflavin 0.6 MG/ML / Niacin 8 MG/ML / Vitamin B6 0.4 MG/ML / Vitamin B 12 0.002 MG/ML) Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "876866",
+              "name": "ascorbic acid 35 MG/ML / cholecalciferol 0.01 MG/ML / ferrous sulfate 50 MG/ML / niacin 8 MG/ML / riboflavin 0.6 MG/ML / thiamine 0.5 MG/ML / vitamin A 0.45 MG/ML / vitamin B6 0.4 MG/ML / vitamin E 2.25 MG/ML Oral Solution [Poly-Vi-Sol with Iron]",
+              "synonym": "vit-C 35 MG/ML / cholecalciferol 0.01 MG/ML / FESO4 50 MG/ML / vit-B3 8 MG/ML / riboflavin 0.6 MG/ML / vit-B1 0.5 MG/ML / vitamin A 0.45 MG/ML / vitamin B6 0.4 MG/ML / vitamin E 2.25 MG/ML Oral Solution [Poly-Vi-Sol with Iron]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "877318",
+              "name": "calcium citrate 2380 MG / cholecalciferol 0.01 MG Chewable Tablet [Calcet]",
+              "synonym": "calcium citrate 2380 MG / cholecalciferol 400 UNT Chewable Tablet [Calcet]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "904465",
+              "name": "alendronic acid 70 MG / cholecalciferol 5600 UNT Oral Tablet [Fosamax Plus D]",
+              "synonym": "Fosamax Plus D 70/5600 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "904495",
+              "name": "alendronic acid 70 MG / cholecalciferol 2800 UNT Oral Tablet [Fosamax Plus D]",
+              "synonym": "Fosamax Plus D 70/2800 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "967919",
+              "name": "cholecalciferol 0.325 MG Oral Capsule [Maximum D3]",
+              "synonym": "Maximum D3 0.325 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "995859",
+              "name": "calcium ascorbate 25 MG / calcium carbonate 400 MG / cholecalciferol 200 UNT / folic acid 2 MG / pyridoxine hydrochloride 25 MG Oral Tablet [Encora AM Tablet]",
+              "synonym": "Calcium ascorbate 25 MG / Calcium Carbonate 400 MG / Cholecalciferol 200 UNT / folate 2 MG / vit-B6 Hydrochloride 25 MG Oral Tablet [Encora AM Tablet]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "995863",
+              "name": "calcium ascorbate 25 MG / calcium carbonate 600 MG / cholecalciferol 600 UNT / folic acid 0.5 MG / pyridoxine hydrochloride 12.5 MG Oral Tablet [Encora PM Tablet]",
+              "synonym": "Calcium ascorbate 25 MG / Calcium Carbonate 600 MG / Cholecalciferol 600 UNT / folate 0.5 MG / vit-B6 Hydrochloride 12.5 MG Oral Tablet [Encora PM Tablet]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1001679",
+              "name": "calcium carbonate 400 MG / cholecalciferol 133 UNT / magnesium oxide 167 MG Oral Tablet",
+              "synonym": "calcium carbonate 400 MG / vitamin D3 133 UNT / magnesium oxide 167 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1001691",
+              "name": "calcium carbonate 1250 MG / cholecalciferol 100 UNT / vitamin K1 0.04 MG Chewable Tablet",
+              "synonym": "calcium carbonate 1250 MG / phytonadione 40 MCG / vitamin D3 100 UNT Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1001751",
+              "name": "calcium citrate 250 MG / cholecalciferol 100 UNT Oral Tablet",
+              "synonym": "calcium citrate 250 MG / vitamin D3 100 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1005706",
+              "name": "calcium citrate 1190 MG / cholecalciferol 0.005 MG Oral Tablet",
+              "synonym": "calcium citrate 1190 MG (calcium 250 MG) / vitamin D3 200 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1042692",
+              "name": "calcium citrate 0.415 MG/MG / cholecalciferol 0.1 UNT/MG Oral Powder",
+              "synonym": "calcium citrate 2075 MG (calcium 500 MG) / vitamin D3 500 UNT per 5 GM Oral Powder",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1043300",
+              "name": "alpha tocopherol 30 UNT / ascorbic acid 28 MG / cholecalciferol 400 UNT / docosahexaenoic acid 300 MG / docusate sodium 55 MG / ferrous fumarate 27 MG / folic acid 1.25 MG / pyridoxine hydrochloride 25 MG / tricalcium phosphate 160 MG Oral Capsule",
+              "synonym": "alpha Tocopherol 30 UNT / vit-C 28 MG / Cholecalciferol 400 UNT / docosahexaenoic acid 300 MG / DOSS Sodium 55 MG / Ferrous fumarate 27 MG / folate 1.25 MG / vit-B6 Hydrochloride 25 MG / tricalcium phosphate 160 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1087281",
+              "name": "boron 1.5 MG / calcium carbonate 500 MG / cholecalciferol 300 UNT / folic acid 1.1 MG / magnesium oxide 100 MG / pyridoxine 12.5 MG / vitamin B12 0.25 MG Oral Tablet",
+              "synonym": "boron 1.5 MG / calcium carbonate 500 MG / cholecalciferol 300 UNT / folate 1.1 MG / magnesium oxide 100 MG / vit-B6 12.5 MG / vitamin B12 0.25 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1088134",
+              "name": "cholecalciferol 0.25 MG/ML Oral Solution",
+              "synonym": "vitamin D3 250 MCG (10,000 UNT) per 1 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1088534",
+              "name": "cholecalciferol 0.2 MG/ML Oral Solution",
+              "synonym": "vitamin D3 400 UNT per Drop Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1088800",
+              "name": "calcium carbonate 600 MG / cholecalciferol 125 UNT Oral Tablet",
+              "synonym": "calcium carbonate 600 MG (calcium 240 MG) / vitamin D3 125 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1090968",
+              "name": "ascorbic acid 10.8 MG/ML / cholecalciferol 72 UNT/ML / dl-alpha tocopheryl acetate 2.7 UNT/ML / niacinamide 2.44 MG/ML / pyridoxine 0.189 MG/ML / riboflavin 0.216 MG/ML / thiamine hydrochloride 0.168 MG/ML / vitamin A 450 UNT/ML / vitamin B12 0.00081 MG/ML Oral Solution",
+              "synonym": "vit-C 10.8 MG/ML / cholecalciferol 72 UNT/ML / dl-alpha tocopheryl acetate 2.7 UNT/ML / niacinamide 2.44 MG/ML / vit-B6 0.189 MG/ML / riboflavin 0.216 MG/ML / vit-B1 hydrochloride 0.168 MG/ML / vitamin A 450 UNT/ML / vitamin B12 0.00081 MG/ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1092380",
+              "name": "cholecalciferol 0.1 MG Oral Capsule",
+              "synonym": "vitamin D3 100 MCG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1094022",
+              "name": "calcium carbonate 1500 MG / cholecalciferol 500 UNT Oral Capsule",
+              "synonym": "calcium carbonate 1500 MG (calcium 600 MG) / vitamin D3 500 UNT Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1099861",
+              "name": "calcium carbonate 2500 MG / cholecalciferol 800 UNT Oral Tablet",
+              "synonym": "calcium carbonate 2500 MG (calcium 1000 MG) / vitamin D3 800 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1100262",
+              "name": "ascorbic acid 120 MG / calcium citrate 125 MG / cholecalciferol 400 UNT / folic acid 1 MG / iron carbonyl 20 MG / pyridoxine hydrochloride 25 MG Oral Tablet",
+              "synonym": "calcium citrate 125 MG / folic acid 1 MG / iron carbonyl 20 MG / vitamin B6 25 MG / vitamin C 120 MG / vitamin D3 400 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1100894",
+              "name": "calcium carbonate 1500 MG / cholecalciferol 1000 UNT Oral Capsule",
+              "synonym": "calcium carbonate 1500 MG (calcium 600 MG) / vitamin D3 1000 UNT Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1114847",
+              "name": "cholecalciferol 500 UNT / chondroitin sulfates 600 MG / glucosamine 750 MG Oral Tablet",
+              "synonym": "chondroitin sulfates 600 MG / glucosamine 750 / vitamin D3 500 UNT MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1115877",
+              "name": "cholecalciferol 0.1 MG Oral Tablet",
+              "synonym": "vitamin D3 100 MCG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1116179",
+              "name": "ascorbic acid 100 MG / calcium carbonate 200 MG / cholecalciferol 0.01 MG / copper sulfate 2 MG / dl-alpha tocopheryl acetate 30 UNT / ferrous fumarate 65 MG / folic acid 1 MG / magnesium oxide 10 MG / niacinamide 20 MG / potassium iodide 0.15 MG / pyridoxine hydrochloride 5 MG / retinol acetate 4000 UNT / riboflavin 3.4 MG / thiamine mononitrate 3 MG / vitamin B12 0.012 MG / zinc sulfate 15 MG Oral Tablet",
+              "synonym": "vit-C 100 MG / calcium carbonate 200 MG / cholecalciferol 0.01 MG / copper sulfate 2 MG / dl-alpha tocopheryl acetate 30 UNT / ferrous fumarate 65 MG / folate 1 MG / magnesium oxide 10 MG / niacinamide 20 MG / K+ iodide 0.15 MG / vit-B6 hydrochloride 5 MG / retinol acetate 4000 UNT / riboflavin 3.4 MG / vit-B1 mononitrate 3 MG / vitamin B12 0.012 MG / ZnSO4 15 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1119569",
+              "name": "ascorbic acid 30 MG / cholecalciferol 1000 UNT / cuprous oxide 2 MG / folic acid 1 MG / magnesium oxide 20 MG / niacin 15 MG / polysaccharide iron complex 29 MG / potassium iodide 0.15 MG / pyridoxine hydrochloride 2.5 MG / riboflavin 1.8 MG / thiamine mononitrate 1.6 MG / vitamin A 1100 UNT / vitamin B12 0.012 MG / vitamin E 20 UNT / zinc oxide 25 MG Oral Capsule",
+              "synonym": "vit-C 30 MG / cholecalciferol 1000 UNT / cuprous oxide 2 MG / folate 1 MG / magnesium oxide 20 MG / vit-B3 15 MG / polysaccharide iron complex 29 MG / K+ iodide 0.15 MG / vit-B6 hydrochloride 2.5 MG / riboflavin 1.8 MG / vit-B1 mononitrate 1.6 MG / vitamin A 1100 UNT / vitamin B12 0.012 MG / vitamin E 20 UNT / ZNO 25 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1148597",
+              "name": "cholecalciferol 0.002 MG/ML Oral Solution",
+              "synonym": "vitamin D3 1200 UNT per 15 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1150266",
+              "name": "cholecalciferol 0.625 MG Oral Capsule",
+              "synonym": "vitamin D3 25,000 UNT Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1193037",
+              "name": "cholecalciferol 1000 UNT / folic acid 1 MG / omega-3 acid ethyl esters (USP) 500 MG / phytosterols 200 MG / pyridoxine hydrochloride 12.5 MG / vitamin B12 0.5 MG Oral Capsule",
+              "synonym": "cholecalciferol 1000 UNT / folate 1 MG / omega-3 acid ethyl esters (USP) 500 MG / phytosterols 200 MG / vit-B6 hydrochloride 12.5 MG / vitamin B12 0.5 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1233031",
+              "name": "cholecalciferol 0.05 MG Chewable Tablet",
+              "synonym": "vitamin D3 2000 UNT Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1233032",
+              "name": "cholecalciferol 0.125 MG Chewable Tablet",
+              "synonym": "vitamin D3 125 MCG (5000 UNT) Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1233607",
+              "name": "calcium carbonate 1250 MG / cholecalciferol 600 UNT Oral Tablet",
+              "synonym": "calcium carbonate 1250 MG (calcium 500 MG) / vitamin D3 600 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1234482",
+              "name": "ascorbic acid 35 MG/ML / cholecalciferol 400 UNT/ML / niacin 8 MG/ML / riboflavin 0.6 MG/ML / sodium fluoride 0.55 MG/ML / thiamine 0.5 MG/ML / vitamin A 1500 UNT/ML / vitamin B12 0.002 MG/ML / vitamin B6 0.4 MG/ML / vitamin E 5 UNT/ML Oral Solution",
+              "synonym": "vit-C 35 MG/ML / cholecalciferol 400 UNT/ML / vit-B3 8 MG/ML / riboflavin 0.6 MG/ML / sodium fluoride 0.55 MG/ML / vit-B1 0.5 MG/ML / vitamin A 1500 UNT/ML / vitamin B12 0.002 MG/ML / vitamin B6 0.4 MG/ML / vitamin E 5 UNT/ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1235389",
+              "name": "ascorbic acid 60 MG / cholecalciferol 0.01 MG / folic acid 0.3 MG / niacin 13.5 MG / riboflavin 1.2 MG / sodium fluoride 0.55 MG / thiamine 1.05 MG / vitamin A 0.75 MG / vitamin B12 0.0045 MG / vitamin B6 1.05 MG / vitamin E 6.75 MG Chewable Tablet",
+              "synonym": "vit-C 60 MG / cholecalciferol 0.01 MG / folate 0.3 MG / vit-B3 13.5 MG / riboflavin 1.2 MG / sodium fluoride 0.55 MG / vit-B1 1.05 MG / vitamin A 0.75 MG / vitamin B12 0.0045 MG / vitamin B6 1.05 MG / vitamin E 6.75 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1244925",
+              "name": "calcium carbonate 1250 MG / cholecalciferol 500 UNT / vitamin K 0.04 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1244936",
+              "name": "calcium carbonate 1250 MG / cholecalciferol 100 UNT / vitamin K 0.04 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1248142",
+              "name": "ascorbic acid 120 MG / beta carotene 2700 UNT / calcium carbonate 200 MG / cholecalciferol 400 UNT / cupric oxide 2 MG / docusate sodium 50 MG / folic acid 1 MG / iron carbonyl 90 MG / magnesium oxide 30 MG / niacinamide 20 MG / pyridoxine hydrochloride 20 MG / riboflavin 3.4 MG / thiamine mononitrate 3 MG / tocopherol acetate 30 UNT / vitamin B12 0.012 MG / zinc oxide 25 MG Oral Tablet",
+              "synonym": "vit-C 120 MG / beta carotene 2700 UNT / calcium carbonate 200 MG / cholecalciferol 400 UNT / cupric oxide 2 MG / DOSS sodium 50 MG / folate 1 MG / iron carbonyl 90 MG / magnesium oxide 30 MG / niacinamide 20 MG / vit-B6 hydrochloride 20 MG / riboflavin 3.4 MG / vit-B1 mononitrate 3 MG / tocopherol acetate 30 UNT / vitamin B12 0.012 MG / ZNO 25 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1291276",
+              "name": "cholecalciferol 1.25 MG Oral Tablet",
+              "synonym": "vitamin D3 1250 MCG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1292030",
+              "name": "cholecalciferol 1000 UNT / docosahexaenoic acid 253 MG / eicosapentaenoic acid 647 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1299811",
+              "name": "calcium carbonate 250 MG/ML / cholecalciferol 80 UNT/ML Oral Solution",
+              "synonym": "calcium carbonate 1250 MG (calcium 500 MG) / vitamin D3 400 UNT per 5 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1302680",
+              "name": "cholecalciferol 80 UNT/ML / vitamin A 800 UNT/ML Oral Solution",
+              "synonym": "vitamin A 4000 UNT / vitamin D3 400 UNT per 5 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1304490",
+              "name": "alpha-tocopherol acetate 30 UNT / ascorbic acid 120 MG / calcium citrate 125 MG / cholecalciferol 400 UNT / cupric oxide 2 MG / docusate sodium 50 MG / folic acid 1 MG / iron carbonyl 35 MG / niacinamide 20 MG / potassium iodide 0.15 MG / pyridoxine hydrochloride 25 MG / riboflavin 3.4 MG / thiamine hydrochloride 3 MG / zinc oxide 25 MG Oral Tablet",
+              "synonym": "alpha-Tocopherol Acetate 30 UNT / vit-C 120 MG / Calcium Citrate 125 MG / Cholecalciferol 400 UNT / Cupric oxide 2 MG / DOSS Sodium 50 MG / folate 1 MG / Iron Carbonyl 35 MG / Niacinamide 20 MG / K+ Iodide 0.15 MG / vit-B6 Hydrochloride 25 MG / Riboflavin 3.4 MG / vit-B1 hydrochloride 3 MG / ZNO 25 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1304559",
+              "name": "alpha-tocopherol acetate 1 UNT/ML / ascorbic acid 20 MG/ML / biotin 0.006 MG/ML / cholecalciferol 20 UNT/ML / dexpanthenol 1.5 MG/ML / folic acid 0.06 MG/ML / niacinamide 4 MG/ML / pyridoxine hydrochloride 0.6 MG/ML / riboflavin 0.36 MG/ML / thiamine hydrochloride 0.6 MG/ML / vitamin A palmitate 330 UNT/ML / vitamin B12 0.0005 MG/ML / vitamin K1 0.015 MG/ML Injectable Solution",
+              "synonym": "alpha-tocopherol acetate 1 UNT/ML / vit-C 20 MG/ML / biotin 0.006 MG/ML / cholecalciferol 20 UNT/ML / dexpanthenol 1.5 MG/ML / folate 0.06 MG/ML / niacinamide 4 MG/ML / vit-B6 hydrochloride 0.6 MG/ML / riboflavin 0.36 MG/ML / vit-B1 hydrochloride 0.6 MG/ML / vitamin A palmitate 330 UNT/ML / vitamin B12 0.0005 MG/ML / vitamin K1 0.015 MG/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1305217",
+              "name": "alpha-tocopherol acetate 1.4 UNT/ML / ascorbic acid 16 MG/ML / biotin 0.004 MG/ML / cholecalciferol 80 UNT/ML / dexpanthenol 1 MG/ML / folic acid 0.028 MG/ML / niacinamide 3.4 MG/ML / pyridoxine hydrochloride 0.2 MG/ML / riboflavin 0.28 MG/ML / thiamine hydrochloride 0.24 MG/ML / vitamin A palmitate 460 UNT/ML / vitamin B12 0.0002 MG/ML / vitamin K1 0.04 MG/ML Injectable Solution",
+              "synonym": "alpha-tocopherol acetate 1.4 UNT/ML / vit-C 16 MG/ML / biotin 0.004 MG/ML / cholecalciferol 80 UNT/ML / dexpanthenol 1 MG/ML / folate 0.028 MG/ML / niacinamide 3.4 MG/ML / vit-B6 hydrochloride 0.2 MG/ML / riboflavin 0.28 MG/ML / vit-B1 hydrochloride 0.24 MG/ML / vitamin A palmitate 460 UNT/ML / vitamin B12 0.0002 MG/ML / vitamin K1 0.04 MG/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1310948",
+              "name": "calcium carbonate 1500 MG / cholecalciferol 800 UNT Oral Tablet",
+              "synonym": "calcium carbonate 1500 MG / vitamin D3 800 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1312502",
+              "name": "cholecalciferol 0.0025 MG/ML Oral Solution",
+              "synonym": "vitamin D3 1000 UNT per 10 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1313925",
+              "name": "alpha-tocopherol acetate 30 UNT / ascorbic acid 100 MG / beta carotene 1000 UNT / calcium carbonate 200 MG / calcium pantothenate 7 MG / cholecalciferol 400 UNT / docusate sodium 25 MG / ferrous fumarate 29 MG / folic acid 1 MG / niacinamide 15 MG / pyridoxine hydrochloride 20 MG / riboflavin 3 MG / thiamine 3 MG / vitamin B12 0.012 MG / zinc oxide 20 MG Oral Tablet",
+              "synonym": "alpha-tocopherol acetate 30 UNT / vit-C 100 MG / beta carotene 1000 UNT / calcium carbonate 200 MG / calcium pantothenate 7 MG / cholecalciferol 400 UNT / DOSS sodium 25 MG / ferrous fumarate 29 MG / folate 1 MG / niacinamide 15 MG / vit-B6 hydrochloride 20 MG / riboflavin 3 MG / vit-B1 3 MG / vitamin B12 0.012 MG / ZNO 20 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1313927",
+              "name": "cholecalciferol 20 UNT/ML / polysaccharide iron complex 25 MG/ML Oral Solution",
+              "synonym": "cholecalciferol 100 UNT / polysaccharide iron complex (as iron) 125 MG per 5 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1362805",
+              "name": "calcium carbonate 1250 MG / cholecalciferol 1000 UNT / vitamin K 0.4 MG Chewable Tablet",
+              "synonym": "calcium carbonate 1250 MG / vitamin D3 1000 UNT / phytonadione 40 MCG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1364854",
+              "name": "ascorbic acid 60 MG / cholecalciferol 0.01 MG / folic acid 0.3 MG / niacin 13.5 MG / riboflavin 1.2 MG / sodium fluoride 1.1 MG / thiamine 1.05 MG / vitamin A 0.75 MG / vitamin B12 0.0045 MG / vitamin B6 1.05 MG / vitamin E 6.75 MG Chewable Tablet",
+              "synonym": "vit-C 60 MG / cholecalciferol 0.01 MG / folate 0.3 MG / vit-B3 13.5 MG / riboflavin 1.2 MG / sodium fluoride 1.1 MG / vit-B1 1.05 MG / vitamin A 0.75 MG / vitamin B12 0.0045 MG / vitamin B6 1.05 MG / vitamin E 6.75 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1364855",
+              "name": "ascorbic acid 60 MG / cholecalciferol 0.01 MG / folic acid 0.3 MG / niacin 13.5 MG / riboflavin 1.2 MG / sodium fluoride 2.2 MG / thiamine 1.05 MG / vitamin A 0.75 MG / vitamin B12 0.0045 MG / vitamin B6 1.05 MG / vitamin E 15 UNT Chewable Tablet",
+              "synonym": "vit-C 60 MG / cholecalciferol 0.01 MG / folate 0.3 MG / vit-B3 13.5 MG / riboflavin 1.2 MG / sodium fluoride 2.2 MG / vit-B1 1.05 MG / vitamin A 0.75 MG / vitamin B12 0.0045 MG / vitamin B6 1.05 MG / vitamin E 15 UNT Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1365980",
+              "name": "ascorbic acid 35 MG/ML / cholecalciferol 0.01 MG/ML / sodium fluoride 0.55 MG/ML / vitamin A palmitate 1500 UNT/ML Oral Solution",
+              "synonym": "vit-C 35 MG/ML / cholecalciferol 0.01 MG/ML / sodium fluoride 0.55 MG/ML / vitamin A palmitate 1500 UNT/ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1365984",
+              "name": "ascorbic acid 35 MG/ML / cholecalciferol 0.01 MG/ML / sodium fluoride 1.1 MG/ML / vitamin A palmitate 1500 UNT/ML Oral Solution",
+              "synonym": "vit-C 35 MG/ML / cholecalciferol 0.01 MG/ML / sodium fluoride 1.1 MG/ML / vitamin A palmitate 1500 UNT/ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1366143",
+              "name": "cholecalciferol 14000 UNT / vitamin E 34 UNT Oral Wafer",
+              "synonym": "vitamin D3 14,000 UNT / vitamin E 34 UNT Chewable Oral Wafer",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1375960",
+              "name": "cholecalciferol 6.67 UNT/ML / glucose 250 MG/ML Oral Solution",
+              "synonym": "vitamin D3 6.67 UNT/ML / dextrose 250 MG/ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1429287",
+              "name": "calcium phosphate 200 MG / cholecalciferol 200 UNT Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1432986",
+              "name": "cholecalciferol 500 UNT / inulin 2500 MG Chewable Tablet",
+              "synonym": "vitamin D3 500 UNT / inulin 2500 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1442442",
+              "name": "calcium carbonate 1500 MG / cholecalciferol 800 UNT Chewable Tablet",
+              "synonym": "calcium carbonate 1500 MG (calcium 600 MG) / vitamin D3 800 UNT Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1485531",
+              "name": "alpha tocopherol 30 UNT / ascorbic acid 25 MG / cholecalciferol 170 UNT / doconexent 265 MG / docusate sodium 55 MG / ferrous fumarate 30 MG / folic acid 1.2 MG / pyridoxine hydrochloride 25 MG / tricalcium phosphate 160 MG Oral Capsule",
+              "synonym": "alpha Tocopherol 30 UNT / vit-C 25 MG / Cholecalciferol 170 UNT / doconexent 265 MG / DOSS Sodium 55 MG / Ferrous fumarate 30 MG / folate 1.2 MG / vit-B6 Hydrochloride 25 MG / tricalcium phosphate 160 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1486349",
+              "name": "cholecalciferol 0.025 MG Disintegrating Oral Tablet",
+              "synonym": "vitamin D3 1000 UNT Disintegrating Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "150923",
+              "name": "calcium carbonate 1250 MG / cholecalciferol 0.005 MG Oral Tablet",
+              "synonym": "calcium carbonate 1250 MG (calcium 500 MG) / vitamin D3 5 MCG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "152770",
+              "name": "calcium carbonate 1250 MG / cholecalciferol 0.01 MG Oral Tablet",
+              "synonym": "calcium carbonate 1250 MG (calcium 500 MG) / vitamin D3 10 MCG (400 UNT) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "153116",
+              "name": "calcium carbonate 6.25 MG/ML / cholecalciferol 2.2 UNT/ML Oral Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1537233",
+              "name": "ascorbic acid 35 MG/ML / cholecalciferol 0.01 MG/ML / vitamin A 0.225 MG/ML Oral Solution",
+              "synonym": "vit-C 35 MG/ML / Cholecalciferol 0.01 MG/ML / Vitamin A 0.225 MG/ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1593744",
+              "name": "cholecalciferol 3775 UNT / folic acid 1 MG Oral Capsule",
+              "synonym": "Cholecalciferol 3775 UNT / folate 1 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1596005",
+              "name": "cholecalciferol 0.01 MG/ML / sodium fluoride 0.55 MG/ML Oral Solution",
+              "synonym": "cholecalciferol 400 UNT/ML / sodium fluoride 0.55 MG/ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1601102",
+              "name": "cholecalciferol 5750 UNT / folic acid 1 MG Oral Capsule",
+              "synonym": "vitamin D3 5750 UNT / folic acid 1 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1605383",
+              "name": "cholecalciferol 1333 UNT/ML / Limosilactobacillus reuteri 333333333 UNT/ML Oral Suspension",
+              "synonym": "cholecalciferol 400 UNT / Lactobacillus reuteri 100,000,000 UNT per 5 drops Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1650274",
+              "name": "cholecalciferol 0.375 MG/ML Oral Solution",
+              "synonym": "cholecalciferol 15,000 UNT/ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1716012",
+              "name": "alpha tocopherol 300 UNT/ML / cholecalciferol 10000 UNT/ML / vitamin A 100000 UNT/ML Injectable Solution",
+              "synonym": "vitamin A 100000 UNT/ML / vitamin D3 10000 UNT/ML / vitamin E 300 UNT/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1716020",
+              "name": "alpha tocopherol 300 UNT/ML / cholecalciferol 100000 UNT/ML / vitamin A 200000 UNT/ML Injectable Solution",
+              "synonym": "vitamin A 200000 UNT/ML / vitamin D3 10000 UNT/ML / vitamin E 300 UNT/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1716024",
+              "name": "alpha tocopherol 500 UNT/ML / cholecalciferol 50000 UNT/ML / vitamin A 50000 UNT/ML Injectable Solution",
+              "synonym": "vitamin A 50000 UNT/ML / vitamin D3 50000 UNT/ML / vitamin E 500 UNT/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1720258",
+              "name": "cholecalciferol 5000 UNT / folic acid 1 MG Oral Tablet",
+              "synonym": "vitamin D3 5000 UNT / folic acid 1 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1741417",
+              "name": "cholecalciferol 10000 UNT / menatetrenone 0.1 MG Oral Capsule",
+              "synonym": "cholecalciferol 10,000 UNT / menatetrenone 100 MCG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1746494",
+              "name": "cholecalciferol 0.125 MG Disintegrating Oral Tablet",
+              "synonym": "vitamin D3 5000 UNT Disintegrating Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1789539",
+              "name": "cholecalciferol 0.01 MG / tricalcium phosphate 658 MG Chewable Tablet",
+              "synonym": "cholecalciferol 400 UNT / tricalcium phosphate 658 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1790877",
+              "name": "cholecalciferol 2500 UNT / folic acid 1 MG Oral Tablet",
+              "synonym": "vitamin D3 2500 UNT / folic acid 1 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1792327",
+              "name": "cholecalciferol 0.35 MG Oral Capsule",
+              "synonym": "vitamin D3 14,000 UNT Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1809754",
+              "name": "cholecalciferol 500 UNT / folic acid 1 MG Oral Tablet",
+              "synonym": "Cholecalciferol 500 UNT / folate 1 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1870970",
+              "name": "cholecalciferol 0.05 MG/ML Oral Solution",
+              "synonym": "cholecalciferol 400 UNT per 0.2 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1874857",
+              "name": "calcium citrate 1500 MG / cholecalciferol 200 UNT Oral Tablet",
+              "synonym": "calcium citrate 1500 MG (calcium 315 MG) / vitamin D3 200 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1919489",
+              "name": "cholecalciferol 9.52 UNT/ML / glucose 357 MG/ML Oral Gel",
+              "synonym": "vitamin D3 400 UNT / glucose 15,000 MG in 42 ML Oral Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "199362",
+              "name": "cholecalciferol 0.025 MG Oral Tablet",
+              "synonym": "vitamin D3 25 MCG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1996204",
+              "name": "cholecalciferol 2000 UNT / folic acid 1 MG Oral Tablet",
+              "synonym": "vitamin D3 2000 UNT / folic acid 1 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1996206",
+              "name": "cholecalciferol 0.094 MG / folic acid 1 MG Oral Tablet",
+              "synonym": "vitamin D3 0.094 MG / folic acid 1 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2099327",
+              "name": "cholecalciferol 0.4 MG/ML Oral Solution",
+              "synonym": "vitamin D3 0.4 MG (16,000 UNT) per 1 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2123176",
+              "name": "cholecalciferol 5500 UNT / vitamin K2 0.2 MG Oral Tablet",
+              "synonym": "cholecalciferol 5500 UNT / vitamin K2 (as menquinone 7) 200 MCG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2123177",
+              "name": "calcium carbonate 1500 MG / cholecalciferol 2500 UNT Oral Capsule",
+              "synonym": "calcium carbonate 1500 MG (calcium 600 MG) / vitamin D3 2500 UNT Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2168347",
+              "name": "cholecalciferol 3760 UNT / folic acid 1 MG Oral Capsule",
+              "synonym": "Cholecalciferol 3760 UNT / folate 1 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2200084",
+              "name": "cholecalciferol 0.325 MG Oral Capsule",
+              "synonym": "cholecalciferol 325 MCG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2275181",
+              "name": "calcium carbonate 1625 MG / cholecalciferol 0.0125 MG / vitamin K 0.04 MG Chewable Tablet",
+              "synonym": "calcium carbonate 1625 MG / cholecalciferol 500 UNT / vitamin K 0.04 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2283546",
+              "name": "cholecalciferol 0.095 MG / folic acid 1 MG Oral Tablet",
+              "synonym": "Cholecalciferol 0.095 MG / folate 1 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2284286",
+              "name": "cholecalciferol 0.025 MG / inulin 5000 MG Chewable Tablet",
+              "synonym": "cholecalciferol 1000 UNT / inulin 5000 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "240029",
+              "name": "cholecalciferol 0.125 MG Oral Capsule",
+              "synonym": "vitamin D3 5000 UNT Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "245500",
+              "name": "cholecalciferol 0.025 MG Oral Capsule",
+              "synonym": "vitamin D3 25 MCG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2472324",
+              "name": "cholecalciferol 0.625 MG/ML Oral Solution",
+              "synonym": "cholecalciferol 25 MCG in 0.04 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "248506",
+              "name": "cholecalciferol 0.25 MG Oral Tablet",
+              "synonym": "cholecalciferol 10,000 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "251154",
+              "name": "cholecalciferol 0.01 MG/ML Oral Solution",
+              "synonym": "cholecalciferol 400 UNT/ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2563300",
+              "name": "cholecalciferol 1.25 MG Oral Wafer",
+              "synonym": "cholecalciferol 1250 MCG Oral Wafer",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2563301",
+              "name": "cholecalciferol 0.35 MG Oral Wafer",
+              "synonym": "cholecalciferol 350 MCG Oral Wafer",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2563600",
+              "name": "cholecalciferol 0.025 MG / menatetrenone 0.1 MG Oral Tablet",
+              "synonym": "vitamin D3 1000 UNT / vitamin K2 0.1 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2566811",
+              "name": "alpha tocopherol 10 MG / cholecalciferol 1.25 MG Oral Capsule",
+              "synonym": "cholecalciferol 50,000 UNT / vitamin E 10,000 UNT Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2569082",
+              "name": "cholecalciferol 0.25 MG / folic acid 1 MG Oral Tablet",
+              "synonym": "cholecalciferol 0.25 MG / folate 1 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2570480",
+              "name": "cholecalciferol 1.25 MG / vitamin K2 0.2 MG Oral Capsule",
+              "synonym": "cholecalciferol 1250 MCG / vitamin K2 200 MCG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2572284",
+              "name": "cholecalciferol 1.25 MG / menatetrenone 0.2 MG Oral Capsule",
+              "synonym": "vitamin D3 50,000 UNT / vitamin K2 200 MCG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2588351",
+              "name": "cholecalciferol 0.417 MG/ML Oral Solution",
+              "synonym": "vitamin D3 1250 MCG per 3 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "259287",
+              "name": "cholecalciferol 135 UNT / vitamin A 0.375 MG Oral Capsule",
+              "synonym": "cholecalciferol 135 UNT / vitamin A 1250 UNT Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2598689",
+              "name": "cholecalciferol 0.125 MG / menatetrenone 0.09 MG Oral Capsule",
+              "synonym": "cholecalciferol 125 MCG / menatetrenone 90 MCG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2601308",
+              "name": "cholecalciferol 0.0625 MG Chewable Tablet",
+              "synonym": "vitamin D3 2500 UNT Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2665428",
+              "name": "cholecalciferol 0.075 MG / folic acid 1 MG Oral Capsule",
+              "synonym": "cholecalciferol 0.075 MG / folate 1 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2671090",
+              "name": "cholecalciferol 0.125 MG / levomefolate calcium 1 MG Oral Tablet",
+              "synonym": "cholecalciferol 5000 UNT / levomefolate calcium 1000 MCG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2682746",
+              "name": "cholecalciferol 0.125 MG / levomefolate calcium 1.7 MG Oral Tablet",
+              "synonym": "cholecalciferol 5000 UNT / levomefolate calcium 1700 MCG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2682748",
+              "name": "cholecalciferol 0.125 MG / vitamin K2 0.18 MG Oral Capsule",
+              "synonym": "cholecalciferol 125 MCG / vitamin K2 180 MCG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2684625",
+              "name": "cholecalciferol 0.1 MG / menatetrenone 0.1 MG Oral Capsule",
+              "synonym": "vitamin D3 0.1 MG / vitamin K2 0.1 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2713891",
+              "name": "ascorbic acid 50 MG/ML / cholecalciferol 0.01 MG/ML / vitamin A 0.25 MG/ML Oral Suspension",
+              "synonym": "vit-C 50 MG/ML / cholecalciferol 0.01 MG/ML / vitamin A 0.25 MG/ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2714172",
+              "name": "cholecalciferol 0.01 MG/ML Oral Suspension",
+              "synonym": "cholecalciferol 10 MCG per ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2716713",
+              "name": "calcium citrate 200 MG / cholecalciferol 250 UNT Oral Tablet",
+              "synonym": "calcium citrate 200 MG / vitamin D3 250 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "309263",
+              "name": "cholecalciferol 0.01 MG Oral Tablet",
+              "synonym": "vitamin D3 400 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "313599",
+              "name": "ascorbic acid 35 MG/ML / cholecalciferol 0.01 MG/ML / vitamin A 0.45 MG/ML Oral Solution",
+              "synonym": "vit-C 35 MG/ML / Cholecalciferol 0.01 MG/ML / Vitamin A 0.45 MG/ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "360422",
+              "name": "calcium carbonate 600 MG / cholecalciferol 200 UNT Oral Tablet",
+              "synonym": "calcium carbonate 600 MG / cholecalciferol 5 MCG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "386989",
+              "name": "calcium carbonate 1250 MG / cholecalciferol 0.01 MG Chewable Tablet",
+              "synonym": "calcium carbonate 1250 MG (calcium 500 MG) / vitamin D3 10 MCG (400 UNT) Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "389238",
+              "name": "calcium carbonate 1500 MG / cholecalciferol 0.01 MG Chewable Tablet",
+              "synonym": "calcium carbonate 1500 MG (calcium 600 MG) / vitamin D3 10 MCG (400 UNT) Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "428485",
+              "name": "calcium carbonate 1500 MG / cholecalciferol 0.01 MG Oral Tablet",
+              "synonym": "calcium carbonate 1500 MG / cholecalciferol 400 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "435020",
+              "name": "cholecalciferol 0.01 MG Oral Capsule",
+              "synonym": "vitamin D3 10 MCG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "577043",
+              "name": "calcium carbonate 500 MG / cholecalciferol 200 UNT Oral Tablet",
+              "synonym": "calcium carbonate 500 MG (as calcium 200 MG) / cholecalciferol 5 MCG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "577055",
+              "name": "calcium citrate 950 MG / cholecalciferol 125 UNT Oral Tablet",
+              "synonym": "calcium citrate 950 MG (calcium 200 MG) / vitamin D3 125 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "577068",
+              "name": "calcium phosphate 105 MG / cholecalciferol 120 UNT Oral Tablet",
+              "synonym": "calcium phosphate 105 MG / vitamin D3 120 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "581296",
+              "name": "cholecalciferol 270 UNT / vitamin A 0.75 MG Oral Capsule",
+              "synonym": "vitamin A 2500 UNT / vitamin D 270 UNT Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "668292",
+              "name": "calcium carbonate 600 MG / cholecalciferol 0.01 MG Oral Tablet",
+              "synonym": "calcium carbonate 600 MG / cholecalciferol 400 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "685054",
+              "name": "cholecalciferol 0.25 MG Oral Capsule",
+              "synonym": "vitamin D3 250 MCG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "701627",
+              "name": "cholecalciferol 0.01 MG / vitamin A 0.24 MG Oral Capsule",
+              "synonym": "vitamin A 800 UNT / vitamin D3 400 UNT Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "705726",
+              "name": "cholecalciferol 0.01 MG / vitamin A 5000 UNT Oral Capsule",
+              "synonym": "cholecalciferol 400 UNT / vitamin A 5000 UNT Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "705728",
+              "name": "cholecalciferol 1.25 MG Oral Capsule",
+              "synonym": "vitamin D3 1250 MCG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "801663",
+              "name": "cholecalciferol 0.05 MG Oral Tablet",
+              "synonym": "vitamin D3 50 MCG (2000 UNT) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "804146",
+              "name": "cholecalciferol 0.05 MG Oral Capsule",
+              "synonym": "vitamin D3 2000 UNT Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "804614",
+              "name": "calcium citrate 250 MG / cholecalciferol 125 UNT / magnesium citrate 40 MG Chewable Tablet",
+              "synonym": "calcium citrate 250 MG / magnesium citrate 40 MG / vitamin D3 125 UNT Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "804617",
+              "name": "cholecalciferol 1000 UNT / vitamin K2 0.09 MG Disintegrating Oral Tablet",
+              "synonym": "cholecalciferol 1000 UNT / menaquinone 7 90 MCG Disintegrating Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "808596",
+              "name": "24 HR calcium carbonate 1500 MG / cholecalciferol 500 UNT Extended Release Oral Tablet",
+              "synonym": "calcium carbonate 1500 MG (calcium 600 MG) / vitamin D3 500 UNT 24 HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "809533",
+              "name": "calcium carbonate 1500 MG / cholecalciferol 200 UNT Oral Tablet",
+              "synonym": "calcium carbonate 1500 MG (calcium 600 MG) / vitamin D3 5 MCG (200 UNT) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "809536",
+              "name": "calcium carbonate 1250 MG / cholecalciferol 200 UNT Oral Tablet",
+              "synonym": "calcium carbonate 1250 MG (calcium 500 MG) / vitamin D3 5 MCG (200 UNT) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "809555",
+              "name": "calcium carbonate 625 MG / cholecalciferol 125 UNT Oral Tablet",
+              "synonym": "calcium carbonate 625 MG (calcium 250 MG) / vitamin D3 125 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "809572",
+              "name": "calcium carbonate 1250 MG / cholecalciferol 125 UNT Oral Tablet",
+              "synonym": "calcium carbonate 1250 MG (calcium 500 MG) / vitamin D3 125 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "829758",
+              "name": "calcium carbonate 1250 MG / cholecalciferol 200 UNT / vitamin K1 0.04 MG Chewable Tablet",
+              "synonym": "calcium carbonate 1250 MG / vitamin D3 200 UNT / vitamin K 1 40 MCG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "829759",
+              "name": "calcium carbonate 1250 MG / cholecalciferol 500 UNT / vitamin K1 0.04 MG Chewable Tablet",
+              "synonym": "calcium carbonate 1250 MG (calcium 500 MG) / cholecalciferol 500 UNT / vitamin K 1 40 MCG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "829993",
+              "name": "cholecalciferol 0.833 MG/ML Oral Solution",
+              "synonym": "vitamin D3 33,300 UNT/ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "829995",
+              "name": "cholecalciferol 1.67 MG/ML Oral Solution",
+              "synonym": "vitamin D3 1.67 MG (66,700 UNT) per 1 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "832909",
+              "name": "calcium carbonate 1250 MG / cholecalciferol 100 UNT Chewable Tablet",
+              "synonym": "calcium carbonate 1250 MG (calcium 500 MG) / vitamin D3 100 UNT Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "832910",
+              "name": "calcium carbonate 1500 MG / cholecalciferol 0.01 MG Oral Capsule",
+              "synonym": "calcium carbonate 1500 MG / cholecalciferol 400 UNT Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "832919",
+              "name": "calcium carbonate 1500 MG / cholecalciferol 200 UNT Oral Capsule",
+              "synonym": "calcium carbonate 1500 MG (calcium 600 MG) / vitamin D3 200 UNT Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "846138",
+              "name": "cholecalciferol 0.01 MG Chewable Tablet",
+              "synonym": "vitamin D3 10 MCG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "847121",
+              "name": "calcium citrate 1500 MG / cholecalciferol 250 UNT Oral Tablet",
+              "synonym": "calcium citrate 1500 MG (calcium 315 MG) / vitamin D3 250 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "849410",
+              "name": "cholecalciferol 2000 UNT / soy protein isolate 64 MG Oral Tablet",
+              "synonym": "vitamin D3 2000 UNT / soy protein isolate 64 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "857466",
+              "name": "cholecalciferol 0.125 MG Oral Tablet",
+              "synonym": "vitamin D3 125 MCG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "864665",
+              "name": "calcium carbonate 1500 MG / cholecalciferol 1000 UNT Oral Tablet",
+              "synonym": "calcium carbonate 1500 MG (calcium 600 MG) / vitamin D3 1000 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "866406",
+              "name": "cholecalciferol 0.075 MG Oral Tablet",
+              "synonym": "vitamin D3 3000 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "876858",
+              "name": "ascorbic acid 35 MG/ML / cholecalciferol 0.01 MG/ML / niacin 8 MG/ML / riboflavin 0.6 MG/ML / thiamine 0.5 MG/ML / vitamin A 0.45 MG/ML / vitamin B12 0.002 MG/ML / vitamin B6 0.4 MG/ML / vitamin E 2.25 MG/ML Oral Solution",
+              "synonym": "vit-C 35 MG/ML / cholecalciferol 0.01 MG/ML / vit-B3 8 MG/ML / riboflavin 0.6 MG/ML / vit-B1 0.5 MG/ML / vitamin A 0.45 MG/ML / vitamin B12 0.002 MG/ML / vitamin B6 0.4 MG/ML / vitamin E 2.25 MG/ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "876863",
+              "name": "ascorbic acid 35 MG/ML / cholecalciferol 0.01 MG/ML / ferrous sulfate 50 MG/ML / niacin 8 MG/ML / riboflavin 0.6 MG/ML / thiamine 0.5 MG/ML / vitamin A 0.45 MG/ML / vitamin B6 0.4 MG/ML / vitamin E 2.25 MG/ML Oral Solution",
+              "synonym": "vit-C 35 MG/ML / cholecalciferol 0.01 MG/ML / FESO4 50 MG/ML / vit-B3 8 MG/ML / riboflavin 0.6 MG/ML / vit-B1 0.5 MG/ML / vitamin A 0.45 MG/ML / vitamin B6 0.4 MG/ML / vitamin E 2.25 MG/ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "880340",
+              "name": "cholecalciferol 0.025 MG Chewable Tablet",
+              "synonym": "vitamin D3 1000 UNT Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "881314",
+              "name": "calcium citrate 2380 MG / cholecalciferol 0.01 MG Chewable Tablet",
+              "synonym": "calcium citrate 2380 MG / cholecalciferol 400 UNT Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "885489",
+              "name": "cholecalciferol 0.125 MG/ML Oral Solution",
+              "synonym": "vitamin D3 5000 UNT/ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "891441",
+              "name": "cholecalciferol 0.025 MG/ACTUAT Mucosal Spray",
+              "synonym": "vitamin D3 1000 UNT/ACTUAT Mucosal Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "891692",
+              "name": "cholecalciferol 0.357 MG/ML Oral Solution",
+              "synonym": "vitamin D3 357 MCG (14,286 UNT) per 1 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "898694",
+              "name": "calcium citrate 950 MG / cholecalciferol 250 UNT Oral Tablet",
+              "synonym": "calcium citrate 950 MG (calcium 200 MG) / vitamin D3 250 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "904462",
+              "name": "alendronic acid 70 MG / cholecalciferol 5600 UNT Oral Tablet",
+              "synonym": "alendronic acid 70 MG / vitamin D3 5,600 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "904492",
+              "name": "alendronic acid 70 MG / cholecalciferol 2800 UNT Oral Tablet",
+              "synonym": "alendronic acid 70 MG / vitamin D3 2800 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "994831",
+              "name": "calcium carbonate 1250 MG / cholecalciferol 600 UNT Chewable Tablet",
+              "synonym": "calcium carbonate 1250 MG (calcium 500 MG) / vitamin D3 600 UNT Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "995852",
+              "name": "calcium ascorbate 25 MG / calcium carbonate 400 MG / cholecalciferol 200 UNT / folic acid 2 MG / pyridoxine hydrochloride 25 MG Oral Tablet",
+              "synonym": "Calcium ascorbate 25 MG / Calcium Carbonate 400 MG / Cholecalciferol 200 UNT / folate 2 MG / vit-B6 Hydrochloride 25 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "995854",
+              "name": "calcium ascorbate 25 MG / calcium carbonate 600 MG / cholecalciferol 600 UNT / folic acid 0.5 MG / pyridoxine hydrochloride 12.5 MG Oral Tablet",
+              "synonym": "Calcium ascorbate 25 MG / Calcium Carbonate 600 MG / Cholecalciferol 600 UNT / folate 0.5 MG / vit-B6 Hydrochloride 12.5 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "999793",
+              "name": "cholecalciferol 75000 UNT/ML / vitamin A 500000 UNT/ML Injectable Solution",
+              "synonym": "retinol 500,000 UNT/ML / vitamin D3 75,000 UNT/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T20:59:06.848887",
+  "source": "RxNorm"
+}

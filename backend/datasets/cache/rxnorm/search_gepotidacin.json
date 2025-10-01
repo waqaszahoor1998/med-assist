@@ -1,0 +1,46 @@
+{
+  "query": "Gepotidacin",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2709224",
+              "name": "gepotidacin 750 MG Oral Tablet [Blujepa]",
+              "synonym": "Blujepa 750 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2709218",
+              "name": "gepotidacin 750 MG Oral Tablet",
+              "synonym": "gepotidacin 750 MG (equivalent to gepotidacin mesylate dihydrate 970.96 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:40:34.331195",
+  "source": "RxNorm"
+}

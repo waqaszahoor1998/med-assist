@@ -1,0 +1,10 @@
+{
+  "query": "Inositol 2,4,5-trisphosphate",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T04:34:31.668722",
+  "source": "RxNorm"
+}

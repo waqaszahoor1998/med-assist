@@ -1,0 +1,16 @@
+{
+  "rxcui": "1729200",
+  "properties": {
+    "properties": {
+      "rxcui": "1729200",
+      "name": "1 ML enalaprilat 1.25 MG/ML Injection",
+      "synonym": "enalaprilat 1.25 MG per 1 ML Injection",
+      "tty": "SCD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T17:39:24.975396",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "DAS869",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:14:57.328895",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "INHIBITOR Q8467 OF DUPONT MERCK",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:33:40.224628",
+  "source": "RxNorm"
+}

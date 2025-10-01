@@ -1,0 +1,64 @@
+{
+  "query": "Omadacycline",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2059280",
+              "name": "omadacycline 150 MG Oral Tablet [Nuzyra]",
+              "synonym": "Nuzyra 150 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2059292",
+              "name": "omadacycline 100 MG Injection [Nuzyra]",
+              "synonym": "Nuzyra 100 MG Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2059274",
+              "name": "omadacycline 150 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2059288",
+              "name": "omadacycline 100 MG Injection",
+              "synonym": "omadacycline (as omadacycline tosylate) 100 MG Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:59:59.701229",
+  "source": "RxNorm"
+}

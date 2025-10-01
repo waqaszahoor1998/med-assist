@@ -1,0 +1,46 @@
+{
+  "query": "Grazoprevir",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1734642",
+              "name": "elbasvir 50 MG / grazoprevir 100 MG Oral Tablet [Zepatier]",
+              "synonym": "Zepatier (elbasvir 50 MG / grazoprevir 100 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1734636",
+              "name": "elbasvir 50 MG / grazoprevir 100 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:07:56.477849",
+  "source": "RxNorm"
+}

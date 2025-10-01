@@ -1,0 +1,10 @@
+{
+  "query": "1,2-dihexadecanoyl-sn-glycero-3-phosphoethanolamine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T01:39:08.779153",
+  "source": "RxNorm"
+}

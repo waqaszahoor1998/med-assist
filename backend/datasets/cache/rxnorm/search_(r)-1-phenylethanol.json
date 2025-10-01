@@ -1,0 +1,10 @@
+{
+  "query": "(R)-1-phenylethanol",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:41:10.657395",
+  "source": "RxNorm"
+}

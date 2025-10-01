@@ -1,0 +1,127 @@
+{
+  "query": "Allopurinol",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1944785",
+              "name": "allopurinol 300 MG / lesinurad 200 MG Oral Tablet [Duzallo]",
+              "synonym": "Duzallo (lesinurad 200 MG / allopurinol 300 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1944788",
+              "name": "allopurinol 200 MG / lesinurad 200 MG Oral Tablet [Duzallo]",
+              "synonym": "Duzallo (lesinurad 200 MG / allopurinol 200 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "213995",
+              "name": "allopurinol 100 MG Oral Tablet [Zyloprim]",
+              "synonym": "Zyloprim 100 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "213998",
+              "name": "allopurinol 300 MG Oral Tablet [Zyloprim]",
+              "synonym": "Zyloprim 300 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "261265",
+              "name": "allopurinol 500 MG Injection [Aloprim]",
+              "synonym": "Aloprim 500 MG Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1944779",
+              "name": "allopurinol 300 MG / lesinurad 200 MG Oral Tablet",
+              "synonym": "lesinurad 200 MG / allopurinol 300 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1944786",
+              "name": "allopurinol 200 MG / lesinurad 200 MG Oral Tablet",
+              "synonym": "lesinurad 200 MG / allopurinol 200 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "197319",
+              "name": "allopurinol 100 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "197320",
+              "name": "allopurinol 300 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "245422",
+              "name": "allopurinol 200 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "252931",
+              "name": "allopurinol 500 MG Injection",
+              "synonym": "allopurinol (as allopurinol sodium) 500 MG Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:13:21.089852",
+  "source": "RxNorm"
+}

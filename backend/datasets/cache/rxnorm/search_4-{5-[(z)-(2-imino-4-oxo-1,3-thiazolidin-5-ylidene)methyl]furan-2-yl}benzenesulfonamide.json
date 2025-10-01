@@ -1,0 +1,10 @@
+{
+  "query": "4-{5-[(Z)-(2-Imino-4-Oxo-1,3-Thiazolidin-5-Ylidene)methyl]furan-2-Yl}benzenesulfonamide",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:46:36.368869",
+  "source": "RxNorm"
+}

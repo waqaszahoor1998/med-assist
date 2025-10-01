@@ -1,0 +1,10 @@
+{
+  "query": "(5-BROMO-4-CHLORO-3-INDOLYL)-A-D-MANNOSE",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:42:16.497397",
+  "source": "RxNorm"
+}

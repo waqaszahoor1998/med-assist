@@ -1,0 +1,10 @@
+{
+  "query": "(2E,4E)-2-Hydroxy-6-oxo-6-phenyl-2,4-hexadienoic acid",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:51:07.315093",
+  "source": "RxNorm"
+}

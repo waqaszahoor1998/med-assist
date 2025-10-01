@@ -1,0 +1,10 @@
+{
+  "query": "Sumanirole",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:22:51.658152",
+  "source": "RxNorm"
+}

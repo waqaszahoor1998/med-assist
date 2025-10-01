@@ -1,0 +1,10 @@
+{
+  "query": "1-Amino-2,3-Dihydroxy-5-Hydroxymethyl Cyclohex-5-Ene",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:30:01.808243",
+  "source": "RxNorm"
+}

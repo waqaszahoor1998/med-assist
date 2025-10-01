@@ -1,0 +1,46 @@
+{
+  "query": "Aceclidine",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2721776",
+              "name": "aceclidine 14.4 MG/ML Ophthalmic Solution [Vizz]",
+              "synonym": "Vizz 1.44 % Ophthalmic Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2721771",
+              "name": "aceclidine 14.4 MG/ML Ophthalmic Solution",
+              "synonym": "aceclidine 1.44 % Ophthalmic Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T21:19:36.556738",
+  "source": "RxNorm"
+}

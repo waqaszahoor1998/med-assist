@@ -1,0 +1,307 @@
+{
+  "query": "Benazepril",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2566860",
+              "name": "benazepril hydrochloride 2.5 MG / spironolactone 20 MG Chewable Tablet [Cardalis]",
+              "synonym": "BZP hydrochloride 2.5 MG / spironolactone 20 MG Chewable Tablet [Cardalis]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2566864",
+              "name": "benazepril hydrochloride 5 MG / spironolactone 40 MG Chewable Tablet [Cardalis]",
+              "synonym": "BZP hydrochloride 5 MG / spironolactone 40 MG Chewable Tablet [Cardalis]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2566868",
+              "name": "benazepril hydrochloride 10 MG / spironolactone 80 MG Chewable Tablet [Cardalis]",
+              "synonym": "BZP hydrochloride 10 MG / spironolactone 80 MG Chewable Tablet [Cardalis]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "898344",
+              "name": "amlodipine 10 MG / benazepril hydrochloride 20 MG Oral Capsule [Lotrel]",
+              "synonym": "Lotrel 10/20 Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "898348",
+              "name": "amlodipine 10 MG / benazepril hydrochloride 40 MG Oral Capsule [Lotrel]",
+              "synonym": "Lotrel 10/40 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "898355",
+              "name": "amlodipine 5 MG / benazepril hydrochloride 10 MG Oral Capsule [Lotrel]",
+              "synonym": "Lotrel 5/10 Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "898358",
+              "name": "amlodipine 5 MG / benazepril hydrochloride 20 MG Oral Capsule [Lotrel]",
+              "synonym": "Lotrel 5/20 Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "898366",
+              "name": "benazepril hydrochloride 10 MG / hydrochlorothiazide 12.5 MG Oral Tablet [Lotensin HCT]",
+              "synonym": "Lotensin HCT 10/12.5 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "898371",
+              "name": "benazepril hydrochloride 20 MG / hydrochlorothiazide 12.5 MG Oral Tablet [Lotensin HCT]",
+              "synonym": "Lotensin HCT 20/12.5 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "898376",
+              "name": "benazepril hydrochloride 20 MG / hydrochlorothiazide 25 MG Oral Tablet [Lotensin HCT]",
+              "synonym": "Lotensin HCT 20/25 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "898689",
+              "name": "benazepril hydrochloride 10 MG Oral Tablet [Lotensin]",
+              "synonym": "Lotensin 10 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "898692",
+              "name": "benazepril hydrochloride 20 MG Oral Tablet [Lotensin]",
+              "synonym": "Lotensin 20 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "898721",
+              "name": "benazepril hydrochloride 40 MG Oral Tablet [Lotensin]",
+              "synonym": "Lotensin 40 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "898725",
+              "name": "benazepril hydrochloride 5 MG Oral Tablet [Lotensin]",
+              "synonym": "Lotensin 5 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2566853",
+              "name": "benazepril hydrochloride 2.5 MG / spironolactone 20 MG Chewable Tablet",
+              "synonym": "BZP hydrochloride 2.5 MG / spironolactone 20 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2566862",
+              "name": "benazepril hydrochloride 5 MG / spironolactone 40 MG Chewable Tablet",
+              "synonym": "BZP hydrochloride 5 MG / spironolactone 40 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2566866",
+              "name": "benazepril hydrochloride 10 MG / spironolactone 80 MG Chewable Tablet",
+              "synonym": "BZP hydrochloride 10 MG / spironolactone 80 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "898342",
+              "name": "amlodipine 10 MG / benazepril hydrochloride 20 MG Oral Capsule",
+              "synonym": "Amlodipine 10 MG / BZP hydrochloride 20 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "898346",
+              "name": "amlodipine 10 MG / benazepril hydrochloride 40 MG Oral Capsule",
+              "synonym": "Amlodipine 10 MG / BZP hydrochloride 40 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "898350",
+              "name": "amlodipine 2.5 MG / benazepril hydrochloride 10 MG Oral Capsule",
+              "synonym": "Amlodipine 2.5 MG / BZP hydrochloride 10 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "898353",
+              "name": "amlodipine 5 MG / benazepril hydrochloride 10 MG Oral Capsule",
+              "synonym": "Amlodipine 5 MG / BZP hydrochloride 10 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "898356",
+              "name": "amlodipine 5 MG / benazepril hydrochloride 20 MG Oral Capsule",
+              "synonym": "Amlodipine 5 MG / BZP hydrochloride 20 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "898359",
+              "name": "amlodipine 5 MG / benazepril hydrochloride 40 MG Oral Capsule",
+              "synonym": "Amlodipine 5 MG / BZP hydrochloride 40 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "898362",
+              "name": "benazepril hydrochloride 10 MG / hydrochlorothiazide 12.5 MG Oral Tablet",
+              "synonym": "BZP hydrochloride 10 MG / HCTZ 12.5 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "898367",
+              "name": "benazepril hydrochloride 20 MG / hydrochlorothiazide 12.5 MG Oral Tablet",
+              "synonym": "BZP hydrochloride 20 MG / HCTZ 12.5 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "898372",
+              "name": "benazepril hydrochloride 20 MG / hydrochlorothiazide 25 MG Oral Tablet",
+              "synonym": "BZP hydrochloride 20 MG / HCTZ 25 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "898378",
+              "name": "benazepril hydrochloride 5 MG / hydrochlorothiazide 6.25 MG Oral Tablet",
+              "synonym": "BZP hydrochloride 5 MG / HCTZ 6.25 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "898687",
+              "name": "benazepril hydrochloride 10 MG Oral Tablet",
+              "synonym": "BZP hydrochloride 10 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "898690",
+              "name": "benazepril hydrochloride 20 MG Oral Tablet",
+              "synonym": "BZP hydrochloride 20 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "898719",
+              "name": "benazepril hydrochloride 40 MG Oral Tablet",
+              "synonym": "BZP hydrochloride 40 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "898723",
+              "name": "benazepril hydrochloride 5 MG Oral Tablet",
+              "synonym": "benazepril HCl 5 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:19:08.192340",
+  "source": "RxNorm"
+}

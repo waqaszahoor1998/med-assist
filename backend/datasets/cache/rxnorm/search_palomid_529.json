@@ -1,0 +1,10 @@
+{
+  "query": "Palomid 529",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:18:24.133669",
+  "source": "RxNorm"
+}

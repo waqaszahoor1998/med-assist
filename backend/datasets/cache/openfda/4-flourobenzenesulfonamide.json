@@ -1,0 +1,23 @@
+{
+  "drug_name": "4-Flourobenzenesulfonamide",
+  "generic_name": [
+    "LIDOCAINE PATCH 4%"
+  ],
+  "brand_names": [
+    "Re-Lieved Lidocaine Patch"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    "Warnings For external use only. The adhesoin properties of this patch may cause an extended period of redness. Please visit www.re-lieved.com for more information."
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    "Directions adults/children Clean and dry affected area Peel patch off plastic liner and place patch on affected area for no more than 12 hours Wash hands after applying patch Under age 12, consult a physician before use For easier removal of the patch, apply rubbing alcohol or baby oil to adhesive edge while gently peeling. Store new and used patch away from children and pets."
+  ],
+  "indications": [
+    "Uses For the temporary relief of pain"
+  ],
+  "fetched_at": "2025-10-01T02:29:50.333819",
+  "source": "OpenFDA"
+}

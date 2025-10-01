@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Medicine Assistant - Demo</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        .container {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .header h1 {
+            color: #333;
+            margin-bottom: 10px;
+        }
+        .header p {
+            color: #666;
+            font-size: 18px;
+        }
+        .input-section {
+            margin-bottom: 30px;
+        }
+        .input-group {
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: bold;
+            color: #333;
+        }
+        input, textarea {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            font-size: 16px;
+            box-sizing: border-box;
+        }
+        textarea {
+            height: 100px;
+            resize: vertical;
+        }
+        button {
+            background: linear-gradient(45deg, #667eea, #764ba2);
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 16px;
+            margin-right: 10px;
+            transition: transform 0.2s;
+        }
+        button:hover {
+            transform: translateY(-2px);
+        }
+        button:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+        }
+        .loading {
+            text-align: center;
+            padding: 20px;
+            color: #667eea;
+        }
+        .result {
+            margin-top: 30px;
+            padding: 20px;
+            background: #f8f9fa;
+            border-radius: 10px;
+            border-left: 4px solid #667eea;
+        }
+        .medicine-card {
+            background: white;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            padding: 20px;
+            margin: 15px 0;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .medicine-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+        .medicine-name {
+            font-size: 20px;
+            font-weight: bold;
+            color: #333;
+        }
+        .confidence-badge {
+            background: #4CAF50;
+            color: white;
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-size: 14px;
+        }
+        .molecular-info {
+            background: #e3f2fd;
+            padding: 15px;
+            border-radius: 8px;
+            margin: 10px 0;
+        }
+        .molecular-info h4 {
+            margin: 0 0 10px 0;
+            color: #1976d2;
+        }
+        .info-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 10px;
+        }
+        .info-item {
+            display: flex;
+            justify-content: space-between;
+            padding: 5px 0;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        .info-label {
+            font-weight: bold;
+            color: #666;
+        }
+        .info-value {
+            color: #333;
+        }
+        .safety-alert {
+            background: #ffebee;
+            border: 1px solid #f44336;
+            border-radius: 8px;
+            padding: 15px;
+            margin: 10px 0;
+            color: #c62828;
+        }
+        .interaction-warning {
+            background: #fff3e0;
+            border: 1px solid #ff9800;
+            border-radius: 8px;
+            padding: 15px;
+            margin: 10px 0;
+            color: #e65100;
+        }
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px;
+            margin: 20px 0;
+        }
+        .stat-card {
+            background: #f0f4f8;
+            padding: 15px;
+            border-radius: 8px;
+            text-align: center;
+        }
+        .stat-number {
+            font-size: 24px;
+            font-weight: bold;
+            color: #667eea;
+        }
+        .stat-label {
+            color: #666;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🧬 AI Medicine Assistant</h1>
+            <p>Advanced prescription analysis with molecular structure visualization</p>
+        </div>
+
+        <div class="input-section">
+            <div class="input-group">
+                <label for="prescription">Enter Prescription Text:</label>
+                <textarea id="prescription" placeholder="e.g., Take Metformin 500mg twice daily with meals"></textarea>
+            </div>
+            <button onclick="testConnection()">Test Connection</button>
+            <button onclick="analyzePrescription()">Analyze Prescription</button>
+        </div>
+
+        <div id="loading" class="loading" style="display: none;">
+            <h3>🔬 Analyzing prescription with AI...</h3>
+            <p>Processing molecular data and safety information</p>
+        </div>
+
+        <div id="result" class="result" style="display: none;">
+            <!-- Results will be populated here -->
+        </div>
+    </div>
+
+    <script>
+        const API_BASE = 'http://localhost:8000/api';
+
+        async function testConnection() {
+            try {
+                const response = await fetch(`${API_BASE}/ping/`);
+                const data = await response.json();
+                alert(`Connection successful: ${data.message}`);
+            } catch (error) {
+                alert(`Connection failed: ${error.message}`);
+            }
+        }
+
+        async function analyzePrescription() {
+            const prescription = document.getElementById('prescription').value.trim();
+            if (!prescription) {
+                alert('Please enter prescription text');
+                return;
+            }
+
+            document.getElementById('loading').style.display = 'block';
+            document.getElementById('result').style.display = 'none';
+
+            try {
+                const response = await fetch(`${API_BASE}/prescription/analyze/`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ text: prescription })
+                });
+
+                const data = await response.json();
+                displayResults(data);
+            } catch (error) {
+                alert(`Analysis failed: ${error.message}`);
+            } finally {
+                document.getElementById('loading').style.display = 'none';
+            }
+        }
+
+        function displayResults(data) {
+            const resultDiv = document.getElementById('result');
+            resultDiv.style.display = 'block';
+
+            let html = `
+                <h2>Analysis Results</h2>
+                <p><strong>Input:</strong> ${data.input_text}</p>
+                
+                <div class="stats">
+                    <div class="stat-card">
+                        <div class="stat-number">${data.database_size}</div>
+                        <div class="stat-label">Medicines in Database</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">${data.structures_available}</div>
+                        <div class="stat-label">3D Structures Available</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">${data.confidence_score}%</div>
+                        <div class="stat-label">Confidence Score</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">v${data.nlp_version}</div>
+                        <div class="stat-label">NLP Version</div>
+                    </div>
+                </div>
+            `;
+
+            // Safety alerts
+            if (data.safety_alerts && data.safety_alerts.length > 0) {
+                html += '<div class="safety-alert">';
+                html += '<h4>⚠️ Safety Alerts</h4>';
+                data.safety_alerts.forEach(alert => {
+                    html += `<p>• ${alert}</p>`;
+                });
+                html += '</div>';
+            }
+
+            // Drug interactions
+            if (data.interactions && data.interactions.length > 0) {
+                html += '<div class="interaction-warning">';
+                html += '<h4>⚠️ Drug Interactions</h4>';
+                data.interactions.forEach(interaction => {
+                    html += `<p>• ${interaction}</p>`;
+                });
+                html += '</div>';
+            }
+
+            // Medicines
+            if (data.extracted_medicines && data.extracted_medicines.length > 0) {
+                html += '<h3>Extracted Medicines</h3>';
+                data.extracted_medicines.forEach(medicine => {
+                    html += createMedicineCard(medicine, data.molecular_info);
+                });
+            }
+
+            resultDiv.innerHTML = html;
+        }
+
+        function createMedicineCard(medicine, molecularInfo) {
+            const molecular = molecularInfo.find(m => m.name === medicine.name);
+            
+            let html = `
+                <div class="medicine-card">
+                    <div class="medicine-header">
+                        <div class="medicine-name">${medicine.name}</div>
+                        <div class="confidence-badge">${medicine.has_structure ? '🧬 3D Available' : '📋 Basic Info'}</div>
+                    </div>
+                    
+                    <div class="info-grid">
+                        <div class="info-item">
+                            <span class="info-label">Dosage:</span>
+                            <span class="info-value">${medicine.dosage}</span>
+                        </div>
+                        <div class="info-item">
+                            <span class="info-label">Frequency:</span>
+                            <span class="info-value">${medicine.frequency}</span>
+                        </div>
+                        <div class="info-item">
+                            <span class="info-label">Duration:</span>
+                            <span class="info-value">${medicine.duration}</span>
+                        </div>
+                        <div class="info-item">
+                            <span class="info-label">Generic Name:</span>
+                            <span class="info-value">${medicine.generic_name || 'N/A'}</span>
+                        </div>
+                    </div>
+            `;
+
+            if (molecular) {
+                html += `
+                    <div class="molecular-info">
+                        <h4>🧬 Molecular Information</h4>
+                        <div class="info-grid">
+                            <div class="info-item">
+                                <span class="info-label">Formula:</span>
+                                <span class="info-value">${molecular.molecular_formula || 'N/A'}</span>
+                            </div>
+                            <div class="info-item">
+                                <span class="info-label">Weight:</span>
+                                <span class="info-value">${molecular.molecular_weight ? molecular.molecular_weight.toFixed(2) + ' g/mol' : 'N/A'}</span>
+                            </div>
+                            <div class="info-item">
+                                <span class="info-label">CAS Number:</span>
+                                <span class="info-value">${molecular.cas_number || 'N/A'}</span>
+                            </div>
+                            <div class="info-item">
+                                <span class="info-label">UNII:</span>
+                                <span class="info-value">${molecular.unii || 'N/A'}</span>
+                            </div>
+                            <div class="info-item">
+                                <span class="info-label">Atoms:</span>
+                                <span class="info-value">${molecular.atom_count || 'N/A'}</span>
+                            </div>
+                            <div class="info-item">
+                                <span class="info-label">Bonds:</span>
+                                <span class="info-value">${molecular.bond_count || 'N/A'}</span>
+                            </div>
+                        </div>
+                    </div>
+                `;
+            }
+
+            html += '</div>';
+            return html;
+        }
+
+        // Load sample prescription on page load
+        window.onload = function() {
+            document.getElementById('prescription').value = 'Take Metformin 500mg twice daily with meals';
+        };
+    </script>
+</body>
+</html>

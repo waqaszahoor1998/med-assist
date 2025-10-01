@@ -1,0 +1,44 @@
+{
+  "query": "Methacholine",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD"
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "107372",
+              "name": "methacholine 25 MG/ML Ophthalmic Solution",
+              "synonym": "methacholine 2.5 % Ophthalmic Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "311573",
+              "name": "methacholine 0.0025 MG/MG / methyl salicylate 0.1 MG/MG Topical Ointment",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:32:38.220714",
+  "source": "RxNorm"
+}

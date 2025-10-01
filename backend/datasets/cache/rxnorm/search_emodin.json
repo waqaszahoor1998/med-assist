@@ -1,0 +1,10 @@
+{
+  "query": "Emodin",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:48:43.123714",
+  "source": "RxNorm"
+}

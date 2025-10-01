@@ -1,0 +1,55 @@
+{
+  "query": "Alfuzosin",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "861134",
+              "name": "24 HR alfuzosin hydrochloride 10 MG Extended Release Oral Tablet [UroXatral]",
+              "synonym": "24 HR UroXatral 10 MG Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1088455",
+              "name": "alfuzosin hydrochloride 2.5 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "861132",
+              "name": "24 HR alfuzosin hydrochloride 10 MG Extended Release Oral Tablet",
+              "synonym": "alfuzosin hydrochloride 10 MG 24 HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:09:26.064737",
+  "source": "RxNorm"
+}

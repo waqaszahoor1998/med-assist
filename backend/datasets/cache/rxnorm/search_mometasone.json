@@ -1,0 +1,451 @@
+{
+  "query": "Mometasone",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1148523",
+              "name": "mometasone furoate 0.37 MG Drug Implant [Propel]",
+              "synonym": "Propel 0.37 MG Drug Implant",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1246310",
+              "name": "120 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler [Dulera]",
+              "synonym": "Dulera 100/5 Metered Dose Inhaler, 120 ACTUAT",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1246313",
+              "name": "120 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler [Dulera]",
+              "synonym": "Dulera 200/5 Metered Dose Inhaler, 120 ACTUAT",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1536144",
+              "name": "120 ACTUAT mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler [Asmanex]",
+              "synonym": "Asmanex HFA 100 MCG Metered Dose Inhaler, 120 ACTUAT",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1536148",
+              "name": "120 ACTUAT mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler [Asmanex]",
+              "synonym": "Asmanex HFA 200 MCG Metered Dose Inhaler, 120 ACTUAT",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1606026",
+              "name": "clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML Otic Suspension [Motazol]",
+              "synonym": "MotaZol (clotrimazole 10 MG / gentamicin 3 MG / mometasone 1 MG) per GM Otic Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1660934",
+              "name": "60 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler [Dulera]",
+              "synonym": "Dulera 100/5 Metered Dose Inhaler, 60 ACTUAT",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1660938",
+              "name": "60 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler [Dulera]",
+              "synonym": "Dulera 200/5 Metered Dose Inhaler, 60 ACTUAT",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1666829",
+              "name": "clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML Otic Suspension [Mometamax]",
+              "synonym": "",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1797870",
+              "name": "mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Nasonex]",
+              "synonym": "Nasonex 50 MCG/ACTUAT Metered Dose Nasal Spray",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1995988",
+              "name": "mometasone furoate 1.35 MG Drug Implant [Sinuva]",
+              "synonym": "Sinuva 1.35 MG Drug Implant",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2105742",
+              "name": "mometasone furoate 1 MG/ML / orbifloxacin 10 MG/ML / posaconazole 1 MG/ML Otic Suspension [Posatex]",
+              "synonym": "Posatex 1 MG / 10 MG / 1 MG per 1 ML Otic Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2196592",
+              "name": "120 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.05 MG/ACTUAT Metered Dose Inhaler [Dulera]",
+              "synonym": "Dulera 50/5 Metered Dose Inhaler, 120 ACTUAT",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2196792",
+              "name": "120 ACTUAT mometasone furoate 0.05 MG/ACTUAT Metered Dose Inhaler [Asmanex]",
+              "synonym": "Asmanex HFA 50 MCG Metered Dose Inhaler, 120 ACTUAT",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2591812",
+              "name": "mometasone furoate 0.025 MG/ACTUAT / olopatadine hydrochloride 0.665 MG/ACTUAT Metered Dose Nasal Spray [Ryaltris]",
+              "synonym": "Ryaltris 665/25 MCG/ACTUAT Metered Dose Nasal Spray",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2612536",
+              "name": "florfenicol 16.6 MG/ML / mometasone furoate 2.2 MG/ML / terbinafine 14.8 MG/ML Otic Solution [Simplera]",
+              "synonym": "Simplera (florfenicol 16.6 MG / mometasone furoate 2.2 MG / terbinafine 14.8 MG (as terbinafine HCl 16.6 MG)) per 1 ML Otic Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2675489",
+              "name": "clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML Otic Suspension [Mometavet]",
+              "synonym": "Mometavet (gentamicin sulfate 3 MG / mometasone furoate monohydrate 1 MG / clotrimazole 10 MG) per GM Otic Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2713311",
+              "name": "gentamicin 8.6 MG/ML / mometasone furoate 2.1 MG/ML / posaconazole 2.6 MG/ML Otic Suspension [Mometamax Single]",
+              "synonym": "Mometamax Single 8.6 MG/ML / 2.6 MG/ML / 2.1 MG/ML Otic Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "746804",
+              "name": "120 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex]",
+              "synonym": "120 ACTUAT Asmanex 0.22 MG/ACTUAT Dry Powder Inhaler",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "746811",
+              "name": "14 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex]",
+              "synonym": "Asmanex 0.2 MG/ACTUAT Dry Powder Inhaler, 14 ACTUAT",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "746813",
+              "name": "30 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex]",
+              "synonym": "Asmanex 0.22 MG/ACTUAT Dry Powder Inhaler, 30 ACTUAT",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "746815",
+              "name": "60 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex]",
+              "synonym": "Asmanex 0.22 MG/ACTUAT Dry Powder Inhaler, 60 ACTUAT",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "790284",
+              "name": "30 ACTUAT mometasone furoate 0.11 MG/ACTUAT Dry Powder Inhaler [Asmanex]",
+              "synonym": "30 ACTUAT Asmanex 0.11 MG/ACTUAT Dry Powder Inhaler",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1148519",
+              "name": "mometasone furoate 0.37 MG Drug Implant",
+              "synonym": "mometasone furoate 370 MCG Drug Implant",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1246308",
+              "name": "120 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler",
+              "synonym": "formoterol fumarate 5 MCG / mometasone furoate 100 MCG per ACTUAT Metered Dose Inhaler, 120 ACTUAT",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1246311",
+              "name": "120 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler",
+              "synonym": "formoterol fumarate 5 MCG / mometasone furoate 200 MCG per ACTUAT Metered Dose Inhaler, 120 ACTUAT",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "151029",
+              "name": "mometasone furoate 0.001 MG/MG Topical Ointment",
+              "synonym": "mometasone furoate 0.1 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "151030",
+              "name": "mometasone furoate 1 MG/ML Topical Lotion",
+              "synonym": "mometasone furoate 0.1 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1536142",
+              "name": "120 ACTUAT mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler",
+              "synonym": "120 ACTUAT mometasone furoate 100 MCG/ACTUAT Metered Dose Inhaler",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1536147",
+              "name": "120 ACTUAT mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler",
+              "synonym": "120 ACTUAT mometasone furoate 200 MCG/ACTUAT Metered Dose Inhaler",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1606021",
+              "name": "clotrimazole 10 MG/ML / gentamicin 3 MG/ML / mometasone 1 MG/ML Otic Suspension",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1660933",
+              "name": "60 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler",
+              "synonym": "formoterol fumarate 5 MCG / mometasone furoate 100 MCG per ACTUAT Metered Dose Inhaler, 60 ACTUAT",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1660937",
+              "name": "60 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler",
+              "synonym": "formoterol fumarate 5 MCG / mometasone furoate 200 MCG per ACTUAT Metered Dose Inhaler, 60 ACTUAT",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1797865",
+              "name": "mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray",
+              "synonym": "mometasone furoate 50 MCG/ACTUAT Metered Dose Nasal Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1995983",
+              "name": "mometasone furoate 1.35 MG Drug Implant",
+              "synonym": "mometasone furoate 1350 MCG Drug Implant",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2105737",
+              "name": "mometasone furoate 1 MG/ML / orbifloxacin 10 MG/ML / posaconazole 1 MG/ML Otic Suspension",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2196590",
+              "name": "120 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.05 MG/ACTUAT Metered Dose Inhaler",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2196790",
+              "name": "120 ACTUAT mometasone furoate 0.05 MG/ACTUAT Metered Dose Inhaler",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2591806",
+              "name": "mometasone furoate 0.025 MG/ACTUAT / olopatadine hydrochloride 0.665 MG/ACTUAT Metered Dose Nasal Spray",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2612531",
+              "name": "florfenicol 16.6 MG/ML / mometasone furoate 2.2 MG/ML / terbinafine 14.8 MG/ML Otic Solution",
+              "synonym": "florfenicol 16.6 MG / mometasone furoate 2.2 MG / terbinafine 14.8 MG (as terbinafine HCl 16.6 MG) per 1 ML Otic Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2713305",
+              "name": "gentamicin 8.6 MG/ML / mometasone furoate 2.1 MG/ML / posaconazole 2.6 MG/ML Otic Suspension",
+              "synonym": "gentamicin (as gentamicin sulfate) 8.6 MG/ML / mometasone furoate (as mometasone furoate monohydrate) 2.1 MG/ML / posaconazole 2.6 MG/ML Otic Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "311753",
+              "name": "mometasone furoate 1 MG/ML Topical Cream",
+              "synonym": "mometasone furoate 0.1 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "746803",
+              "name": "120 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler",
+              "synonym": "mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler, 120 ACTUAT",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "746810",
+              "name": "14 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler",
+              "synonym": "mometasone furoate 220 MCG/ACTUAT Dry Powder Inhaler, 14 ACTUAT",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "746812",
+              "name": "30 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler",
+              "synonym": "mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler, 30 ACTUAT",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "746814",
+              "name": "60 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler",
+              "synonym": "mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler, 60 ACTUAT",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "790283",
+              "name": "30 ACTUAT mometasone furoate 0.11 MG/ACTUAT Dry Powder Inhaler",
+              "synonym": "mometasone furoate 0.11 MG/ACTUAT Dry Powder Inhaler, 30 ACTUAT",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:33:42.381878",
+  "source": "RxNorm"
+}

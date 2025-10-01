@@ -1,0 +1,10 @@
+{
+  "query": "N2-[(Benzyloxy)carbonyl]-N-[(3R)-1-{N-[(benzyloxy)carbonyl]-L-leucyl}-4-oxo-3-pyrrolidinyl]-L-leucinamide",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:40:41.820212",
+  "source": "RxNorm"
+}

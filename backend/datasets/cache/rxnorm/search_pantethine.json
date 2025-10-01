@@ -1,0 +1,64 @@
+{
+  "query": "Pantethine",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2001492",
+              "name": "niacin 500 MG / pantethine 200 MG Extended Release Oral Tablet [Endur-Thine]",
+              "synonym": "Endur-Thine 500 MG / 200 MG Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2001486",
+              "name": "niacin 500 MG / pantethine 200 MG Extended Release Oral Tablet",
+              "synonym": "vit-B3 500 MG / pantethine 200 MG Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "200375",
+              "name": "pantethine 500 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "665011",
+              "name": "pantethine 300 MG Extended Release Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:49:14.970618",
+  "source": "RxNorm"
+}

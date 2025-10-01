@@ -1,0 +1,35 @@
+{
+  "query": "Propanoic acid",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD"
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1250991",
+              "name": "propionic acid 0.02 MG/MG / undecylenic acid 0.05 MG/MG Topical Ointment",
+              "synonym": "propionic acid 2 % / undecylenic acid 5 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T04:14:11.960881",
+  "source": "RxNorm"
+}

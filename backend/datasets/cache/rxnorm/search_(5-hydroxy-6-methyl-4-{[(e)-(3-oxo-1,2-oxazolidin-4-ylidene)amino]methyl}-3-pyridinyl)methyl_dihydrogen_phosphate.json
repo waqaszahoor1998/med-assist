@@ -1,0 +1,10 @@
+{
+  "query": "(5-Hydroxy-6-methyl-4-{[(E)-(3-oxo-1,2-oxazolidin-4-ylidene)amino]methyl}-3-pyridinyl)methyl dihydrogen phosphate",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T04:26:40.958804",
+  "source": "RxNorm"
+}

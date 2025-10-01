@@ -1,0 +1,667 @@
+{
+  "query": "Testosterone",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1190955",
+              "name": "24 HR testosterone 0.0833 MG/HR Transdermal System [Androderm]",
+              "synonym": "ANDRODERM 2 MG/Day 24HR Transdermal System",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190957",
+              "name": "24 HR testosterone 0.167 MG/HR Transdermal System [Androderm]",
+              "synonym": "ANDRODERM 4 MG/Day 24HR Transdermal System",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1490667",
+              "name": "3 ML testosterone undecanoate 250 MG/ML Injection [Aveed]",
+              "synonym": "3 ML Aveed 250 MG/ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1596782",
+              "name": "60 ACTUAT testosterone 5.5 MG/ACTUAT Nasal Gel [Natesto]",
+              "synonym": "Natesto 5.5 MG/ACTUAT Nasal Gel, 60 ACTUAT",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1596783",
+              "name": "120 ACTUAT testosterone 10 MG/ACTUAT Topical Gel [Fortesta]",
+              "synonym": "Fortesta 10 MG/ACTUAT Transdermal Gel Pump, 120 ACTUAT",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1596785",
+              "name": "60 ACTUAT testosterone 12.5 MG/ACTUAT Topical Gel [Vogelxo]",
+              "synonym": "Vogelxo 12.5 MG/ACTUAT Transdermal Gel Pump, 60 ACTUAT",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1597074",
+              "name": "60 ACTUAT testosterone 12.5 MG/ACTUAT Topical Gel [Androgel]",
+              "synonym": "AndroGel 1 % (12.5 MG/ACTUAT) Transdermal Gel Pump, 60 ACTUAT",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1597075",
+              "name": "60 ACTUAT testosterone 20.25 MG/ACTUAT Topical Gel [Androgel]",
+              "synonym": "AndroGel 1.62 % (20.25 MG/ACTUAT) Transdermal Gel Pump, 60 ACTUAT",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1597121",
+              "name": "1250 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",
+              "synonym": "Androgel 1.62 % Transdermal Gel, 1.25 GM",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1597124",
+              "name": "2500 MG testosterone 0.01 MG/MG Topical Gel [Androgel]",
+              "synonym": "Androgel 1 % Transdermal Gel, 2.5 GM",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1597127",
+              "name": "2500 MG testosterone 0.0162 MG/MG Topical Gel [Androgel]",
+              "synonym": "Androgel 1.62 % Transdermal Gel, 2.5 GM",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1597130",
+              "name": "5000 MG testosterone 0.01 MG/MG Topical Gel [Androgel]",
+              "synonym": "Androgel 1 % Transdermal Gel, 5 GM",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1597132",
+              "name": "5000 MG testosterone 0.01 MG/MG Topical Gel [Testim]",
+              "synonym": "5000 MG Testim 0.01 MG/MG Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1597134",
+              "name": "5000 MG testosterone 0.01 MG/MG Topical Gel [Vogelxo]",
+              "synonym": "Vogelxo 50 MG Transdermal Gel, 5 GM",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1599948",
+              "name": "60 ACTUAT testosterone 30 MG/ACTUAT Topical Solution [Axiron]",
+              "synonym": "Axiron 20 MG/ML Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2099686",
+              "name": "0.5 ML testosterone enanthate 200 MG/ML Auto-Injector [Xyosted]",
+              "synonym": "0.5 ML Xyosted 200 MG/ML Auto-Injector",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2099691",
+              "name": "0.5 ML testosterone enanthate 100 MG/ML Auto-Injector [Xyosted]",
+              "synonym": "0.5 ML Xyosted 100 MG/ML Auto-Injector",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2099697",
+              "name": "0.5 ML testosterone enanthate 150 MG/ML Auto-Injector [Xyosted]",
+              "synonym": "0.5 ML Xyosted 150 MG/ML Auto-Injector",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2121776",
+              "name": "testosterone undecanoate 237 MG Oral Capsule [Jatenzo]",
+              "synonym": "Jatenzo 237 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2201640",
+              "name": "testosterone undecanoate 158 MG Oral Capsule [Jatenzo]",
+              "synonym": "Jatenzo 158 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2201642",
+              "name": "testosterone undecanoate 198 MG Oral Capsule [Jatenzo]",
+              "synonym": "Jatenzo 198 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2599060",
+              "name": "testosterone undecanoate 112.5 MG Oral Capsule [Tlando]",
+              "synonym": "Tlando 112.5 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2609603",
+              "name": "testosterone undecanoate 100 MG Oral Capsule [Kyzatrex]",
+              "synonym": "Kyzatrex 100 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2609607",
+              "name": "testosterone undecanoate 150 MG Oral Capsule [Kyzatrex]",
+              "synonym": "Kyzatrex 150 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2609611",
+              "name": "testosterone undecanoate 200 MG Oral Capsule [Kyzatrex]",
+              "synonym": "Kyzatrex 200 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2612080",
+              "name": "estradiol 3-benzoate 20 MG / testosterone propionate 200 MG Drug Implant [Synovex H]",
+              "synonym": "Synovex H 200 MG / 20 MG Drug Implant",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2693252",
+              "name": "testosterone undecanoate 200 MG Oral Capsule [Undecatrex]",
+              "synonym": "Undecatrex 200 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2694316",
+              "name": "1 ML testosterone cypionate 200 MG/ML Prefilled Syringe [Azmiro]",
+              "synonym": "Azmiro 200 MG per 1 ML Prefilled Syringe",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2694320",
+              "name": "1 ML testosterone cypionate 200 MG/ML Injection [Azmiro]",
+              "synonym": "Azmiro 200 MG per 1 ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "404405",
+              "name": "testosterone 75 MG Drug Implant [Testopel]",
+              "synonym": "Testopel 75 MG Drug Implant",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "835831",
+              "name": "testosterone cypionate 100 MG/ML Injectable Solution [Depo-testosterone]",
+              "synonym": "Depo-testosterone 100 MG/ML Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "835842",
+              "name": "testosterone cypionate 200 MG/ML Injectable Solution [Depo-testosterone]",
+              "synonym": "Depo-testosterone 200 MG/ML Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1010040",
+              "name": "testosterone propionate 50 MG/ML Injectable Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1010624",
+              "name": "testosterone enanthate 250 MG/ML Injectable Solution",
+              "synonym": "testosterone enanthate 25 % Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1190953",
+              "name": "24 HR testosterone 0.0833 MG/HR Transdermal System",
+              "synonym": "testosterone 2 MG per 24 HR Transdermal Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1490661",
+              "name": "3 ML testosterone undecanoate 250 MG/ML Injection",
+              "synonym": "testosterone undecanoate 750 MG per 3 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1596780",
+              "name": "60 ACTUAT testosterone 12.5 MG/ACTUAT Topical Gel",
+              "synonym": "testosterone 12.5 MG/ACTUAT Transdermal Gel Pump, 60 ACTUAT",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1596781",
+              "name": "120 ACTUAT testosterone 10 MG/ACTUAT Topical Gel",
+              "synonym": "testosterone 10 MG/ACTUAT Transdermal Gel Pump, 120 ACTUAT",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1596784",
+              "name": "60 ACTUAT testosterone 5.5 MG/ACTUAT Nasal Gel",
+              "synonym": "testosterone 5.5 MG/ACTUAT Nasal Gel, 60 ACTUAT",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1597076",
+              "name": "60 ACTUAT testosterone 20.25 MG/ACTUAT Topical Gel",
+              "synonym": "testosterone 1.62 % (20.25 MG/ACTUAT) Transdermal Gel Pump, 60 ACTUAT",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1597120",
+              "name": "1250 MG testosterone 0.0162 MG/MG Topical Gel",
+              "synonym": "testosterone 1.62 % Transdermal Gel, 1.25 GM",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1597123",
+              "name": "2500 MG testosterone 0.01 MG/MG Topical Gel",
+              "synonym": "testosterone 1 % Transdermal Gel, 2.5 GM",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1597126",
+              "name": "2500 MG testosterone 0.0162 MG/MG Topical Gel",
+              "synonym": "testosterone 1.62 % Transdermal Gel, 2.5 GM",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1597129",
+              "name": "5000 MG testosterone 0.01 MG/MG Topical Gel",
+              "synonym": "testosterone 50 MG Transdermal Gel, 5 GM",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1599949",
+              "name": "60 ACTUAT testosterone 30 MG/ACTUAT Topical Solution",
+              "synonym": "60 ACTUAT testosterone 30 MG/1.5 ML ACTUAT Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "199116",
+              "name": "24 HR testosterone 0.104 MG/HR Transdermal System",
+              "synonym": "testosterone 2.5 MG/Day 24 HR Transdermal Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "199591",
+              "name": "testosterone 40 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2047882",
+              "name": "1 ML testosterone cypionate 200 MG/ML Injection",
+              "synonym": "testosterone cypionate 200 MG per 1 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2099681",
+              "name": "0.5 ML testosterone enanthate 200 MG/ML Auto-Injector",
+              "synonym": "testosterone enanthate 100 MG per 0.5 ML Auto-Injector",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2099689",
+              "name": "0.5 ML testosterone enanthate 100 MG/ML Auto-Injector",
+              "synonym": "testosterone enanthate 50 MG per 0.5 ML Auto-Injector",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2099695",
+              "name": "0.5 ML testosterone enanthate 150 MG/ML Auto-Injector",
+              "synonym": "testosterone enanthate 75 MG per 0.5 ML Auto-Injector",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2121766",
+              "name": "testosterone undecanoate 158 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2121768",
+              "name": "testosterone undecanoate 198 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2121770",
+              "name": "testosterone undecanoate 237 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "250244",
+              "name": "testosterone 200 MG Drug Implant",
+              "synonym": "testosterone 200 MG Implant Pellet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "250714",
+              "name": "testosterone 100 MG Drug Implant",
+              "synonym": "testosterone 100 MG Implant Pellet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2599054",
+              "name": "testosterone undecanoate 112.5 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2609597",
+              "name": "testosterone undecanoate 100 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2609605",
+              "name": "testosterone undecanoate 150 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2609609",
+              "name": "testosterone undecanoate 200 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2612075",
+              "name": "estradiol 3-benzoate 20 MG / testosterone propionate 200 MG Drug Implant",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2694309",
+              "name": "1 ML testosterone cypionate 200 MG/ML Prefilled Syringe",
+              "synonym": "testosterone cypionate 200 MG per 1 ML Prefilled Syringe",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "313233",
+              "name": "24 HR testosterone 0.167 MG/HR Transdermal System",
+              "synonym": "testosterone 4 MG per 24 HR Transdermal Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "313234",
+              "name": "24 HR testosterone 0.208 MG/HR Transdermal System",
+              "synonym": "testosterone 5 MG/Day 24 HR Transdermal Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "313235",
+              "name": "24 HR testosterone 0.25 MG/HR Transdermal System",
+              "synonym": "testosterone 6 MG/Day 24 HR Transdermal Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "318240",
+              "name": "testosterone 75 MG Drug Implant",
+              "synonym": "testosterone 75 MG Implant Pellet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "346968",
+              "name": "testosterone 50 MG/ML Injectable Suspension",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "835809",
+              "name": "testosterone enanthate 200 MG/ML Injectable Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "835829",
+              "name": "testosterone cypionate 100 MG/ML Injectable Solution",
+              "synonym": "testosterone cypionate 1000 MG per 10 ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "835840",
+              "name": "testosterone cypionate 200 MG/ML Injectable Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "858106",
+              "name": "testosterone 30 MG Buccal Film",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:25:21.831702",
+  "source": "RxNorm"
+}

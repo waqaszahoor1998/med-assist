@@ -1,0 +1,10 @@
+{
+  "query": "(2S)-2-cyano-1-(4-phenyl-L-phenylalanyl)pyrrolidine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:52:26.512580",
+  "source": "RxNorm"
+}

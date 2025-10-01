@@ -1,0 +1,10 @@
+{
+  "query": "Biricodar",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:43:55.739643",
+  "source": "RxNorm"
+}

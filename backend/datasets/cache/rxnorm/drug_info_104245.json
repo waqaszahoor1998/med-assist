@@ -1,0 +1,16 @@
+{
+  "rxcui": "104245",
+  "properties": {
+    "properties": {
+      "rxcui": "104245",
+      "name": "benzthiazide 25 MG / triamterene 50 MG Oral Capsule",
+      "synonym": "",
+      "tty": "SCD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T21:20:20.804365",
+  "source": "RxNorm"
+}

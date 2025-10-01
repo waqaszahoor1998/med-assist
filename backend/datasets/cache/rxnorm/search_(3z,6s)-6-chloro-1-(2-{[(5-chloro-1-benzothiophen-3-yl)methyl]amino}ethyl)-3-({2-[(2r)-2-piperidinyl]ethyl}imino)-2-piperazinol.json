@@ -1,0 +1,10 @@
+{
+  "query": "(3Z,6S)-6-Chloro-1-(2-{[(5-chloro-1-benzothiophen-3-yl)methyl]amino}ethyl)-3-({2-[(2R)-2-piperidinyl]ethyl}imino)-2-piperazinol",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:46:25.659189",
+  "source": "RxNorm"
+}

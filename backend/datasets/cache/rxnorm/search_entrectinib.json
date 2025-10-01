@@ -1,0 +1,82 @@
+{
+  "query": "Entrectinib",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2197873",
+              "name": "entrectinib 100 MG Oral Capsule [Rozlytrek]",
+              "synonym": "Rozlytrek 100 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2197877",
+              "name": "entrectinib 200 MG Oral Capsule [Rozlytrek]",
+              "synonym": "Rozlytrek 200 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2668599",
+              "name": "entrectinib 50 MG Oral Pellet [Rozlytrek]",
+              "synonym": "Rozlytrek 50 MG Oral Pellet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2197867",
+              "name": "entrectinib 100 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2197875",
+              "name": "entrectinib 200 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2668595",
+              "name": "entrectinib 50 MG Oral Pellet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:31:50.921252",
+  "source": "RxNorm"
+}

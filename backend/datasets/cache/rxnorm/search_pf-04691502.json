@@ -1,0 +1,10 @@
+{
+  "query": "PF-04691502",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:31:11.045872",
+  "source": "RxNorm"
+}

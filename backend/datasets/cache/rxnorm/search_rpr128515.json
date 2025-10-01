@@ -1,0 +1,10 @@
+{
+  "query": "RPR128515",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:24:08.587330",
+  "source": "RxNorm"
+}

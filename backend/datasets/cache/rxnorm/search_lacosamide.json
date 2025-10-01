@@ -1,0 +1,212 @@
+{
+  "query": "Lacosamide",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "881272",
+              "name": "{14 (lacosamide 100 MG Oral Tablet [Vimpat]) / 14 (lacosamide 50 MG Oral Tablet [Vimpat]) } Pack [Vimpat 2 Week Starter Kit]",
+              "synonym": "Vimpat 2 Week Starter Kit",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "881271",
+              "name": "{14 (lacosamide 100 MG Oral Tablet) / 14 (lacosamide 50 MG Oral Tablet) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2637025",
+              "name": "24 HR lacosamide 100 MG Extended Release Oral Capsule [Motpoly]",
+              "synonym": "24 HR Motpoly 100 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2637030",
+              "name": "24 HR lacosamide 150 MG Extended Release Oral Capsule [Motpoly]",
+              "synonym": "24 HR Motpoly 150 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2637035",
+              "name": "24 HR lacosamide 200 MG Extended Release Oral Capsule [Motpoly]",
+              "synonym": "24 HR Motpoly 200 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "809984",
+              "name": "20 ML lacosamide 10 MG/ML Injection [Vimpat]",
+              "synonym": "20 ML Vimpat 10 MG/ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "809990",
+              "name": "lacosamide 100 MG Oral Tablet [Vimpat]",
+              "synonym": "Vimpat 100 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "809994",
+              "name": "lacosamide 150 MG Oral Tablet [Vimpat]",
+              "synonym": "Vimpat 150 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "809998",
+              "name": "lacosamide 200 MG Oral Tablet [Vimpat]",
+              "synonym": "Vimpat 200 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "810002",
+              "name": "lacosamide 50 MG Oral Tablet [Vimpat]",
+              "synonym": "Vimpat 50 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "995156",
+              "name": "lacosamide 10 MG/ML Oral Solution [Vimpat]",
+              "synonym": "Vimpat 10 MG/ML Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2637018",
+              "name": "24 HR lacosamide 100 MG Extended Release Oral Capsule",
+              "synonym": "lacosamide 100 MG 24HR Extended Release Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2637027",
+              "name": "24 HR lacosamide 150 MG Extended Release Oral Capsule",
+              "synonym": "lacosamide 150 MG 24HR Extended Release Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2637032",
+              "name": "24 HR lacosamide 200 MG Extended Release Oral Capsule",
+              "synonym": "lacosamide 200 MG 24HR Extended Release Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "809974",
+              "name": "20 ML lacosamide 10 MG/ML Injection",
+              "synonym": "lacosamide 200 MG per 20 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "809987",
+              "name": "lacosamide 100 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "809992",
+              "name": "lacosamide 150 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "809996",
+              "name": "lacosamide 200 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "810000",
+              "name": "lacosamide 50 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "993856",
+              "name": "lacosamide 10 MG/ML Oral Solution",
+              "synonym": "lacosamide 10 MG per 1 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:14:38.047691",
+  "source": "RxNorm"
+}

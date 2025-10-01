@@ -1,0 +1,10 @@
+{
+  "query": "Adipiplon",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:25:41.724409",
+  "source": "RxNorm"
+}

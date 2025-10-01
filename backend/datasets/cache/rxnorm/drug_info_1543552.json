@@ -1,0 +1,16 @@
+{
+  "rxcui": "1543552",
+  "properties": {
+    "properties": {
+      "rxcui": "1543552",
+      "name": "belinostat 500 MG Injection [Beleodaq]",
+      "synonym": "Beleodaq 500 MG Injection",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T15:50:53.134070",
+  "source": "RxNorm"
+}

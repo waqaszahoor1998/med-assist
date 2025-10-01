@@ -1,0 +1,10 @@
+{
+  "query": "(R)-Propylene glycol",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:45:20.272069",
+  "source": "RxNorm"
+}

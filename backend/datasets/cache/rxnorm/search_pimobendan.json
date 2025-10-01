@@ -1,0 +1,118 @@
+{
+  "query": "Pimobendan",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1110790",
+              "name": "pimobendan 1.25 MG Chewable Tablet [Vetmedin]",
+              "synonym": "Vetmedin 1.25 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1110794",
+              "name": "pimobendan 5 MG Chewable Tablet [Vetmedin]",
+              "synonym": "Vetmedin 5 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1495442",
+              "name": "pimobendan 10 MG Chewable Tablet [Vetmedin]",
+              "synonym": "Vetmedin 10 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1495446",
+              "name": "pimobendan 2.5 MG Chewable Tablet [Vetmedin]",
+              "synonym": "Vetmedin 2.5 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2697722",
+              "name": "pimobendan 1.5 MG/ML Oral Solution [Vetmedin]",
+              "synonym": "Vetmedin 1.5 MG/ML Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1110786",
+              "name": "pimobendan 1.25 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1110792",
+              "name": "pimobendan 5 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1495440",
+              "name": "pimobendan 10 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1495444",
+              "name": "pimobendan 2.5 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2697718",
+              "name": "pimobendan 1.5 MG/ML Oral Solution",
+              "synonym": "pimobendan 1.5 MG per 1 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:01:15.086727",
+  "source": "RxNorm"
+}

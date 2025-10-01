@@ -1,0 +1,10 @@
+{
+  "query": "S-[(1-Hydroxy-2,2,5,5-tetramethyl-2,5-dihydro-1H-pyrrol-3-yl)methyl] methanesulfonothioate",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:53:43.444780",
+  "source": "RxNorm"
+}

@@ -1,0 +1,16 @@
+{
+  "rxcui": "1040048",
+  "properties": {
+    "properties": {
+      "rxcui": "1040048",
+      "name": "aluminum hydroxide 40 MG/ML / magnesium hydroxide 40 MG/ML / simethicone 4 MG/ML Oral Suspension [Milantex]",
+      "synonym": "Milantex (aluminum hydroxide 200 MG / milk of magnesia 200 MG / simethicone 20 MG) per 5 ML Oral Suspension",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T16:33:32.463459",
+  "source": "RxNorm"
+}

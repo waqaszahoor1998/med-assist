@@ -1,0 +1,16 @@
+{
+  "rxcui": "1045460",
+  "properties": {
+    "properties": {
+      "rxcui": "1045460",
+      "name": "2 ML eribulin mesylate 0.5 MG/ML Injection [Halaven]",
+      "synonym": "Halaven 1 MG per 2 ML Injection",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T17:03:21.464829",
+  "source": "RxNorm"
+}

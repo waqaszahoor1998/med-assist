@@ -1,0 +1,10 @@
+{
+  "query": "(4aS,6R,8aS)-11-[8-(1,3-Dioxo-1,3-dihydro-2H-isoindol-2-yl)octyl]-6-hydroxy-3-methoxy-5,6,9,10-tetrahydro-4aH-[1]benzofuro[3a,3,2-ef][2]benzazepin-11-ium",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:06:55.809059",
+  "source": "RxNorm"
+}

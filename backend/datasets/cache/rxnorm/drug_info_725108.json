@@ -1,0 +1,16 @@
+{
+  "rxcui": "725108",
+  "properties": {
+    "properties": {
+      "rxcui": "725108",
+      "name": "1.2 ML temsirolimus 25 MG/ML Injection [Torisel]",
+      "synonym": "Torisel 25 MG/ML per 1.2 ML Injection",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T16:17:17.139752",
+  "source": "RxNorm"
+}

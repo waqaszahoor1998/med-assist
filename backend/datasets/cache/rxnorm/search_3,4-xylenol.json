@@ -1,0 +1,10 @@
+{
+  "query": "3,4-Xylenol",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T05:29:09.800535",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "JNJ-39220675",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:24:15.356097",
+  "source": "RxNorm"
+}

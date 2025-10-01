@@ -1,0 +1,16 @@
+{
+  "rxcui": "1293739",
+  "properties": {
+    "properties": {
+      "rxcui": "1293739",
+      "name": "chromic chloride 0.0205 MG/ML / copper sulfate 1.57 MG/ML / manganese sulfate 0.308 MG/ML / selenious acid 0.0327 MG/ML / zinc sulfate 4.39 MG/ML Injectable Solution [Multitrace-5]",
+      "synonym": "chromic chloride 0.0205 MG/ML / Copper Sulfate 1.57 MG/ML / manganese sulfate 0.308 MG/ML / Selenious Acid 0.0327 MG/ML / ZnSO4 4.39 MG/ML Injectable Solution [Multitrace-5]",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T17:45:49.966164",
+  "source": "RxNorm"
+}

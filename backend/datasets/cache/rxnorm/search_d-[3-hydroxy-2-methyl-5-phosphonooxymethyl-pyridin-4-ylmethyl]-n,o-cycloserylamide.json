@@ -1,0 +1,10 @@
+{
+  "query": "D-[3-hydroxy-2-methyl-5-phosphonooxymethyl-pyridin-4-ylmethyl]-N,O-cycloserylamide",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:40:37.644093",
+  "source": "RxNorm"
+}

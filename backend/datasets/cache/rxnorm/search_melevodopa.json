@@ -1,0 +1,10 @@
+{
+  "query": "Melevodopa",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T22:40:33.010454",
+  "source": "RxNorm"
+}

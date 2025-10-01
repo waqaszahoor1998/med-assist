@@ -1,0 +1,10 @@
+{
+  "query": "beta-D-fructofuranose 1,6-bisphosphate",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:30:51.416485",
+  "source": "RxNorm"
+}

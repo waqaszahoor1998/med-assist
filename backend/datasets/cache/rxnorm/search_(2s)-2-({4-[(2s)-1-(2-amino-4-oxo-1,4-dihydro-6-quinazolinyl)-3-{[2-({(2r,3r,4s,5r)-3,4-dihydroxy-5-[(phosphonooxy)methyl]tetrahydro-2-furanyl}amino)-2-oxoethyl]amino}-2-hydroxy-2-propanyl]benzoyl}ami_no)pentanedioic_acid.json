@@ -1,0 +1,10 @@
+{
+  "query": "(2S)-2-({4-[(2S)-1-(2-Amino-4-oxo-1,4-dihydro-6-quinazolinyl)-3-{[2-({(2R,3R,4S,5R)-3,4-dihydroxy-5-[(phosphonooxy)methyl]tetrahydro-2-furanyl}amino)-2-oxoethyl]amino}-2-hydroxy-2-propanyl]benzoyl}ami no)pentanedioic acid",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:12:14.500376",
+  "source": "RxNorm"
+}

@@ -1,0 +1,64 @@
+{
+  "query": "Pralatrexate",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1796421",
+              "name": "1 ML pralatrexate 20 MG/ML Injection [Folotyn]",
+              "synonym": "1 ML Folotyn 20 MG/ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1796425",
+              "name": "2 ML pralatrexate 20 MG/ML Injection [Folotyn]",
+              "synonym": "2 ML Folotyn 20 MG/ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1796419",
+              "name": "1 ML pralatrexate 20 MG/ML Injection",
+              "synonym": "pralatrexate 20 MG per 1 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1796424",
+              "name": "2 ML pralatrexate 20 MG/ML Injection",
+              "synonym": "pralatrexate 40 MG per 2 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:39:46.804322",
+  "source": "RxNorm"
+}

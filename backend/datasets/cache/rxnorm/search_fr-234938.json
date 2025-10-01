@@ -1,0 +1,10 @@
+{
+  "query": "FR-234938",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:31:50.639872",
+  "source": "RxNorm"
+}

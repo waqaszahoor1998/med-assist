@@ -1,0 +1,23 @@
+{
+  "drug_name": "Fenbendazole",
+  "generic_name": [
+    "FENBENDAZOLE 222 MG"
+  ],
+  "brand_names": [
+    "Fenbendazole 222 MG"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    "These statements have not been evaluated by the Food and DrugAdministration. This product is not intended to diagnose, treat, cure, or prevent any diseases."
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    "2 capsules per day"
+  ],
+  "indications": [
+    "Dewormer"
+  ],
+  "fetched_at": "2025-10-01T17:58:19.721807",
+  "source": "OpenFDA"
+}

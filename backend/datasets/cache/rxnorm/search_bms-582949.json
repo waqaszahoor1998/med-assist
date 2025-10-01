@@ -1,0 +1,10 @@
+{
+  "query": "BMS-582949",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:12:55.797097",
+  "source": "RxNorm"
+}

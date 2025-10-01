@@ -1,0 +1,10 @@
+{
+  "query": "10-(4-Dimethylamino-5-Hydroxy-6-Methyl-Tetrahydro-Pyran-2-Yloxy)-8-Ethyl-1,8,11-Trihydroxy-7,8,9,10-Tetrahydro-Naphthacene-5,12-Dione",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T06:30:24.273519",
+  "source": "RxNorm"
+}

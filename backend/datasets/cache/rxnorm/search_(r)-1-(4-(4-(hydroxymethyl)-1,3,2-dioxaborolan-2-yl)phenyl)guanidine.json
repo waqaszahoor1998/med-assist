@@ -1,0 +1,10 @@
+{
+  "query": "(R)-1-(4-(4-(Hydroxymethyl)-1,3,2-dioxaborolan-2-YL)phenyl)guanidine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:42:55.327171",
+  "source": "RxNorm"
+}

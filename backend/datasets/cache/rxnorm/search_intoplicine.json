@@ -1,0 +1,10 @@
+{
+  "query": "Intoplicine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:21:02.483666",
+  "source": "RxNorm"
+}

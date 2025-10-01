@@ -1,0 +1,10 @@
+{
+  "query": "5-methylbenzimidazole",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:29:46.360117",
+  "source": "RxNorm"
+}

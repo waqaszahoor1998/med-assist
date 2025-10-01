@@ -1,0 +1,140 @@
+{
+  "query": "Ferrous bisglycinate",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1102207",
+              "name": "{6 (ascorbic acid 100 MG / biotin 0.3 MG / calcium carbonate 100 MG / calcium pantothenate 7 MG / folic acid 1 MG / niacin 25 MG / pyridoxine hydrochloride 30 MG / riboflavin 5 MG / succinic acid 150 MG / thiamine hydrochloride 5 MG / vitamin B12 0.01 MG Oral Tablet) / 24 (ascorbic acid 100 MG / biotin 0.3 MG / calcium pantothenate 0.3 MG / ferrous bisglycinate 65 MG / folic acid 1 MG / formic acid 155 MG / iron-dextran complex 65 MG / niacin 25 MG / pyridoxine hydrochloride 30 MG / riboflavin 5 MG / thiamine hydrochloride 5 MG / vitamin B12 0.01 MG Oral Tablet [Irospan Tablet]) } Pack [Irospan 24/6 Kit]",
+              "synonym": "Irospan 24/6 Kit",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1999026",
+              "name": "{21 (ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet) / 7 (ferrous bisglycinate 36.5 MG Oral Tablet) } Pack [Balcoltra 28 Day]",
+              "synonym": "Balcoltra 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2699611",
+              "name": "{21 (ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet) / 7 (ferrous bisglycinate 36.5 MG Oral Tablet) } Pack [Minzoya 28 Day]",
+              "synonym": "Minzoya 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2716397",
+              "name": "{21 (desogestrel 0.15 MG / ethinyl estradiol 0.03 MG Oral Tablet) / 7 (ferrous bisglycinate 36.5 MG Oral Tablet) } Pack [Averi 28 Day]",
+              "synonym": "Averi 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1102202",
+              "name": "{6 (ascorbic acid 100 MG / biotin 0.3 MG / calcium carbonate 100 MG / calcium pantothenate 7 MG / folic acid 1 MG / niacin 25 MG / pyridoxine hydrochloride 30 MG / riboflavin 5 MG / succinic acid 150 MG / thiamine hydrochloride 5 MG / vitamin B12 0.01 MG Oral Tablet) / 24 (ascorbic acid 100 MG / biotin 0.3 MG / calcium pantothenate 0.3 MG / ferrous bisglycinate 65 MG / folic acid 1 MG / formic acid 155 MG / iron-dextran complex 65 MG / niacin 25 MG / pyridoxine hydrochloride 30 MG / riboflavin 5 MG / thiamine hydrochloride 5 MG / vitamin B12 0.01 MG Oral Tablet) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2672923",
+              "name": "{21 (ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet) / 7 (ferrous bisglycinate 36.5 MG Oral Tablet) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2716396",
+              "name": "{21 (desogestrel 0.15 MG / ethinyl estradiol 0.03 MG Oral Tablet) / 7 (ferrous bisglycinate 36.5 MG Oral Tablet) } Pack",
+              "synonym": "{21 (desogestrel 0.15 MG / ethinyl estradiol 0.03 MG Oral Tablet) / 7 (ferrous bisglycinate 36.5 MG Oral Tablet) } 28 Day Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1102206",
+              "name": "ascorbic acid 100 MG / biotin 0.3 MG / calcium pantothenate 0.3 MG / ferrous bisglycinate 65 MG / folic acid 1 MG / formic acid 155 MG / iron-dextran complex 65 MG / niacin 25 MG / pyridoxine hydrochloride 30 MG / riboflavin 5 MG / thiamine hydrochloride 5 MG / vitamin B12 0.01 MG Oral Tablet [Irospan Tablet]",
+              "synonym": "vit-C 100 MG / biotin 0.3 MG / calcium pantothenate 0.3 MG / ferrous bisglycinate 65 MG / folate 1 MG / formic acid 155 MG / iron-dextran complex 65 MG / vit-B3 25 MG / vit-B6 hydrochloride 30 MG / riboflavin 5 MG / vit-B1 hydrochloride 5 MG / vitamin B12 0.01 MG Oral Tablet [Irospan Tablet]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1102196",
+              "name": "ascorbic acid 100 MG / biotin 0.3 MG / calcium pantothenate 0.3 MG / ferrous bisglycinate 65 MG / folic acid 1 MG / formic acid 155 MG / iron-dextran complex 65 MG / niacin 25 MG / pyridoxine hydrochloride 30 MG / riboflavin 5 MG / thiamine hydrochloride 5 MG / vitamin B12 0.01 MG Oral Tablet",
+              "synonym": "vit-C 100 MG / biotin 0.3 MG / calcium pantothenate 0.3 MG / ferrous bisglycinate 65 MG / folate 1 MG / formic acid 155 MG / iron-dextran complex 65 MG / vit-B3 25 MG / vit-B6 hydrochloride 30 MG / riboflavin 5 MG / vit-B1 hydrochloride 5 MG / vitamin B12 0.01 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1442183",
+              "name": "ferrous bisglycinate 90 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2672922",
+              "name": "ferrous bisglycinate 36.5 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "835524",
+              "name": "ascorbic acid 50 MG / ferrous bisglycinate 80 MG / polysaccharide iron complex 70 MG Oral Capsule",
+              "synonym": "vit-C 50 MG / ferrous bisglycinate 80 MG / Polysaccharide iron complex 70 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:50:11.856009",
+  "source": "RxNorm"
+}

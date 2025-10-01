@@ -1,0 +1,163 @@
+{
+  "query": "Candesartan cilexetil",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "577785",
+              "name": "candesartan cilexetil 4 MG Oral Tablet [Atacand]",
+              "synonym": "Atacand 4 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "577787",
+              "name": "candesartan cilexetil 8 MG Oral Tablet [Atacand]",
+              "synonym": "Atacand 8 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "639539",
+              "name": "candesartan cilexetil 16 MG Oral Tablet [Atacand]",
+              "synonym": "Atacand 16 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "639543",
+              "name": "candesartan cilexetil 32 MG Oral Tablet [Atacand]",
+              "synonym": "Atacand 32 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "805855",
+              "name": "candesartan cilexetil 32 MG / hydrochlorothiazide 25 MG Oral Tablet [Atacand HCT]",
+              "synonym": "Atacand HCT 32/25 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "805859",
+              "name": "candesartan cilexetil 32 MG / hydrochlorothiazide 12.5 MG Oral Tablet [Atacand HCT]",
+              "synonym": "Atacand HCT 32/12.5 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "805863",
+              "name": "candesartan cilexetil 16 MG / hydrochlorothiazide 12.5 MG Oral Tablet [Atacand HCT]",
+              "synonym": "Atacand HCT 16/12.5 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "153822",
+              "name": "candesartan cilexetil 4 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "153823",
+              "name": "candesartan cilexetil 8 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "577776",
+              "name": "candesartan cilexetil 16 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "578325",
+              "name": "candesartan cilexetil 16 MG / hydrochlorothiazide 12.5 MG Oral Tablet",
+              "synonym": "candesartan cilexetil 16 MG / HCTZ 12.5 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "578330",
+              "name": "candesartan cilexetil 32 MG / hydrochlorothiazide 12.5 MG Oral Tablet",
+              "synonym": "candesartan cilexetil 32 MG / HCTZ 12.5 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "639536",
+              "name": "candesartan cilexetil 2 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "639537",
+              "name": "candesartan cilexetil 32 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "802749",
+              "name": "candesartan cilexetil 32 MG / hydrochlorothiazide 25 MG Oral Tablet",
+              "synonym": "candesartan cilexetil 32 MG / HCTZ 25 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:35:18.269472",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "2,2-Dichloro-1-methanesulfinyl-3-methyl-cyclopropanecarboxylic acid [1-(4-bromo-phenyl)-ethyl]-amide",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:25:54.168346",
+  "source": "RxNorm"
+}

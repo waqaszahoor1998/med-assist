@@ -1,0 +1,46 @@
+{
+  "query": "Latanoprostene bunod",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1988399",
+              "name": "latanoprostene bunod 0.24 MG/ML Ophthalmic Solution [Vyzulta]",
+              "synonym": "Vyzulta 0.024 % Ophthalmic Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1988394",
+              "name": "latanoprostene bunod 0.24 MG/ML Ophthalmic Solution",
+              "synonym": "latanoprostene bunod 0.024 % Ophthalmic Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:12:25.301458",
+  "source": "RxNorm"
+}

@@ -1,0 +1,757 @@
+{
+  "query": "Chloroxylenol",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1039003",
+              "name": "chloroxylenol 5 MG/ML Medicated Liquid Soap [QSR Antibacterial]",
+              "synonym": "QSR Antibacterial 0.5 % Medicated Liquid Soap",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1039201",
+              "name": "chloroxylenol 10 MG/ML Medicated Liquid Soap [Digiclean E Foam]",
+              "synonym": "Digiclean E Foam 1 % Medicated Liquid Soap",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1044919",
+              "name": "chloroxylenol 5 MG/ML Medicated Pad [VioNex]",
+              "synonym": "VioNex 5 MG/ML Medicated Pad",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1053230",
+              "name": "chloroxylenol 5.2 MG/ML Medicated Liquid Soap [VioNex]",
+              "synonym": "VioNex 0.52 % Medicated Liquid Soap",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1143677",
+              "name": "chloroxylenol 5 MG/ML Topical Solution [Ocusoft]",
+              "synonym": "Ocusoft 0.5 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1245181",
+              "name": "chloroxylenol 30 MG/ML Medicated Pad [E-Z Scrub with Ultradex]",
+              "synonym": "E-Z Scrub with Ultradex 3 % Medicated Sponge",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1293876",
+              "name": "chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML Otic Solution [Cortane-B]",
+              "synonym": "Cortane-B (chloroxylenol 0.1 % / hydrocortisone 1 % / pramoxine hydrochloride 1 % ) Otic Drops",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1293943",
+              "name": "chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML Topical Lotion [Cortane-B]",
+              "synonym": "Cortane-B (chloroxylenol 0.1 % / hydrocortisone 1 % / pramoxine hydrochloride 1 % ) Otic Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1294268",
+              "name": "chloroxylenol 1 MG/ML / pramoxine hydrochloride 5 MG/ML / zinc acetate 1 MG/ML Otic Solution [Zinotic]",
+              "synonym": "Zinotic (chloroxylenol 0.1 % / pramoxine hydrochloride 0.5 % / zinc acetate 0.1 % ) Otic Drops",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1294312",
+              "name": "chloroxylenol 1 MG/ML / pramoxine hydrochloride 10 MG/ML / zinc acetate 10 MG/ML Otic Solution [Zinotic ES]",
+              "synonym": "Zinotic ES (chloroxylenol 0.1 % / pramoxine hydrochloride 1 % / zinc acetate 1 % ) Otic Drops",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1311798",
+              "name": "chloroxylenol 0.015 MG/MG Topical Ointment [Hooflex]",
+              "synonym": "Hooflex 1.5 % Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1311802",
+              "name": "chloroxylenol 15 MG/ML Topical Solution [Hooflex]",
+              "synonym": "Hooflex 1.5 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1361217",
+              "name": "chloroxylenol 5 MG/ML / iodine 0.2 MG/ML / menthol 12.7 MG/ML Topical Solution [Absorbine Veterinary Liniment]",
+              "synonym": "Absorbine Veterinary Liniment (chloroxylenol 0.5 % / iodine 0.02 % / menthol 1.27 % ) Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1365688",
+              "name": "chloroxylenol 5 MG/ML Medicated Liquid Soap [Micrell]",
+              "synonym": "Micrell 0.5 % Medicated Liquid Soap",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1537468",
+              "name": "chloroxylenol 30 MG/ML Topical Solution [Purklenz]",
+              "synonym": "Purklenz 3 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1549618",
+              "name": "chloroxylenol 2 MG/ML Medicated Liquid Soap [Dermakleen]",
+              "synonym": "Dermakleen 2 MG/ML Medicated Liquid Soap",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1549631",
+              "name": "chloroxylenol 5 MG/ML Medicated Liquid Soap [Perigiene]",
+              "synonym": "Perigiene 5 MG/ML Medicated Liquid Soap",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "213033",
+              "name": "benzocaine 50 MG/ML / chloroxylenol 6 MG/ML Topical Spray [Foille]",
+              "synonym": "Foille (benzocaine 5 % / chloroxylenol 0.6 % ) Topical Spray",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "213034",
+              "name": "benzocaine 0.05 MG/MG / chloroxylenol 0.001 MG/MG Topical Ointment [Foille]",
+              "synonym": "Foille (benzocaine 5 % / chloroxylenol 0.1 % ) Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "617451",
+              "name": "chloroxylenol 0.008 MG/MG Topical Gel [Caricia Care]",
+              "synonym": "Caricia Care 0.8 % Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1014195",
+              "name": "chloroxylenol 1 MG/ML / pramoxine hydrochloride 10 MG/ML Otic Solution",
+              "synonym": "chloroxylenol 0.1 % / pramoxine hydrochloride 1 % Otic Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1038961",
+              "name": "chloroxylenol 0.0025 MG/MG Medicated Bar Soap",
+              "synonym": "chloroxylenol 0.25 % Medicated Bar Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1042793",
+              "name": "chloroxylenol 9 MG/ML Medicated Liquid Soap",
+              "synonym": "chloroxylenol 0.9 % Medicated Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1043032",
+              "name": "chloroxylenol 33 MG/ML Medicated Pad",
+              "synonym": "chloroxylenol 3.3 % Medicated Sponge",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1043033",
+              "name": "chloroxylenol 40 MG/ML Medicated Pad",
+              "synonym": "chloroxylenol 4 % Medicated Sponge",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1043129",
+              "name": "chloroxylenol 15 MG/ML Medicated Liquid Soap",
+              "synonym": "chloroxylenol 1.5 % Medicated Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1045003",
+              "name": "chloroxylenol 7.5 MG/ML Medicated Liquid Soap",
+              "synonym": "chloroxylenol 0.75 % Medicated Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1045621",
+              "name": "chloroxylenol 33 MG/ML Medicated Liquid Soap",
+              "synonym": "chloroxylenol 3.3 % Medicated Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1046444",
+              "name": "chloroxylenol 20 MG/ML Medicated Liquid Soap",
+              "synonym": "chloroxylenol 2 % Medicated Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1053227",
+              "name": "chloroxylenol 5.2 MG/ML Medicated Liquid Soap",
+              "synonym": "chloroxylenol 0.52 % Medicated Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1053758",
+              "name": "chloroxylenol 17.5 MG/ML Medicated Liquid Soap",
+              "synonym": "chloroxylenol 1.75 % Medicated Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "106139",
+              "name": "benzocaine 0.02 MG/MG / chloroxylenol 0.00106 MG/MG Oral Gel",
+              "synonym": "benzocaine 2 % / chloroxylenol 0.106 % Oral Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1113695",
+              "name": "chloroxylenol 9.5 MG/ML Medicated Liquid Soap",
+              "synonym": "chloroxylenol 0.95 % Medicated Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1150812",
+              "name": "chloroxylenol 4 MG/ML Medicated Liquid Soap",
+              "synonym": "chloroxylenol 0.4 % Medicated Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1245176",
+              "name": "chloroxylenol 30 MG/ML Medicated Pad",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1250563",
+              "name": "chloroxylenol 30 MG/ML / undecylenic acid 250 MG/ML Topical Solution",
+              "synonym": "chloroxylenol 3 % / undecylenic acid 25 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1251034",
+              "name": "chloroxylenol 5 MG/ML / undecylenic acid 100 MG/ML Topical Solution",
+              "synonym": "chloroxylenol 0.5 % / undecylenic acid 10 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1293865",
+              "name": "chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML Topical Lotion",
+              "synonym": "chloroxylenol 0.1 % / hydrocortisone 1 % / pramoxine hydrochloride 1 % Otic Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1293874",
+              "name": "chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML Otic Solution",
+              "synonym": "chloroxylenol 0.1 % / hydrocortisone 1 % / pramoxine hydrochloride 1 % Otic Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1293968",
+              "name": "chloroxylenol 1 MG/ML / pramoxine hydrochloride 10 MG/ML / zinc acetate 10 MG/ML Otic Solution",
+              "synonym": "chloroxylenol 0.1 % / pramoxine hydrochloride 1 % / zinc acetate 1 % Otic Drops",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1293974",
+              "name": "chloroxylenol 1 MG/ML / pramoxine hydrochloride 5 MG/ML / zinc acetate 1 MG/ML Otic Solution",
+              "synonym": "chloroxylenol 0.1 % / pramoxine hydrochloride 0.5 % / zinc acetate 0.1 % Otic Drops",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1311793",
+              "name": "chloroxylenol 0.015 MG/MG Topical Ointment",
+              "synonym": "chloroxylenol 1.5 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1311799",
+              "name": "chloroxylenol 15 MG/ML Topical Solution",
+              "synonym": "chloroxylenol 1.5 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1356502",
+              "name": "chloroxylenol 2.5 MG/ML Topical Foam",
+              "synonym": "chloroxylenol 0.25 % Topical Foam",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1361212",
+              "name": "chloroxylenol 5 MG/ML / iodine 0.2 MG/ML / menthol 12.7 MG/ML Topical Solution",
+              "synonym": "chloroxylenol 0.5 % / iodine 0.02 % / menthol 1.27 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1362618",
+              "name": "chloroxylenol 3.75 MG/ML Medicated Liquid Soap",
+              "synonym": "chloroxylenol 0.375 % Medicated Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1433866",
+              "name": "chloroxylenol 48 MG/ML Topical Solution",
+              "synonym": "chloroxylenol 4.8 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1435989",
+              "name": "chloroxylenol 2.5 MG/ML Medicated Liquid Soap",
+              "synonym": "chloroxylenol 0.25 % Medicated Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1539900",
+              "name": "chloroxylenol 20 MG/ML / salicylic acid 20 MG/ML / sodium thiosulfate 20 MG/ML Medicated Shampoo",
+              "synonym": "chloroxylenol 2 % / salicylic acid 2 % / sodium thiosulfate 2 % Medicated Shampoo",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1541094",
+              "name": "chloroxylenol 4.5 MG/ML / triclosan 0.6 MG/ML Medicated Liquid Soap",
+              "synonym": "chloroxylenol 0.45 % / triclosan 0.06 % Medical Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1549613",
+              "name": "chloroxylenol 2 MG/ML Medicated Liquid Soap",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1550947",
+              "name": "chloroxylenol 5 MG/ML Topical Foam",
+              "synonym": "chloroxylenol 0.5 % Topical Foam",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1721428",
+              "name": "chloroxylenol 10 MG/ML / salicylic acid 5 MG/ML Medicated Shampoo",
+              "synonym": "chloroxylenol 1 % / salicylic acid 0.5 % Medicated Shampoo",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1860597",
+              "name": "chloroxylenol 0.003 MG/MG Medicated Bar Soap",
+              "synonym": "chloroxylenol 0.3 % Medicated Bar Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1941461",
+              "name": "chloroxylenol 1 MG/ML Medicated Liquid Soap",
+              "synonym": "chloroxylenol 0.1 % Medicated Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "199005",
+              "name": "benzocaine 0.05 MG/MG / chloroxylenol 0.001 MG/MG Topical Ointment",
+              "synonym": "benzocaine 5 % / chloroxylenol 0.1 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "199006",
+              "name": "benzocaine 50 MG/ML / chloroxylenol 6 MG/ML Topical Spray",
+              "synonym": "benzocaine 5 % / chloroxylenol 0.6 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "199129",
+              "name": "chloroxylenol 5 MG/ML Topical Solution",
+              "synonym": "chloroxylenol 0.5 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1996972",
+              "name": "chloroxylenol 4 MG/ML / isopropyl alcohol 10 MG/ML Medicated Liquid Soap",
+              "synonym": "chloroxylenol 0.4 % / isopropyl alcohol 1 % Medicated Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2002728",
+              "name": "chloroxylenol 4.5 MG/ML Medicated Liquid Soap",
+              "synonym": "chloroxylenol 0.45 % Medicated Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2168394",
+              "name": "chloroxylenol 15 MG/ML Topical Foam",
+              "synonym": "chloroxylenol 1.5 % Topical Foam",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "247393",
+              "name": "chloroxylenol 50 MG/ML Topical Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "247394",
+              "name": "chloroxylenol 2.5 MG/ML Topical Solution",
+              "synonym": "chloroxylenol 0.25 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "247396",
+              "name": "chloroxylenol 30 MG/ML Topical Solution",
+              "synonym": "chloroxylenol 3 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2559961",
+              "name": "chloroxylenol 2.5 MG/ML Medicated Shampoo",
+              "synonym": "chloroxylenol 0.25 % Medicated Shampoo",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2566803",
+              "name": "benzalkonium chloride 0.0013 MG/MG / chloroxylenol 0.0025 MG/MG Topical Ointment",
+              "synonym": "benzalkonium chloride 0.13 % / chloroxylenol 0.25 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2566805",
+              "name": "benzalkonium chloride 1.3 MG/ML / chloroxylenol 2.5 MG/ML Topical Spray",
+              "synonym": "benzalkonium chloride 0.13 % / chloroxylenol 0.25 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2566842",
+              "name": "chloroxylenol 10 MG/ML / miconazole nitrate 20 MG/ML / salicylic acid 20 MG/ML Medicated Shampoo",
+              "synonym": "chloroxylenol 1 % / miconazole nitrate 2 % / salicylic acid 2 % Medicated Shampoo",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "259853",
+              "name": "chloroxylenol 4.3 MG/ML Medicated Liquid Soap",
+              "synonym": "chloroxylenol 0.43 % Medicated Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2682820",
+              "name": "chloroxylenol 1.5 MG/ML Topical Foam",
+              "synonym": "chloroxylenol 0.15 % Topical Foam",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2689268",
+              "name": "chloroxylenol 3.5 MG/ML Medicated Liquid Soap",
+              "synonym": "chloroxylenol 0.35 % Medicated Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2703095",
+              "name": "chloroxylenol 2.3 MG/ML Medicated Liquid Soap",
+              "synonym": "chloroxylenol 0.23 % Medicated Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "413257",
+              "name": "chloroxylenol 10 MG/ML Medicated Liquid Soap",
+              "synonym": "chloroxylenol 1 % Medicated Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "413259",
+              "name": "chloroxylenol 30 MG/ML Medicated Liquid Soap",
+              "synonym": "chloroxylenol 3 % Foaming Hand Cleaner",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "413261",
+              "name": "chloroxylenol 3 MG/ML Medicated Liquid Soap",
+              "synonym": "chloroxylenol 0.3 % Medicated Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "413262",
+              "name": "chloroxylenol 6 MG/ML Medicated Liquid Soap",
+              "synonym": "chloroxylenol 0.6 % Medicated Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "436367",
+              "name": "chloroxylenol 5 MG/ML Medicated Liquid Soap",
+              "synonym": "chloroxylenol 0.5 % Medicated Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "617447",
+              "name": "chloroxylenol 0.008 MG/MG Topical Gel",
+              "synonym": "chloroxylenol 0.8 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "617628",
+              "name": "chloroxylenol 8 MG/ML Topical Lotion",
+              "synonym": "chloroxylenol 0.8 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "617745",
+              "name": "aldioxa 0.0022 MG/MG / chloroxylenol 0.005 MG/MG Topical Powder",
+              "synonym": "aldioxa 0.22 % / chloroxylenol 0.5 % Topical Powder",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "844372",
+              "name": "chloroxylenol 5 MG/ML Medicated Pad",
+              "synonym": "chloroxylenol 0.5 % Medicated Pad",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:45:20.078794",
+  "source": "RxNorm"
+}

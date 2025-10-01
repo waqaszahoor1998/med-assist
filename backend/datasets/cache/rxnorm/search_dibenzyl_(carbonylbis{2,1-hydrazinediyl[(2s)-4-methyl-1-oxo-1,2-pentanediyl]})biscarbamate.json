@@ -1,0 +1,10 @@
+{
+  "query": "Dibenzyl (carbonylbis{2,1-hydrazinediyl[(2S)-4-methyl-1-oxo-1,2-pentanediyl]})biscarbamate",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T04:31:25.010009",
+  "source": "RxNorm"
+}

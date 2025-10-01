@@ -1,0 +1,559 @@
+{
+  "query": "Betamethasone",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1244636",
+              "name": "betamethasone valerate 1.2 MG/ML Topical Foam [Luxiq]",
+              "synonym": "Luxiq 0.12 % Topical Foam",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1426861",
+              "name": "betamethasone 0.284 MG/ML / gentamicin 0.57 MG/ML Topical Spray [GentaVed]",
+              "synonym": "GentaVed (gentamicin sulfate 0.057 % / betamethasone valerate 0.0284 % ) Topical Spray",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1546288",
+              "name": "betamethasone 0.284 MG/ML / gentamicin 0.57 MG/ML Topical Spray [Gentacalm]",
+              "synonym": "GentaCalm (gentamicin sulfate 0.057 % / betamethasone valerate 0.0284 % ) Topical Spray",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1551493",
+              "name": "betamethasone 0.284 MG/ML / gentamicin 0.57 MG/ML Topical Spray [Genone]",
+              "synonym": "GenOne (gentamicin sulfate 0.057 % / betamethasone valerate 0.0284 % ) Topical Spray",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1660750",
+              "name": "betamethasone 6 MG/ML Injectable Suspension [Betavet]",
+              "synonym": "Betavet 6 MG/ML Injectable Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1666758",
+              "name": "betamethasone 0.001 MG/MG / clotrimazole 0.01 MG/MG / gentamicin 0.003 MG/MG Otic Ointment [Otomax]",
+              "synonym": "",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1716099",
+              "name": "betamethasone dipropionate 0.643 MG/ML / calcipotriene 0.05 MG/ML Topical Foam [Enstilar]",
+              "synonym": "Enstilar 0.005 % / 0.064 % Topical Foam",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1738541",
+              "name": "betamethasone 0.5 MG/ML Topical Spray [Sernivo]",
+              "synonym": "Sernivo 0.05 % Topical Spray",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "213541",
+              "name": "betamethasone 0.5 MG/ML Topical Cream [Del-Beta]",
+              "synonym": "Del-Beta 0.05 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2471878",
+              "name": "betamethasone dipropionate 0.64 MG/ML / calcipotriene 0.05 MG/ML Topical Cream [Wynzora]",
+              "synonym": "Wynzora (calcipotriene 0.005 % / betamethasone dipropionate 0.064 % ) Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2703113",
+              "name": "betamethasone acetate 0.001 MG/MG / terbinafine 0.01 MG/MG Otic Gel [Duotic]",
+              "synonym": "Duotic (betamethasone acetate 0.001 MG / terbinafine 0.01 MG ) per 1 MG Otic Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2704745",
+              "name": "betamethasone acetate 0.001 MG/MG / florfenicol 0.01 MG/MG / terbinafine 0.01 MG/MG Otic Gel [Osurnia]",
+              "synonym": "Osurnia (betamethasone acetate 0.001 MG / florfenicol 0.01 MG / terbinafine 0.01 MG ) per 1 MG Otic Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "351894",
+              "name": "betamethasone 0.5 MG/ML Topical Lotion [Del-Beta]",
+              "synonym": "Del-Beta 0.5 MG/ML Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "578806",
+              "name": "betamethasone 3 MG/ML / betamethasone acetate 3 MG/ML Injectable Suspension [Celestone Soluspan]",
+              "synonym": "Celestone 6 MG/ML Injectable Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "833463",
+              "name": "betamethasone 0.5 MG/ML / calcipotriene 0.05 MG/ML Topical Lotion [Taclonex]",
+              "synonym": "Taclonex Scalp (calcipotriene 0.005 % / betamethasone 0.05 % (betamethasone dipropionate 0.064 % ) ) Topical Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "833472",
+              "name": "betamethasone 0.0005 MG/MG / calcipotriene 0.00005 MG/MG Topical Ointment [Taclonex]",
+              "synonym": "Taclonex (betamethasone 0.05 % / calcipotriene 0.005 % ) Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "848195",
+              "name": "Augmented betamethasone 0.5 MG/ML Topical Cream [Diprolene]",
+              "synonym": "Augmented Diprolene 0.05 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "848200",
+              "name": "Augmented betamethasone 0.0005 MG/MG Topical Ointment [Diprolene]",
+              "synonym": "Augmented Diprolene 0.0005 MG/MG Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "105389",
+              "name": "betamethasone 0.5 MG Disintegrating Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "106242",
+              "name": "betamethasone 0.001 MG/MG / clioquinol 0.03 MG/MG Topical Ointment",
+              "synonym": "betamethasone (as betamethasone valerate) 0.1 % / clioquinol 3 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "106243",
+              "name": "betamethasone 1 MG/ML / clioquinol 30 MG/ML Topical Cream",
+              "synonym": "betamethasone 0.1 % / clioquinol 3 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1093235",
+              "name": "betamethasone 0.284 MG/ML / gentamicin 0.57 MG/ML Topical Spray",
+              "synonym": "gentamicin (as gentamicin sulfate) 0.057 % / betamethasone (as betamethasone valerate) 0.0284 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1244634",
+              "name": "betamethasone valerate 1.2 MG/ML Topical Foam",
+              "synonym": "betamethasone valerate 0.12 % Topical Foam",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1596455",
+              "name": "betamethasone 0.001 MG/MG / clotrimazole 0.01 MG/MG / gentamicin 0.003 MG/MG Otic Ointment",
+              "synonym": "betamethasone (as betamethasone valerate) 1 MG / clotrimazole 10 MG / gentamicin (as gentamicin sulfate) 3 MG per GM Otic Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1660745",
+              "name": "betamethasone 6 MG/ML Injectable Suspension",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1716094",
+              "name": "betamethasone dipropionate 0.643 MG/ML / calcipotriene 0.05 MG/ML Topical Foam",
+              "synonym": "calcipotriene 0.005 % / betamethasone propionate 0.064 % Topical Foam",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1738536",
+              "name": "betamethasone 0.5 MG/ML Topical Spray",
+              "synonym": "betamethasone dipropionate 0.064 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "197405",
+              "name": "betamethasone 0.0005 MG/MG Topical Ointment",
+              "synonym": "betamethasone 0.05 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "197407",
+              "name": "betamethasone 1 MG/ML Topical Cream",
+              "synonym": "betamethasone 0.1 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "197408",
+              "name": "betamethasone 1 MG/ML Topical Lotion",
+              "synonym": "betamethasone 0.1 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "197409",
+              "name": "betamethasone 0.001 MG/MG Topical Ointment",
+              "synonym": "betamethasone 0.1 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "238920",
+              "name": "betamethasone 0.5 MG/ML Topical Cream",
+              "synonym": "betamethasone 0.05 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "240209",
+              "name": "betamethasone 0.5 MG/ML Topical Lotion",
+              "synonym": "betamethasone 0.05 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "240571",
+              "name": "betamethasone 0.0005 MG/MG Topical Gel",
+              "synonym": "betamethasone 0.05 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "244486",
+              "name": "betamethasone 0.25 MG/ML Topical Cream",
+              "synonym": "betamethasone 0.025 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "245258",
+              "name": "betamethasone 0.5 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2471873",
+              "name": "betamethasone dipropionate 0.64 MG/ML / calcipotriene 0.05 MG/ML Topical Cream",
+              "synonym": "betamethasone dipropionate 0.064 % / calcipotriene 0.005 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "247451",
+              "name": "betamethasone 0.0005 MG/MG / salicylic acid 0.03 MG/MG Topical Ointment",
+              "synonym": "betamethasone (as betamethasone dipropionate) 0.05 % / salicylic acid 3 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "249576",
+              "name": "betamethasone 1 MG/ML / neomycin 5 MG/ML Topical Cream",
+              "synonym": "betamethasone 0.1 % / neomycin 0.5 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "249596",
+              "name": "betamethasone 0.001 MG/MG Ophthalmic Ointment",
+              "synonym": "betamethasone (as betamethasone sodium phosphate) 0.1 % Ophthalmic Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "250727",
+              "name": "betamethasone 0.001 MG/MG / neomycin 0.005 MG/MG Topical Ointment",
+              "synonym": "betamethasone 0.1 % / neomycin 0.5 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "250861",
+              "name": "betamethasone 1 MG/ML Topical Solution",
+              "synonym": "betamethasone 0.1 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2703107",
+              "name": "betamethasone acetate 0.001 MG/MG / terbinafine 0.01 MG/MG Otic Gel",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2704739",
+              "name": "betamethasone acetate 0.001 MG/MG / florfenicol 0.01 MG/MG / terbinafine 0.01 MG/MG Otic Gel",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308709",
+              "name": "betamethasone 0.6 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308713",
+              "name": "betamethasone 0.00025 MG/MG Topical Ointment",
+              "synonym": "betamethasone 0.025 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308714",
+              "name": "betamethasone 0.5 MG/ML / clotrimazole 10 MG/ML Topical Cream",
+              "synonym": "betamethasone 0.05 % / clotrimazole 1 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308715",
+              "name": "betamethasone 0.5 MG/ML / clotrimazole 10 MG/ML Topical Lotion",
+              "synonym": "betamethasone 0.05 % (betamethasone dipropionate 0.064 % ) / clotrimazole 1 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308718",
+              "name": "betamethasone 4 MG/ML Injectable Solution",
+              "synonym": "betamethasone (as betamethasone sodium phosphate) 0.4 % Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "388525",
+              "name": "betamethasone 0.0005 MG/MG / calcipotriene 0.00005 MG/MG Topical Ointment",
+              "synonym": "betamethasone 0.05 % / calcipotriene 0.005 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "578803",
+              "name": "betamethasone 3 MG/ML / betamethasone acetate 3 MG/ML Injectable Suspension",
+              "synonym": "betamethasone 3 MG/ML (as betamethasone sodium phosphate) / betamethasone acetate 3 MG/ML Injectable Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "618616",
+              "name": "betamethasone 1 MG/ML / fusidate 20 MG/ML Topical Cream",
+              "synonym": "betamethasone 0.1 % / fusidate 2 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "670084",
+              "name": "betamethasone 0.12 MG/ML Oral Solution",
+              "synonym": "betamethasone 0.6 MG per 5 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "833461",
+              "name": "betamethasone 0.5 MG/ML / calcipotriene 0.05 MG/ML Topical Lotion",
+              "synonym": "betamethasone 0.05 % (betamethasone dipropionate 0.064 % ) / calcipotriene 0.005 % Topical Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "848176",
+              "name": "Augmented betamethasone 0.5 MG/ML Topical Cream",
+              "synonym": "augmented betamethasone 0.05 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "848178",
+              "name": "Augmented betamethasone 0.5 MG/ML Topical Lotion",
+              "synonym": "augmented betamethasone 0.05 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "848180",
+              "name": "Augmented betamethasone 0.0005 MG/MG Topical Ointment",
+              "synonym": "augmented betamethasone 0.05 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "848208",
+              "name": "Augmented betamethasone 0.0005 MG/MG Topical Gel",
+              "synonym": "augmented betamethasone 0.05 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "895257",
+              "name": "betamethasone 0.005 MG/MG Topical Ointment",
+              "synonym": "betamethasone (as betamethasone dipropionate) 0.5 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:13:30.522061",
+  "source": "RxNorm"
+}

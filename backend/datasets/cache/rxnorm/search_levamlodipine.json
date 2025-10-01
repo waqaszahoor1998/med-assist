@@ -1,0 +1,64 @@
+{
+  "query": "Levamlodipine",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2377369",
+              "name": "levamlodipine 2.5 MG Oral Tablet [Conjupri]",
+              "synonym": "Conjupri 2.5 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2377373",
+              "name": "levamlodipine 5 MG Oral Tablet [Conjupri]",
+              "synonym": "Conjupri 5 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2377367",
+              "name": "levamlodipine 2.5 MG Oral Tablet",
+              "synonym": "levamlodipine 2.5 MG (equivalent to levamlodipine maleate 3.2 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2377371",
+              "name": "levamlodipine 5 MG Oral Tablet",
+              "synonym": "levamlodipine 5 MG (equivalent to levamlodipine maleate 6.4 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:29:10.655104",
+  "source": "RxNorm"
+}

@@ -1,0 +1,86 @@
+{
+  "query": "Esketamine",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "2119389",
+              "name": "{3 (0.2 ML) (esketamine 140 MG/ML Nasal Spray [Spravato]) } Pack [Spravato 84 MG Dose Kit]",
+              "synonym": "Spravato 84 MG Dose Kit",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2119391",
+              "name": "{2 (0.2 ML) (esketamine 140 MG/ML Nasal Spray [Spravato]) } Pack [Spravato 56 MG Dose Kit]",
+              "synonym": "Spravato 56 MG Dose Kit",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "2119388",
+              "name": "{3 (0.2 ML) (esketamine 140 MG/ML Nasal Spray) } Pack",
+              "synonym": "esketamine 140 MG/mL Nasal Spray (3- 0.2 OZ Pack)",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2119390",
+              "name": "{2 (0.2 ML) (esketamine 140 MG/ML Nasal Spray) } Pack",
+              "synonym": "esketamine 140 MG/mL Metered Dose Nasal Spray (2- 0.2 OZ Pack)",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2119387",
+              "name": "esketamine 140 MG/ML Nasal Spray [Spravato]",
+              "synonym": "Spravato 140 MG/ML Nasal Spray",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2119381",
+              "name": "esketamine 140 MG/ML Nasal Spray",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:22:40.536992",
+  "source": "RxNorm"
+}

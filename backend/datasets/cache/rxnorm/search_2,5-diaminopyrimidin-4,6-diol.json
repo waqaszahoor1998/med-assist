@@ -1,0 +1,10 @@
+{
+  "query": "2,5-Diaminopyrimidin-4,6-diol",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:40:34.446679",
+  "source": "RxNorm"
+}

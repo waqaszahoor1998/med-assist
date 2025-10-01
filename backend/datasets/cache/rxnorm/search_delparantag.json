@@ -1,0 +1,10 @@
+{
+  "query": "Delparantag",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:25:27.123087",
+  "source": "RxNorm"
+}

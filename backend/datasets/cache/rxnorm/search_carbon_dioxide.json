@@ -1,0 +1,269 @@
+{
+  "query": "Carbon dioxide",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD"
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1091094",
+              "name": "carbon dioxide 99.1 % Gas for Inhalation",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1545794",
+              "name": "carbon dioxide 7 % / oxygen 33 % Gas for Inhalation",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1728767",
+              "name": "carbon dioxide 20 % / nitrogen 80 % Gas for Inhalation",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1790649",
+              "name": "carbon dioxide 10 % Gas for Inhalation",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2268870",
+              "name": "carbon dioxide 20 % / oxygen 5 % Gas for Inhalation",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2702643",
+              "name": "carbon dioxide 10 % / oxygen 25 % Gas for Inhalation",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308997",
+              "name": "carbon dioxide 10 % / oxygen 90 % Gas for Inhalation",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308998",
+              "name": "carbon dioxide 100 % Gas for Inhalation",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "309002",
+              "name": "carbon dioxide 5 % / oxygen 95 % Gas for Inhalation",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "309004",
+              "name": "carbon dioxide 99 % Gas for Inhalation",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "347023",
+              "name": "carbon dioxide 99.5 % Gas for Inhalation",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "347024",
+              "name": "carbon dioxide 99.8 % Gas for Inhalation",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "347047",
+              "name": "carbon dioxide 15 % / oxygen 85 % Gas for Inhalation",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "347835",
+              "name": "carbon dioxide 30 % / oxygen 70 % Gas for Inhalation",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "347967",
+              "name": "carbon dioxide 99.2 % Gas for Inhalation",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "348326",
+              "name": "carbon dioxide 70 % / oxygen 30 % Gas for Inhalation",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "413104",
+              "name": "carbon dioxide 7 % / oxygen 93 % Gas for Inhalation",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "413107",
+              "name": "carbon dioxide 12 % / oxygen 88 % Gas for Inhalation",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "541999",
+              "name": "carbon dioxide 20 % / oxygen 80 % Gas for Inhalation",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "999482",
+              "name": "carbon dioxide 5 % / oxygen 35 % Gas for Inhalation",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "999547",
+              "name": "carbon dioxide 5 % / oxygen 40 % Gas for Inhalation",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "999630",
+              "name": "carbon dioxide 10 % / oxygen 21 % Gas for Inhalation",
+              "synonym": "carbon dioxide 10 % / nitrogen (inactive) 69 % / oxygen 21 % Gas for Inhalation",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "999631",
+              "name": "carbon dioxide 7 % / oxygen 21 % Gas for Inhalation",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "999632",
+              "name": "carbon dioxide 8 % / oxygen 21 % Gas for Inhalation",
+              "synonym": "carbon dioxide 8 % / medical air (nitrogen 71 % / oxygen 21 % ) Gas for Inhalation",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "999642",
+              "name": "carbon dioxide 80 % / oxygen 20 % Gas for Inhalation",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "999651",
+              "name": "carbon dioxide 5 % / oxygen 45 % Gas for Inhalation",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "999789",
+              "name": "carbon dioxide 5 % / oxygen 21 % Gas for Inhalation",
+              "synonym": "carbon dioxide 5 % / nitrogen (inactive) 74 % / oxygen 21 % Gas for Inhalation",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:24:14.138262",
+  "source": "RxNorm"
+}

@@ -1,0 +1,595 @@
+{
+  "query": "Iodine",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1001567",
+              "name": "iodine 10 MG/ML Topical Solution [Dairyland Brand Controlled Iodine Teat Dip]",
+              "synonym": "Dairyland Brand Controlled Iodine Teat Dip 1 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1010728",
+              "name": "iodine 5 MG/ML Topical Solution [Milkhouse Teat Dip]",
+              "synonym": "Milkhouse Teat Dip 0.5 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1012340",
+              "name": "iodine 5 MG/ML Topical Solution [Dairyland Brand Controlled Iodine Teat Dip]",
+              "synonym": "Dairyland Brand Controlled Iodine Teat Dip 0.5 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1048991",
+              "name": "iodine 10 MG/ML Topical Solution [Udderdine]",
+              "synonym": "Udderdine 1 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1049553",
+              "name": "iodine 5 MG/ML Topical Solution [Udderdine]",
+              "synonym": "Udderdine 5 MG/ML Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1114413",
+              "name": "iodine 10 MG/ML Topical Solution [Defend II]",
+              "synonym": "Defend II 1 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1245925",
+              "name": "iodine 30 MG/ML Topical Solution [Io-Blend]",
+              "synonym": "Io-Blend 3 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1248600",
+              "name": "iodine 10 MG/ML Topical Solution [UdderBlend]",
+              "synonym": "UdderBlend 1 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1293957",
+              "name": "iodine 5 MG/ML Topical Solution [Dermafive]",
+              "synonym": "Dermafive 0.5 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1361217",
+              "name": "chloroxylenol 5 MG/ML / iodine 0.2 MG/ML / menthol 12.7 MG/ML Topical Solution [Absorbine Veterinary Liniment]",
+              "synonym": "Absorbine Veterinary Liniment (chloroxylenol 0.5 % / iodine 0.02 % / menthol 1.27 % ) Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1376450",
+              "name": "iodine 10 MG/ML Topical Solution [Barrier-Dyne]",
+              "synonym": "Barrier-Dyne 10, 1 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1422912",
+              "name": "iodine 5 MG/ML Topical Solution [Della Soft]",
+              "synonym": "Della Soft 0.5 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1423463",
+              "name": "iodine 10 MG/ML Topical Solution [Triumph]",
+              "synonym": "Triumph 1 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1423935",
+              "name": "iodine 10 MG/ML Topical Solution [West Dip]",
+              "synonym": "West Dip 1 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1423945",
+              "name": "iodine 10 MG/ML Topical Solution [Bovadine]",
+              "synonym": "Bovadine 1 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1423952",
+              "name": "iodine 4.2 MG/ML Topical Solution [QuarterMate Concentrate]",
+              "synonym": "QuarterMate Concentrate 0.42 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1424249",
+              "name": "iodine 1 MG/ML Topical Solution [Quarter Mate]",
+              "synonym": "Quarter Mate 0.1 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1435879",
+              "name": "iodine 5 MG/ML Topical Solution [BovaPro]",
+              "synonym": "BovaPro 5 MG/ML Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1435881",
+              "name": "iodine 10 MG/ML Topical Solution [BovaPro]",
+              "synonym": "BovaPro 10 MG/ML Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1441747",
+              "name": "iodine 5 MG/ML Topical Solution [EDX-502]",
+              "synonym": "EDX-502 0.5 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1442575",
+              "name": "iodine 10 MG/ML Topical Solution [EDX-1000]",
+              "synonym": "EDX-1000 1 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1483414",
+              "name": "iodine 5 MG/ML Topical Solution [UdderBlend]",
+              "synonym": "UdderBlend 0.5 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1486183",
+              "name": "iodine 10 MG/ML Topical Solution [Iodip]",
+              "synonym": "IoDip-10 1 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1486188",
+              "name": "iodine 5 MG/ML Topical Solution [Iodip]",
+              "synonym": "Iodip 0.5 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1650598",
+              "name": "iodine 5 MG/ML Topical Solution [Eco-Gard]",
+              "synonym": "Eco-Gard 0.5 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1650608",
+              "name": "iodine 10 MG/ML Topical Solution [Eco-Plus]",
+              "synonym": "Eco-Plus 10 MG/ML Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1653443",
+              "name": "iodine 5 MG/ML Topical Solution [Eco-Plus]",
+              "synonym": "Eco-Plus 5 MG/ML Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "902310",
+              "name": "iodine 10 MG/ML Topical Solution [Teat-Glo]",
+              "synonym": "Teat-Glo 10 MG/ML Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "968847",
+              "name": "iodine 10 MG/ML Topical Solution [Milkhouse Teat Dip]",
+              "synonym": "Milkhouse Teat Dip 1 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "991288",
+              "name": "iodine 2.5 MG/ML Topical Solution [Io-Shield]",
+              "synonym": "Io-Shield 2.5 MG/ML Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "991294",
+              "name": "iodine 5 MG/ML Topical Solution [Optima Plus]",
+              "synonym": "Optima Plus 5 MG/ML Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "991298",
+              "name": "iodine 10 MG/ML Topical Solution [ChoreMate One-Shot]",
+              "synonym": "ChoreMate One-Shot Teat Dip 1 % (titratable iodine concentrate 3.6 % ) Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "991302",
+              "name": "iodine 10 MG/ML Topical Solution [Eco-Gard]",
+              "synonym": "Eco-Gard 10 MG/ML Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "993280",
+              "name": "iodine 36 MG/ML Topical Solution [Eco-Plus]",
+              "synonym": "Eco-Plus 36 MG/ML Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "999922",
+              "name": "iodine 22 MG/ML Topical Solution [Iodoshield]",
+              "synonym": "Iodoshield 22 MG/ML Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1014322",
+              "name": "iodine 17.5 MG/ML Topical Solution",
+              "synonym": "iodine 1.75 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1114427",
+              "name": "iodine 30 MG/ML Topical Solution",
+              "synonym": "iodine 3 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1252027",
+              "name": "heptanoic acid 4 MG/ML / iodine 10 MG/ML Topical Solution",
+              "synonym": "heptanoic acid 0.4 % / iodine 1 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1302289",
+              "name": "iodine 25 MG/ML / potassium iodide 25 MG/ML Topical Solution",
+              "synonym": "Iodine 25 MG/ML / K+ Iodide 25 MG/ML Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1361212",
+              "name": "chloroxylenol 5 MG/ML / iodine 0.2 MG/ML / menthol 12.7 MG/ML Topical Solution",
+              "synonym": "chloroxylenol 0.5 % / iodine 0.02 % / menthol 1.27 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1371989",
+              "name": "iodine 2.5 MG/ML / lactic acid 20 MG/ML Topical Solution",
+              "synonym": "iodine 0.25 % / lactic acid 2 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1423947",
+              "name": "iodine 4.2 MG/ML Topical Solution",
+              "synonym": "iodine 0.42 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1424244",
+              "name": "iodine 1 MG/ML Topical Solution",
+              "synonym": "iodine 0.1 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1435635",
+              "name": "iodine 5 MG/ML Topical Spray",
+              "synonym": "iodine 0.5 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1484411",
+              "name": "iodine 70 MG/ML / isopropyl alcohol 650 MG/ML Topical Solution",
+              "synonym": "iodine 7 % / isopropyl alcohol 65 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "204913",
+              "name": "iodine 50 MG/ML / potassium iodide 100 MG/ML Oral Solution",
+              "synonym": "Iodine 50 MG/ML / K+ Iodide 100 MG/ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "205228",
+              "name": "iodine 50 MG/ML / potassium iodide 100 MG/ML Topical Solution",
+              "synonym": "Lugol's strong iodine 5 % / 10 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2265292",
+              "name": "ethanol 0.47 ML/ML / iodine 20 MG/ML / sodium iodide 24 MG/ML Topical Solution",
+              "synonym": "iodine tincture 2 % (ethanol 47 % / iodine 2 % / sodium iodide 2.4 % ) Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2284244",
+              "name": "iodine 20 MG/ML / sodium iodide 24 MG/ML Topical Solution",
+              "synonym": "iodine 2 % / sodium iodide 2.4 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "243998",
+              "name": "iodine 0.15 MG Oral Tablet",
+              "synonym": "iodine 150 MCG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "247911",
+              "name": "iodine 7.5 MG/ML Topical Solution",
+              "synonym": "iodine 0.75 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2709328",
+              "name": "iodine 70 MG/ML / isopropyl alcohol 0.4 ML/ML Topical Solution",
+              "synonym": "iodine 7 % / isopropyl alcohol 40 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "282842",
+              "name": "iodine 0.06 MG/MG / methyl salicylate 0.048 MG/MG Topical Ointment",
+              "synonym": "iodine 6 % / methyl salicylate 4.8 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "311093",
+              "name": "iodine 20 MG/ML Topical Solution",
+              "synonym": "iodine 2 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "349320",
+              "name": "iodine 50 MG/ML Topical Solution",
+              "synonym": "iodine 5 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "596940",
+              "name": "iodine 20 MG/ML / potassium iodide 24 MG/ML Topical Solution",
+              "synonym": "iodine 2 % / potassium iodide 2.4 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "902306",
+              "name": "iodine 10 MG/ML Topical Solution",
+              "synonym": "iodine 1 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "991284",
+              "name": "iodine 2.5 MG/ML Topical Solution",
+              "synonym": "iodine 0.25 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "991290",
+              "name": "iodine 5 MG/ML Topical Solution",
+              "synonym": "iodine 0.5 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "993271",
+              "name": "iodine 10 MG/ML Topical Spray",
+              "synonym": "iodine 1 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "993276",
+              "name": "iodine 36 MG/ML Topical Solution",
+              "synonym": "iodine 3.6 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "993282",
+              "name": "iodine 45 MG/ML Topical Solution",
+              "synonym": "iodine 4.5 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "999918",
+              "name": "iodine 22 MG/ML Topical Solution",
+              "synonym": "iodine 2.2 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T15:57:13.227537",
+  "source": "RxNorm"
+}

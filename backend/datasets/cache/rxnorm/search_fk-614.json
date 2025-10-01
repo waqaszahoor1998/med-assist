@@ -1,0 +1,10 @@
+{
+  "query": "FK-614",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:05:56.144680",
+  "source": "RxNorm"
+}

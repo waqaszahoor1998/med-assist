@@ -1,0 +1,10 @@
+{
+  "query": "(S)-wiskostatin",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T01:39:15.687311",
+  "source": "RxNorm"
+}

@@ -1,0 +1,71 @@
+{
+  "query": "Fosinopril",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD"
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "857166",
+              "name": "fosinopril sodium 10 MG / hydrochlorothiazide 12.5 MG Oral Tablet",
+              "synonym": "FNP Sodium 10 MG / HCTZ 12.5 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "857169",
+              "name": "fosinopril sodium 10 MG Oral Tablet",
+              "synonym": "FNP Sodium 10 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "857174",
+              "name": "fosinopril sodium 20 MG / hydrochlorothiazide 12.5 MG Oral Tablet",
+              "synonym": "FNP Sodium 20 MG / HCTZ 12.5 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "857183",
+              "name": "fosinopril sodium 20 MG Oral Tablet",
+              "synonym": "FNP Sodium 20 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "857187",
+              "name": "fosinopril sodium 40 MG Oral Tablet",
+              "synonym": "FNP Sodium 40 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:16:12.246085",
+  "source": "RxNorm"
+}

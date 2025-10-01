@@ -1,0 +1,478 @@
+{
+  "query": "Moxidectin",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1047079",
+              "name": "moxidectin 5 MG/ML Topical Solution [Cydectin]",
+              "synonym": "Cydectin 5 MG/ML Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1047085",
+              "name": "moxidectin 1 MG/ML Oral Solution [Cydectin]",
+              "synonym": "Cydectin 1 MG/ML Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1085527",
+              "name": "moxidectin 10 MG/ML Injectable Solution [Cydectin]",
+              "synonym": "Cydectin 10 MG/ML Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1251587",
+              "name": "imidacloprid 100 MG/ML / moxidectin 25 MG/ML Topical Solution [Advantage Multi]",
+              "synonym": "Advantage Multi For Dogs (imidacloprid 10 % / moxidectin 2.5 % ) Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1293402",
+              "name": "imidacloprid 100 MG/ML / moxidectin 10 MG/ML Topical Solution [Advantage Multi]",
+              "synonym": "Advantage Multi for Cats (imidacloprid 10 % / moxidectin 1 % ) Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1488366",
+              "name": "moxidectin 0.02 MG/MG / praziquantel 0.125 MG/MG Oral Gel [Quest Plus]",
+              "synonym": "Quest Plus (moxidectin 2 % / praziquantel 12.5 % ) Oral Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1551506",
+              "name": "moxidectin 3.4 MG/ML Injectable Suspension [Proheart 6]",
+              "synonym": "Proheart 6 3.4 MG/ML Injectable Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2178776",
+              "name": "moxidectin 10 MG/ML Injectable Suspension [Proheart]",
+              "synonym": "Proheart 10 MG/ML Injectable Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2281743",
+              "name": "moxidectin 0.24 MG / pyrantel pamoate 50 MG / sarolaner 12 MG Chewable Tablet [Simparica TRIO]",
+              "synonym": "Simparica TRIO (moxidectin 0.24 MG / pyrantel pamoate 50 MG / sarolaner 12 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2281749",
+              "name": "moxidectin 0.48 MG / pyrantel pamoate 100 MG / sarolaner 24 MG Chewable Tablet [Simparica TRIO]",
+              "synonym": "Simparica TRIO (moxidectin 0.48 MG / pyrantel pamoate 100 MG / sarolaner 24 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2281755",
+              "name": "moxidectin 0.06 MG / pyrantel pamoate 12.5 MG / sarolaner 3 MG Chewable Tablet [Simparica TRIO]",
+              "synonym": "Simparica TRIO (moxidectin 0.06 MG / pyrantel pamoate 12.5 MG / sarolaner 3 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2281761",
+              "name": "moxidectin 0.96 MG / pyrantel pamoate 200 MG / sarolaner 48 MG Chewable Tablet [Simparica TRIO]",
+              "synonym": "Simparica TRIO (moxidectin 0.96 MG / pyrantel pamoate 200 MG / sarolaner 48 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2281767",
+              "name": "moxidectin 0.12 MG / pyrantel pamoate 25 MG / sarolaner 6 MG Chewable Tablet [Simparica TRIO]",
+              "synonym": "Simparica TRIO (moxidectin 0.12 MG / pyrantel pamoate 25 MG / sarolaner 6 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2281773",
+              "name": "moxidectin 1.44 MG / pyrantel pamoate 300 MG / sarolaner 72 MG Chewable Tablet [Simparica TRIO]",
+              "synonym": "Simparica TRIO (moxidectin 1.44 MG / pyrantel pamoate 300 MG / sarolaner 72 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2468057",
+              "name": "imidacloprid 100 MG/ML / moxidectin 25 MG/ML Topical Solution [Imoxi]",
+              "synonym": "Imoxi (imidacloprid 10 % / moxidectin 2.5 % ) Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2470935",
+              "name": "imidacloprid 100 MG/ML / moxidectin 10 MG/ML Topical Solution [Imoxi]",
+              "synonym": "Imoxi (imidacloprid 10 % / moxidectin 1 % ) Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2591412",
+              "name": "imidacloprid 100 MG/ML / moxidectin 10 MG/ML Topical Solution [Parasedge Multi]",
+              "synonym": "Parasedge Multi for cats (imidacloprid 10 % / moxidectin 1 % ) Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2591414",
+              "name": "imidacloprid 100 MG/ML / moxidectin 25 MG/ML Topical Solution [Parasedge Multi]",
+              "synonym": "Parasedge Multi for dogs (imidacloprid 10 % / moxidectin 2.5 % ) Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2595227",
+              "name": "imidacloprid 100 MG/ML / moxidectin 25 MG/ML Topical Solution [Midamox]",
+              "synonym": "Midamox for Dogs (imidacloprid 10 % / moxidectin 2.5 % ) Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2598118",
+              "name": "imidacloprid 100 MG/ML / moxidectin 10 MG/ML Topical Solution [Midamox]",
+              "synonym": "Midamox for Cats (imidacloprid 10 % / moxidectin 1 % ) Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2634907",
+              "name": "moxidectin 10 MG/ML Injectable Solution [Tauramox]",
+              "synonym": "Tauramox 10 MG/ML Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2642691",
+              "name": "afoxolaner 150 MG / moxidectin 0.72 MG / pyrantel pamoate 300 MG Chewable Tablet [NexGard Plus]",
+              "synonym": "NexGard Plus (afoxolaner 150 MG / moxidectin 0.72 MG / pyrantel pamoate 300 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2642697",
+              "name": "afoxolaner 18.75 MG / moxidectin 0.09 MG / pyrantel pamoate 37.5 MG Chewable Tablet [NexGard Plus]",
+              "synonym": "NexGard Plus (afoxolaner 18.75 MG / moxidectin 0.09 MG / pyrantel pamoate 37.5 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2642707",
+              "name": "afoxolaner 37.5 MG / moxidectin 0.18 MG / pyrantel pamoate 75 MG Chewable Tablet [NexGard Plus]",
+              "synonym": "NexGard Plus (afoxolaner 37.5 MG / moxidectin 0.18 MG / pyrantel pamoate 75 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2642713",
+              "name": "afoxolaner 75 MG / moxidectin 0.36 MG / pyrantel pamoate 150 MG Chewable Tablet [NexGard Plus]",
+              "synonym": "NexGard Plus (afoxolaner 75 MG / moxidectin 0.36 MG / pyrantel pamoate 150 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2669729",
+              "name": "afoxolaner 9.375 MG / moxidectin 0.045 MG / pyrantel pamoate 18.75 MG Chewable Tablet [NexGard Plus]",
+              "synonym": "NexGard Plus (afoxolaner 9.375 MG / moxidectin 0.045 MG / pyrantel pamoate 18.75 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2679865",
+              "name": "fluralaner 280 MG/ML / moxidectin 14 MG/ML Topical Solution [Bravecto Plus]",
+              "synonym": "Bravecto Plus (fluralaner 280 MG / moxidectin 14 MG) per ML Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2694834",
+              "name": "moxidectin 10 MG/ML Injectable Solution [Moxisolv]",
+              "synonym": "Moxisolv 10 MG/ML Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1047075",
+              "name": "moxidectin 5 MG/ML Topical Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1047082",
+              "name": "moxidectin 1 MG/ML Oral Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1085524",
+              "name": "moxidectin 10 MG/ML Injectable Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1251582",
+              "name": "imidacloprid 100 MG/ML / moxidectin 25 MG/ML Topical Solution",
+              "synonym": "imidacloprid 10 % / moxidectin 2.5 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1293397",
+              "name": "imidacloprid 100 MG/ML / moxidectin 10 MG/ML Topical Solution",
+              "synonym": "imidacloprid 10 % / moxidectin 1 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1367284",
+              "name": "moxidectin 0.02 MG/MG Oral Gel",
+              "synonym": "moxidectin 2 % Oral Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1488362",
+              "name": "moxidectin 0.02 MG/MG / praziquantel 0.125 MG/MG Oral Gel",
+              "synonym": "moxidectin 2 % / praziquantel 12.5 % Oral Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1551501",
+              "name": "moxidectin 3.4 MG/ML Injectable Suspension",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2049015",
+              "name": "moxidectin 2 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2178774",
+              "name": "moxidectin 10 MG/ML Injectable Suspension",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2281736",
+              "name": "moxidectin 0.24 MG / pyrantel pamoate 50 MG / sarolaner 12 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2281747",
+              "name": "moxidectin 0.48 MG / pyrantel pamoate 100 MG / sarolaner 24 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2281753",
+              "name": "moxidectin 0.06 MG / pyrantel pamoate 12.5 MG / sarolaner 3 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2281759",
+              "name": "moxidectin 0.96 MG / pyrantel pamoate 200 MG / sarolaner 48 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2281765",
+              "name": "moxidectin 0.12 MG / pyrantel pamoate 25 MG / sarolaner 6 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2281771",
+              "name": "moxidectin 1.44 MG / pyrantel pamoate 300 MG / sarolaner 72 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2642684",
+              "name": "afoxolaner 150 MG / moxidectin 0.72 MG / pyrantel pamoate 300 MG Chewable Tablet",
+              "synonym": "afoxolaner 150 MG / moxidectin 0.72 MG / pyrantel pamoate 300 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2642695",
+              "name": "afoxolaner 18.75 MG / moxidectin 0.09 MG / pyrantel pamoate 37.5 MG Chewable Tablet",
+              "synonym": "afoxolaner 18.75 MG / moxidectin 0.09 MG / pyrantel pamoate 37.5 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2642705",
+              "name": "afoxolaner 37.5 MG / moxidectin 0.18 MG / pyrantel pamoate 75 MG Chewable Tablet",
+              "synonym": "afoxolaner 37.5 MG / moxidectin 0.18 MG / pyrantel pamoate 75 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2642711",
+              "name": "afoxolaner 75 MG / moxidectin 0.36 MG / pyrantel pamoate 150 MG Chewable Tablet",
+              "synonym": "afoxolaner 75 MG / moxidectin 0.36 MG / pyrantel pamoate 150 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2669727",
+              "name": "afoxolaner 9.375 MG / moxidectin 0.045 MG / pyrantel pamoate 18.75 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2679860",
+              "name": "fluralaner 280 MG/ML / moxidectin 14 MG/ML Topical Solution",
+              "synonym": "fluralaner 280 MG/ML / moxidectin 14 MG/ML Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:00:01.030577",
+  "source": "RxNorm"
+}

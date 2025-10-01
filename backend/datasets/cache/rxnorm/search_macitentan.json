@@ -1,0 +1,82 @@
+{
+  "query": "Macitentan",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1442143",
+              "name": "macitentan 10 MG Oral Tablet [Opsumit]",
+              "synonym": "Opsumit 10 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2677771",
+              "name": "macitentan 10 MG / tadalafil 20 MG Oral Tablet [Opsynvi]",
+              "synonym": "Opsynvi (macitentan 10 MG / tadalafil 20 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2677775",
+              "name": "macitentan 10 MG / tadalafil 40 MG Oral Tablet [Opsynvi]",
+              "synonym": "Opsynvi (macitentan 10 MG / tadalafil 40 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1442137",
+              "name": "macitentan 10 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2677765",
+              "name": "macitentan 10 MG / tadalafil 20 MG Oral Tablet",
+              "synonym": "macitentan 10 MG / tadalafil 20 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2677773",
+              "name": "macitentan 10 MG / tadalafil 40 MG Oral Tablet",
+              "synonym": "macitentan 10 MG / tadalafil 40 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:08:28.247470",
+  "source": "RxNorm"
+}

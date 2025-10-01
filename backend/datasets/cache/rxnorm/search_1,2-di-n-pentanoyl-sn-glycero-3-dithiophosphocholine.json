@@ -1,0 +1,10 @@
+{
+  "query": "1,2-Di-N-Pentanoyl-Sn-Glycero-3-Dithiophosphocholine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:48:15.452481",
+  "source": "RxNorm"
+}

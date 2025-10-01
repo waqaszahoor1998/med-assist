@@ -1,0 +1,24 @@
+{
+  "query": "Oxothiazolidinecarboxylic acid",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD"
+        },
+        {
+          "tty": "SCD"
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:45:50.636340",
+  "source": "RxNorm"
+}

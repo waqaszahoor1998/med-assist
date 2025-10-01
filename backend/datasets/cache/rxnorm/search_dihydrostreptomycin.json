@@ -1,0 +1,46 @@
+{
+  "query": "Dihydrostreptomycin",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1549551",
+              "name": "10 ML dihydrostreptomycin 100 MG/ML / penicillin G procaine 100000 UNT/ML Prefilled Syringe [Quartermaster]",
+              "synonym": "Quartermaster (dihydrostreptomycin (as dihydrostreptomycin sulfate) 1 GM / penicillin G procaine 1,000,000 UNT) per 10 ML Prefilled Syringe",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1549546",
+              "name": "10 ML dihydrostreptomycin 100 MG/ML / penicillin G procaine 100000 UNT/ML Prefilled Syringe",
+              "synonym": "dihydrostreptomycin (as dihydrostreptomycin sulfate) 1 GM / penicillin G procaine 1,000,000 UNT per 10 ML Prefilled Syringe",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:05:10.080868",
+  "source": "RxNorm"
+}

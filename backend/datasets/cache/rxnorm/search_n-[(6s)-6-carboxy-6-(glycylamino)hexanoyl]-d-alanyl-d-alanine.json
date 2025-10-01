@@ -1,0 +1,10 @@
+{
+  "query": "N-[(6S)-6-Carboxy-6-(glycylamino)hexanoyl]-D-alanyl-D-alanine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:03:23.349699",
+  "source": "RxNorm"
+}

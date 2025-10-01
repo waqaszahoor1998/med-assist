@@ -1,0 +1,10 @@
+{
+  "query": "(2R)-1-{4-[(4-Anilino-5-bromo-2-pyrimidinyl)amino]phenoxy}-3-(dimethylamino)-2-propanol",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:46:14.993382",
+  "source": "RxNorm"
+}

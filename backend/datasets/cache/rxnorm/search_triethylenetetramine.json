@@ -1,0 +1,91 @@
+{
+  "query": "Triethylenetetramine",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "208720",
+              "name": "trientine hydrochloride 250 MG Oral Capsule [Syprine]",
+              "synonym": "Syprine 250 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2261800",
+              "name": "trientine hydrochloride 250 MG Oral Capsule [Clovique]",
+              "synonym": "Clovique 250 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2611550",
+              "name": "trientine tetrahydrochloride 300 MG Oral Tablet [Cuvrior]",
+              "synonym": "Cuvrior 300 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "105792",
+              "name": "trientine 300 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2611544",
+              "name": "trientine tetrahydrochloride 300 MG Oral Tablet",
+              "synonym": "trientine tetrahydrochloride (as trientine 150 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2619912",
+              "name": "trientine hydrochloride 500 MG Oral Capsule",
+              "synonym": "trientine HCl 500 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "313472",
+              "name": "trientine hydrochloride 250 MG Oral Capsule",
+              "synonym": "trientine HCl 250 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:40:35.092141",
+  "source": "RxNorm"
+}

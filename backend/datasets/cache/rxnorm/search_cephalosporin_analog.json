@@ -1,0 +1,10 @@
+{
+  "query": "Cephalosporin analog",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:44:32.800238",
+  "source": "RxNorm"
+}

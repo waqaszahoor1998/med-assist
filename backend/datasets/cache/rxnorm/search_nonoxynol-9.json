@@ -1,0 +1,172 @@
+{
+  "query": "Nonoxynol-9",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1250090",
+              "name": "nonoxynol-9 0.03 MG/MG Vaginal Gel [Gynol II]",
+              "synonym": "Gynol II 0.03 MG/MG Vaginal Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1597814",
+              "name": "nonoxynol-9 0.04 MG/MG Vaginal Gel [VCF Contraceptive]",
+              "synonym": "VCF Vaginal Contraceptive 4 % Vaginal Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1788961",
+              "name": "nonoxynol-9 280 MG Vaginal Film [VCF Contraceptive]",
+              "synonym": "VCF Contraceptive 28 % Vaginal Film",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "608940",
+              "name": "nonoxynol-9 125 MG/ML Vaginal Foam [VCF Contraceptive]",
+              "synonym": "VCF Contraceptive 12.5 % Vaginal Foam",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "809441",
+              "name": "nonoxynol-9 0.02 MG/MG Vaginal Gel [Gynol II]",
+              "synonym": "Gynol II 2 % Vaginal Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "845305",
+              "name": "nonoxynol-9 0.04 MG/MG Vaginal Gel [Conceptrol]",
+              "synonym": "Conceptrol 4 % Vaginal Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "884378",
+              "name": "nonoxynol-9 100 MG Vaginal Insert [Encare]",
+              "synonym": "Encare 100 MG Vaginal Insert",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1788958",
+              "name": "nonoxynol-9 280 MG Vaginal Film",
+              "synonym": "nonoxynol-9 28 % Vaginal Film",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198761",
+              "name": "nonoxynol-9 100 MG Vaginal Insert",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198762",
+              "name": "nonoxynol-9 0.01 MG/MG Vaginal Gel",
+              "synonym": "nonoxynol-9 1 % Vaginal Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198764",
+              "name": "nonoxynol-9 20 MG/ML Vaginal Cream",
+              "synonym": "nonoxynol-9 2 % Vaginal Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198765",
+              "name": "nonoxynol-9 0.04 MG/MG Vaginal Gel",
+              "synonym": "nonoxynol-9 4 % Vaginal Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "199262",
+              "name": "nonoxynol-9 0.022 MG/MG Vaginal Gel",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "238021",
+              "name": "nonoxynol-9 0.02 MG/MG Vaginal Gel",
+              "synonym": "nonoxynol-9 2 % Vaginal Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "312028",
+              "name": "nonoxynol-9 125 MG/ML Vaginal Foam",
+              "synonym": "nonoxynol-9 12.5 % Vaginal Foam",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "312029",
+              "name": "nonoxynol-9 0.03 MG/MG Vaginal Gel",
+              "synonym": "nonoxynol-9 3 % Vaginal Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:39:07.282697",
+  "source": "RxNorm"
+}

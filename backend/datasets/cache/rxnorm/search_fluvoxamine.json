@@ -1,0 +1,71 @@
+{
+  "query": "Fluvoxamine",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD"
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "903873",
+              "name": "24 HR fluvoxamine maleate 100 MG Extended Release Oral Capsule",
+              "synonym": "fluvoxamine maleate 100 MG 24 HR Extended Release Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "903879",
+              "name": "24 HR fluvoxamine maleate 150 MG Extended Release Oral Capsule",
+              "synonym": "fluvoxamine maleate 150 MG 24 HR Extended Release Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "903884",
+              "name": "fluvoxamine maleate 100 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "903887",
+              "name": "fluvoxamine maleate 25 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "903891",
+              "name": "fluvoxamine maleate 50 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T20:59:28.983538",
+  "source": "RxNorm"
+}

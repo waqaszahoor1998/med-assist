@@ -1,0 +1,25 @@
+{
+  "drug_name": "Laninamivir octanoate",
+  "generic_name": [
+    "Laninamivir octanoate"
+  ],
+  "brand_names": [],
+  "drug_interactions": [],
+  "warnings": [
+    "WARNINGS AZELEX \u00ae Cream is for dermatologic use only and not for ophthalmic use. There have been isolated reports of hypopigmentation after use of azelaic acid. Since azelaic acid has not been well studied in patients with dark complexions, these patients should be monitored for early signs of hypopigmentation."
+  ],
+  "adverse_reactions": [
+    "ADVERSE REACTIONS During U.S. clinical trials with AZELEX \u00ae Cream, adverse reactions were generally mild and transient in nature. The most common adverse reactions occurring in approximately 1-5% of patients were pruritus, burning, stinging and tingling. Other adverse reactions such as erythema, dryness, rash, peeling, irritation, dermatitis, and contact dermatitis were reported in less than 1% of subjects. There is the potential for experiencing allergic reactions with use of AZELEX \u00ae Cream. In patients using azelaic acid formulations, the following additional adverse experiences have been reported rarely: worsening of asthma, vitiligo depigmentation, small depigmented spots, hypertrichosis, reddening (signs of keratosis pilaris), and exacerbation of recurrent herpes labialis."
+  ],
+  "contraindications": [
+    "CONTRAINDICATIONS AZELEX \u00ae Cream is contraindicated in individuals who have shown hypersensitivity to any of its components."
+  ],
+  "dosage_administration": [
+    "DOSAGE AND ADMINISTRATION After the skin is thoroughly washed and patted dry, a thin film of AZELEX \u00ae Cream should be gently but thoroughly massaged into the affected areas twice daily, in the morning and evening. The hands should be washed following application. The duration of use of AZELEX \u00ae Cream can vary from person to person and depends on the severity of the acne. Improvement of the condition occurs in the majority of patients with inflammatory lesions within four weeks."
+  ],
+  "indications": [
+    "INDICATIONS AND USAGE AZELEX \u00ae Cream is indicated for the topical treatment of mild-to-moderate inflammatory acne vulgaris."
+  ],
+  "fetched_at": "2025-10-01T18:26:07.567509",
+  "source": "OpenFDA"
+}

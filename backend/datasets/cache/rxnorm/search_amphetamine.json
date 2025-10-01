@@ -1,0 +1,649 @@
+{
+  "query": "Amphetamine",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1009147",
+              "name": "amphetamine aspartate 1.875 MG / amphetamine sulfate 1.875 MG / dextroamphetamine saccharate 1.875 MG / dextroamphetamine sulfate 1.875 MG Oral Tablet [Adderall]",
+              "synonym": "Adderall 7.5 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1600698",
+              "name": "amphetamine sulfate 10 MG Oral Tablet [Evekeo]",
+              "synonym": "Evekeo 10 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1600700",
+              "name": "amphetamine sulfate 5 MG Oral Tablet [Evekeo]",
+              "synonym": "Evekeo 5 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1720592",
+              "name": "24 HR amphetamine 2.5 MG/ML Extended Release Suspension [Dyanavel]",
+              "synonym": "24 HR Dyanavel 2.5 MG/ML Extended Release Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1739809",
+              "name": "24 HR amphetamine 12.5 MG Extended Release Oral Tablet [Adzenys]",
+              "synonym": "Adzenys 12.5 MG 24 HR Extended Release Distintegrating Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1739815",
+              "name": "24 HR amphetamine 15.7 MG Extended Release Oral Tablet [Adzenys]",
+              "synonym": "Adzenys 15.7 MG 24 HR Extended Release Distintegrating Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1739821",
+              "name": "24 HR amphetamine 18.8 MG Extended Release Oral Tablet [Adzenys]",
+              "synonym": "Adzenys 18.8 MG 24 HR Extended Release Distintegrating Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1739827",
+              "name": "24 HR amphetamine 3.1 MG Extended Release Oral Tablet [Adzenys]",
+              "synonym": "Adzenys 3.1 MG 24 HR Extended Release Distintegrating Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1739833",
+              "name": "24 HR amphetamine 6.3 MG Extended Release Oral Tablet [Adzenys]",
+              "synonym": "Adzenys 6.3 MG 24 HR Extended Release Distintegrating Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1739839",
+              "name": "24 HR amphetamine 9.4 MG Extended Release Oral Tablet [Adzenys]",
+              "synonym": "Adzenys 9.4 MG 24 HR Extended Release Distintegrating Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1927616",
+              "name": "3-Bead 24 HR amphetamine aspartate 12.5 MG / amphetamine sulfate 12.5 MG / dextroamphetamine saccharate 12.5 MG / dextroamphetamine sulfate 12.5 MG Extended Release Oral Capsule [Mydayis]",
+              "synonym": "Mydayis 50 MG 24HR Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1927619",
+              "name": "3-Bead 24 HR amphetamine aspartate 6.25 MG / amphetamine sulfate 6.25 MG / dextroamphetamine saccharate 6.25 MG / dextroamphetamine sulfate 6.25 MG Extended Release Oral Capsule [Mydayis]",
+              "synonym": "Mydayis 25 MG 24HR Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1927632",
+              "name": "3-Bead 24 HR amphetamine aspartate 3.125 MG / amphetamine sulfate 3.125 MG / dextroamphetamine saccharate 3.125 MG / dextroamphetamine sulfate 3.125 MG Extended Release Oral Capsule [Mydayis]",
+              "synonym": "Mydayis 12.5 MG 24HR Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1927639",
+              "name": "3-Bead 24 HR amphetamine aspartate 9.375 MG / amphetamine sulfate 9.375 MG / dextroamphetamine saccharate 9.375 MG / dextroamphetamine sulfate 9.375 MG Extended Release Oral Capsule [Mydayis]",
+              "synonym": "Mydayis 37.5 MG 24HR Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2175796",
+              "name": "amphetamine sulfate 10 MG Disintegrating Oral Tablet [Evekeo]",
+              "synonym": "Evekeo ODT 10 MG Disintegrating Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2175891",
+              "name": "amphetamine sulfate 15 MG Disintegrating Oral Tablet [Evekeo]",
+              "synonym": "Evekeo ODT 15 MG Disintegrating Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2175893",
+              "name": "amphetamine sulfate 20 MG Disintegrating Oral Tablet [Evekeo]",
+              "synonym": "Evekeo ODT 20 MG Disintegrating Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2175894",
+              "name": "amphetamine sulfate 5 MG Disintegrating Oral Tablet [Evekeo]",
+              "synonym": "Evekeo ODT 5 MG Disintegrating Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2585461",
+              "name": "24 HR amphetamine 10 MG Extended Release Oral Tablet [Dyanavel]",
+              "synonym": "Dyanavel 10 MG 24 HR Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2585465",
+              "name": "24 HR amphetamine 15 MG Extended Release Oral Tablet [Dyanavel]",
+              "synonym": "Dyanavel 15 MG 24 HR Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2585471",
+              "name": "24 HR amphetamine 20 MG Extended Release Oral Tablet [Dyanavel]",
+              "synonym": "Dyanavel 20 MG 24 HR Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2585476",
+              "name": "24 HR amphetamine 5 MG Extended Release Oral Tablet [Dyanavel]",
+              "synonym": "Dyanavel 5 MG 24 HR Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "541365",
+              "name": "amphetamine aspartate 7.5 MG / amphetamine sulfate 7.5 MG / dextroamphetamine saccharate 7.5 MG / dextroamphetamine sulfate 7.5 MG Oral Tablet [Adderall]",
+              "synonym": "Adderall 30 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "541879",
+              "name": "amphetamine aspartate 1.25 MG / amphetamine sulfate 1.25 MG / dextroamphetamine saccharate 1.25 MG / dextroamphetamine sulfate 1.25 MG Oral Tablet [Adderall]",
+              "synonym": "Adderall 5 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "541894",
+              "name": "amphetamine aspartate 2.5 MG / amphetamine sulfate 2.5 MG / dextroamphetamine saccharate 2.5 MG / dextroamphetamine sulfate 2.5 MG Oral Tablet [Adderall]",
+              "synonym": "Adderall 10 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "577960",
+              "name": "amphetamine aspartate 3.75 MG / amphetamine sulfate 3.75 MG / dextroamphetamine saccharate 3.75 MG / dextroamphetamine sulfate 3.75 MG Oral Tablet [Adderall]",
+              "synonym": "Adderall 15 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "577962",
+              "name": "amphetamine aspartate 5 MG / amphetamine sulfate 5 MG / dextroamphetamine saccharate 5 MG / dextroamphetamine sulfate 5 MG Oral Tablet [Adderall]",
+              "synonym": "Adderall 20 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "687045",
+              "name": "amphetamine aspartate 3.125 MG / amphetamine sulfate 3.125 MG / dextroamphetamine saccharate 3.125 MG / dextroamphetamine sulfate 3.125 MG Oral Tablet [Adderall]",
+              "synonym": "Adderall 12.5 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "861222",
+              "name": "24 HR amphetamine aspartate 2.5 MG / amphetamine sulfate 2.5 MG / dextroamphetamine saccharate 2.5 MG / dextroamphetamine sulfate 2.5 MG Extended Release Oral Capsule [Adderall]",
+              "synonym": "Adderall XR 10 MG 24 HR Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "861224",
+              "name": "24 HR amphetamine aspartate 3.75 MG / amphetamine sulfate 3.75 MG / dextroamphetamine saccharate 3.75 MG / dextroamphetamine sulfate 3.75 MG Extended Release Oral Capsule [Adderall]",
+              "synonym": "Adderall XR 15 MG 24 HR Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "861226",
+              "name": "24 HR amphetamine aspartate 5 MG / amphetamine sulfate 5 MG / dextroamphetamine saccharate 5 MG / dextroamphetamine sulfate 5 MG Extended Release Oral Capsule [Adderall]",
+              "synonym": "Adderall XR 20 MG 24 HR Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "861228",
+              "name": "24 HR amphetamine aspartate 6.25 MG / amphetamine sulfate 6.25 MG / dextroamphetamine saccharate 6.25 MG / dextroamphetamine sulfate 6.25 MG Extended Release Oral Capsule [Adderall]",
+              "synonym": "Adderall XR 25 MG 24 HR Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "861233",
+              "name": "24 HR amphetamine aspartate 7.5 MG / amphetamine sulfate 7.5 MG / dextroamphetamine saccharate 7.5 MG / dextroamphetamine sulfate 7.5 MG Extended Release Oral Capsule [Adderall]",
+              "synonym": "Adderall XR 30 MG 24 HR Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "861238",
+              "name": "24 HR amphetamine aspartate 1.25 MG / amphetamine sulfate 1.25 MG / dextroamphetamine saccharate 1.25 MG / dextroamphetamine sulfate 1.25 MG Extended Release Oral Capsule [Adderall]",
+              "synonym": "Adderall XR 5 MG 24 HR Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1009145",
+              "name": "amphetamine aspartate 1.875 MG / amphetamine sulfate 1.875 MG / dextroamphetamine saccharate 1.875 MG / dextroamphetamine sulfate 1.875 MG Oral Tablet",
+              "synonym": "mixed amphetamine salts 7.5 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1600695",
+              "name": "amphetamine sulfate 10 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1720586",
+              "name": "24 HR amphetamine 2.5 MG/ML Extended Release Suspension",
+              "synonym": "amphetamine 2.5 MG/ML 24 HR Extended Release Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1739803",
+              "name": "24 HR amphetamine 12.5 MG Extended Release Oral Tablet",
+              "synonym": "amphetamine 12.5 MG 24 HR Extended Release Distintegrating Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1739813",
+              "name": "24 HR amphetamine 15.7 MG Extended Release Oral Tablet",
+              "synonym": "amphetamine 15.7 MG 24 HR Extended Release Distintegrating Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1739819",
+              "name": "24 HR amphetamine 18.8 MG Extended Release Oral Tablet",
+              "synonym": "amphetamine 18.8 MG 24 HR Extended Release Distintegrating Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1739825",
+              "name": "24 HR amphetamine 3.1 MG Extended Release Oral Tablet",
+              "synonym": "amphetamine 3.1 MG 24 HR Extended Release Distintegrating Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1739831",
+              "name": "24 HR amphetamine 6.3 MG Extended Release Oral Tablet",
+              "synonym": "amphetamine 6.3 MG 24 HR Extended Release Distintegrating Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1739837",
+              "name": "24 HR amphetamine 9.4 MG Extended Release Oral Tablet",
+              "synonym": "amphetamine 9.4 MG 24 HR Extended Release Distintegrating Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1927610",
+              "name": "3-Bead 24 HR amphetamine aspartate 12.5 MG / amphetamine sulfate 12.5 MG / dextroamphetamine saccharate 12.5 MG / dextroamphetamine sulfate 12.5 MG Extended Release Oral Capsule",
+              "synonym": "amphetamine aspartate 12.5 MG / amphetamine sulfate 12.5 MG / dextroamphetamine saccharate 12.5 MG / dextroamphetamine sulfate 12.5 MG 3-Bead 24HR Extended Release Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1927617",
+              "name": "3-Bead 24 HR amphetamine aspartate 6.25 MG / amphetamine sulfate 6.25 MG / dextroamphetamine saccharate 6.25 MG / dextroamphetamine sulfate 6.25 MG Extended Release Oral Capsule",
+              "synonym": "amphetamine aspartate 6.25 MG / amphetamine sulfate 6.25 MG / dextroamphetamine saccharate 6.25 MG / dextroamphetamine sulfate 6.25 MG 3-Bead 24HR Extended Release Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1927630",
+              "name": "3-Bead 24 HR amphetamine aspartate 3.125 MG / amphetamine sulfate 3.125 MG / dextroamphetamine saccharate 3.125 MG / dextroamphetamine sulfate 3.125 MG Extended Release Oral Capsule",
+              "synonym": "amphetamine aspartate 3.125 MG / amphetamine sulfate 3.125 MG / dextroamphetamine saccharate 3.125 MG / dextroamphetamine sulfate 3.125 MG 3-Bead 24HR Extended Release Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1927637",
+              "name": "3-Bead 24 HR amphetamine aspartate 9.375 MG / amphetamine sulfate 9.375 MG / dextroamphetamine saccharate 9.375 MG / dextroamphetamine sulfate 9.375 MG Extended Release Oral Capsule",
+              "synonym": "amphetamine aspartate 9.375 MG / amphetamine sulfate 9.375 MG / dextroamphetamine saccharate 9.375 MG / dextroamphetamine sulfate 9.375 MG 3-Bead 24HR Extended Release Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1945840",
+              "name": "amphetamine 1.25 MG/ML Extended Release Suspension",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2118895",
+              "name": "amphetamine sulfate 5 MG Disintegrating Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2118896",
+              "name": "amphetamine sulfate 10 MG Disintegrating Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2118898",
+              "name": "amphetamine sulfate 15 MG Disintegrating Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2118900",
+              "name": "amphetamine sulfate 20 MG Disintegrating Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2585460",
+              "name": "24 HR amphetamine 10 MG Extended Release Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2585462",
+              "name": "24 HR amphetamine 15 MG Extended Release Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2585468",
+              "name": "24 HR amphetamine 20 MG Extended Release Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2585473",
+              "name": "24 HR amphetamine 5 MG Extended Release Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "541363",
+              "name": "amphetamine aspartate 7.5 MG / amphetamine sulfate 7.5 MG / dextroamphetamine saccharate 7.5 MG / dextroamphetamine sulfate 7.5 MG Oral Tablet",
+              "synonym": "mixed amphetamine salts 30 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "541878",
+              "name": "amphetamine aspartate 1.25 MG / amphetamine sulfate 1.25 MG / dextroamphetamine saccharate 1.25 MG / dextroamphetamine sulfate 1.25 MG Oral Tablet",
+              "synonym": "mixed amphetamine salts 5 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "541892",
+              "name": "amphetamine aspartate 2.5 MG / amphetamine sulfate 2.5 MG / dextroamphetamine saccharate 2.5 MG / dextroamphetamine sulfate 2.5 MG Oral Tablet",
+              "synonym": "mixed amphetamine salts 10 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "577957",
+              "name": "amphetamine aspartate 3.75 MG / amphetamine sulfate 3.75 MG / dextroamphetamine saccharate 3.75 MG / dextroamphetamine sulfate 3.75 MG Oral Tablet",
+              "synonym": "mixed amphetamine salts 15 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "577961",
+              "name": "amphetamine aspartate 5 MG / amphetamine sulfate 5 MG / dextroamphetamine saccharate 5 MG / dextroamphetamine sulfate 5 MG Oral Tablet",
+              "synonym": "mixed amphetamine salts 20 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "687043",
+              "name": "amphetamine aspartate 3.125 MG / amphetamine sulfate 3.125 MG / dextroamphetamine saccharate 3.125 MG / dextroamphetamine sulfate 3.125 MG Oral Tablet",
+              "synonym": "mixed amphetamine salts 12.5 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "861221",
+              "name": "24 HR amphetamine aspartate 2.5 MG / amphetamine sulfate 2.5 MG / dextroamphetamine saccharate 2.5 MG / dextroamphetamine sulfate 2.5 MG Extended Release Oral Capsule",
+              "synonym": "amphetamine aspartate 2.5 MG / amphetamine sulfate 2.5 MG / dextroamphetamine saccharate 2.5 MG / dextroamphetamine sulfate 2.5 MG 24 HR Extended Release Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "861223",
+              "name": "24 HR amphetamine aspartate 3.75 MG / amphetamine sulfate 3.75 MG / dextroamphetamine saccharate 3.75 MG / dextroamphetamine sulfate 3.75 MG Extended Release Oral Capsule",
+              "synonym": "amphetamine aspartate 3.75 MG / amphetamine sulfate 3.75 MG / dextroamphetamine saccharate 3.75 MG / dextroamphetamine sulfate 3.75 MG 24 HR Extended Release Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "861225",
+              "name": "24 HR amphetamine aspartate 5 MG / amphetamine sulfate 5 MG / dextroamphetamine saccharate 5 MG / dextroamphetamine sulfate 5 MG Extended Release Oral Capsule",
+              "synonym": "amphetamine aspartate 5 MG / amphetamine sulfate 5 MG / dextroamphetamine saccharate 5 MG / dextroamphetamine sulfate 5 MG 24 HR Extended Release Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "861227",
+              "name": "24 HR amphetamine aspartate 6.25 MG / amphetamine sulfate 6.25 MG / dextroamphetamine saccharate 6.25 MG / dextroamphetamine sulfate 6.25 MG Extended Release Oral Capsule",
+              "synonym": "amphetamine aspartate 6.25 MG / amphetamine sulfate 6.25 MG / dextroamphetamine saccharate 6.25 MG / dextroamphetamine sulfate 6.25 MG 24 HR Extended Release Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "861232",
+              "name": "24 HR amphetamine aspartate 7.5 MG / amphetamine sulfate 7.5 MG / dextroamphetamine saccharate 7.5 MG / dextroamphetamine sulfate 7.5 MG Extended Release Oral Capsule",
+              "synonym": "amphetamine aspartate 7.5 MG / amphetamine sulfate 7.5 MG / dextroamphetamine saccharate 7.5 MG / dextroamphetamine sulfate 7.5 MG 24 HR Extended Release Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "861237",
+              "name": "24 HR amphetamine aspartate 1.25 MG / amphetamine sulfate 1.25 MG / dextroamphetamine saccharate 1.25 MG / dextroamphetamine sulfate 1.25 MG Extended Release Oral Capsule",
+              "synonym": "amphetamine aspartate 1.25 MG / amphetamine sulfate 1.25 MG / dextroamphetamine saccharate 1.25 MG / dextroamphetamine sulfate 1.25 MG 24 HR Extended Release Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "884655",
+              "name": "amphetamine sulfate 5 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T20:59:53.403185",
+  "source": "RxNorm"
+}

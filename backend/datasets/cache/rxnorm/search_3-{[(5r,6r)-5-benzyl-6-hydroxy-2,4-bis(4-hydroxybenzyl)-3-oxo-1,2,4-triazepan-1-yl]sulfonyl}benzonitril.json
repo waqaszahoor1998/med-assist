@@ -1,0 +1,10 @@
+{
+  "query": "3-{[(5R,6R)-5-Benzyl-6-hydroxy-2,4-bis(4-hydroxybenzyl)-3-oxo-1,2,4-triazepan-1-yl]sulfonyl}benzonitril",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:28:03.558968",
+  "source": "RxNorm"
+}

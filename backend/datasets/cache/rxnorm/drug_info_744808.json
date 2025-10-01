@@ -1,0 +1,16 @@
+{
+  "rxcui": "744808",
+  "properties": {
+    "properties": {
+      "rxcui": "744808",
+      "name": "doripenem 500 MG Injection",
+      "synonym": "doripenem (as doripenem monohydrate) 500 MG Injection",
+      "tty": "SCD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T16:14:00.896912",
+  "source": "RxNorm"
+}

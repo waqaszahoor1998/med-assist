@@ -1,0 +1,577 @@
+{
+  "query": "Magnesium hydroxide",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1040048",
+              "name": "aluminum hydroxide 40 MG/ML / magnesium hydroxide 40 MG/ML / simethicone 4 MG/ML Oral Suspension [Milantex]",
+              "synonym": "Milantex (aluminum hydroxide 200 MG / milk of magnesia 200 MG / simethicone 20 MG) per 5 ML Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1088243",
+              "name": "magnesium hydroxide 400 MG Chewable Tablet [Pedia-Lax Chewable]",
+              "synonym": "Pedia-Lax Chewable 400 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1235456",
+              "name": "aluminum magnesium silicate 200 MG / magnesium hydroxide 60 MG / simethicone 20 MG Oral Tablet [Inon Ace Tablet]",
+              "synonym": "Inon Ace Tablet (aluminum magnesium silicate 200 MG / magnesium hydroxide 60 MG / simethicone 20 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1246303",
+              "name": "aluminum magnesium silicate 30 MG/ML / magnesium hydroxide 8.33 MG/ML Oral Solution [Inon Ace Solution]",
+              "synonym": "Inon Ace Solution (aluminum magnesium silicate 30 MG/ML / magnesium hydroxide 8.33 MG/ML) Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1438107",
+              "name": "calcium carbonate 1000 MG / magnesium hydroxide 200 MG Chewable Tablet [Rolaids Reformulated Aug 2006]",
+              "synonym": "Rolaids Ultra (calcium carbonate 10000 MG / magnesium hydroxide 200 MG) Chewable Tablet, Reformulated Aug 2006",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1744398",
+              "name": "calcium carbonate 800 MG / famotidine 10 MG / magnesium hydroxide 165 MG Chewable Tablet [Duo Fusion]",
+              "synonym": "Duo Fusion (calcium carbonate 800 MG / famotidine 10 MG / magnesium hydroxide 165 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "210000",
+              "name": "aluminum hydroxide 80 MG/ML / magnesium hydroxide 80 MG/ML / simethicone 8 MG/ML Oral Suspension [Almacone]",
+              "synonym": "Almacone Double Strength 400 MG / 400 MG / 40 MG per 5 ML Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "210015",
+              "name": "aluminum hydroxide 40 MG/ML / magnesium hydroxide 40 MG/ML / simethicone 4 MG/ML Oral Suspension [Almacone]",
+              "synonym": "Almacone (aluminum hydroxide 40 MG/ML / magnesium hydroxide 40 MG/ML / simethicone 4 MG/ML) Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "210031",
+              "name": "aluminum hydroxide 40 MG/ML / magnesium hydroxide 40 MG/ML / simethicone 4 MG/ML Oral Suspension [Maalox Plus]",
+              "synonym": "Maalox Plus (aluminum hydroxide 40 MG / milk of magnesia 40 MG / simethicone 4 MG) per ML Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "210037",
+              "name": "aluminum hydroxide 40 MG/ML / magnesium hydroxide 40 MG/ML / simethicone 4 MG/ML Oral Suspension [Mintox Plus]",
+              "synonym": "Mintox Plus (aluminum hydroxide 40 MG/ML / magnesium hydroxide 40 MG/ML / simethicone 4 MG/ML) Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "210887",
+              "name": "magnesium hydroxide 80 MG/ML Oral Suspension [Phillips Milk of Magnesia]",
+              "synonym": "Phillips Milk of Magnesia 80 MG/ML Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "211633",
+              "name": "aluminum hydroxide 200 MG / magnesium hydroxide 200 MG / simethicone 25 MG Chewable Tablet [Gelusil]",
+              "synonym": "Gelusil (aluminum hydroxide 200 MG / magnesium hydroxide 200 MG / simethicone 25 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "211637",
+              "name": "aluminum hydroxide 200 MG / magnesium hydroxide 200 MG / simethicone 25 MG Chewable Tablet [Mintox Plus]",
+              "synonym": "Mintox (aluminum hydroxide 200 MG / magnesium hydroxide 200 MG / simethicone 25 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2705611",
+              "name": "magnesium hydroxide 1200 MG Chewable Tablet [Mirafast]",
+              "synonym": "Mirafast 1200 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "404176",
+              "name": "aluminum hydroxide 80 MG/ML / magnesium hydroxide 80 MG/ML / simethicone 8 MG/ML Oral Suspension [Maalox Max]",
+              "synonym": "Maalox Max (aluminum hydroxide 400 MG / milk of magnesia 400 MG / simethicone 40 MG) per 5 ML Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "642338",
+              "name": "calcium carbonate 550 MG / magnesium hydroxide 110 MG Chewable Tablet [Rolaids Reformulated Aug 2006]",
+              "synonym": "Rolaids Reformulated Aug 2006 (calcium carbonate 550 MG / magnesium hydroxide 110 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "642355",
+              "name": "calcium carbonate 675 MG / magnesium hydroxide 135 MG Chewable Tablet [Rolaids Reformulated Aug 2006]",
+              "synonym": "Rolaids Extra Strength (calcium carbonate 675 MG / magnesium hydroxide 135 MG) Chewable Tablet, Reformulated Aug 2006",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "643496",
+              "name": "aluminum hydroxide 80 MG/ML / magnesium hydroxide 80 MG/ML / simethicone 8 MG/ML Oral Suspension [Comfort Gel]",
+              "synonym": "Comfort Gel (aluminum hydroxide 400 MG / magnesium hydroxide 400 MG / simethicone 40 MG) per 5 ML Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "688892",
+              "name": "calcium carbonate 800 MG / famotidine 10 MG / magnesium hydroxide 165 MG Chewable Tablet [Pepcid Complete]",
+              "synonym": "Pepcid Complete (calcium carbonate 800 MG / famotidine 10 MG / magnesium hydroxide 165 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "708127",
+              "name": "aluminum hydroxide 80 MG/ML / magnesium hydroxide 80 MG/ML / simethicone 8 MG/ML Oral Suspension [Mintox Plus]",
+              "synonym": "Mintox (aluminum hydroxide 400 MG / milk of magnesia 400 MG / simethicone 40 MG) per 5 ML Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "845652",
+              "name": "magnesium hydroxide 160 MG/ML Oral Suspension [Phillips Milk of Magnesia]",
+              "synonym": "Phillips Milk of Magnesia 16 % Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "867497",
+              "name": "calcium carbonate 800 MG / famotidine 10 MG / magnesium hydroxide 165 MG Chewable Tablet [Tums Dual Action]",
+              "synonym": "Tums Dual Action (calcium carbonate 800 MG / famotidine 10 MG / milk of magnesia 165 MG) Chewable Tab",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "104015",
+              "name": "magnesium hydroxide 83 MG/ML Oral Suspension",
+              "synonym": "magnesium hydroxide 415 MG per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "104024",
+              "name": "aluminum hydroxide 600 MG / magnesium hydroxide 300 MG Oral Tablet",
+              "synonym": "aluminum hydroxide 600 MG / milk of magnesia 300 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1235450",
+              "name": "aluminum magnesium silicate 200 MG / magnesium hydroxide 60 MG / simethicone 20 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1246297",
+              "name": "aluminum magnesium silicate 30 MG/ML / magnesium hydroxide 8.33 MG/ML Oral Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1376207",
+              "name": "aluminum hydroxide 160 MG / magnesium hydroxide 105 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1438105",
+              "name": "calcium carbonate 1000 MG / magnesium hydroxide 200 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1549966",
+              "name": "calcium carbonate 200 MG/ML / magnesium hydroxide 40 MG/ML Oral Suspension",
+              "synonym": "calcium carbonate 1000 MG / magnesium hydroxide 200 MG per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1607295",
+              "name": "calcium carbonate 1330 MG / magnesium hydroxide 235 MG Chewable Tablet",
+              "synonym": "calcium carbonate 1330 MG (Ca 535 MG) / magnesium hydroxide 235 MG (Mg 100 MG) Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1649510",
+              "name": "calcium carbonate 1000 MG / magnesium hydroxide 200 MG / simethicone 40 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1788932",
+              "name": "calcium carbonate 80 MG/ML / magnesium hydroxide 27 MG/ML / simethicone 8 MG/ML Oral Suspension",
+              "synonym": "calcium carbonate 800 MG / magnesium hydroxide 270 MG / simethicone 80 MG per 10 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198993",
+              "name": "magnesium hydroxide 50 MG / malic acid 200 MG Oral Tablet",
+              "synonym": "millk of magnesia 50 MG / malic acid 200 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "204760",
+              "name": "magnesium hydroxide 160 MG/ML Oral Suspension",
+              "synonym": "milk of magnesia 16 % Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "205233",
+              "name": "calcium carbonate 700 MG / magnesium hydroxide 300 MG Chewable Tablet",
+              "synonym": "calcium carbonate 700 MG / milk of magnesia 300 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2280709",
+              "name": "magnesium hydroxide 1200 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2281844",
+              "name": "calcium carbonate 120 MG/ML / magnesium hydroxide 27 MG/ML / simethicone 8 MG/ML Oral Suspension",
+              "synonym": "calcium carbonate 1200 MG / magnesium hydroxide 270 MG / simethicone 80 MG per 10 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2282016",
+              "name": "calcium carbonate 1330 MG / magnesium hydroxide 235 MG / simethicone 40 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "237865",
+              "name": "calcium carbonate 80 MG/ML / magnesium hydroxide 27 MG/ML Oral Suspension",
+              "synonym": "calcium carbonate 400 MG / milk of magnesia 135 MG per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "237870",
+              "name": "aluminum hydroxide 80 MG/ML / magnesium hydroxide 80 MG/ML / simethicone 8 MG/ML Oral Suspension",
+              "synonym": "aluminum hydroxide 400 MG / magnesium hydroxide 400 MG / simethicone 40 MG per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "242189",
+              "name": "magnesium hydroxide 311 MG Oral Tablet",
+              "synonym": "milk of magnesia 311 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "242623",
+              "name": "calcium carbonate 550 MG / magnesium hydroxide 110 MG Chewable Tablet",
+              "synonym": "calcium carbonate 550 MG / milk of magnesia 110 MG Chewable Tab",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "243463",
+              "name": "aluminum hydroxide 40 MG/ML / magnesium hydroxide 40 MG/ML Oral Suspension",
+              "synonym": "aluminum hydroxide 200 MG / milk of magnesia 200 MG per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "245346",
+              "name": "aluminum hydroxide 100 MG/ML / magnesium hydroxide 100 MG/ML Oral Suspension",
+              "synonym": "aluminum hydroxide 500 MG / milk of magnesia 500 MG per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "251288",
+              "name": "aluminum hydroxide 44 MG/ML / magnesium hydroxide 39 MG/ML Oral Suspension",
+              "synonym": "aluminum hydroxide 220 MG / milk of magnesia 195 MG per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "253017",
+              "name": "magnesium hydroxide 80 MG/ML Oral Suspension",
+              "synonym": "milk of magnesia 8 % Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2556794",
+              "name": "calcium carbonate 1000 MG / magnesium hydroxide 270 MG / simethicone 80 MG Chewable Tablet",
+              "synonym": "calcium carbonate 1000 MG / magnesium hydroxide 270 MG / dimethicone 80 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2602839",
+              "name": "magnesium hydroxide 600 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "283641",
+              "name": "calcium carbonate 800 MG / famotidine 10 MG / magnesium hydroxide 165 MG Chewable Tablet",
+              "synonym": "calcium carbonate 800 MG / famotidine 10 MG / milk of magnesia 165 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "307746",
+              "name": "aluminum hydroxide 40 MG/ML / magnesium hydroxide 40 MG/ML / simethicone 4 MG/ML Oral Suspension",
+              "synonym": "aluminum hydroxide 200 MG / milk of magnesia 200 MG / dimethicone 20 MG per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "307747",
+              "name": "aluminum hydroxide 200 MG / magnesium hydroxide 200 MG / simethicone 25 MG Chewable Tablet",
+              "synonym": "aluminum hydroxide 200 MG / milk of magnesia 200 MG / simethicone 25 MG Chewable Tab",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308085",
+              "name": "aluminum hydroxide 120 MG/ML / magnesium hydroxide 60 MG/ML Oral Suspension",
+              "synonym": "aluminum hydroxide 600 MG / milk of magnesia 300 MG per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308841",
+              "name": "calcium carbonate 280 MG / magnesium hydroxide 128 MG / simethicone 20 MG Chewable Tablet",
+              "synonym": "calcium carbonate 280 MG (calcium 112 MG) / milk of magnesia 128 MG / simethicone 20 MG Chewable Tab",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "311427",
+              "name": "magnesium hydroxide 311 MG Chewable Tablet",
+              "synonym": "milk of magnesia 311 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "314087",
+              "name": "magnesium hydroxide 240 MG/ML Oral Suspension",
+              "synonym": "milk of magnesia 240 MG/ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "422163",
+              "name": "aluminum hydroxide 35 MG/ML / magnesium hydroxide 40 MG/ML Oral Suspension",
+              "synonym": "aluminum hydroxide 175 MG / milk of magnesia 200 MG per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "476549",
+              "name": "calcium carbonate 675 MG / magnesium hydroxide 135 MG Chewable Tablet",
+              "synonym": "calcium carbonate 675 MG / milk of magnesia 135 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "476553",
+              "name": "calcium carbonate 675 MG / magnesium hydroxide 135 MG / simethicone 60 MG Chewable Tablet",
+              "synonym": "calcium carbonate 675 MG / milk of magnesia 135 MG / simethicone 60 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "645295",
+              "name": "magnesium hydroxide 700 MG / omeprazole 20 MG / sodium bicarbonate 600 MG Chewable Tablet",
+              "synonym": "Magnesium Hydroxide 700 MG / Omeprazole 20 MG / NaHCO3 600 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "645296",
+              "name": "magnesium hydroxide 700 MG / omeprazole 40 MG / sodium bicarbonate 600 MG Chewable Tablet",
+              "synonym": "Magnesium Hydroxide 700 MG / Omeprazole 40 MG / NaHCO3 600 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "790436",
+              "name": "magnesium hydroxide 400 MG Chewable Tablet",
+              "synonym": "milk of magnesia 400 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:20:54.293702",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "CNS-5161",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:05:40.320205",
+  "source": "RxNorm"
+}

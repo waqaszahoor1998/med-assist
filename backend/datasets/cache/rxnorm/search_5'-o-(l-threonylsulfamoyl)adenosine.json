@@ -1,0 +1,10 @@
+{
+  "query": "5'-O-(L-Threonylsulfamoyl)adenosine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:38:43.443123",
+  "source": "RxNorm"
+}

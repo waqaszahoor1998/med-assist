@@ -1,0 +1,10 @@
+{
+  "query": "N-[(benzyloxy)carbonyl]-L-leucyl-N-[(1S)-3-fluoro-1-(4-hydroxybenzyl)-2-oxopropyl]-L-leucinamide",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:35:08.724827",
+  "source": "RxNorm"
+}

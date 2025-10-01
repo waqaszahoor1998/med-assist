@@ -1,0 +1,10 @@
+{
+  "query": "4-[(10s,14s,18s)-18-(2-Amino-2-Oxoethyl)-14-(1-Naphthylmethyl)-8,17,20-Trioxo-7,16,19-Triazaspiro[5.14]Icos-11-En-10-Yl]Benzylphosphonic Acid",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:34:43.463736",
+  "source": "RxNorm"
+}

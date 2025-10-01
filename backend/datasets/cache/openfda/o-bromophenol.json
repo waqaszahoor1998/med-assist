@@ -1,0 +1,23 @@
+{
+  "drug_name": "o-Bromophenol",
+  "generic_name": [
+    "HOMOSALATE, OCTINOXATE, PADIMATE O, OXYBENZONE"
+  ],
+  "brand_names": [
+    "Aruba Aloe Very Water Resistant Sunscreen - For Faces SPF 30"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    "Warnings For external use only. When using this product keep out of eyes, rinse with water to remove. Stop using and ask a doctor if rash or irritation develops and lasts Keep out of reach of children"
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    "Directions Apply generously before sun exposure and as needed Children under 6 months of age; ask a doctor."
+  ],
+  "indications": [
+    "Uses Helps prevent sunburn Higher SPF gives more sunburn protection Retains SPF after 80 minutes of activity in the water or perspiring"
+  ],
+  "fetched_at": "2025-10-01T15:32:50.283900",
+  "source": "OpenFDA"
+}

@@ -1,0 +1,16 @@
+{
+  "rxcui": "238470",
+  "properties": {
+    "properties": {
+      "rxcui": "238470",
+      "name": "sodium hydroxide 100 MG/ML Topical Solution",
+      "synonym": "sodium hydroxide 10 % Topical Solution",
+      "tty": "SCD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T17:47:08.842413",
+  "source": "RxNorm"
+}

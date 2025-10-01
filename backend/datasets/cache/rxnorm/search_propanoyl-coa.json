@@ -1,0 +1,10 @@
+{
+  "query": "Propanoyl-CoA",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:17:43.033708",
+  "source": "RxNorm"
+}

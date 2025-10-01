@@ -1,0 +1,10 @@
+{
+  "query": "RWJ-51084",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:33:31.457204",
+  "source": "RxNorm"
+}

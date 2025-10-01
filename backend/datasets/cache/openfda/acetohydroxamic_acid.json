@@ -1,0 +1,27 @@
+{
+  "drug_name": "Acetohydroxamic acid",
+  "generic_name": [
+    "Acetohydroxamic acid"
+  ],
+  "brand_names": [],
+  "drug_interactions": [
+    "Drug Interactions: Specific drug interaction studies have not been conducted with ofloxacin ophthalmic solution. However, the systemic administration of some quinolones has been shown to elevate plasma concentrations of theophylline, interfere with the metabolism of caffeine, and enhance the effects of the oral anticoagulant warfarin and its derivatives, and has been associated with transient elevations in serum creatinine in patients receiving cyclosporine concomitantly."
+  ],
+  "warnings": [
+    "WARNINGS NOT FOR INJECTION. Ofloxacin ophthalmic solution should not be injected subconjunctivally, nor should it be introduced directly into the anterior chamber of the eye. There are rare reports of anaphylactic reaction/shock and fatal hypersensitivity reactions in patients receiving systemic quinolones, some following the first dose, including ofloxacin. Some reactions were accompanied by cardiovascular collapse, loss of consciousness, angioedema (including laryngeal, pharyngeal or facial edema), airway obstruction, dyspnea, urticaria, and itching. A rare occurrence of Stevens-Johnson syndrome, which progressed to toxic epidermal necrolysis, has been reported in a patient who was receiving topical ophthalmic ofloxacin. If an allergic reaction to ofloxacin occurs, discontinue the drug. Serious acute hypersensitivity reactions may require immediate emergency treatment. Oxygen and airway management, including intubation should be administered as clinically indicated."
+  ],
+  "adverse_reactions": [
+    "ADVERSE REACTIONS Ophthalmic use: The most frequently reported drug-related adverse reaction was transient ocular burning or discomfort. Other reported reactions include stinging, redness, itching, chemical conjunctivitis/keratitis, ocular/periocular/facial edema, foreign body sensation, photophobia, blurred vision, tearing, dryness, and eye pain. Rare reports of dizziness and nausea have been received. Refer to WARNINGS for additional adverse reactions."
+  ],
+  "contraindications": [
+    "CONTRAINDICATIONS Ofloxacin ophthalmic solution is contraindicated in patients with a history of hypersensitivity to ofloxacin, to other quinolones, or to any of the components in this medication (see WARNINGS )."
+  ],
+  "dosage_administration": [
+    "DOSAGE AND ADMINISTRATION The recommended dosage regimen for the treatment of bacterial conjunctivitis is: Days 1 and 2 Instill one to two drops every two to four hours in the affected eye(s). Days 3 through 7 Instill one to two drops four times daily. The recommended dosage regimen for the treatment of bacterial corneal ulcer is: Days 1 and 2 Instill one to two drops into the affected eye every 30 minutes, while awake. Awaken at approximately four and six hours after retiring and instill one to two drops. Days 3 through 7 to 9 Instill one to two drops hourly, while awake. Days 7 to 9 through treatment completion Instill one to two drops, four times daily."
+  ],
+  "indications": [
+    "INDICATIONS AND USAGE Ofloxacin ophthalmic solution is indicated for the treatment of infections caused by susceptible strains of the following bacteria in the conditions listed below:"
+  ],
+  "fetched_at": "2025-09-30T21:19:31.848957",
+  "source": "OpenFDA"
+}

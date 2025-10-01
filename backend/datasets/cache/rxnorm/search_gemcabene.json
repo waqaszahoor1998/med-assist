@@ -1,0 +1,10 @@
+{
+  "query": "Gemcabene",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:53:05.450698",
+  "source": "RxNorm"
+}

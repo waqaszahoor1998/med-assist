@@ -1,0 +1,10 @@
+{
+  "query": "(5S)-2-(Cyclooctylamino)-5-methyl-5-propyl-1,3-thiazol-4(5H)-one",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:50:36.707074",
+  "source": "RxNorm"
+}

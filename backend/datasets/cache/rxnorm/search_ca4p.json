@@ -1,0 +1,10 @@
+{
+  "query": "CA4P",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:55:55.235762",
+  "source": "RxNorm"
+}

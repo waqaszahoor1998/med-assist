@@ -1,0 +1,10 @@
+{
+  "query": "(S)-4-bromo-3-hydroxy-3-methylbutyl diphosphate",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:59:14.797155",
+  "source": "RxNorm"
+}

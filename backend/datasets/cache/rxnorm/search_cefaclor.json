@@ -1,0 +1,125 @@
+{
+  "query": "Cefaclor",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD"
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "197449",
+              "name": "cefaclor 500 MG Oral Capsule",
+              "synonym": "cefaclor (as cefaclor monohydrate) 500 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "309040",
+              "name": "cefaclor 37.4 MG/ML Oral Suspension",
+              "synonym": "cefaclor 187 MG per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "309042",
+              "name": "cefaclor 75 MG/ML Oral Suspension",
+              "synonym": "cefaclor 375 MG per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "309043",
+              "name": "12 HR cefaclor 500 MG Extended Release Oral Tablet",
+              "synonym": "cefaclor 500 MG 12 HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "309044",
+              "name": "cefaclor 25 MG/ML Oral Suspension",
+              "synonym": "cefaclor 125 MG per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "309045",
+              "name": "cefaclor 250 MG Oral Capsule",
+              "synonym": "cefaclor (as cefaclor monohydrate) 250 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "313888",
+              "name": "cefaclor 50 MG/ML Oral Suspension",
+              "synonym": "cefaclor 250 MG per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "476322",
+              "name": "cefaclor 125 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "476325",
+              "name": "cefaclor 187 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "476327",
+              "name": "cefaclor 250 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "476623",
+              "name": "cefaclor 375 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T22:09:25.861381",
+  "source": "RxNorm"
+}

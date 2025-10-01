@@ -1,0 +1,23 @@
+{
+  "drug_name": "Megestrol acetate",
+  "generic_name": [
+    "CUPRUM ACETICUM NICOTIANA"
+  ],
+  "brand_names": [
+    "Cuprum aceticum Nicotiana"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    "Warnings: Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated. Contains sugar. Diabetics and persons intolerant of sucrose (sugar): Consult a doctor before use. Do not use if allergic to any ingredient. Consult a doctor before use for serious conditions or if conditions worsen or persist. If pregnant or nursing, consult a doctor before use. Do not use if safety seal is broken or missing."
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    "Dissolve pellets under the tongue 3-4 times daily. Ages 12 and older: 10 pellets. Ages 2-11: 5 pellets. Under age 2: Consult a doctor."
+  ],
+  "indications": [
+    "Directions: FOR ORAL USE ONLY."
+  ],
+  "fetched_at": "2025-09-30T21:09:43.400910",
+  "source": "OpenFDA"
+}

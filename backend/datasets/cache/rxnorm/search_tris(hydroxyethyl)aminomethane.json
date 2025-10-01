@@ -1,0 +1,10 @@
+{
+  "query": "Tris(Hydroxyethyl)Aminomethane",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T11:35:43.118909",
+  "source": "RxNorm"
+}

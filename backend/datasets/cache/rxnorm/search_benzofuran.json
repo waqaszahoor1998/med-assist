@@ -1,0 +1,10 @@
+{
+  "query": "Benzofuran",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T07:07:50.660919",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "SCH-486757",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:16:54.148661",
+  "source": "RxNorm"
+}

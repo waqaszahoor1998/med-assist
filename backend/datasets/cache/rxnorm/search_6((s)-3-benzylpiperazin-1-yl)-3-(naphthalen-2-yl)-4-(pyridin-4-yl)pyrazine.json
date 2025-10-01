@@ -1,0 +1,10 @@
+{
+  "query": "6((S)-3-Benzylpiperazin-1-Yl)-3-(Naphthalen-2-Yl)-4-(Pyridin-4-Yl)Pyrazine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:38:29.582562",
+  "source": "RxNorm"
+}

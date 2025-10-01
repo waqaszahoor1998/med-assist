@@ -1,0 +1,10 @@
+{
+  "query": "(2S)-1-[(2S,4R)-4-Benzyl-2-hydroxy-5-{[(1S,2R,5S)-2-hydroxy-5-methylcyclopentyl]amino}-5-oxopentyl]-4-{[6-chloro-5-(4-methyl-1-piperazinyl)-2-pyrazinyl]carbonyl}-N-(2-methyl-2-propanyl)-2-piperazineca rboxamide",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:11:46.286372",
+  "source": "RxNorm"
+}

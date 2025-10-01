@@ -1,0 +1,46 @@
+{
+  "query": "Givinostat",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2678900",
+              "name": "givinostat 8.86 MG/ML Oral Suspension [Duvyzat]",
+              "synonym": "Duvyzat 8.86 MG/mL Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2678894",
+              "name": "givinostat 8.86 MG/ML Oral Suspension",
+              "synonym": "givinostat 8.86 MG/mL Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T19:10:09.841053",
+  "source": "RxNorm"
+}

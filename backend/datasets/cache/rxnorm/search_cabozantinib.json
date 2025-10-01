@@ -1,0 +1,176 @@
+{
+  "query": "Cabozantinib",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1363408",
+              "name": "{84 (cabozantinib 20 MG Oral Capsule [Cometriq]) / 28 (cabozantinib 80 MG Oral Capsule [Cometriq]) } Pack [Cometriq 140 MG Daily Dose Carton]",
+              "synonym": "Cometriq 140 MG Daily Dose Carton Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1363410",
+              "name": "{28 (cabozantinib 20 MG Oral Capsule [Cometriq]) / 28 (cabozantinib 80 MG Oral Capsule [Cometriq]) } Pack [Cometriq 100 MG Daily Dose Carton]",
+              "synonym": "Cometriq 100 MG Daily Dose Carton Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1364581",
+              "name": "{84 (cabozantinib 20 MG Oral Capsule [Cometriq]) } Pack [Cometriq 60 MG Daily Dose Carton]",
+              "synonym": "Cometriq 60 MG Daily Dose Carton Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1363312",
+              "name": "{84 (cabozantinib 20 MG Oral Capsule) / 28 (cabozantinib 80 MG Oral Capsule) } Pack",
+              "synonym": "cabozantinib 140 MG Daily Dose Carton",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1363409",
+              "name": "{28 (cabozantinib 20 MG Oral Capsule) / 28 (cabozantinib 80 MG Oral Capsule) } Pack",
+              "synonym": "cabozantinib 100 MG Daily Dose Carton",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1364580",
+              "name": "{84 (cabozantinib 20 MG Oral Capsule) } Pack",
+              "synonym": "cabozantinib 60 MG Daily Dose Carton",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1363279",
+              "name": "cabozantinib 20 MG Oral Capsule [Cometriq]",
+              "synonym": "Cometriq 20 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1363284",
+              "name": "cabozantinib 80 MG Oral Capsule [Cometriq]",
+              "synonym": "Cometriq 80 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1790167",
+              "name": "cabozantinib 20 MG Oral Tablet [Cabometyx]",
+              "synonym": "Cabometyx 20 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1790171",
+              "name": "cabozantinib 40 MG Oral Tablet [Cabometyx]",
+              "synonym": "Cabometyx 40 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1790175",
+              "name": "cabozantinib 60 MG Oral Tablet [Cabometyx]",
+              "synonym": "Cabometyx 60 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1363273",
+              "name": "cabozantinib 20 MG Oral Capsule",
+              "synonym": "cabozantinib 20 MG (as cabozantinib s-malate 25 MG) Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1363281",
+              "name": "cabozantinib 80 MG Oral Capsule",
+              "synonym": "cabozantinib 80 MG (as cabozantinib s-malate 102 MG) Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1790161",
+              "name": "cabozantinib 20 MG Oral Tablet",
+              "synonym": "cabozantinib 20 MG (as cabozantinib (S)-malate 25 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1790169",
+              "name": "cabozantinib 40 MG Oral Tablet",
+              "synonym": "cabozantinib 40 MG (as cabozantinib (S)-malate 51 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1790173",
+              "name": "cabozantinib 60 MG Oral Tablet",
+              "synonym": "cabozantinib 60 MG (as cabozantinib (S)-malate 76 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:03:52.614454",
+  "source": "RxNorm"
+}

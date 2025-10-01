@@ -1,0 +1,107 @@
+{
+  "query": "Dextropropoxyphene",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD"
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "827748",
+              "name": "propoxyphene napsylate 100 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "827751",
+              "name": "acetaminophen 325 MG / propoxyphene napsylate 100 MG Oral Tablet",
+              "synonym": "APAP 325 MG / propoxyphene napsylate 100 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "828576",
+              "name": "acetaminophen 650 MG / propoxyphene napsylate 100 MG Oral Tablet",
+              "synonym": "APAP 650 MG / propoxyphene napsylate 100 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "828585",
+              "name": "aspirin 389 MG / caffeine 32.4 MG / propoxyphene hydrochloride 32 MG Oral Capsule",
+              "synonym": "ASA 389 MG / Caffeine 32.4 MG / Propoxyphene Hydrochloride 32 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "828594",
+              "name": "aspirin 389 MG / caffeine 32.4 MG / propoxyphene hydrochloride 65 MG Oral Capsule",
+              "synonym": "ASA 389 MG / Caffeine 32.4 MG / Propoxyphene Hydrochloride 65 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "849279",
+              "name": "propoxyphene hydrochloride 65 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "849293",
+              "name": "acetaminophen 325 MG / propoxyphene hydrochloride 32.5 MG Oral Tablet",
+              "synonym": "APAP 325 MG / Propoxyphene Hydrochloride 32.5 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "849295",
+              "name": "acetaminophen 325 MG / propoxyphene napsylate 50 MG Oral Tablet",
+              "synonym": "APAP 325 MG / propoxyphene napsylate 50 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "849304",
+              "name": "acetaminophen 500 MG / propoxyphene napsylate 100 MG Oral Tablet",
+              "synonym": "APAP 500 MG / propoxyphene napsylate 100 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:26:31.702426",
+  "source": "RxNorm"
+}

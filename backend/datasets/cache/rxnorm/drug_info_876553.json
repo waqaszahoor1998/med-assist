@@ -1,0 +1,16 @@
+{
+  "rxcui": "876553",
+  "properties": {
+    "properties": {
+      "rxcui": "876553",
+      "name": "acetylcholine chloride 10 MG/ML Ophthalmic Solution [Miochol]",
+      "synonym": "Miochol 10 MG/ML Ophthalmic Solution",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T03:27:33.750099",
+  "source": "RxNorm"
+}

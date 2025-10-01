@@ -1,0 +1,16 @@
+{
+  "rxcui": "1376084",
+  "properties": {
+    "properties": {
+      "rxcui": "1376084",
+      "name": "1.5 ML cabazitaxel 40 MG/ML Injection [Jevtana]",
+      "synonym": "Jevtana 60 MG per 1.5 ML Injection",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T16:36:30.348543",
+  "source": "RxNorm"
+}

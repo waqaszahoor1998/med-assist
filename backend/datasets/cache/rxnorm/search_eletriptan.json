@@ -1,0 +1,64 @@
+{
+  "query": "Eletriptan",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "404443",
+              "name": "eletriptan 20 MG Oral Tablet [Relpax]",
+              "synonym": "Relpax 20 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "404444",
+              "name": "eletriptan 40 MG Oral Tablet [Relpax]",
+              "synonym": "Relpax (as eletriptan hydrobromide) 40 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "359493",
+              "name": "eletriptan 20 MG Oral Tablet",
+              "synonym": "eletriptan 20 MG (as eletriptan HBr 24.2 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "359494",
+              "name": "eletriptan 40 MG Oral Tablet",
+              "synonym": "eletriptan 40 MG (as eletriptan HBr 48.5 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:01:25.857759",
+  "source": "RxNorm"
+}

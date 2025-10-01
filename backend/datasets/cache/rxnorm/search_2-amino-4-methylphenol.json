@@ -1,0 +1,10 @@
+{
+  "query": "2-Amino-4-methylphenol",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:29:56.859707",
+  "source": "RxNorm"
+}

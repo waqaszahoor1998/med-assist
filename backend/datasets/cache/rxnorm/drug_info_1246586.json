@@ -1,0 +1,16 @@
+{
+  "rxcui": "1246586",
+  "properties": {
+    "properties": {
+      "rxcui": "1246586",
+      "name": "{1 (30000 MG) (hydrocortisone 25 MG/ML / pramoxine hydrochloride 10 MG/ML Rectal Cream) / 6 (pramoxine hydrochloride 10 MG/ML Medicated Pad) } Pack",
+      "synonym": "{1 (30 GM hydrocortisone 2.5 % / pramoxine hydrochloride 1 % Rectal Cream) / 6 (pramoxine hydrochloride 1 % Medicated Pad) } Pack",
+      "tty": "GPCK",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T17:35:06.867508",
+  "source": "RxNorm"
+}

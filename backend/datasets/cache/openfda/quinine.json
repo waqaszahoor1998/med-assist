@@ -1,0 +1,23 @@
+{
+  "drug_name": "Quinine",
+  "generic_name": [
+    "QUININE SALICYLATE"
+  ],
+  "brand_names": [
+    "Chininum salicylicum"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    ""
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    "Adults and children: At the onset of symptoms, dissolve 5 pellets under the tongue 3 times a day until symptoms are relieved or as directed by a doctor."
+  ],
+  "indications": [
+    "Uses: See symptoms on front panel. Relieves dizziness *"
+  ],
+  "fetched_at": "2025-09-30T21:14:59.069155",
+  "source": "OpenFDA"
+}

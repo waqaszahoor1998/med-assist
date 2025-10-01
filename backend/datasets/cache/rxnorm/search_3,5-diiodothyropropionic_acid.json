@@ -1,0 +1,10 @@
+{
+  "query": "3,5-diiodothyropropionic acid",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:09:24.200252",
+  "source": "RxNorm"
+}

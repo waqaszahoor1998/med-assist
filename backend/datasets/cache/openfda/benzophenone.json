@@ -1,0 +1,23 @@
+{
+  "drug_name": "Benzophenone",
+  "generic_name": [
+    "BENZOPHENONE-3, BUTYLE METHOXYDIBENZOYLMETHANE, ETHYLHEXYL SALICYLATE, OCTOCRYLENE"
+  ],
+  "brand_names": [
+    "BROTEGE Good Boy Protection SPF 15 and Retinol Daily Moisturizer"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    "Warnings Warnings Do not use on damaged or broken skin When using this product keep out of the eye area rinse with water to remove stop use and ask a doctor if rash or irritation develops for external use onlyl keep out of reach of children"
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    "Directions Directions: for sunscreen use \u2022 apply generously 15 minutes before sun exposure \u2022 apply to all skin exposed to the sun \u2022 children under 6 months of age: ask a doctor"
+  ],
+  "indications": [
+    "Apply generously and evenly thirty minutes before sun exposure. Reapply at least every two hours."
+  ],
+  "fetched_at": "2025-10-01T02:33:58.605435",
+  "source": "OpenFDA"
+}

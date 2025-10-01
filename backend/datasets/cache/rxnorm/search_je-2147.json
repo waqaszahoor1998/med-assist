@@ -1,0 +1,10 @@
+{
+  "query": "JE-2147",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:06:45.305163",
+  "source": "RxNorm"
+}

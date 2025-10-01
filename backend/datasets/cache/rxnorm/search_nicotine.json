@@ -1,0 +1,354 @@
+{
+  "query": "Nicotine",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "892244",
+              "name": "{14 (24 HR nicotine 0.292 MG/HR Transdermal System) / 14 (24 HR nicotine 0.583 MG/HR Transdermal System) / 28 (24 HR nicotine 0.875 MG/HR Transdermal System) } Pack",
+              "synonym": "nicotine 7 MG-14 MG-21 MG in 24 HR Transdermal System Kit",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1011870",
+              "name": "nicotine 2 MG Chewing Gum [Thrive]",
+              "synonym": "Thrive 2 MG Chewing Gum",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1046920",
+              "name": "nicotine 4 MG Inhalation Solution [Nicotrol]",
+              "synonym": "Nicotrol 4 MG Inhalation Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "105071",
+              "name": "nicotine 4 MG Chewing Gum [Nicorette]",
+              "synonym": "Nicorette 4 MG Chewing Gum",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1797888",
+              "name": "nicotine 0.5 MG/ACTUAT Metered Dose Nasal Spray [Nicotrol]",
+              "synonym": "Nicotrol 0.5 MG/ACTUAT Metered Dose Nasal Spray",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "207712",
+              "name": "24 HR nicotine 0.583 MG/HR Transdermal System [Habitrol]",
+              "synonym": "Habitrol 0.583 MG/HR 24 HR Transdermal Patch",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "207716",
+              "name": "24 HR nicotine 0.875 MG/HR Transdermal System [Habitrol]",
+              "synonym": "Habitrol 0.875 MG/HR 24HR Transdermal Patch",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "207734",
+              "name": "24 HR nicotine 0.292 MG/HR Transdermal System [Habitrol]",
+              "synonym": "Habitrol 0.292 MG/HR 24HR Transdermal Patch",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "209326",
+              "name": "nicotine 2 MG Chewing Gum [Nicorette]",
+              "synonym": "Nicorette 2 MG Chewing Gum",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2548896",
+              "name": "nicotine 2 MG Oral Lozenge [Habitrol]",
+              "synonym": "Habitrol 2 MG Oral Lozenge",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2548898",
+              "name": "nicotine 4 MG Oral Lozenge [Habitrol]",
+              "synonym": "Habitrol 4 MG Oral Lozenge",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2717264",
+              "name": "nicotine 4 MG Chewing Gum [Habitrol]",
+              "synonym": "Habitrol 4 MG Chewing Gum",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2717557",
+              "name": "nicotine 2 MG Chewing Gum [Habitrol]",
+              "synonym": "Habitrol 2 MG Chewing Gum",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "351427",
+              "name": "24 HR nicotine 0.583 MG/HR Transdermal System [Nicoderm C-Q]",
+              "synonym": "Nicoderm C-Q 0.583 MG/HR 24HR Transdermal Patch",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "351429",
+              "name": "24 HR nicotine 0.875 MG/HR Transdermal System [Nicoderm C-Q]",
+              "synonym": "Nicoderm C-Q 0.875 MG/HR 24HR Transdermal Patch",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "351433",
+              "name": "24 HR nicotine 0.292 MG/HR Transdermal System [Nicoderm C-Q]",
+              "synonym": "Nicoderm C-Q 0.292 MG/HR 24HR Transdermal Patch",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "605818",
+              "name": "nicotine 2 MG Chewing Gum [Nicorelief]",
+              "synonym": "Nicorelief 2 MG Chewing Gum",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "968849",
+              "name": "nicotine 2 MG Oral Lozenge [Nicorette]",
+              "synonym": "Nicorette 2 MG Troche",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "968851",
+              "name": "nicotine 4 MG Oral Lozenge [Nicorette]",
+              "synonym": "Nicorette 4 MG Oral Lozenge",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1046847",
+              "name": "24 HR nicotine 0.313 MG/HR Transdermal System",
+              "synonym": "nicotine 5 MG per 16 HR Transdermal Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1046858",
+              "name": "24 HR nicotine 0.938 MG/HR Transdermal System",
+              "synonym": "nicotine 15 MG per 16 HR Transdermal Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1797886",
+              "name": "nicotine 0.5 MG/ACTUAT Metered Dose Nasal Spray",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198029",
+              "name": "24 HR nicotine 0.583 MG/HR Transdermal System",
+              "synonym": "nicotine 14 MG/Day 24HR Transdermal System",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198030",
+              "name": "24 HR nicotine 0.875 MG/HR Transdermal System",
+              "synonym": "nicotine 21 MG/Day 24HR Transdermal System",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198031",
+              "name": "24 HR nicotine 0.292 MG/HR Transdermal System",
+              "synonym": "nicotine 7 MG/Day 24HR Transdermal System",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "227177",
+              "name": "nicotine 2 MG Sublingual Tablet",
+              "synonym": "nicotine (as nicotine cyclodextrin complex) 2 MG Sublingual Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "250983",
+              "name": "nicotine 4 MG Inhalation Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2707585",
+              "name": "24 HR nicotine 1.17 MG/HR Transdermal System",
+              "synonym": "nicotine 28 MG/Day 24 HR Transdermal Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "311972",
+              "name": "24 HR nicotine 0.458 MG/HR Transdermal System",
+              "synonym": "nicotine 11 MG/Day 24 HR Transdermal Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "311973",
+              "name": "24 HR nicotine 0.917 MG/HR Transdermal System",
+              "synonym": "nicotine 22 MG/Day 24 HR Transdermal Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "311975",
+              "name": "nicotine 4 MG Chewing Gum",
+              "synonym": "nicotine 4 MG (as nicotine polacrilex 22.2 MG) Chewing Gum",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "314119",
+              "name": "nicotine 2 MG Chewing Gum",
+              "synonym": "nicotine 2 MG (as nicotine polacrilex 11.1 MG) Chewing Gum",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "359817",
+              "name": "nicotine 2 MG Oral Lozenge",
+              "synonym": "nicotine 2 MG Troche",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "359818",
+              "name": "nicotine 4 MG Oral Lozenge",
+              "synonym": "nicotine 4 MG Troche",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "388082",
+              "name": "nicotine 1 MG Oral Lozenge",
+              "synonym": "nicotine (as nicotine polacrilex) 1 MG Oral Lozenge",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "419168",
+              "name": "24 HR nicotine 0.625 MG/HR Transdermal System",
+              "synonym": "nicotine 15 MG Transdermal Patch, 16 HR",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:00:09.046531",
+  "source": "RxNorm"
+}

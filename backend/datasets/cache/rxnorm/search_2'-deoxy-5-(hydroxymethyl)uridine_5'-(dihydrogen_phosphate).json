@@ -1,0 +1,10 @@
+{
+  "query": "2'-deoxy-5-(hydroxymethyl)uridine 5'-(dihydrogen phosphate)",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T04:29:28.016336",
+  "source": "RxNorm"
+}

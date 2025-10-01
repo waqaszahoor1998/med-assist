@@ -1,0 +1,73 @@
+{
+  "query": "Permethrin",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "207484",
+              "name": "permethrin 50 MG/ML Topical Cream [Acticin]",
+              "synonym": "Acticin 5 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "207485",
+              "name": "permethrin 50 MG/ML Topical Cream [Elimite]",
+              "synonym": "Elimite 5 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "763066",
+              "name": "permethrin 10 MG/ML Medicated Shampoo [Nix Cream Rinse]",
+              "synonym": "Nix Cream Rinse 1 % Medicated Shampoo",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "106387",
+              "name": "permethrin 50 MG/ML Topical Cream",
+              "synonym": "permethrin 5 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "250387",
+              "name": "permethrin 10 MG/ML Medicated Shampoo",
+              "synonym": "permethrin 1 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T15:48:20.787058",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "(2R,3R,4S,5R,6E)-3,4,5-Trihydroxy-N-[(3S,6R)-6-hydroxy-2-oxo-3-azepanyl]-2-methoxy-8,8-dimethyl-6-nonenamide",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:40:24.072204",
+  "source": "RxNorm"
+}

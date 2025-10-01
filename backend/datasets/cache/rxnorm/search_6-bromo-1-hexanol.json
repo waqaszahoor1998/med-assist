@@ -1,0 +1,10 @@
+{
+  "query": "6-Bromo-1-hexanol",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:34:39.389668",
+  "source": "RxNorm"
+}

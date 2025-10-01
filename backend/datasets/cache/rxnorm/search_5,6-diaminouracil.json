@@ -1,0 +1,10 @@
+{
+  "query": "5,6-Diaminouracil",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T04:28:28.464738",
+  "source": "RxNorm"
+}

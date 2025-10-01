@@ -1,0 +1,16 @@
+{
+  "rxcui": "104206",
+  "properties": {
+    "properties": {
+      "rxcui": "104206",
+      "name": "digoxin 0.0625 MG Oral Tablet [Lanoxin]",
+      "synonym": "Lanoxin 62.5 MCG Oral Tablet",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T21:11:29.005297",
+  "source": "RxNorm"
+}

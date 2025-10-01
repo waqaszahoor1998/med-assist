@@ -1,0 +1,29 @@
+{
+  "drug_name": "Methazolamide",
+  "generic_name": [
+    "METHAZOLAMIDE"
+  ],
+  "brand_names": [
+    "Methazolamide"
+  ],
+  "drug_interactions": [
+    "Drug Interactions Methazolamide should be used with caution in patients on steroid therapy because of the potential for developing hypokalemia. Caution is advised for patients receiving high-dose aspirin and methazolamide concomitantly, as anorexia, tachypnea, lethargy, coma and death have been reported with concomitant use of high-dose aspirin and carbonic anhydrase inhibitors (see WARNINGS )."
+  ],
+  "warnings": [
+    "WARNINGS Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias. Hypersensitivity reactions may recur when a sulfonamide is readministered, irrespective of the route of administration. If hypersensitivity or other serious reactions occur, the use of this drug should be discontinued. Caution is advised for patients receiving high-dose aspirin and methazolamide concomitantly, as anorexia, tachypnea, lethargy, coma, and death have been reported with concomitant use of high-dose aspirin and carbonic anhydrase inhibitors."
+  ],
+  "adverse_reactions": [
+    "ADVERSE REACTIONS Adverse reactions, occurring most often early in therapy, include paresthesias, particularly a \u201ctingling\u201d feeling in the extremities; hearing dysfunction or tinnitus; fatigue; malaise; loss of appetite; taste alteration; gastrointestinal disturbances such as nausea, vomiting, and diarrhea; polyuria; and occasional instances of drowsiness and confusion. Metabolic acidosis and electrolyte imbalance may occur. Transient myopia has been reported. This condition invariably subsides upon diminution or discontinuance of the medication. Other occasional adverse reactions include urticaria, melena, hematuria, glycosuria, hepatic insufficiency, flaccid paralysis, photosensitivity, convulsions, and, rarely, crystalluria and renal calculi. Also see PRECAUTIONS: Information for Patients for possible reactions common to sulfonamide derivatives. Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias (see WARNINGS ). To report SUSPECTED ADVERSE REACTIONS, contact NorthStar Rx LLC at 1-800-206-7821 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+  ],
+  "contraindications": [
+    "CONTRAINDICATIONS Methazolamide therapy is contraindicated in situations in which sodium and/or potassium serum levels are depressed, in cases of marked kidney or liver disease or dysfunction, in adrenal gland failure, and in hyperchloremic acidosis. In patients with cirrhosis, use may precipitate the development of hepatic encephalopathy. Long-term administration of methazolamide is contraindicated in patients with angle-closure glaucoma, since organic closure of the angle may occur in spite of lowered intraocular pressure."
+  ],
+  "dosage_administration": [
+    "DOSAGE AND ADMINISTRATION The effective therapeutic dose administered varies from 50 mg to 100 mg two or three times daily. The drug may be used concomitantly with miotic and osmotic agents."
+  ],
+  "indications": [
+    "INDICATIONS AND USAGE Methazolamide Tablets are indicated in the treatment of ocular conditions where lowering intraocular pressure is likely to be of therapeutic benefit, such as chronic open-angle glaucoma, secondary glaucoma, and preoperatively in acute angle-closure glaucoma where lowering the intraocular pressure is desired before surgery."
+  ],
+  "fetched_at": "2025-09-30T21:29:45.828099",
+  "source": "OpenFDA"
+}

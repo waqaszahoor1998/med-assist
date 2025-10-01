@@ -1,0 +1,23 @@
+{
+  "drug_name": "Antimony",
+  "generic_name": [
+    "ANTIMONY TRISULFIDE"
+  ],
+  "brand_names": [
+    "Antimonium Crudum Kit Refill"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    "STOP USE AND ASK DOCTOR If symptoms persist/worsen or if pregnant/nursing, stop use and consult your practitioner."
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    "DIRECTIONS Adults: Dissolve 3 to 5 under the tongue three times a day or as directed by Lic. Practitioner. Take at greater intervals as condition subsides. Children: Dissolve 3 to 5 under the tongue three times a day or as directed by Lic. Practitioner. Take at greater intervals as condition subsides."
+  ],
+  "indications": [
+    "INDICATIONS Indications: ANTIMONIUM CRUDUM Warts"
+  ],
+  "fetched_at": "2025-10-01T19:33:35.097867",
+  "source": "OpenFDA"
+}

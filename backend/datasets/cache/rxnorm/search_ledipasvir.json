@@ -1,0 +1,100 @@
+{
+  "query": "Ledipasvir",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1591949",
+              "name": "ledipasvir 90 MG / sofosbuvir 400 MG Oral Tablet [Harvoni]",
+              "synonym": "Harvoni (ledipasvir 90 MG / sofosbuvir 400 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2203897",
+              "name": "ledipasvir 45 MG / sofosbuvir 200 MG Oral Tablet [Harvoni]",
+              "synonym": "Harvoni (ledipasvir 45 MG / sofosbuvir 200 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2204102",
+              "name": "ledipasvir 33.75 MG / sofosbuvir 150 MG Oral Pellet [Harvoni]",
+              "synonym": "Harvoni (ledipasvir 33.75 MG / sofosbuvir 150 MG) per packet Oral Pellets",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2204104",
+              "name": "ledipasvir 45 MG / sofosbuvir 200 MG Oral Pellet [Harvoni]",
+              "synonym": "Harvoni (ledipasvir 45 MG / sofosbuvir 200 MG) per packet Oral Pellets",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1591943",
+              "name": "ledipasvir 90 MG / sofosbuvir 400 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2203895",
+              "name": "ledipasvir 45 MG / sofosbuvir 200 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2204100",
+              "name": "ledipasvir 33.75 MG / sofosbuvir 150 MG Oral Pellet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2204103",
+              "name": "ledipasvir 45 MG / sofosbuvir 200 MG Oral Pellet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:14:28.457049",
+  "source": "RxNorm"
+}

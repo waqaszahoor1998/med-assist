@@ -1,0 +1,10 @@
+{
+  "query": "Bropirimine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T06:33:35.189293",
+  "source": "RxNorm"
+}

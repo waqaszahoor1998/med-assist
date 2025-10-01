@@ -1,0 +1,10 @@
+{
+  "query": "(2S)-({(5Z)-5-[(5-Ethyl-2-furyl)methylene]-4-oxo-4,5-dihydro-1,3-thiazol-2-yl}amino)(4-fluorophenyl)acetic acid",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:58:50.980325",
+  "source": "RxNorm"
+}

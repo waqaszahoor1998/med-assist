@@ -1,0 +1,29 @@
+{
+  "drug_name": "Phosphorylated Dihydropteroate",
+  "generic_name": [
+    "SULFACETAMIDE SODIUM"
+  ],
+  "brand_names": [
+    "Sulfacetamide Sodium"
+  ],
+  "drug_interactions": [
+    "Drug Interactions Sulfacetamide preparations are incompatible with silver preparations."
+  ],
+  "warnings": [
+    "WARNINGS FOR TOPICAL EYE USE ONLY - NOT FOR INJECTION. FATALITIES HAVE OCCURRED, ALTHOUGH RARELY, DUE TO SEVERE REACTIONS TO SULFONAMIDES INCLUDING STEVENS-JOHNSON SYNDROME, TOXIC EPIDERMAL NECROLYSIS, FULMINANT HEPATIC NECROSIS, AGRANULOCYTOSIS, APLASTIC ANEMIA AND OTHER BLOOD DYSCRASIAS. Sensitizations may recur when a sulfonamide is readministered, irrespective of the route of administration. Sensitivity reactions have been reported in individuals with no prior history of sulfonamide hypersensitivity. At the first sign of hypersensitivity, skin rash or other serious reaction, discontinue use of this preparation."
+  ],
+  "adverse_reactions": [
+    "ADVERSE REACTIONS Bacterial and fungal corneal ulcers have developed during treatment with sulfonamide ophthalmic preparations. The most frequently reported reactions are local irritation, stinging and burning. Less commonly reported reactions include non-specific conjunctivitis, conjunctival hyperemia, secondary infections and allergic reactions. Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias (see WARNINGS ). To report SUSPECTED ADVERSE REACTIONS, contact Bausch & Lomb Incorporated at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch ."
+  ],
+  "contraindications": [
+    "CONTRAINDICATIONS Sulfacetamide Sodium Ophthalmic Solution, USP 10% is contraindicated in individuals who have a hypersensitivity to sulfonamides or to any ingredient of the preparation."
+  ],
+  "dosage_administration": [
+    "DOSAGE AND ADMINISTRATION For conjunctivitis and other superficial ocular infections: Instill one or two drops into the conjunctival sac(s) of the affected eye(s) every two to three hours initially. Dosages may be tapered by increasing the time interval between doses as the condition responds. The usual duration of treatment is seven to ten days. For trachoma: Instill two drops into the conjunctival sac(s) of the affected eye(s) every two hours. Topical administration must be accompanied by systemic administration."
+  ],
+  "indications": [
+    "INDICATIONS AND USAGE Sulfacetamide Sodium Ophthalmic Solution, USP 10% is indicated for the treatment of conjunctivitis and other superficial ocular infections due to susceptible microorganisms, and as an adjunctive in systemic sulfonamide therapy of trachoma: Escherichia coli, Staphylococcus aureus, Streptococcus pneumoniae, Streptococcus (viridans group), Haemophilus influenzae, Klebsiella species, and Enterobacter species. Topically applied sulfonamides do not provide adequate coverage against Neisseria species, Serratia marcescens and Pseudomonas aeruginosa . A significant percentage of staphylococcal isolates are completely resistant to sulfa drugs."
+  ],
+  "fetched_at": "2025-10-01T04:28:37.187426",
+  "source": "OpenFDA"
+}

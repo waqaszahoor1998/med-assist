@@ -1,0 +1,10 @@
+{
+  "query": "CH-5132799",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:30:22.542038",
+  "source": "RxNorm"
+}

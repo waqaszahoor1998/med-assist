@@ -1,0 +1,16 @@
+{
+  "rxcui": "250385",
+  "properties": {
+    "properties": {
+      "rxcui": "250385",
+      "name": "benperidol 0.25 MG Oral Tablet",
+      "synonym": "",
+      "tty": "SCD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T19:20:55.637005",
+  "source": "RxNorm"
+}

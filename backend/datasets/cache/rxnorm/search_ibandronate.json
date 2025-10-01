@@ -1,0 +1,91 @@
+{
+  "query": "Ibandronate",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "904934",
+              "name": "ibandronic acid 150 MG Oral Tablet [Boniva]",
+              "synonym": "Boniva 150 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "904954",
+              "name": "3 ML ibandronic acid 1 MG/ML Prefilled Syringe [Boniva]",
+              "synonym": "3 ML Boniva 1 MG/ML Prefilled Syringe",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "904932",
+              "name": "ibandronic acid 150 MG Oral Tablet",
+              "synonym": "ibandronic acid 150 MG (as ibandronate sodium 168.75 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "904936",
+              "name": "ibandronic acid 2.5 MG Oral Tablet",
+              "synonym": "ibandronic acid 2.5 MG (as ibandronate sodium 2.81 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "904946",
+              "name": "ibandronic acid 50 MG Oral Tablet",
+              "synonym": "ibandronic acid 50 MG (as ibandronate sodium 56.3 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "904952",
+              "name": "3 ML ibandronic acid 1 MG/ML Prefilled Syringe",
+              "synonym": "ibandronic acid 3 MG (as ibandronate sodium 3.39 MG) per 3 ML Prefilled Syringe",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "904955",
+              "name": "3 ML ibandronic acid 1 MG/ML Injection",
+              "synonym": "ibandronic acid 1 MG/ML (as ibandronate sodium 1.13 MG/ML) Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:29:56.705768",
+  "source": "RxNorm"
+}

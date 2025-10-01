@@ -1,0 +1,46 @@
+{
+  "query": "Gilteritinib",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2105817",
+              "name": "gilteritinib 40 MG Oral Tablet [Xospata]",
+              "synonym": "Xospata (as gilteritinib fumarate 44.2 MG) 40 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2105811",
+              "name": "gilteritinib 40 MG Oral Tablet",
+              "synonym": "gilteritinib (as gilteritinib fumarate 44.2 MG) 40 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:41:01.883742",
+  "source": "RxNorm"
+}

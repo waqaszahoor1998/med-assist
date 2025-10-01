@@ -1,0 +1,10 @@
+{
+  "query": "TMC-647055",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:22:37.041216",
+  "source": "RxNorm"
+}

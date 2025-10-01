@@ -1,0 +1,23 @@
+{
+  "drug_name": "7-(Carboxyamino)-8-Amino-Nonanoic Acid",
+  "generic_name": [
+    "BENZALKONIUM CHLORIDE"
+  ],
+  "brand_names": [
+    "Moisturizing Antibacterial"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    "Warnings For external use only: hands only"
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    "Directions wet hands apply palmful to hands scrub thoroughly rinse thoroughly"
+  ],
+  "indications": [
+    "Use For handwashing to decrease bacteria on the skin"
+  ],
+  "fetched_at": "2025-10-01T03:50:20.703960",
+  "source": "OpenFDA"
+}

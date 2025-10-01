@@ -1,0 +1,244 @@
+{
+  "query": "Clobetasol",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1541099",
+              "name": "clobetasol propionate 0.5 MG/ML Medicated Shampoo [Clodan]",
+              "synonym": "Clodan 0.05 % Medicated Shampoo",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1992274",
+              "name": "Emollient clobetasol propionate 0.5 MG/ML Topical Foam [Olux]",
+              "synonym": "Olux-E 0.05 % Topical Foam",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1992282",
+              "name": "Emollient clobetasol propionate 0.5 MG/ML Topical Cream [Temovate]",
+              "synonym": "Temovate E 0.05 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1995460",
+              "name": "clobetasol propionate 0.25 MG/ML Topical Cream [Impoyz]",
+              "synonym": "Impoyz 0.025 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2180345",
+              "name": "Emollient clobetasol propionate 0.5 MG/ML Topical Foam [Tovet]",
+              "synonym": "Tovet 0.5 MG/ML Topical Foam",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2462149",
+              "name": "clobetasol propionate 0.5 MG/ML Topical Lotion [Impeklo]",
+              "synonym": "Impeklo 0.05 % Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "861355",
+              "name": "clobetasol propionate 0.5 MG/ML Topical Foam [Olux]",
+              "synonym": "Olux 0.05 % Topical Foam",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "861472",
+              "name": "clobetasol propionate 0.0005 MG/MG Topical Ointment [Temovate]",
+              "synonym": "Temovate 0.05 % Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "861492",
+              "name": "clobetasol propionate 0.5 MG/ML Medicated Shampoo [Clobex]",
+              "synonym": "Clobex 0.05 % Medicated Shampoo",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "861503",
+              "name": "clobetasol propionate 0.5 MG/ML Topical Cream [Temovate]",
+              "synonym": "Temovate 0.05 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "861506",
+              "name": "clobetasol propionate 0.5 MG/ML Topical Lotion [Clobex]",
+              "synonym": "Clobex 0.05 % Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "861513",
+              "name": "clobetasol propionate 0.5 MG/ML Topical Spray [Clobex]",
+              "synonym": "Clobex 0.05 % Topical Spray",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1992273",
+              "name": "Emollient clobetasol propionate 0.5 MG/ML Topical Foam",
+              "synonym": "clobetasol propionate 0.05 % Emollient Base Topical Foam",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1992281",
+              "name": "Emollient clobetasol propionate 0.5 MG/ML Topical Cream",
+              "synonym": "clobetasol propionate 0.05 % Emollient Base Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1995455",
+              "name": "clobetasol propionate 0.25 MG/ML Topical Cream",
+              "synonym": "clobetasol propionate 0.025 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2683740",
+              "name": "clobetasol propionate 0.5 MG/ML Ophthalmic Suspension",
+              "synonym": "clobetasol propionate 0.05 % Ophthalmic Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "861353",
+              "name": "clobetasol propionate 0.5 MG/ML Topical Foam",
+              "synonym": "clobetasol propionate 0.05 % Topical Foam",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "861434",
+              "name": "clobetasol propionate 0.0005 MG/MG Topical Gel",
+              "synonym": "clobetasol propionate 0.05 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "861448",
+              "name": "clobetasol propionate 0.0005 MG/MG Topical Ointment",
+              "synonym": "clobetasol propionate 0.05 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "861487",
+              "name": "clobetasol propionate 0.5 MG/ML Topical Solution",
+              "synonym": "clobetasol propionate 0.05 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "861490",
+              "name": "clobetasol propionate 0.5 MG/ML Medicated Shampoo",
+              "synonym": "clobetasol propionate 0.05 % Medicated Shampoo",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "861495",
+              "name": "clobetasol propionate 0.5 MG/ML Topical Cream",
+              "synonym": "clobetasol propionate 0.05 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "861505",
+              "name": "clobetasol propionate 0.5 MG/ML Topical Lotion",
+              "synonym": "clobetasol propionate 0.05 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "861512",
+              "name": "clobetasol propionate 0.5 MG/ML Topical Spray",
+              "synonym": "clobetasol propionate 0.05 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:18:05.258820",
+  "source": "RxNorm"
+}

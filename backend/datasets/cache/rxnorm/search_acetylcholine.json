@@ -1,0 +1,46 @@
+{
+  "query": "Acetylcholine",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "876553",
+              "name": "acetylcholine chloride 10 MG/ML Ophthalmic Solution [Miochol]",
+              "synonym": "Miochol 10 MG/ML Ophthalmic Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "876551",
+              "name": "acetylcholine chloride 10 MG/ML Ophthalmic Solution",
+              "synonym": "acetylcholine chloride 20 MG per 2 ML (1 % ) Intraocular Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T03:27:32.178439",
+  "source": "RxNorm"
+}

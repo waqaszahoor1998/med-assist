@@ -1,0 +1,10 @@
+{
+  "query": "Telinavir",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:43:15.743578",
+  "source": "RxNorm"
+}

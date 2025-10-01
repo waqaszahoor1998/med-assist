@@ -1,0 +1,46 @@
+{
+  "query": "Relebactam",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2184147",
+              "name": "cilastatin 500 MG / imipenem 500 MG / relebactam 250 MG Injection [Recarbrio]",
+              "synonym": "Recarbrio 1.25 GM Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2184142",
+              "name": "cilastatin 500 MG / imipenem 500 MG / relebactam 250 MG Injection",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:55:29.006374",
+  "source": "RxNorm"
+}

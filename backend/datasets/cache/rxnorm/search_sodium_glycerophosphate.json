@@ -1,0 +1,46 @@
+{
+  "query": "Sodium glycerophosphate",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1423812",
+              "name": "20 ML sodium glycerophosphate 216 MG/ML Injection [Glycophos]",
+              "synonym": "20 ML Glycophos 216 MG/ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1423807",
+              "name": "20 ML sodium glycerophosphate 216 MG/ML Injection",
+              "synonym": "sodium glycerophosphate 4.32 GM (sodium 40 mmol, phosphate 20 mmol) per 20 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:42:11.143657",
+  "source": "RxNorm"
+}

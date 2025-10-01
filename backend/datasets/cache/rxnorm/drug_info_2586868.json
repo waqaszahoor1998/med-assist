@@ -1,0 +1,16 @@
+{
+  "rxcui": "2586868",
+  "properties": {
+    "properties": {
+      "rxcui": "2586868",
+      "name": "sirolimus 100 MG Injection [Fyarro]",
+      "synonym": "Fyarro 100 MG Injection",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T22:12:39.377401",
+  "source": "RxNorm"
+}

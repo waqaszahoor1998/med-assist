@@ -1,0 +1,62 @@
+{
+  "query": "Ademetionine",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD"
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "252078",
+              "name": "S-adenosylmethionine 200 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "259258",
+              "name": "S-adenosylmethionine 200 MG Delayed Release Oral Tablet",
+              "synonym": "SAM-e 200 MG Delayed Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "485707",
+              "name": "S-adenosylmethionine 400 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "730778",
+              "name": "S-adenosylmethionine 400 MG Delayed Release Oral Tablet",
+              "synonym": "SAM-e 400 MG Delayed Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T20:55:56.764384",
+  "source": "RxNorm"
+}

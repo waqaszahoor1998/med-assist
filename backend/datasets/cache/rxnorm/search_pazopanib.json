@@ -1,0 +1,55 @@
+{
+  "query": "Pazopanib",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "867506",
+              "name": "pazopanib 200 MG Oral Tablet [Votrient]",
+              "synonym": "Votrient 200 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "867502",
+              "name": "pazopanib 200 MG Oral Tablet",
+              "synonym": "pazopanib (as pazopanib hydrochloride) 200 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "867508",
+              "name": "pazopanib 400 MG Oral Tablet",
+              "synonym": "pazopanib HCl 400 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:26:11.933241",
+  "source": "RxNorm"
+}

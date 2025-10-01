@@ -1,0 +1,190 @@
+{
+  "query": "Digoxin",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "104206",
+              "name": "digoxin 0.0625 MG Oral Tablet [Lanoxin]",
+              "synonym": "Lanoxin 62.5 MCG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1245373",
+              "name": "digoxin 0.25 MG Oral Tablet [Digox]",
+              "synonym": "Digox 0.25 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1245443",
+              "name": "digoxin 0.125 MG Oral Tablet [Digox]",
+              "synonym": "Digox 125 MCG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "208135",
+              "name": "1 ML digoxin 0.1 MG/ML Injection [Lanoxin]",
+              "synonym": "Lanoxin 100 MCG per 1 ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "208137",
+              "name": "2 ML digoxin 0.25 MG/ML Injection [Lanoxin]",
+              "synonym": "Lanoxin 500 MCG per 2 ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "260350",
+              "name": "digoxin 0.125 MG Oral Tablet [Digitek]",
+              "synonym": "Digitek 0.125 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "260351",
+              "name": "digoxin 0.25 MG Oral Tablet [Digitek]",
+              "synonym": "Digitek 0.25 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "309888",
+              "name": "digoxin 0.125 MG Oral Tablet [Lanoxin]",
+              "synonym": "Lanoxin 125 MCG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "309889",
+              "name": "digoxin 0.25 MG Oral Tablet [Lanoxin]",
+              "synonym": "Lanoxin 0.25 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "104208",
+              "name": "2 ML digoxin 0.25 MG/ML Injection",
+              "synonym": "digoxin 500 MCG per 2 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "197604",
+              "name": "digoxin 0.125 MG Oral Tablet",
+              "synonym": "digoxin 125 MCG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "197605",
+              "name": "digoxin 0.2 MG Oral Capsule",
+              "synonym": "digoxin 200 MCG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "197606",
+              "name": "digoxin 0.25 MG Oral Tablet",
+              "synonym": "digoxin 250 MCG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "204504",
+              "name": "1 ML digoxin 0.1 MG/ML Injection",
+              "synonym": "digoxin 100 MCG per 1 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "237165",
+              "name": "digoxin 0.05 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "237166",
+              "name": "digoxin 0.1 MG Oral Capsule",
+              "synonym": "digoxin 100 MCG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "245273",
+              "name": "digoxin 0.0625 MG Oral Tablet",
+              "synonym": "digoxin 62.5 MCG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "393245",
+              "name": "digoxin 0.05 MG/ML Oral Solution",
+              "synonym": "digoxin 50 MCG/ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:11:27.531873",
+  "source": "RxNorm"
+}

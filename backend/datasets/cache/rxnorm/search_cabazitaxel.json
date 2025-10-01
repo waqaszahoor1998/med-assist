@@ -1,0 +1,46 @@
+{
+  "query": "Cabazitaxel",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1376084",
+              "name": "1.5 ML cabazitaxel 40 MG/ML Injection [Jevtana]",
+              "synonym": "Jevtana 60 MG per 1.5 ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1001433",
+              "name": "1.5 ML cabazitaxel 40 MG/ML Injection",
+              "synonym": "cabazitaxel 60 MG per 1.5 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:36:28.810954",
+  "source": "RxNorm"
+}

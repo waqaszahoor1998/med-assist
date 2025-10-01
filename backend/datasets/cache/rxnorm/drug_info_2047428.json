@@ -1,0 +1,16 @@
+{
+  "rxcui": "2047428",
+  "properties": {
+    "properties": {
+      "rxcui": "2047428",
+      "name": "{100 (acetaminophen 250 MG / aspirin 250 MG / caffeine 65 MG Oral Tablet [Excedrin]) / 24 (acetaminophen 250 MG / aspirin 250 MG / diphenhydramine citrate 38 MG Oral Tablet [Excedrin PM Triple Action]) } Pack [Excedrin PM Triple Action Caplets and Excedrin Extra Strength Pain Reliever]",
+      "synonym": "Excedrin PM Triple Action Caplets and Excedrin Extra Strength Pain Reliever Kit",
+      "tty": "BPCK",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T13:41:38.870501",
+  "source": "RxNorm"
+}

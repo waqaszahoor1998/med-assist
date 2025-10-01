@@ -1,0 +1,10 @@
+{
+  "query": "Nafamostat",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:07:59.521979",
+  "source": "RxNorm"
+}

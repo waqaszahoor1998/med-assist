@@ -1,0 +1,16 @@
+{
+  "rxcui": "2105742",
+  "properties": {
+    "properties": {
+      "rxcui": "2105742",
+      "name": "mometasone furoate 1 MG/ML / orbifloxacin 10 MG/ML / posaconazole 1 MG/ML Otic Suspension [Posatex]",
+      "synonym": "Posatex 1 MG / 10 MG / 1 MG per 1 ML Otic Suspension",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T18:00:50.542583",
+  "source": "RxNorm"
+}

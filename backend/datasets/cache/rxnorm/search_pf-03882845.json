@@ -1,0 +1,10 @@
+{
+  "query": "PF-03882845",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:22:01.512079",
+  "source": "RxNorm"
+}

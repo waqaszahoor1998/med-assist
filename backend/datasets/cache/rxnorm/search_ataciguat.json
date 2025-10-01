@@ -1,0 +1,10 @@
+{
+  "query": "Ataciguat",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:18:01.732090",
+  "source": "RxNorm"
+}

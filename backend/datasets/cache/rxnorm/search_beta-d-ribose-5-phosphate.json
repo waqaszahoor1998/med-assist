@@ -1,0 +1,10 @@
+{
+  "query": "beta-D-Ribose-5-phosphate",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:20:32.309861",
+  "source": "RxNorm"
+}

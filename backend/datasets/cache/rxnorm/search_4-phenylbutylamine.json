@@ -1,0 +1,10 @@
+{
+  "query": "4-Phenylbutylamine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:12:03.415028",
+  "source": "RxNorm"
+}

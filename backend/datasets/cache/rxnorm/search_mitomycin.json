@@ -1,0 +1,136 @@
+{
+  "query": "Mitomycin",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1244558",
+              "name": "mitomycin 0.2 MG/ML Ophthalmic Solution [Mitosol]",
+              "synonym": "Mitosol 0.2 MG/ML Ophthalmic Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1812480",
+              "name": "mitomycin 20 MG Injection [Mutamycin]",
+              "synonym": "Mutamycin 20 MG Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1812482",
+              "name": "mitomycin 40 MG Injection [Mutamycin]",
+              "synonym": "Mutamycin 40 MG Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1812484",
+              "name": "mitomycin 5 MG Injection [Mutamycin]",
+              "synonym": "Mutamycin 5 MG Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2375823",
+              "name": "mitomycin 40 MG Powder for Pyelocalyceal Solution [Jelmyto]",
+              "synonym": "Jelmyto 40 MG Powder for Ureteral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2719771",
+              "name": "mitomycin 40 MG Powder for Intravesical Solution [Zusduri]",
+              "synonym": "Zusduri 40 MG Powder for Intravesical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1244553",
+              "name": "mitomycin 0.2 MG/ML Ophthalmic Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1740894",
+              "name": "mitomycin 5 MG Injection",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1740898",
+              "name": "mitomycin 40 MG Injection",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1740900",
+              "name": "mitomycin 20 MG Injection",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2375818",
+              "name": "mitomycin 40 MG Powder for Pyelocalyceal Solution",
+              "synonym": "mitoMYcin 40 MG Powder for Ureteral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2719766",
+              "name": "mitomycin 40 MG Powder for Intravesical Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:06:19.927938",
+  "source": "RxNorm"
+}

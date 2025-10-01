@@ -1,0 +1,10 @@
+{
+  "query": "BIIB021",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:54:39.828675",
+  "source": "RxNorm"
+}

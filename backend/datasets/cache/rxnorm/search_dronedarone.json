@@ -1,0 +1,46 @@
+{
+  "query": "Dronedarone",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "854859",
+              "name": "dronedarone 400 MG Oral Tablet [Multaq]",
+              "synonym": "Multaq 400 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "854856",
+              "name": "dronedarone 400 MG Oral Tablet",
+              "synonym": "dronedarone (as dronedarone hydrochloride) 400 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T15:44:14.827603",
+  "source": "RxNorm"
+}

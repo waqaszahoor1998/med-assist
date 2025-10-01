@@ -1,0 +1,24 @@
+{
+  "query": "Benzylpenicilloyl polylysine",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD"
+        },
+        {
+          "tty": "SCD"
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T22:29:42.767895",
+  "source": "RxNorm"
+}

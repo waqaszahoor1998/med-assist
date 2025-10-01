@@ -1,0 +1,158 @@
+{
+  "query": "Rotigotine",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1360633",
+              "name": "{7 (24 HR rotigotine 0.0833 MG/HR Transdermal System [Neupro]) / 7 (24 HR rotigotine 0.167 MG/HR Transdermal System [Neupro]) } Pack [Neupro Kit]",
+              "synonym": "Neupro Titration Kit for Parkinson's disease",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1360632",
+              "name": "{7 (24 HR rotigotine 0.0833 MG/HR Transdermal System) / 7 (24 HR rotigotine 0.167 MG/HR Transdermal System) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1251914",
+              "name": "24 HR rotigotine 0.0417 MG/HR Transdermal System [Neupro]",
+              "synonym": "Neupro 1 MG/Day 24 HR Transdermal Patch",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1251918",
+              "name": "24 HR rotigotine 0.125 MG/HR Transdermal System [Neupro]",
+              "synonym": "Neupro 3 MG/Day 24 HR Transdermal Patch",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1251922",
+              "name": "24 HR rotigotine 0.333 MG/HR Transdermal System [Neupro]",
+              "synonym": "Neupro 8 MG/Day 24 HR Transdermal Patch",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "722256",
+              "name": "24 HR rotigotine 0.0833 MG/HR Transdermal System [Neupro]",
+              "synonym": "Neupro 2 MG/Day 24 HR Transdermal Patch",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "724142",
+              "name": "24 HR rotigotine 0.167 MG/HR Transdermal System [Neupro]",
+              "synonym": "Neupro 4 MG/Day 24 HR Transdermal Patch",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "724156",
+              "name": "24 HR rotigotine 0.25 MG/HR Transdermal System [Neupro]",
+              "synonym": "Neupro 6 MG/Day 24 HR Transdermal Patch",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1251912",
+              "name": "24 HR rotigotine 0.0417 MG/HR Transdermal System",
+              "synonym": "rotigotine 1 MG/Day 24 HR Transdermal Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1251916",
+              "name": "24 HR rotigotine 0.125 MG/HR Transdermal System",
+              "synonym": "rotigotine 3 MG/Day 24 HR Transdermal Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1251920",
+              "name": "24 HR rotigotine 0.333 MG/HR Transdermal System",
+              "synonym": "rotigotine 8 MG/Day 24 HR Transdermal Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "722253",
+              "name": "24 HR rotigotine 0.0833 MG/HR Transdermal System",
+              "synonym": "rotigotine 2 MG/Day 24 HR Transdermal Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "722279",
+              "name": "24 HR rotigotine 0.25 MG/HR Transdermal System",
+              "synonym": "rotigotine 6 MG/Day 24 HR Transdermal Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "722295",
+              "name": "24 HR rotigotine 0.167 MG/HR Transdermal System",
+              "synonym": "rotigotine 4 MG/Day 24 HR Transdermal Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T15:55:43.212902",
+  "source": "RxNorm"
+}

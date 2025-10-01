@@ -1,0 +1,23 @@
+{
+  "drug_name": "Estriol",
+  "generic_name": [
+    "SHEA BUTTER,TOCOPHEROL,ESTRIOL"
+  ],
+  "brand_names": [
+    "Arthcal Estriol Face Cream for Women"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    "For external use only. Keep out of reach of children.Avoid contact with eyes."
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    "50G/1.76OZ"
+  ],
+  "indications": [
+    "Apply to clean skin (face, neck, or body) twice daily. For optimal results, combine with a daily skincare routine. Consult your healthcare provider before use if you have specific medical concerns."
+  ],
+  "fetched_at": "2025-10-01T15:32:13.654730",
+  "source": "OpenFDA"
+}

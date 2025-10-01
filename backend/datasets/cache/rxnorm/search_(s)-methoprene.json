@@ -1,0 +1,10 @@
+{
+  "query": "(S)-methoprene",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:04:15.479080",
+  "source": "RxNorm"
+}

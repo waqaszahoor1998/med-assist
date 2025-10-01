@@ -1,0 +1,10 @@
+{
+  "query": "SB-743921",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:01:18.170395",
+  "source": "RxNorm"
+}

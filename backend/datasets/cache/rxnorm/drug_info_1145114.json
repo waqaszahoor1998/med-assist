@@ -1,0 +1,16 @@
+{
+  "rxcui": "1145114",
+  "properties": {
+    "properties": {
+      "rxcui": "1145114",
+      "name": "azelaic acid 5 MG / cupric oxide 1.5 MG / folic acid 0.5 MG / niacinamide 600 MG / pyridoxine 5 MG / zinc oxide 10 MG Oral Tablet [NicAzel]",
+      "synonym": "azelaic acid 5 MG / Cupric oxide 1.5 MG / folate 0.5 MG / Niacinamide 600 MG / vit-B6 5 MG / ZNO 10 MG Oral Tablet [NicAzel]",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T17:46:16.345158",
+  "source": "RxNorm"
+}

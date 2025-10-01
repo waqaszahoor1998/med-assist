@@ -1,0 +1,10 @@
+{
+  "query": "Anecortave",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:37:32.563683",
+  "source": "RxNorm"
+}

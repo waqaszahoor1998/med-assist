@@ -1,0 +1,16 @@
+{
+  "rxcui": "213729",
+  "properties": {
+    "properties": {
+      "rxcui": "213729",
+      "name": "betaxolol 2.5 MG/ML Ophthalmic Suspension [Betoptic S]",
+      "synonym": "Betoptic S 0.25 % Ophthalmic Suspension",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T21:00:56.420273",
+  "source": "RxNorm"
+}

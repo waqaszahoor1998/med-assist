@@ -1,0 +1,10 @@
+{
+  "query": "Rubitecan",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:11:35.633699",
+  "source": "RxNorm"
+}

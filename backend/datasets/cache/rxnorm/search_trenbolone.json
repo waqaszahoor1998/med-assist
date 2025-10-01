@@ -1,0 +1,226 @@
+{
+  "query": "Trenbolone",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1594951",
+              "name": "estradiol 3-benzoate 14 MG / trenbolone acetate 100 MG Drug Implant [Synovex]",
+              "synonym": "Synovex Choice (estradiol benzoate 14 MG / trenbolone acetate 100 MG) Drug Implant",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1649906",
+              "name": "estradiol 3-benzoate 21 MG / trenbolone acetate 150 MG Drug Implant [Synovex]",
+              "synonym": "Synovex One Grass (estradiol benzoate 21 MG / trenbolone acetate 150 MG) Drug Implant",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1649908",
+              "name": "estradiol 3-benzoate 28 MG / trenbolone acetate 200 MG Drug Implant [Synovex]",
+              "synonym": "SYNOVEX PLUS 200 MG / 28 MG Drug Implant",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1667343",
+              "name": "estradiol 24 MG / trenbolone acetate 120 MG Drug Implant [Revalor]",
+              "synonym": "Revalor-S (trenbolone acetate 120 MG / estradiol 24 MG) Drug Implant",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1667348",
+              "name": "estradiol 16 MG / trenbolone acetate 80 MG Drug Implant [Revalor]",
+              "synonym": "Revalor-IS (trenbolone acetate 80 MG / estradiol 16 MG) Drug Implant",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1668218",
+              "name": "estradiol 40 MG / trenbolone acetate 200 MG Drug Implant [Revalor]",
+              "synonym": "Revalor-XS (trenbolone acetate 200 MG / estradiol 40 MG) Drug Implant",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1669854",
+              "name": "estradiol 14 MG / trenbolone 140 MG Drug Implant [Revalor]",
+              "synonym": "Revalor-H (trenbelone acetate 140 MG / estradiol 14 MG) Drug Implant",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1669859",
+              "name": "estradiol 20 MG / trenbolone 200 MG Drug Implant [Revalor]",
+              "synonym": "Revalor-200 (trenbolone acetate 200 MG / estradiol 20 MG) Drug Implant",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1669864",
+              "name": "estradiol 8 MG / trenbolone 80 MG Drug Implant [Revalor]",
+              "synonym": "Revalor-IH (trenbolone acetate 80 MG / estradiol 8 MG) Drug Implant",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2174105",
+              "name": "estradiol 8 MG / trenbolone acetate 40 MG Drug Implant [Revalor]",
+              "synonym": "Revalor-G (trenbolone acetate 40 MG / estradiol 8 MG) Drug Implant",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2686071",
+              "name": "estradiol 3-benzoate 7 MG / trenbolone acetate 50 MG Drug Implant [Synovex]",
+              "synonym": "Synovex Primer (estradiol benzoate 7 MG / trenbolone acetate 50 MG) Drug Implant",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1549462",
+              "name": "estradiol 3-benzoate 21 MG / trenbolone acetate 150 MG Drug Implant",
+              "synonym": "estradiol benzoate 21 MG / trenbolone acetate 150 MG Drug Implant",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1549470",
+              "name": "estradiol 3-benzoate 28 MG / trenbolone acetate 200 MG Drug Implant",
+              "synonym": "estradiol benzoate 28 MG / trenbolone acetate 200 MG Drug Implant",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1594946",
+              "name": "estradiol 3-benzoate 14 MG / trenbolone acetate 100 MG Drug Implant",
+              "synonym": "estradiol benzoate 14 MG / trenbolone acetate 100 MG Drug Implant",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1667338",
+              "name": "estradiol 24 MG / trenbolone acetate 120 MG Drug Implant",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1667346",
+              "name": "estradiol 16 MG / trenbolone acetate 80 MG Drug Implant",
+              "synonym": "trenbolone acetate 80 MG / estradiol 16 MG Drug Implant",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1668216",
+              "name": "estradiol 40 MG / trenbolone acetate 200 MG Drug Implant",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1669852",
+              "name": "estradiol 14 MG / trenbolone 140 MG Drug Implant",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1669857",
+              "name": "estradiol 20 MG / trenbolone 200 MG Drug Implant",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1669862",
+              "name": "estradiol 8 MG / trenbolone 80 MG Drug Implant",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2174103",
+              "name": "estradiol 8 MG / trenbolone acetate 40 MG Drug Implant",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2686069",
+              "name": "estradiol 3-benzoate 7 MG / trenbolone acetate 50 MG Drug Implant",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:07:00.547915",
+  "source": "RxNorm"
+}

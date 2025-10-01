@@ -1,0 +1,46 @@
+{
+  "query": "Omacetaxine mepesuccinate",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1356693",
+              "name": "omacetaxine mepesuccinate 3.5 MG Injection [Synribo]",
+              "synonym": "Synribo 3.5 MG Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1356688",
+              "name": "omacetaxine mepesuccinate 3.5 MG Injection",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T15:45:01.127939",
+  "source": "RxNorm"
+}

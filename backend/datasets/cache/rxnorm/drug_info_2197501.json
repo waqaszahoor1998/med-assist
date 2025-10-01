@@ -1,0 +1,16 @@
+{
+  "rxcui": "2197501",
+  "properties": {
+    "properties": {
+      "rxcui": "2197501",
+      "name": "fedratinib 100 MG Oral Capsule [Inrebic]",
+      "synonym": "Inrebic 100 MG Oral Capsule",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T19:02:49.013814",
+  "source": "RxNorm"
+}

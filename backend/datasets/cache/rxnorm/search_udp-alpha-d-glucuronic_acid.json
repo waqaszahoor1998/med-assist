@@ -1,0 +1,10 @@
+{
+  "query": "UDP-alpha-D-glucuronic acid",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:23:53.219261",
+  "source": "RxNorm"
+}

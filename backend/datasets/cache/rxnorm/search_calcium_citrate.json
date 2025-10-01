@@ -1,0 +1,212 @@
+{
+  "query": "Calcium citrate",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1100471",
+              "name": "{30 (ascorbic acid 120 MG / calcium citrate 125 MG / cholecalciferol 400 UNT / folic acid 1 MG / iron carbonyl 20 MG / pyridoxine hydrochloride 25 MG Oral Tablet) / 10 (pyridoxine hydrochloride 25 MG Oral Tablet) } Pack [CitraNatal B-Calm Kit]",
+              "synonym": "CitraNatal B-Calm 30 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1100470",
+              "name": "{30 (ascorbic acid 120 MG / calcium citrate 125 MG / cholecalciferol 400 UNT / folic acid 1 MG / iron carbonyl 20 MG / pyridoxine hydrochloride 25 MG Oral Tablet) / 10 (pyridoxine hydrochloride 25 MG Oral Tablet) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "877318",
+              "name": "calcium citrate 2380 MG / cholecalciferol 0.01 MG Chewable Tablet [Calcet]",
+              "synonym": "calcium citrate 2380 MG / cholecalciferol 400 UNT Chewable Tablet [Calcet]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1001751",
+              "name": "calcium citrate 250 MG / cholecalciferol 100 UNT Oral Tablet",
+              "synonym": "calcium citrate 250 MG / vitamin D3 100 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1005706",
+              "name": "calcium citrate 1190 MG / cholecalciferol 0.005 MG Oral Tablet",
+              "synonym": "calcium citrate 1190 MG (calcium 250 MG) / vitamin D3 200 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1042692",
+              "name": "calcium citrate 0.415 MG/MG / cholecalciferol 0.1 UNT/MG Oral Powder",
+              "synonym": "calcium citrate 2075 MG (calcium 500 MG) / vitamin D3 500 UNT per 5 GM Oral Powder",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1100262",
+              "name": "ascorbic acid 120 MG / calcium citrate 125 MG / cholecalciferol 400 UNT / folic acid 1 MG / iron carbonyl 20 MG / pyridoxine hydrochloride 25 MG Oral Tablet",
+              "synonym": "calcium citrate 125 MG / folic acid 1 MG / iron carbonyl 20 MG / vitamin B6 25 MG / vitamin C 120 MG / vitamin D3 400 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1189301",
+              "name": "calcium citrate 950 MG Oral Capsule",
+              "synonym": "calcium citrate 950 MG (calcium 200 MG) Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1304490",
+              "name": "alpha-tocopherol acetate 30 UNT / ascorbic acid 120 MG / calcium citrate 125 MG / cholecalciferol 400 UNT / cupric oxide 2 MG / docusate sodium 50 MG / folic acid 1 MG / iron carbonyl 35 MG / niacinamide 20 MG / potassium iodide 0.15 MG / pyridoxine hydrochloride 25 MG / riboflavin 3.4 MG / thiamine hydrochloride 3 MG / zinc oxide 25 MG Oral Tablet",
+              "synonym": "alpha-Tocopherol Acetate 30 UNT / vit-C 120 MG / Calcium Citrate 125 MG / Cholecalciferol 400 UNT / Cupric oxide 2 MG / DOSS Sodium 50 MG / folate 1 MG / Iron Carbonyl 35 MG / Niacinamide 20 MG / K+ Iodide 0.15 MG / vit-B6 Hydrochloride 25 MG / Riboflavin 3.4 MG / vit-B1 hydrochloride 3 MG / ZNO 25 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1313144",
+              "name": "calcium citrate 1040 MG Chewable Tablet",
+              "synonym": "calcium citrate 1040 MG (calcium 250 MG) Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1874857",
+              "name": "calcium citrate 1500 MG / cholecalciferol 200 UNT Oral Tablet",
+              "synonym": "calcium citrate 1500 MG (calcium 315 MG) / vitamin D3 200 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198538",
+              "name": "calcium citrate 950 MG Oral Tablet",
+              "synonym": "calcium citrate 950 MG (calcium 200 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "240755",
+              "name": "calcium citrate 1040 MG Oral Tablet",
+              "synonym": "calcium citrate 1040 MG (calcium 250 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2716713",
+              "name": "calcium citrate 200 MG / cholecalciferol 250 UNT Oral Tablet",
+              "synonym": "calcium citrate 200 MG / vitamin D3 250 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "485550",
+              "name": "calcium citrate 250 MG / ergocalciferol 100 MG Oral Tablet",
+              "synonym": "Calcium Citrate 250 MG / vit-D 100 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "577055",
+              "name": "calcium citrate 950 MG / cholecalciferol 125 UNT Oral Tablet",
+              "synonym": "calcium citrate 950 MG (calcium 200 MG) / vitamin D3 125 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "804614",
+              "name": "calcium citrate 250 MG / cholecalciferol 125 UNT / magnesium citrate 40 MG Chewable Tablet",
+              "synonym": "calcium citrate 250 MG / magnesium citrate 40 MG / vitamin D3 125 UNT Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "847121",
+              "name": "calcium citrate 1500 MG / cholecalciferol 250 UNT Oral Tablet",
+              "synonym": "calcium citrate 1500 MG (calcium 315 MG) / vitamin D3 250 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "881314",
+              "name": "calcium citrate 2380 MG / cholecalciferol 0.01 MG Chewable Tablet",
+              "synonym": "calcium citrate 2380 MG / cholecalciferol 400 UNT Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "898694",
+              "name": "calcium citrate 950 MG / cholecalciferol 250 UNT Oral Tablet",
+              "synonym": "calcium citrate 950 MG (calcium 200 MG) / vitamin D3 250 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:44:06.049260",
+  "source": "RxNorm"
+}

@@ -1,0 +1,16 @@
+{
+  "rxcui": "1046924",
+  "properties": {
+    "properties": {
+      "rxcui": "1046924",
+      "name": "atropine sulfate 0.00388 MG/ML / hyoscyamine sulfate 0.0207 MG/ML / phenobarbital 3.24 MG/ML / scopolamine hydrobromide 0.0013 MG/ML Oral Solution [Donnatal]",
+      "synonym": "Donnatal (atropine sulfate 0.00388 MG / hyoscyamine sulfate 0.0207 MG / phenobarbital 3.24 MG / scopolamine hydrobromide 0.0013 MG) per ML Oral Solution",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T21:21:58.331126",
+  "source": "RxNorm"
+}

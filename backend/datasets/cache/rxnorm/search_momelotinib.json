@@ -1,0 +1,82 @@
+{
+  "query": "Momelotinib",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2665216",
+              "name": "momelotinib 100 MG Oral Tablet [Ojjaara]",
+              "synonym": "Ojjaara 100 MG (equivalent to 121.94 MG momelotinib dihydrochloride monohydrate) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2665220",
+              "name": "momelotinib 150 MG Oral Tablet [Ojjaara]",
+              "synonym": "Ojjaara 150 MG (equivalent to 182.91 MG momelotinib dihydrochloride monohydrate) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2665224",
+              "name": "momelotinib 200 MG Oral Tablet [Ojjaara]",
+              "synonym": "Ojjaara 200 MG (equivalent to 243.88 MG momelotinib dihydrochloride monohydrate) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2665210",
+              "name": "momelotinib 100 MG Oral Tablet",
+              "synonym": "momelotinib 100 MG (equivalent to 121.94 MG momelotinib dihydrochloride monohydrate) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2665218",
+              "name": "momelotinib 150 MG Oral Tablet",
+              "synonym": "momelotinib 150 MG (equivalent to 182.91 MG momelotinib dihydrochloride monohydrate) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2665222",
+              "name": "momelotinib 200 MG Oral Tablet",
+              "synonym": "momelotinib 200 MG (equivalent to 243.88 MG momelotinib dihydrochloride monohydrate) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:19:06.768400",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "7-{2,6-DICHLORO-4-[3-(2-CHLORO-BENZOYL)-UREIDO]-PHENOXY}-HEPTANOIC ACID",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:34:49.816916",
+  "source": "RxNorm"
+}

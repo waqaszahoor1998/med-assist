@@ -1,0 +1,2300 @@
+{
+  "query": "Hydrocortisone",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "833507",
+              "name": "{1 (30 ML) (hydrocortisone 20 MG/ML Topical Lotion [Scalacort]) / 1 (118 ML) (salicylic acid 20 MG/ML / sulfur 20 MG/ML Medicated Shampoo) } Pack [Scalacort DK]",
+              "synonym": "Scalacort DK Kit",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1246586",
+              "name": "{1 (30000 MG) (hydrocortisone 25 MG/ML / pramoxine hydrochloride 10 MG/ML Rectal Cream) / 6 (pramoxine hydrochloride 10 MG/ML Medicated Pad) } Pack",
+              "synonym": "{1 (30 GM hydrocortisone 2.5 % / pramoxine hydrochloride 1 % Rectal Cream) / 6 (pramoxine hydrochloride 1 % Medicated Pad) } Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "833505",
+              "name": "{1 (30 ML) (hydrocortisone 20 MG/ML Topical Lotion) / 1 (118 ML) (salicylic acid 20 MG/ML / sulfur 20 MG/ML Medicated Shampoo) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1012327",
+              "name": "hydrocortisone acetate 20 MG/ML / lidocaine hydrochloride 20 MG/ML Rectal Cream [Ana-Lex]",
+              "synonym": "Ana-Lex (hydrocortisone acetate 2 % / lidocaine hydrochloride 2 % ) Rectal Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "102250",
+              "name": "hydrocortisone 1.67 MG/ML Enema [Cortenema]",
+              "synonym": "Cortenema 1.67 MG/ML Enema",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1039273",
+              "name": "hydrocortisone 10 MG/ML Topical Solution [Scalpicin Itch Relief]",
+              "synonym": "Scalpicin Itch Relief 1 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1039279",
+              "name": "hydrocortisone 10 MG/ML Topical Lotion [Cortizone]",
+              "synonym": "Cortizone 1 % Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1039281",
+              "name": "hydrocortisone 10 MG/ML Topical Solution [Cortizone]",
+              "synonym": "Cortizone 1 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1039353",
+              "name": "hydrocortisone acetate 10 MG/ML Vaginal Cream [Vagisil Satin]",
+              "synonym": "Vagisil Satin 1 % Vaginal Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1043063",
+              "name": "hydrocortisone 10 MG/ML Topical Lotion [Aquanil HC]",
+              "synonym": "Aquanil HC 1 % Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1043074",
+              "name": "hydrocortisone 10 MG/ML Topical Lotion [Beta-HC]",
+              "synonym": "Beta HC 1 % Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "105398",
+              "name": "hydrocortisone 100 MG Injection [Solu-Cortef]",
+              "synonym": "Solu-Cortef 100 MG Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1094447",
+              "name": "hydrocortisone acetate 23.5 MG/ML / pramoxine hydrochloride 10 MG/ML Rectal Cream [Z-Pram]",
+              "synonym": "Z-Pram (hydrocortisone acetate 2.35 % / pramoxine hydrochloride 1 % ) Rectal Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1115730",
+              "name": "hydrocortisone acetate 18.5 MG/ML / pramoxine hydrochloride 11.5 MG/ML Rectal Cream [Procort 1.85/1.15]",
+              "synonym": "Procort 1.85 % / 1.15 % (hydrocortisone acetate / pramoxine HCl) Rectal Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1116154",
+              "name": "bacitracin zinc 0.4 UNT/MG / hydrocortisone acetate 0.01 MG/MG / neomycin sulfate 0.0035 MG/MG / polymyxin B sulfate 10 UNT/MG Ophthalmic Ointment [Neo-Polycin HC]",
+              "synonym": "Neo-Polycin HC (bacitracin zinc 400 UNT / hydrocortisone acetate 1 % / neomycin sulfate 3.5 MG / polymyxin b sulfate 10,000 UNT) per GM Ophthalmic Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1191394",
+              "name": "aloe polysaccharide 0.01 MG/MG / hydrocortisone acetate 0.02 MG/MG / iodoquinol 0.01 MG/MG Topical Gel [Alcortin A]",
+              "synonym": "Alcortin A (aloe polysaccharides 1 % / hydrocortisone acetate 2 % / iodoquinol 1 % ) Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1191414",
+              "name": "hydrocortisone 0.02 MG/MG / iodoquinol 0.01 MG/MG Topical Gel [Alcortin]",
+              "synonym": "Alcortin (hydrocortisone 2 % / iodoquinol 1 % ) Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1234322",
+              "name": "hydrocortisone acetate 0.01 MG/MG / pramoxine hydrochloride 0.01 MG/MG Topical Ointment [Pramosone]",
+              "synonym": "Pramosone (hydrocortisone acetate 1 % / pramoxine HCl 1 % ) Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1234338",
+              "name": "hydrocortisone acetate 0.025 MG/MG / pramoxine hydrochloride 0.01 MG/MG Topical Ointment [Pramosone]",
+              "synonym": "Pramosone (hydrocortisone acetate 2.5 % / pramoxine HCl 1 % ) Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1234396",
+              "name": "hydrocortisone acetate 10 MG/ML / pramoxine hydrochloride 10 MG/ML Topical Lotion [Pramosone]",
+              "synonym": "Pramosone (hydrocortisone acetate 1 % / pramoxine HCl 1 % ) Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1234509",
+              "name": "hydrocortisone acetate 25 MG/ML / pramoxine hydrochloride 10 MG/ML Topical Cream [Pramosone]",
+              "synonym": "Pramosone (hydrocortisone acetate 2.5 % / pramoxine HCl 1 % ) Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1234514",
+              "name": "hydrocortisone acetate 25 MG/ML / pramoxine hydrochloride 10 MG/ML Topical Lotion [Pramosone]",
+              "synonym": "Pramosone (hydrocortisone acetate 2.5 % / pramoxine HCl 1 % ) Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1234519",
+              "name": "hydrocortisone acetate 10 MG/ML / pramoxine hydrochloride 10 MG/ML Topical Cream [Pramosone]",
+              "synonym": "Pramosone (hydrocortisone acetate 1 % / pramoxine HCl 1 % ) Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1291090",
+              "name": "hydrocortisone acetate 30 MG Rectal Suppository [Hemril]",
+              "synonym": "Hemril 30 MG Rectal Suppository",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1291092",
+              "name": "hydrocortisone acetate 30 MG Rectal Suppository [Proctocort]",
+              "synonym": "Proctocort 30 MG Rectal Suppository",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1291101",
+              "name": "hydrocortisone acetate 25 MG Rectal Suppository [Anucort-HC]",
+              "synonym": "Anucort-HC 25 MG Rectal Suppository",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1291103",
+              "name": "hydrocortisone acetate 25 MG Rectal Suppository [Anusol HC]",
+              "synonym": "Anusol HC 25 MG Rectal Suppository",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1291383",
+              "name": "hydrocortisone acetate 25 MG Rectal Suppository [Proctosol]",
+              "synonym": "Proctosol 25 MG Rectal Suppository",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1293729",
+              "name": "hydrocortisone acetate 0.02 MG/MG / pramoxine hydrochloride 0.01 MG/MG Topical Gel [Novacort]",
+              "synonym": "Novacort (hydrocortisone acetate 2 % / pramoxine hydrochloride 1 % ) Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1293834",
+              "name": "hydrocortisone acetate 23.5 MG/ML / pramoxine hydrochloride 10 MG/ML Rectal Cream [ZyPram]",
+              "synonym": "ZyPram (hydrocortisone acetate 2.35 % / pramoxine hydrochloride 1 % ) Rectal Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1293876",
+              "name": "chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML Otic Solution [Cortane-B]",
+              "synonym": "Cortane-B (chloroxylenol 0.1 % / hydrocortisone 1 % / pramoxine hydrochloride 1 % ) Otic Drops",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1293943",
+              "name": "chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML Topical Lotion [Cortane-B]",
+              "synonym": "Cortane-B (chloroxylenol 0.1 % / hydrocortisone 1 % / pramoxine hydrochloride 1 % ) Otic Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1314932",
+              "name": "hydrocortisone 10 MG/ML Topical Cream [Kera-HC]",
+              "synonym": "Kera-HC 1 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1360949",
+              "name": "hydrocortisone acetate 10 MG/ML Topical Cream [U-Cort]",
+              "synonym": "U-Cort 1 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1360954",
+              "name": "hydrocortisone acetate 10 MG/ML / pramoxine hydrochloride 10 MG/ML Rectal Cream [Analpram HC]",
+              "synonym": "Analpram HC (hydrocortisone acetate 1 % / pramoxine HCl 1 % ) Rectal Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1360956",
+              "name": "hydrocortisone acetate 25 MG/ML / pramoxine hydrochloride 10 MG/ML Topical Lotion [Analpram HC]",
+              "synonym": "Analpram HC (hydrocortisone acetate 2.5 % / pramoxine hydrochloride 1 % ) Rectal Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1362211",
+              "name": "hydrocortisone acetate 25 MG/ML / pramoxine hydrochloride 10 MG/ML Rectal Cream [Analpram HC]",
+              "synonym": "Analpram HC 2.5 % / 1 % (hydrocortisone acetate 2.5 % / pramoxine hydrochloride 1 % ) Rectal Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1370748",
+              "name": "hydrocortisone probutate 1 MG/ML Topical Cream [Pandel]",
+              "synonym": "Pandel 0.1 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1370752",
+              "name": "hydrocortisone valerate 0.002 MG/MG Topical Ointment [Westcort]",
+              "synonym": "Westcort 0.2 % Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1370760",
+              "name": "hydrocortisone butyrate 0.001 MG/MG Topical Ointment [Locoid]",
+              "synonym": "Locoid 0.1 % Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1370765",
+              "name": "hydrocortisone butyrate 1 MG/ML Topical Lotion [Locoid]",
+              "synonym": "Locoid 0.1 % Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1370768",
+              "name": "hydrocortisone butyrate 1 MG/ML Topical Solution [Locoid]",
+              "synonym": "Locoid 0.1 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1370772",
+              "name": "hydrocortisone butyrate 1 MG/ML Topical Cream [Locoid]",
+              "synonym": "Locoid 1 MG/ML Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1436949",
+              "name": "hydrocortisone acetate 19 MG/ML / iodoquinol 10 MG/ML Topical Cream [Vytone]",
+              "synonym": "Vytone (hydrocortisone acetate 1.9 % / iodoquinol 1 % ) Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1440936",
+              "name": "hydrocortisone 25 MG/ML Topical Cream [Proctozone HC]",
+              "synonym": "Proctozone HC 2.5 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1491722",
+              "name": "hydrocortisone 0.01 MG/MG Rectal Ointment [Hemorrodil Plus]",
+              "synonym": "Hemorrodil Plus 1 % Rectal Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1494035",
+              "name": "hydrocortisone 10 MG/ML Vaginal Cream [Monistat Itch Relief]",
+              "synonym": "Monistat Itch Relief 10 MG/ML Vaginal Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1540356",
+              "name": "hydrocortisone 25 MG/ML Topical Cream [Proctosol]",
+              "synonym": "Proctosol 25 MG/ML Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1542806",
+              "name": "hydrocortisone acetate 5 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML Topical Cream [Cortisporin]",
+              "synonym": "Cortisporin (hydrocortisone acetate 5 MG / neomycin 3.5 MG (as neomycin sulfate) / polymyxin B 10,000 UNT) per ML Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1545174",
+              "name": "hydrocortisone acetate 100 MG/ML Rectal Foam [Cortifoam]",
+              "synonym": "Cortifoam 10 % Rectal Foam",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1659445",
+              "name": "hydrocortisone 25 MG/ML Topical Cream [Anusol HC]",
+              "synonym": "Anusol HC 2.5 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1674197",
+              "name": "hydrocortisone acetate 25 MG Rectal Suppository [Hemmorex]",
+              "synonym": "Hemmorex 25 MG Rectal Suppository",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1674200",
+              "name": "hydrocortisone acetate 30 MG Rectal Suppository [Hemmorex]",
+              "synonym": "Hemmorex 30 MG Rectal Suppository",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1729511",
+              "name": "hydrocortisone 25 MG/ML Topical Cream [Ala-Cort]",
+              "synonym": "Ala-Cort 2.5 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1738589",
+              "name": "hydrocortisone 1000 MG Injection [Solu-Cortef]",
+              "synonym": "Solu-Cortef 1000 MG Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1738592",
+              "name": "hydrocortisone 250 MG Injection [Solu-Cortef]",
+              "synonym": "Solu-Cortef 250 MG Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1738596",
+              "name": "hydrocortisone 500 MG Injection [Solu-Cortef]",
+              "synonym": "Solu-Cortef 500 MG Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1790684",
+              "name": "hydrocortisone 25 MG/ML Topical Cream [Procto-Med]",
+              "synonym": "Procto-Med HC 2.5 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1809845",
+              "name": "hydrocortisone acetate 25 MG/ML Topical Cream [MiCort-HC]",
+              "synonym": "MiCort-HC 2.5 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1865144",
+              "name": "hydrocortisone 10 MG/ML Topical Cream [Proctocort]",
+              "synonym": "Proctocort 1 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "206026",
+              "name": "clioquinol 30 MG/ML / hydrocortisone 5 MG/ML Topical Cream [Ala-Quin]",
+              "synonym": "Ala-Quin (clioquinol 3 % / hydrocortisone 0.5 % ) Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "206314",
+              "name": "hydrocortisone 0.01 MG/MG Topical Ointment [Cortizone]",
+              "synonym": "Cortizone 1 % Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "206331",
+              "name": "hydrocortisone 10 MG/ML Topical Solution [Sarnol-HC]",
+              "synonym": "Sarnol-HC 1 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "206336",
+              "name": "hydrocortisone 25 MG/ML Topical Solution [Texacort]",
+              "synonym": "Texacort 2.5 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "206347",
+              "name": "hydrocortisone 10 MG/ML Topical Cream [Ala-Cort]",
+              "synonym": "Alacort 1 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "206349",
+              "name": "hydrocortisone 10 MG/ML Topical Cream [Cortaid]",
+              "synonym": "Cortaid 1 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "206352",
+              "name": "hydrocortisone 10 MG/ML Topical Cream [Cortizone]",
+              "synonym": "Cortizone 1 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "206354",
+              "name": "hydrocortisone 10 MG/ML Topical Cream [Dermacort]",
+              "synonym": "Dermacort 1 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "206511",
+              "name": "hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML Otic Solution [Cortisporin]",
+              "synonym": "Cortisporin Otic (hydrocortisone 1 % / neomycin 0.35 % / polymyxin B 10,000 UNT/ML) Otic Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "208680",
+              "name": "hydrocortisone 5 MG Oral Tablet [Cortef]",
+              "synonym": "Cortef 5 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "208712",
+              "name": "hydrocortisone 10 MG Oral Tablet [Cortef]",
+              "synonym": "Cortef 10 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "208816",
+              "name": "hydrocortisone 20 MG Oral Tablet [Cortef]",
+              "synonym": "Cortef 20 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "208947",
+              "name": "hydrocortisone 100 MG Injection [A-Hydrocort]",
+              "synonym": "A-Hydrocort 100 MG Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "211591",
+              "name": "hydrocortisone 5 MG/ML Topical Cream [Cortaid]",
+              "synonym": "Cortaid 0.5 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "211765",
+              "name": "benzoyl peroxide 50 MG/ML / hydrocortisone 5 MG/ML Topical Lotion [Vanoxide-HC]",
+              "synonym": "Vanoxide-HC (benzoyl peroxide 5 % / hydrocortisone 0.5 % ) Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "212567",
+              "name": "hydrocortisone 10 MG/ML Topical Spray [Cortizone]",
+              "synonym": "Cortizone 1 % Topical Spray",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "213320",
+              "name": "ciprofloxacin 2 MG/ML / hydrocortisone 10 MG/ML Otic Suspension [Cipro HC]",
+              "synonym": "Cipro HC 2/10 Otic Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2399650",
+              "name": "hydrocortisone 0.5 MG Oral Granules [Alkindi]",
+              "synonym": "Alkindi 0.5 MG Oral Granules",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2399654",
+              "name": "hydrocortisone 1 MG Oral Granules [Alkindi]",
+              "synonym": "Alkindi 1 MG Oral Granules",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2399658",
+              "name": "hydrocortisone 2 MG Oral Granules [Alkindi]",
+              "synonym": "Alkindi 2 MG Oral Granules",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2399661",
+              "name": "hydrocortisone 5 MG Oral Granules [Alkindi]",
+              "synonym": "Alkindi 5 MG Oral Granules",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2462510",
+              "name": "hydrocortisone 0.01 MG/MG Topical Ointment [Aquaphor Itch Relief]",
+              "synonym": "Aquaphor Itch Relief 1 % Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "260312",
+              "name": "hydrocortisone 10 MG/ML Rectal Cream [Recort Plus]",
+              "synonym": "Recort Plus 1 % Rectal Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2639748",
+              "name": "hydrocortisone 10 MG/ML / ketoconazole 1.5 MG/ML Otic Solution [Malacetic]",
+              "synonym": "Malacetic Ultra 1 % / 0.15 % Otic Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2716556",
+              "name": "hydrocortisone 1 MG/ML Oral Solution [Khindivi]",
+              "synonym": "Khindivi 1 MG/mL Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "351349",
+              "name": "hydrocortisone 10 MG/ML Topical Cream [Caldecort]",
+              "synonym": "Caldecort 1 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "351706",
+              "name": "hydrocortisone 10 MG/ML / iodoquinol 10 MG/ML Topical Cream [Dermazene]",
+              "synonym": "Dermazene (hydrocortisone 1 % / iodoquinol 1 % ) Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "404044",
+              "name": "hydrocortisone 10 MG/ML Topical Cream [Dermtex HC]",
+              "synonym": "Dermtex HC 1 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "404284",
+              "name": "hydrocortisone 0.01 MG/MG Topical Gel [Instacort]",
+              "synonym": "Instacort 1 % Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "404285",
+              "name": "hydrocortisone 10 MG/ML Topical Spray [Dermtex HC]",
+              "synonym": "Dermtex HC 1 % Topical Spray",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "543492",
+              "name": "hydrocortisone 10 MG/ML Topical Cream [Procto-Pak]",
+              "synonym": "Procto-Pak 1 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "604515",
+              "name": "hydrocortisone 0.01 MG/MG Topical Ointment [Cortaid]",
+              "synonym": "Cortaid 1 % Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "606794",
+              "name": "hydrocortisone 0.02 MG/MG Topical Gel [Nuzon]",
+              "synonym": "Nuzon 2 % Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "702503",
+              "name": "hydrocortisone 10 MG/ML Topical Spray [Cortaid]",
+              "synonym": "Cortaid 1 % Topical Spray",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "707793",
+              "name": "hydrocortisone 10 MG/ML Topical Cream [Gynecort]",
+              "synonym": "Gynecort 10 MG/ML Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "759717",
+              "name": "hydrocortisone 25 MG/ML Rectal Cream [Procto-Kit]",
+              "synonym": "Procto-Kit 2.5 % Rectal Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "763095",
+              "name": "hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML Otic Suspension [Oticin HC]",
+              "synonym": "Oticin HC (hydrocortisone 1 % / neomycin 0.35 % / polymyxin B 10,000 UNT/ML) Otic Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "795067",
+              "name": "hydrocortisone 0.01 MG/MG Topical Gel [Corticool]",
+              "synonym": "Corticool 1 % Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "827346",
+              "name": "hydrocortisone 20 MG/ML Topical Lotion [Nucort]",
+              "synonym": "Nucort 2 % Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "828364",
+              "name": "hydrocortisone acetate 10 MG/ML / pramoxine hydrochloride 10 MG/ML Rectal Foam [Proctofoam-HC]",
+              "synonym": "Proctofoam-HC (hydrocortisone acetate 1 % / pramoxine hydrochloride 1 % ) Rectal Foam",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "830761",
+              "name": "hydrocortisone 20 MG/ML Topical Lotion [Scalacort]",
+              "synonym": "Scalacort 2 % Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "846161",
+              "name": "hydrocortisone 0.01 MG/MG Topical Gel [Cortizone]",
+              "synonym": "Cortizone 1 % Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "854997",
+              "name": "colistin 3 MG/ML / hydrocortisone 10 MG/ML / neomycin 3.3 MG/ML / thonzonium bromide 0.5 MG/ML Otic Suspension [Cortisporin-TC]",
+              "synonym": "Cortisporin-TC (colistin 0.3 % / hydrocortisone 1 % / neomycin 0.33 % / thonzonium bromide 0.05 % ) Otic Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "884077",
+              "name": "hydrocortisone 20 MG/ML Topical Lotion [Ala-Scalp]",
+              "synonym": "Ala-Scalp HP 2 % Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "904783",
+              "name": "hydrocortisone acetate 10 MG/ML / pramoxine hydrochloride 10 MG/ML Topical Foam [Epifoam]",
+              "synonym": "Epifoam (hydrocortisone acetate 1 % / pramoxine hydrochloride 1 % ) Topical Foam",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "998426",
+              "name": "acyclovir 50 MG/ML / hydrocortisone 10 MG/ML Topical Cream [Xerese]",
+              "synonym": "Xerese (acyclovir 5 % / hydrocortisone 1 % ) Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1012216",
+              "name": "hydrocortisone acetate 0.00275 MG/MG / lidocaine hydrochloride 0.05 MG/MG Topical Ointment",
+              "synonym": "hydrocortisone acetate 0.275 % / lidocaine hydrochloride 5 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1012221",
+              "name": "hydrocortisone acetate 0.0055 MG/MG / lidocaine hydrochloride 0.028 MG/MG Rectal Gel",
+              "synonym": "hydrocortisone acetate 0.55 % / lidocaine hydrochloride 2.8 % Rectal Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1012223",
+              "name": "hydrocortisone acetate 0.025 MG/MG / lidocaine hydrochloride 0.03 MG/MG Rectal Gel",
+              "synonym": "hydrocortisone acetate 2.5 % / lidocaine HCl 3 % Rectal Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1012229",
+              "name": "hydrocortisone acetate 10 MG/ML / lidocaine hydrochloride 30 MG/ML Rectal Cream",
+              "synonym": "hydrocortisone acetate 1 % / lidocaine hydrochloride 3 % Rectal Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1012233",
+              "name": "hydrocortisone acetate 20 MG/ML / lidocaine hydrochloride 20 MG/ML Rectal Cream",
+              "synonym": "hydrocortisone acetate 2 % / lidocaine hydrochloride 2 % Rectal Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1012235",
+              "name": "hydrocortisone acetate 5 MG/ML / lidocaine hydrochloride 30 MG/ML Rectal Cream",
+              "synonym": "hydrocortisone acetate 0.5 % / lidocaine hydrochloride 3 % Rectal Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1012238",
+              "name": "hydrocortisone acetate 5 MG/ML / lidocaine hydrochloride 30 MG/ML Topical Lotion",
+              "synonym": "hydrocortisone acetate 0.5 % / lidocaine hydrochloride 3 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1012345",
+              "name": "hydrocortisone acetate 5 MG/ML / lidocaine hydrochloride 30 MG/ML Topical Cream",
+              "synonym": "hydrocortisone acetate 0.5 % / lidocaine hydrochloride 3 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1012362",
+              "name": "hydrocortisone acetate 2 MG/ML / lidocaine hydrochloride 10 MG/ML Topical Spray",
+              "synonym": "hydrocortisone acetate 0.2 % / lidocaine HCl 1 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "103401",
+              "name": "hydrocortisone 0.025 MG/MG Topical Ointment",
+              "synonym": "hydrocortisone 2.5 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "103403",
+              "name": "hydrocortisone 10 MG/ML Topical Lotion",
+              "synonym": "hydrocortisone 1 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1037338",
+              "name": "hydrocortisone sodium phosphate 50 MG/ML Injectable Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1039349",
+              "name": "hydrocortisone acetate 10 MG/ML Vaginal Cream",
+              "synonym": "hydrocortisone acetate 1 % Vaginal Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1043690",
+              "name": "hydrocortisone acetate 10 MG/ML Topical Cream",
+              "synonym": "hydrocortisone acetate 1 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "106078",
+              "name": "hydrocortisone 10 MG/ML / neomycin 5 MG/ML Topical Cream",
+              "synonym": "hydrocortisone 1 % / neomycin 0.5 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "106234",
+              "name": "clioquinol 30 MG/ML / hydrocortisone 10 MG/ML Topical Cream",
+              "synonym": "clioquinol 3 % / hydrocortisone 1 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "106238",
+              "name": "clotrimazole 10 MG/ML / hydrocortisone 10 MG/ML Topical Cream",
+              "synonym": "clotrimazole 1 % / hydrocortisone 1 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "106248",
+              "name": "hydrocortisone 1 MG/ML Topical Cream",
+              "synonym": "hydrocortisone 0.1 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "106258",
+              "name": "hydrocortisone 10 MG/ML Topical Cream",
+              "synonym": "hydrocortisone 1 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1094443",
+              "name": "hydrocortisone acetate 23.5 MG/ML / pramoxine hydrochloride 10 MG/ML Rectal Cream",
+              "synonym": "hydrocortisone acetate 2.35 % / pramoxine hydrochloride 1 % Rectal Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1114854",
+              "name": "hydrocortisone acetate 18.5 MG/ML / pramoxine hydrochloride 11.5 MG/ML Rectal Cream",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1116150",
+              "name": "bacitracin zinc 0.4 UNT/MG / hydrocortisone acetate 0.01 MG/MG / neomycin sulfate 0.0035 MG/MG / polymyxin B sulfate 10 UNT/MG Ophthalmic Ointment",
+              "synonym": "bacitracin zinc 400 UNT/GM / hydrocortisone acetate 1 % / neomycin sulfate 3.5 MG/GM / polymyxin B sulfate 10,000 UNT/GM Ophthalmic Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1116499",
+              "name": "hydrocortisone acetate 10 MG/ML / pramoxine hydrochloride 10 MG/ML Topical Cream",
+              "synonym": "hydrocortisone acetate 1 % / pramoxine HCl 1 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1191376",
+              "name": "aloe polysaccharide 0.01 MG/MG / hydrocortisone acetate 0.02 MG/MG / iodoquinol 0.01 MG/MG Topical Gel",
+              "synonym": "aloe polysaccharides 1 % / hydrocortisone acetate 2 % / iodoquinol 1 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1234317",
+              "name": "hydrocortisone acetate 0.01 MG/MG / pramoxine hydrochloride 0.01 MG/MG Topical Ointment",
+              "synonym": "hydrocortisone acetate 1 % / pramoxine hydrochloride 1 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1234333",
+              "name": "hydrocortisone acetate 0.025 MG/MG / pramoxine hydrochloride 0.01 MG/MG Topical Ointment",
+              "synonym": "hydrocortisone acetate 2.5 % / pramoxine hydrochloride 1 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1234393",
+              "name": "hydrocortisone acetate 10 MG/ML / pramoxine hydrochloride 10 MG/ML Topical Lotion",
+              "synonym": "hydrocortisone acetate 1 % / pramoxine hydrochloride 1 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1234506",
+              "name": "hydrocortisone acetate 25 MG/ML / pramoxine hydrochloride 10 MG/ML Topical Cream",
+              "synonym": "hydrocortisone acetate 2.5 % / pramoxine hydrochloride 1 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1234512",
+              "name": "hydrocortisone acetate 25 MG/ML / pramoxine hydrochloride 10 MG/ML Topical Lotion",
+              "synonym": "hydrocortisone acetate 2.5 % / pramoxine hydrochloride 1 % Rectal Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1235049",
+              "name": "hydrocortisone acetate 10 MG/ML / pramoxine hydrochloride 10 MG/ML Rectal Cream",
+              "synonym": "hydrocortisone acetate 1 % / pramoxine hydrochloride 1 % Rectal Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1246528",
+              "name": "hydrocortisone 25 MG/ML / pramoxine hydrochloride 10 MG/ML Rectal Cream",
+              "synonym": "hydrocortisone 2.5 % / pramoxine hydrochloride 1 % Rectal Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1250490",
+              "name": "hydrocortisone acetate 5 MG/ML Topical Cream",
+              "synonym": "hydrocortisone acetate 0.5 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1291082",
+              "name": "hydrocortisone acetate 25 MG Rectal Suppository",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1291085",
+              "name": "hydrocortisone acetate 30 MG Rectal Suppository",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1293727",
+              "name": "hydrocortisone acetate 0.02 MG/MG / pramoxine hydrochloride 0.01 MG/MG Topical Gel",
+              "synonym": "hydrocortisone acetate 2 % / pramoxine hydrochloride 1 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1293865",
+              "name": "chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML Topical Lotion",
+              "synonym": "chloroxylenol 0.1 % / hydrocortisone 1 % / pramoxine hydrochloride 1 % Otic Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1293874",
+              "name": "chloroxylenol 1 MG/ML / hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML Otic Solution",
+              "synonym": "chloroxylenol 0.1 % / hydrocortisone 1 % / pramoxine hydrochloride 1 % Otic Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1294024",
+              "name": "hydrocortisone acetate 10 MG/ML / pramoxine hydrochloride 10 MG/ML Topical Spray",
+              "synonym": "hydrocortisone acetate 1 % / pramoxine hydrochloride 1 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1294025",
+              "name": "hydrocortisone acetate 25 MG/ML / pramoxine hydrochloride 10 MG/ML Rectal Cream",
+              "synonym": "hydrocortisone acetate 2.5 % / pramoxine hydrochloride 1 % Rectal Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1370746",
+              "name": "hydrocortisone probutate 1 MG/ML Topical Cream",
+              "synonym": "hydrocortisone probutate 0.1 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1370750",
+              "name": "hydrocortisone valerate 0.002 MG/MG Topical Ointment",
+              "synonym": "hydrocortisone valerate 0.2 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1370754",
+              "name": "hydrocortisone valerate 2 MG/ML Topical Cream",
+              "synonym": "hydrocortisone valerate 0.2 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1370758",
+              "name": "hydrocortisone butyrate 0.001 MG/MG Topical Ointment",
+              "synonym": "hydrocortisone butyrate 0.1 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1370763",
+              "name": "hydrocortisone butyrate 1 MG/ML Topical Lotion",
+              "synonym": "hydrocortisone butyrate 0.1 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1370767",
+              "name": "hydrocortisone butyrate 1 MG/ML Topical Solution",
+              "synonym": "hydrocortisone butyrate 0.1 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1370770",
+              "name": "hydrocortisone butyrate 1 MG/ML Topical Cream",
+              "synonym": "hydrocortisone butyrate 0.1 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1370780",
+              "name": "chlorquinaldol 0.03 MG/MG / hydrocortisone butyrate 0.001 MG/MG Topical Ointment",
+              "synonym": "chlorquinaldol 3 % / hydrocortisone butyrate 0.1 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1370782",
+              "name": "chlorquinaldol 30 MG/ML / hydrocortisone butyrate 1 MG/ML Topical Cream",
+              "synonym": "chlorquinaldol 3 % / hydrocortisone butyrate 0.1 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "142024",
+              "name": "crotamiton 100 MG/ML / hydrocortisone 2.5 MG/ML Topical Cream",
+              "synonym": "crotamiton 10 % / hydrocortisone 0.25 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1436947",
+              "name": "hydrocortisone acetate 19 MG/ML / iodoquinol 10 MG/ML Topical Cream",
+              "synonym": "hydrocortisone acetate 1.9 % / iodoquinol 1 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1440184",
+              "name": "hydrocortisone acetate 0.01 MG/MG Topical Ointment",
+              "synonym": "hydrocortisone acetate 1 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1486177",
+              "name": "hydrocortisone acetate 18.5 MG/ML / pramoxine hydrochloride 11.5 MG/ML Topical Cream",
+              "synonym": "hydrocortisone acetate 1.85 % / pramoxine hydrochloride 1.15 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1489372",
+              "name": "hydrocortisone acetate 5 MG/ML Topical Lotion",
+              "synonym": "hydrocortisone acetate 0.5 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1494032",
+              "name": "hydrocortisone 10 MG/ML Vaginal Cream",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "150945",
+              "name": "clioquinol 0.03 MG/MG / hydrocortisone 0.01 MG/MG Topical Ointment",
+              "synonym": "clioquinol 3 % / hydrocortisone 1 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1537194",
+              "name": "benzethonium chloride 0.5 MG/ML / diphenhydramine hydrochloride 5 MG/ML / hydrocortisone 0.5 MG/ML Topical Spray",
+              "synonym": "benzethonium Cl 0.05 % / diphenhydramine HCl 0.5 % / hydrocortisone 0.05 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1537198",
+              "name": "hydrocortisone 0.5 MG/ML / lidocaine hydrochloride 0.5 MG/ML / pramoxine hydrochloride 2.5 MG/ML Medicated Shampoo",
+              "synonym": "hydrocortisone 0.05 % / lidocaine HCl 0.05 % / pramoxine HCl 0.25 % Medicated Shampoo",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1541084",
+              "name": "hydrocortisone 10 MG/ML / pramoxine hydrochloride 10 MG/ML Topical Spray",
+              "synonym": "hydrocortisone 1 % / pramoxine HCl 1 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1542804",
+              "name": "hydrocortisone acetate 5 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML Topical Cream",
+              "synonym": "hydrocortisone acetate 0.5 % / neomycin 0.35 % (as neomycin sulfate) / polymyxin B 10,000 UNT/ML Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1542920",
+              "name": "hydrocortisone acetate 0.005 MG/MG Ophthalmic Ointment",
+              "synonym": "hydrocortisone acetate 0.5 % Ophthalmic Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1542921",
+              "name": "hydrocortisone acetate 0.01 MG/MG Ophthalmic Ointment",
+              "synonym": "hydrocortisone acetate 1 % Ophthalmic Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1542922",
+              "name": "hydrocortisone acetate 0.025 MG/MG Ophthalmic Ointment",
+              "synonym": "hydrocortisone acetate 2.5 % Ophthalmic Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1545172",
+              "name": "hydrocortisone acetate 100 MG/ML Rectal Foam",
+              "synonym": "hydrocortisone acetate 10 % Rectal Foam",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1549404",
+              "name": "gentamicin 3 MG/ML / hydrocortisone acetate 10 MG/ML Otic Suspension",
+              "synonym": "gentamicin 0.3 % / hydrocortisone acetate 1 % Otic Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1549474",
+              "name": "hydrocortisone acetate 15 MG/ML / neomycin 5 MG/ML Ophthalmic Solution",
+              "synonym": "hydrocortisone acetate 1.5 % / neomycin 0.5 % Ophthalmic Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1606353",
+              "name": "hydrocortisone 0.01 MG/MG / ketoconazole 0.0015 MG/MG Otic Gel",
+              "synonym": "hydrocortisone 1 % / ketoconazole 0.15 % Otic Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1606483",
+              "name": "clioquinol 10 MG/ML / hydrocortisone 10 MG/ML Rectal Cream",
+              "synonym": "hydrocortisone 1 % / clioquinol 1 % Rectal Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1648132",
+              "name": "chlorhexidine gluconate 20 MG/ML / hydrocortisone 10 MG/ML / ketoconazole 10 MG/ML Medicated Shampoo",
+              "synonym": "chlorhexidine gluconate 2 % / hydrocortisone 1 % / ketoconazole 1 % Medicated Shampoo",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1738574",
+              "name": "hydrocortisone 10 MG/ML / salicylic acid 30 MG/ML / sulfur 30 MG/ML Topical Cream",
+              "synonym": "hydrocortisone 1 % / salicylic acid 3 % / sulfur 3 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1738586",
+              "name": "hydrocortisone 1000 MG Injection",
+              "synonym": "hydrocortisone (as hydrocortisone sodium succinate) 1000 MG Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1738590",
+              "name": "hydrocortisone 250 MG Injection",
+              "synonym": "hydrocortisone (as hydrocortisone sodium succinate) 250 MG Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1738594",
+              "name": "hydrocortisone 500 MG Injection",
+              "synonym": "hydrocortisone (as hydrocortisone sodium succinate) 500 MG Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1809843",
+              "name": "hydrocortisone acetate 25 MG/ML Topical Cream",
+              "synonym": "hydrocortisone acetate 2.5 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1926571",
+              "name": "hydrocortisone 10 MG/ML Medicated Shampoo",
+              "synonym": "hydrocortisone 1 % Medicated Shampoo",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "197782",
+              "name": "hydrocortisone 10 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "197783",
+              "name": "hydrocortisone 20 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "197784",
+              "name": "hydrocortisone 20 MG/ML Topical Lotion",
+              "synonym": "hydrocortisone 2 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "197785",
+              "name": "hydrocortisone 25 MG/ML Topical Lotion",
+              "synonym": "hydrocortisone 2.5 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "197786",
+              "name": "hydrocortisone 25 MG/ML Topical Solution",
+              "synonym": "hydrocortisone 2.5 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "197787",
+              "name": "hydrocortisone 5 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198706",
+              "name": "hydrocortisone 0.01 MG/MG Topical Gel",
+              "synonym": "hydrocortisone 1 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198707",
+              "name": "hydrocortisone 5 MG/ML Topical Cream",
+              "synonym": "hydrocortisone 0.5 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "203105",
+              "name": "hydrocortisone 0.01 MG/MG Topical Ointment",
+              "synonym": "hydrocortisone 1 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "204423",
+              "name": "hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML Otic Solution",
+              "synonym": "hydrocortisone 10 MG / neomycin 3.5 MG / polymyxin B 10,000 UNT per ML Otic Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2044886",
+              "name": "hydrocortisone acetate 10 MG/ML / lidocaine hydrochloride 10 MG/ML Topical Cream",
+              "synonym": "hydrocortisone acetate 1 % / lidocaine hydrochloride 1 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "204874",
+              "name": "hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML Ophthalmic Suspension",
+              "synonym": "hydrocortisone 1 % / neomycin (neomycin sulfate) 0.35 % / polymyxin B (polymyxin B sulfate) 10,000 UNT/ML Ophthalmic Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "238754",
+              "name": "hydrocortisone 25 MG/ML Injectable Suspension",
+              "synonym": "hydrocortisone 2.5 % Injectable Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "238755",
+              "name": "hydrocortisone 100 MG Injection",
+              "synonym": "hydrocortisone (as hydrocortisone sodium succinate) 100 MG Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2399644",
+              "name": "hydrocortisone 0.5 MG Oral Granules",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2399652",
+              "name": "hydrocortisone 1 MG Oral Granules",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2399656",
+              "name": "hydrocortisone 2 MG Oral Granules",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2399659",
+              "name": "hydrocortisone 5 MG Oral Granules",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "240749",
+              "name": "hydrocortisone 10 MG/ML Otic Solution",
+              "synonym": "hydrocortisone 1 % Otic Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "244382",
+              "name": "benzoyl peroxide 50 MG/ML / hydrocortisone 5 MG/ML Topical Lotion",
+              "synonym": "benzoyl peroxide 5 % / hydrocortisone 0.5 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "244492",
+              "name": "hydrocortisone 5 MG/ML Topical Lotion",
+              "synonym": "hydrocortisone 0.5 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2458959",
+              "name": "hydrocortisone 10 MG/ML / pramoxine hydrochloride 5 MG/ML Topical Spray",
+              "synonym": "hydrocortisone 1 % / pramoxine HCl 0.5 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "249207",
+              "name": "hydrocortisone 0.01 MG/MG / oxytetracycline 0.03 MG/MG Topical Ointment",
+              "synonym": "hydrocortisone 1 % / oxytetracycline 3 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "250788",
+              "name": "hydrocortisone 100 MG/ML Injectable Solution",
+              "synonym": "hydrocortisone 10 % Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "250804",
+              "name": "hydrocortisone 10 MG/ML Ophthalmic Solution",
+              "synonym": "hydrocortisone 1 % Ophthalmic Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "251224",
+              "name": "hydrocortisone acetate 20 MG/ML Topical Cream",
+              "synonym": "hydrocortisone acetate 2 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "251452",
+              "name": "hydrocortisone 2.5 MG Oral Lozenge",
+              "synonym": "hydrocortisone (as hydrocortisone sodium succinate) 2.5 MG Oral Lozenge",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2590741",
+              "name": "hydrocortisone acetate 25 MG / pramoxine hydrochloride 18 MG Rectal Suppository",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "260192",
+              "name": "hydrocortisone 0.01 MG/MG Rectal Ointment",
+              "synonym": "hydrocortisone 1 % Rectal Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2619447",
+              "name": "hydrocortisone 10 MG/ML / pramoxine hydrochloride 5 MG/ML Rectal Spray",
+              "synonym": "hydrocortisone 1 % / pramoxine HCl 0.5 % Rectal Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2627299",
+              "name": "diphenhydramine hydrochloride 10 MG/ML / hydrocortisone 5 MG/ML / pramoxine hydrochloride 10 MG/ML Medicated Pad",
+              "synonym": "diphenhydramine hydrochloride 1 % / hydrocortisone 0.5 % / pramoxine hydrochloride 1 % Medicated Pad",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2631096",
+              "name": "chlorhexidine gluconate 40 MG/ML / hydrocortisone 10 MG/ML Topical Spray",
+              "synonym": "chlorhexidine gluconate 4 % / hydrocortisone 1 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2639745",
+              "name": "hydrocortisone 10 MG/ML / ketoconazole 1.5 MG/ML Otic Solution",
+              "synonym": "hydrocortisone 1 % / ketoconazole 0.15 % Otic Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2663929",
+              "name": "chlorhexidine gluconate 20 MG/ML / hydrocortisone 5 MG/ML / ketoconazole 10 MG/ML Topical Spray",
+              "synonym": "chlorhexidine gluconate 2 % / hydrocortisone 0.5 % / ketoconazole 1 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2671298",
+              "name": "hydrocortisone 6.67 MG/ML / tolnaftate 10 MG/ML Topical Solution",
+              "synonym": "hydrocortisone 0.667 % / tolnaftate 1 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2677462",
+              "name": "hydrocortisone acetate 10 MG/ML / lidocaine hydrochloride 50 MG/ML Topical Cream",
+              "synonym": "hydrocortisone acetate 1 % / lidocaine HCl 5 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2677688",
+              "name": "hydrocortisone 20 MG/ML Topical Cream",
+              "synonym": "hydrocortisone 2 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2683735",
+              "name": "hydrocortisone acetate 10 MG/ML / lidocaine hydrochloride 38.8 MG/ML Topical Cream",
+              "synonym": "hydrocortisone acetate 1 % / lidocaine hydrochloride 3.88 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2685535",
+              "name": "hydrocortisone 5 MG/ML / lidocaine hydrochloride 30 MG/ML Topical Cream",
+              "synonym": "hydrocortisone 0.5 % / lidocaine hydrochloride 3 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2687694",
+              "name": "hydrocortisone acetate 10 MG/ML / lidocaine hydrochloride 38.8 MG/ML Topical Lotion",
+              "synonym": "hydrocortisone acetate 1 % / lidocaine hydrochloride 3.88 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2689312",
+              "name": "hydrocortisone acetate 10 MG/ML / lidocaine hydrochloride 50 MG/ML Topical Lotion",
+              "synonym": "hydrocortisone acetate 1 % / lidocaine HCl 5 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2714656",
+              "name": "hydrocortisone 0.001 MG/MG Topical Ointment",
+              "synonym": "hydrocortisone 0.1 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2716550",
+              "name": "hydrocortisone 1 MG/ML Oral Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "309305",
+              "name": "ciprofloxacin 2 MG/ML / hydrocortisone 10 MG/ML Otic Suspension",
+              "synonym": "ciprofloxacin 0.2 % / hydrocortisone 1 % Otic Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "309349",
+              "name": "clioquinol 30 MG/ML / hydrocortisone 5 MG/ML Topical Cream",
+              "synonym": "clioquinol 3 % / hydrocortisone 0.5 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "310687",
+              "name": "hydrocortisone 10 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML Otic Suspension",
+              "synonym": "hydrocortisone 10 MG / neomycin 3.5 MG / polymyxin B 10,000 UNT per 1 ML Otic Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "310759",
+              "name": "hexachlorophene 5 MG/ML / hydrocortisone 5 MG/ML / menthol 1.25 MG/ML Topical Cream",
+              "synonym": "hexachlorophene 0.5 % / hydrocortisone 0.5 % / menthol 0.125 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "310858",
+              "name": "hydrocortisone 5 MG/ML Topical Spray",
+              "synonym": "hydrocortisone 0.5 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "310861",
+              "name": "hydrocortisone 0.005 MG/MG Topical Ointment",
+              "synonym": "hydrocortisone 0.5 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "310868",
+              "name": "hydrocortisone 10 MG/ML Rectal Cream",
+              "synonym": "hydrocortisone 1 % Rectal Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "310869",
+              "name": "hydrocortisone 10 MG/ML Topical Solution",
+              "synonym": "hydrocortisone 1 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "310870",
+              "name": "hydrocortisone 10 MG/ML / iodoquinol 10 MG/ML Topical Cream",
+              "synonym": "hydrocortisone 1 % / iodoquinol 1 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "310877",
+              "name": "hydrocortisone 1 MG/MG Topical Powder",
+              "synonym": "hydrocortisone 100 % Topical Powder",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "310878",
+              "name": "hydrocortisone 1.67 MG/ML Enema",
+              "synonym": "hydrocortisone 100 MG per 60 ML Rectal Enema",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "310879",
+              "name": "hydrocortisone 25 MG/ML Rectal Cream",
+              "synonym": "hydrocortisone 2.5 % Rectal Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "310891",
+              "name": "hydrocortisone 25 MG/ML Topical Cream",
+              "synonym": "hydrocortisone 2.5 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "310899",
+              "name": "hydrocortisone 2 MG/ML Oral Suspension",
+              "synonym": "hydrocortisone 10 MG per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "313786",
+              "name": "acetic acid 20 MG/ML / hydrocortisone 10 MG/ML Otic Solution",
+              "synonym": "acetic acid 2 % / hydrocortisone 1 % Otic Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "317564",
+              "name": "hydrocortisone 10 MG/ML Topical Spray",
+              "synonym": "hydrocortisone 1 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "360584",
+              "name": "hydrocortisone 15 MG/ML / neomycin 5 MG/ML Otic Solution",
+              "synonym": "hydrocortisone 1.5 % / neomycin 0.5 % Otic Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "544118",
+              "name": "hydrocortisone 0.02 MG/MG / iodoquinol 0.01 MG/MG Topical Gel",
+              "synonym": "hydrocortisone 2 % / iodoquinol 1 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "604449",
+              "name": "hydrocortisone 0.02 MG/MG Topical Gel",
+              "synonym": "hydrocortisone 2 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "618611",
+              "name": "fusidate 0.02 MG/MG / hydrocortisone 0.01 MG/MG Topical Ointment",
+              "synonym": "fusidate 2 % / hydrocortisone 1 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "618623",
+              "name": "fusidate 20 MG/ML / hydrocortisone 10 MG/ML Topical Cream",
+              "synonym": "fusidate 2 % / hydrocortisone 1 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "828362",
+              "name": "hydrocortisone acetate 10 MG/ML / pramoxine hydrochloride 10 MG/ML Rectal Foam",
+              "synonym": "hydrocortisone acetate 1 % / pramoxine hydrochloride 1 % Rectal Foam",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "832711",
+              "name": "hydrocortisone 10 MG/ML Topical Foam",
+              "synonym": "hydrocortisone 1 % Topical Foam",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "854992",
+              "name": "colistin 3 MG/ML / hydrocortisone 10 MG/ML / neomycin 3.3 MG/ML / thonzonium bromide 0.5 MG/ML Otic Suspension",
+              "synonym": "colistin 0.3 % / hydrocortisone 1 % / neomycin 0.33 % / thonzonium bromide 0.05 % Otic Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "857584",
+              "name": "econazole nitrate 10 MG/ML / hydrocortisone 10 MG/ML Topical Cream",
+              "synonym": "econazole nitrate 1 % / hydrocortisone 1 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "904782",
+              "name": "hydrocortisone acetate 10 MG/ML / pramoxine hydrochloride 10 MG/ML Topical Foam",
+              "synonym": "hydrocortisone acetate 1 % / pramoxine hydrochloride 1 % Topical Foam",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "998422",
+              "name": "acyclovir 50 MG/ML / hydrocortisone 10 MG/ML Topical Cream",
+              "synonym": "acyclovir 5 % / hydrocortisone 1 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "998552",
+              "name": "hydrocortisone 0.01 MG/MG / miconazole nitrate 0.02 MG/MG Topical Ointment",
+              "synonym": "hydrocortisone 1 % / miconazole nitrate 2 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "998553",
+              "name": "hydrocortisone 10 MG/ML / miconazole nitrate 20 MG/ML Topical Cream",
+              "synonym": "hydrocortisone 1 % / miconazole nitrate 2 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:31:43.557774",
+  "source": "RxNorm"
+}

@@ -1,0 +1,46 @@
+{
+  "query": "Setmelanotide",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2469351",
+              "name": "setmelanotide 10 MG/ML Injectable Solution [Imcivree]",
+              "synonym": "Imcivree 10 MG/ML Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2469346",
+              "name": "setmelanotide 10 MG/ML Injectable Solution",
+              "synonym": "setmelanotide 10 MG/ML (as setmelanotide acetate) Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:15:10.867366",
+  "source": "RxNorm"
+}

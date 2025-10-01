@@ -1,0 +1,100 @@
+{
+  "query": "Fondaparinux",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "861358",
+              "name": "0.8 ML fondaparinux sodium 12.5 MG/ML Prefilled Syringe [Arixtra]",
+              "synonym": "Arixtra 10 MG per 0.8 ML Prefilled Syringe",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "861362",
+              "name": "0.5 ML fondaparinux sodium 5 MG/ML Prefilled Syringe [Arixtra]",
+              "synonym": "0.5 ML Arixtra 5 MG/ML Prefilled Syringe",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "861364",
+              "name": "0.4 ML fondaparinux sodium 12.5 MG/ML Prefilled Syringe [Arixtra]",
+              "synonym": "Atrixtra 5 MG per 0.4 ML Prefilled Syringe",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "861366",
+              "name": "0.6 ML fondaparinux sodium 12.5 MG/ML Prefilled Syringe [Arixtra]",
+              "synonym": "0.6 ML Arixtra 12.5 MG/ML Prefilled Syringe",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "861356",
+              "name": "0.8 ML fondaparinux sodium 12.5 MG/ML Prefilled Syringe",
+              "synonym": "fondaparinux sodium 10 MG per 0.8 ML Prefilled Syringe",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "861360",
+              "name": "0.5 ML fondaparinux sodium 5 MG/ML Prefilled Syringe",
+              "synonym": "fondaparinux sodium 2.5 MG per 0.5 ML Prefilled Syringe",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "861363",
+              "name": "0.4 ML fondaparinux sodium 12.5 MG/ML Prefilled Syringe",
+              "synonym": "fondaparinux sodium 5 MG per 0.4 ML Prefilled Syringe",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "861365",
+              "name": "0.6 ML fondaparinux sodium 12.5 MG/ML Prefilled Syringe",
+              "synonym": "fondaparinux sodium 7.5 MG per 0.6 ML Prefilled Syringe",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:21:24.136284",
+  "source": "RxNorm"
+}

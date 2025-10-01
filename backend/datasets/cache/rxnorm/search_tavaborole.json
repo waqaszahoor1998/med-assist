@@ -1,0 +1,46 @@
+{
+  "query": "Tavaborole",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1543182",
+              "name": "tavaborole 43.5 MG/ML Topical Solution [Kerydin]",
+              "synonym": "Kerydin 5 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1543177",
+              "name": "tavaborole 43.5 MG/ML Topical Solution",
+              "synonym": "tavaborole 5 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:15:26.171137",
+  "source": "RxNorm"
+}

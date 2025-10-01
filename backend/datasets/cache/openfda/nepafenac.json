@@ -1,0 +1,25 @@
+{
+  "drug_name": "Nepafenac",
+  "generic_name": [
+    "NEPAFENAC"
+  ],
+  "brand_names": [
+    "ILEVRO"
+  ],
+  "drug_interactions": [],
+  "warnings": [],
+  "adverse_reactions": [
+    "6 ADVERSE REACTIONS Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to the rates in the clinical studies of another drug and may not reflect the rates observed in practice. Most common adverse reactions (5% to 10%) are capsular opacity, decreased visual acuity, foreign body sensation, increased intraocular pressure, and sticky sensation. ( 6.1 ) To report SUSPECTED ADVERSE REACTIONS, contact Harrow Eye, LLC at 844-446-6979 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch . 6.1 Serious and Otherwise Important Adverse Reactions The following adverse reactions are discussed in greater detail in other sections of labeling. Increased Bleeding Time [see Warnings and Precautions (5.1) ] Delayed Healing [see Warnings and Precautions (5.2) ] Corneal Effects [see Warnings and Precautions (5.3) ] 6.2 Ocular Adverse Reactions The most frequently reported ocular adverse reactions following cataract surgery were capsular opacity, decreased visual acuity, foreign body sensation, increased intraocular pressure (IOP), and sticky sensation. These reactions occurred in approximately 5% to 10% of patients. Other ocular adverse reactions occurring at an incidence of approximately 1% to 5% included conjunctival edema, corneal edema, dry eye, lid margin crusting, ocular discomfort, ocular hyperemia, ocular pain, ocular pruritus, photophobia, tearing, and vitreous detachment. Some of these reactions may be the consequence of the cataract surgical procedure. 6.3 Non-Ocular Adverse Reactions Non-ocular adverse reactions reported at an incidence of 1% to 4% included headache, hypertension, nausea/vomiting, and sinusitis."
+  ],
+  "contraindications": [
+    "4 CONTRAINDICATIONS ILEVRO \u00ae 0.3% is contraindicated in patients with previously demonstrated hypersensitivity to any of the ingredients in the formula or to other nonsteroidal anti-inflammatory drugs (NSAIDs). Hypersensitivity to any of the ingredients in the formula or to other non-steroidal anti-inflammatory drugs (NSAIDS). ( 4 )"
+  ],
+  "dosage_administration": [
+    "2 DOSAGE AND ADMINISTRATION One drop of ILEVRO \u00ae 0.3% should be applied to the affected eye one-time-daily beginning 1 day prior to cataract surgery, continued on the day of surgery and through the first 2 weeks of the postoperative period. An additional drop should be administered 30 to 120 minutes prior to surgery. ( 2 ) 2.1 Recommended Dosing One drop of ILEVRO \u00ae 0.3% should be applied to the affected eye one time daily beginning 1 day prior to cataract surgery, continued on the day of surgery and through the first 2 weeks of the postoperative period. An additional drop should be administered 30 to 120 minutes prior to surgery. 2.2 Use with Other Topical Ophthalmic Medications ILEVRO \u00ae 0.3% may be administered in conjunction with other topical ophthalmic medications such as beta-blockers, carbonic anhydrase inhibitors, alpha-agonists, cycloplegics, and mydriatics. If more than one topical ophthalmic medication is being used, the medicines must be administered at least 5 minutes apart."
+  ],
+  "indications": [
+    "1 INDICATIONS AND USAGE ILEVRO \u00ae 0.3% is indicated for the treatment of pain and inflammation associated with cataract surgery. ILEVRO \u00ae 0.3% is a nonsteroidal, anti-inflammatory prodrug indicated for the treatment of pain and inflammation associated with cataract surgery ( 1 )."
+  ],
+  "fetched_at": "2025-10-01T16:38:50.603816",
+  "source": "OpenFDA"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "2,8-bis[oxido(oxo)vanadio]-1,1,1,3,5,5,7,7,9,9,9-undecaoxopentavanadoxane-2,8-diium",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:07:19.204665",
+  "source": "RxNorm"
+}

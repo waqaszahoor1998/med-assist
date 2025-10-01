@@ -1,0 +1,100 @@
+{
+  "query": "Levoleucovorin",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1720763",
+              "name": "levoleucovorin 50 MG Injection [Fusilev]",
+              "synonym": "Fusilev 50 MG Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2106373",
+              "name": "levoleucovorin 175 MG Injection [Khapzory]",
+              "synonym": "Khapzory 175 MG Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2106377",
+              "name": "levoleucovorin 300 MG Injection [Khapzory]",
+              "synonym": "Khapzory 300 MG Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1720760",
+              "name": "levoleucovorin 50 MG Injection",
+              "synonym": "levoleucovorin (as levoleucovorin calcium) 50 MG Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1720765",
+              "name": "17.5 ML levoleucovorin 10 MG/ML Injection",
+              "synonym": "levoleucovorin 175 MG per 17.5 mL Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1720773",
+              "name": "25 ML levoleucovorin 10 MG/ML Injection",
+              "synonym": "levoleucovorin 250 MG per 25 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1858561",
+              "name": "levoleucovorin 175 MG Injection",
+              "synonym": "levoleucovorin (as levoleucovorin calcium) 175 MG Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2106375",
+              "name": "levoleucovorin 300 MG Injection",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:09:19.635976",
+  "source": "RxNorm"
+}

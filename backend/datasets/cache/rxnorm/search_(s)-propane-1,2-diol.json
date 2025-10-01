@@ -1,0 +1,10 @@
+{
+  "query": "(S)-propane-1,2-diol",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:20:21.752362",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "(2S,3S)-4-cyclopropyl-3-{(3R,5R)-3-[2-fluoro-4-(methylsulfonyl)phenyl]-1,2,4-oxadiazolidin-5-yl}-1-[(3S)-3-fluoropyrrolidin-1-yl]-1-oxobutan-2-amine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:42:21.572434",
+  "source": "RxNorm"
+}

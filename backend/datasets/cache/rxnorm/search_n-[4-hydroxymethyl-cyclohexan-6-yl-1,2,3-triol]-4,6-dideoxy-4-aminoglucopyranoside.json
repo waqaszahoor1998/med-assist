@@ -1,0 +1,10 @@
+{
+  "query": "N-[4-hydroxymethyl-cyclohexan-6-yl-1,2,3-triol]-4,6-dideoxy-4-aminoglucopyranoside",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:47:56.061313",
+  "source": "RxNorm"
+}

@@ -1,0 +1,64 @@
+{
+  "query": "Diflorasone",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "966589",
+              "name": "diflorasone diacetate 0.5 MG/ML Topical Cream [Psorcon]",
+              "synonym": "Psorcon 0.05 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "966820",
+              "name": "diflorasone diacetate 0.5 MG/ML Topical Cream [Apexicon]",
+              "synonym": "Apexicon E 0.05 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "966577",
+              "name": "diflorasone diacetate 0.5 MG/ML Topical Cream",
+              "synonym": "diflorasone diacetate 0.05 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "966607",
+              "name": "diflorasone diacetate 0.0005 MG/MG Topical Ointment",
+              "synonym": "diflorasone diacetate 0.05 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:01:45.519165",
+  "source": "RxNorm"
+}

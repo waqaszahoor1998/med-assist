@@ -1,0 +1,16 @@
+{
+  "rxcui": "108513",
+  "properties": {
+    "properties": {
+      "rxcui": "108513",
+      "name": "tacrolimus 1 MG Oral Capsule [Prograf]",
+      "synonym": "Prograf 1 MG Oral Capsule",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T22:11:26.995817",
+  "source": "RxNorm"
+}

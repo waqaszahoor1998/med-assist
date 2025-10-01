@@ -1,0 +1,16 @@
+{
+  "rxcui": "1659595",
+  "properties": {
+    "properties": {
+      "rxcui": "1659595",
+      "name": "ampicillin 1000 MG / sulbactam 500 MG Injection [Unasyn]",
+      "synonym": "Unasyn (ampicillin / sulbactam) 1.5 GM Injection",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T17:34:05.918898",
+  "source": "RxNorm"
+}

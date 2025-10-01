@@ -1,0 +1,10 @@
+{
+  "query": "Bradanicline",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:09:27.973306",
+  "source": "RxNorm"
+}

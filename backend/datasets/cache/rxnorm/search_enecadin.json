@@ -1,0 +1,10 @@
+{
+  "query": "Enecadin",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:29:36.474760",
+  "source": "RxNorm"
+}

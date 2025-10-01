@@ -1,0 +1,154 @@
+{
+  "query": "Oxcarbazepine",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1365660",
+              "name": "24 HR oxcarbazepine 150 MG Extended Release Oral Tablet [Oxtellar]",
+              "synonym": "24 HR Oxtellar 150 MG Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1365847",
+              "name": "24 HR oxcarbazepine 300 MG Extended Release Oral Tablet [Oxtellar]",
+              "synonym": "24 HR Oxtellar 300 MG Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1365850",
+              "name": "24 HR oxcarbazepine 600 MG Extended Release Oral Tablet [Oxtellar]",
+              "synonym": "24 HR Oxtellar 600 MG Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "261356",
+              "name": "oxcarbazepine 150 MG Oral Tablet [Trileptal]",
+              "synonym": "Trileptal 150 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "261360",
+              "name": "oxcarbazepine 300 MG Oral Tablet [Trileptal]",
+              "synonym": "Trileptal 300 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "262090",
+              "name": "oxcarbazepine 600 MG Oral Tablet [Trileptal]",
+              "synonym": "Trileptal 600 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "351992",
+              "name": "oxcarbazepine 60 MG/ML Oral Suspension [Trileptal]",
+              "synonym": "Trileptal 60 MG/ML Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1365653",
+              "name": "24 HR oxcarbazepine 150 MG Extended Release Oral Tablet",
+              "synonym": "oxcarbazepine 150 MG 24 HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1365842",
+              "name": "24 HR oxcarbazepine 300 MG Extended Release Oral Tablet",
+              "synonym": "oxcarbazepine 300 MG 24 HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1365844",
+              "name": "24 HR oxcarbazepine 600 MG Extended Release Oral Tablet",
+              "synonym": "oxcarbazepine 600 MG 24 HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "283536",
+              "name": "oxcarbazepine 60 MG/ML Oral Suspension",
+              "synonym": "oxacarbazepine 300 MG per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "312136",
+              "name": "oxcarbazepine 150 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "312137",
+              "name": "oxcarbazepine 300 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "312138",
+              "name": "oxcarbazepine 600 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:34:27.885621",
+  "source": "RxNorm"
+}

@@ -1,0 +1,23 @@
+{
+  "drug_name": "Imino-Tryptophan",
+  "generic_name": [
+    "L-TRYPTOPHAN"
+  ],
+  "brand_names": [
+    "Tryptophan"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    "WARNINGS: If pregnant or breast-feeding, ask a health care professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Do not use if tamper evident seal is broken or missing. Store in cool, dry place."
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    "DIRECTIONS: 10 drops orally, 3 times a day. Consult a physician for use in children under 12 years of age."
+  ],
+  "indications": [
+    "INDICATIONS: For temporary relief of anxiety, bloating, constipation, mood swings, lethargy, inability to sleep and fatigue"
+  ],
+  "fetched_at": "2025-10-01T03:21:37.594130",
+  "source": "OpenFDA"
+}

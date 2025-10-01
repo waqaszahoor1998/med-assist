@@ -1,0 +1,10 @@
+{
+  "query": "[4-({[5-Benzyloxy-1-(3-Carbamimidoyl-Benzyl)-1h-Indole-2-Carbonyl]-Amino}-Methyl)-Phenyl]-Trimethyl-Ammonium",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:50:07.269332",
+  "source": "RxNorm"
+}

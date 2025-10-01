@@ -1,0 +1,10 @@
+{
+  "query": "(S,R)-fidarestat",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:43:09.241514",
+  "source": "RxNorm"
+}

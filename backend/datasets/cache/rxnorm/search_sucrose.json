@@ -1,0 +1,55 @@
+{
+  "query": "Sucrose",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "801763",
+              "name": "sucrose 240 MG/ML Oral Solution [TootSweet]",
+              "synonym": "TootSweet 240 MG/ML Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "107373",
+              "name": "sucrose 300 MG/ML Ophthalmic Solution",
+              "synonym": "sucrose 30 % Ophthalmic Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "801759",
+              "name": "sucrose 240 MG/ML Oral Solution",
+              "synonym": "sucrose 24 % Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T03:11:10.580850",
+  "source": "RxNorm"
+}

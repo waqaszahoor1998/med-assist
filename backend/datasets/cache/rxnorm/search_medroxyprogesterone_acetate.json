@@ -1,0 +1,383 @@
+{
+  "query": "Medroxyprogesterone acetate",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1000487",
+              "name": "{14 (estrogens, conjugated (USP) 0.625 MG / medroxyprogesterone acetate 5 MG Oral Tablet) / 14 (estrogens, conjugated (USP) 0.625 MG Oral Tablet) } Pack [Premphase 28 Day]",
+              "synonym": "Premphase 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1000491",
+              "name": "{28 (estrogens, conjugated (USP) 0.3 MG / medroxyprogesterone acetate 1.5 MG Oral Tablet) } Pack [Prempro 0.3/1.5 28 Day]",
+              "synonym": "Prempro 0.3/1.5 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1000497",
+              "name": "{28 (estrogens, conjugated (USP) 0.45 MG / medroxyprogesterone acetate 1.5 MG Oral Tablet) } Pack [Prempro 0.45/1.5 28 Day]",
+              "synonym": "Prempro 0.45/1.5 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1000499",
+              "name": "{28 (estrogens, conjugated (USP) 0.625 MG / medroxyprogesterone acetate 2.5 MG Oral Tablet) } Pack [Prempro 0.625/2.5 28 Day]",
+              "synonym": "Prempro 0.625/2.5 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1000500",
+              "name": "{28 (estrogens, conjugated (USP) 0.625 MG / medroxyprogesterone acetate 5 MG Oral Tablet) } Pack [Prempro 0.625/5 28 Day]",
+              "synonym": "Prempro 0.625/5 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1000395",
+              "name": "{28 (estrogens, conjugated (USP) 0.625 MG / medroxyprogesterone acetate 2.5 MG Oral Tablet) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1000398",
+              "name": "{28 (estrogens, conjugated (USP) 0.625 MG / medroxyprogesterone acetate 5 MG Oral Tablet) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1000486",
+              "name": "{14 (estrogens, conjugated (USP) 0.625 MG / medroxyprogesterone acetate 5 MG Oral Tablet) / 14 (estrogens, conjugated (USP) 0.625 MG Oral Tablet) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1000490",
+              "name": "{28 (estrogens, conjugated (USP) 0.3 MG / medroxyprogesterone acetate 1.5 MG Oral Tablet) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1000496",
+              "name": "{28 (estrogens, conjugated (USP) 0.45 MG / medroxyprogesterone acetate 1.5 MG Oral Tablet) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1000124",
+              "name": "medroxyprogesterone acetate 10 MG Oral Tablet [Provera]",
+              "synonym": "Provera 10 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1000128",
+              "name": "1 ML medroxyprogesterone acetate 150 MG/ML Injection [Depo-Provera]",
+              "synonym": "1 ML Depo-Provera 150 MG/ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1000133",
+              "name": "medroxyprogesterone acetate 400 MG/ML Injectable Suspension [Depo-Provera]",
+              "synonym": "Depo-Provera 400 MG/ML Injectable Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1000139",
+              "name": "medroxyprogesterone acetate 2.5 MG Oral Tablet [Provera]",
+              "synonym": "Provera 2.5 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1000145",
+              "name": "medroxyprogesterone acetate 5 MG Oral Tablet [Provera]",
+              "synonym": "Provera 5 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1000154",
+              "name": "1 ML medroxyprogesterone acetate 150 MG/ML Prefilled Syringe [Depo-Provera]",
+              "synonym": "1 ML Depo-Provera 150 MG/ML Prefilled Syringe",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1000158",
+              "name": "0.65 ML medroxyprogesterone acetate 160 MG/ML Prefilled Syringe [depo-subQ provera]",
+              "synonym": "0.65 ML depo-subQ provera 160 MG/ML Prefilled Syringe",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1000114",
+              "name": "medroxyprogesterone acetate 10 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1000126",
+              "name": "1 ML medroxyprogesterone acetate 150 MG/ML Injection",
+              "synonym": "medroxyprogesterone acetate 150 MG per 1 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1000131",
+              "name": "medroxyprogesterone acetate 400 MG/ML Injectable Suspension",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1000135",
+              "name": "medroxyprogesterone acetate 2.5 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1000141",
+              "name": "medroxyprogesterone acetate 5 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1000149",
+              "name": "estradiol cypionate 10 MG/ML / medroxyprogesterone acetate 50 MG/ML Injectable Suspension",
+              "synonym": "estradiol cypionate 5 MG / medroxyprogesterone acetate 25 MG per 0.5 ML Injectable Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1000153",
+              "name": "1 ML medroxyprogesterone acetate 150 MG/ML Prefilled Syringe",
+              "synonym": "medroxyprogesterone acetate 150 MG per 1 ML Prefilled Syringe",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1000156",
+              "name": "0.65 ML medroxyprogesterone acetate 160 MG/ML Prefilled Syringe",
+              "synonym": "medroxyprogesterone acetate 104 MG per 0.65 ML Prefilled Syringe",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1000161",
+              "name": "estradiol valerate 2 MG / medroxyprogesterone acetate 20 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1000351",
+              "name": "estrogens, conjugated (USP) 0.3 MG / medroxyprogesterone acetate 1.5 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1000352",
+              "name": "estrogens, conjugated (USP) 0.45 MG / medroxyprogesterone acetate 1.5 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1000353",
+              "name": "estrogens, conjugated (USP) 0.625 MG / estrogens, esterified (USP) 0.625 MG / medroxyprogesterone acetate 5 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1000354",
+              "name": "estrogens, conjugated (USP) 0.625 MG / medroxyprogesterone acetate 10 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1000355",
+              "name": "estrogens, conjugated (USP) 0.625 MG / medroxyprogesterone acetate 2.5 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1000356",
+              "name": "estrogens, conjugated (USP) 0.625 MG / medroxyprogesterone acetate 5 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1000364",
+              "name": "medroxyprogesterone acetate 100 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1000374",
+              "name": "medroxyprogesterone acetate 160 MG/ML Injectable Suspension",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1000376",
+              "name": "medroxyprogesterone acetate 200 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1000378",
+              "name": "medroxyprogesterone acetate 200 MG/ML Injectable Suspension",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1000380",
+              "name": "medroxyprogesterone acetate 250 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1000384",
+              "name": "medroxyprogesterone acetate 400 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1000386",
+              "name": "medroxyprogesterone acetate 500 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:23:43.287783",
+  "source": "RxNorm"
+}

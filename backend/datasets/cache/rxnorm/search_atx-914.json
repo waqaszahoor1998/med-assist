@@ -1,0 +1,10 @@
+{
+  "query": "ATX-914",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:11:42.119557",
+  "source": "RxNorm"
+}

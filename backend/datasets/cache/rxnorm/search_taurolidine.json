@@ -1,0 +1,46 @@
+{
+  "query": "Taurolidine",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2670468",
+              "name": "3 ML heparin sodium, porcine 1000 UNT/ML / taurolidine 13.5 MG/ML Injection [Defencath]",
+              "synonym": "Defencath (heparin sodium, porcine 3,000 UNT / taurolidine 40.5 MG) per 3 ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2670461",
+              "name": "3 ML heparin sodium, porcine 1000 UNT/ML / taurolidine 13.5 MG/ML Injection",
+              "synonym": "heparin sodium, porcine 3,000 UNT / taurolidine 40.5 MG per 3 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T19:01:14.748359",
+  "source": "RxNorm"
+}

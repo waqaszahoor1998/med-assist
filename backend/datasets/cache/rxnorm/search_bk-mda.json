@@ -1,0 +1,10 @@
+{
+  "query": "BK-MDA",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:18:17.106134",
+  "source": "RxNorm"
+}

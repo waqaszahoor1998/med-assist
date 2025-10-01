@@ -1,0 +1,1695 @@
+{
+  "query": "Zinc oxide",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1045420",
+              "name": "{1 (118 ML) (benzethonium chloride 1.3 MG/ML Medicated Liquid Soap) / 1 (92000 MG) (zinc oxide 306 MG/ML Topical Cream) } Pack",
+              "synonym": "{1 (118 ML benzethonium chloride 0.13 % Medicated Liquid Soap) / 1 (92000 MG zinc oxide 30.6 % Topical Cream) } Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1045430",
+              "name": "{1 (236 ML) (benzethonium chloride 1.3 MG/ML Medicated Liquid Soap) / 1 (78000 MG) (zinc oxide 100 MG/ML Topical Cream) } Pack",
+              "synonym": "{1 (236 ML benzethonium chloride 0.13 % Medicated Liquid Soap) / 1 (78000 MG zinc oxide 10 % Topical Cream) } Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1039057",
+              "name": "starch 0.81 MG/MG / zinc oxide 0.15 MG/MG Topical Powder [Caldesene]",
+              "synonym": "Caldesene (starch 81 % / zinc oxide 15 % ) Topical Powder",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1039185",
+              "name": "zinc oxide 0.18 MG/MG Topical Ointment [Manzatin-E]",
+              "synonym": "Manzatin-E 18 % Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1053158",
+              "name": "dimethicone 10 MG/ML / zinc oxide 120 MG/ML Topical Cream [Baza-Protect]",
+              "synonym": "Baza Protect (dimethicone 1 % / zinc oxide 12 % ) Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1086022",
+              "name": "zinc oxide 0.134 MG/MG Topical Ointment [Flanders]",
+              "synonym": "Flanders 0.134 MG/MG Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1089069",
+              "name": "zinc oxide 0.038 MG/MG Topical Ointment [PeriGuard]",
+              "synonym": "PeriGuard 3.8 % Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1089117",
+              "name": "bacitracin 0.5 UNT/ML / dimethicone 200 MG/ML / zinc oxide 250 MG/ML Topical Spray [Rash Relief Antibacterial]",
+              "synonym": "Rash Relief Antibacterial (bacitracin 0.5 UNT/ML / dimethicone 20 % / zinc oxide 25 % ) Topical Spray",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1089121",
+              "name": "dimethicone 100 MG/ML / miconazole nitrate 20 MG/ML / zinc oxide 100 MG/ML Topical Spray [Rash Relief Antifungal]",
+              "synonym": "Rash Relief Antifungal (dimethicone 10 % / miconazole nitrate 2 % / zinc oxide 10 % ) Topical Spray",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1090577",
+              "name": "zinc oxide 130 MG/ML Topical Cream [Desitin]",
+              "synonym": "Desitin 130 MG/ML Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1090975",
+              "name": "ascorbic acid 60 MG / beta carotene 5000 UNT / copper sulfate 2 MG / dl-alpha tocopheryl acetate 30 UNT / lutein 2 MG / sodium selenite 0.04 MG / zinc oxide 40 MG Oral Tablet [Macuvite with Lutein]",
+              "synonym": "vit-C 60 MG / Beta Carotene 5000 UNT / Copper Sulfate 2 MG / dl-alpha tocopheryl acetate 30 UNT / Lutein 2 MG / Sodium Selenite 0.04 MG / ZNO 40 MG Oral Tablet [Macuvite with Lutein]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1098240",
+              "name": "pramoxine hydrochloride 10 MG/ML / zinc oxide 50 MG/ML Rectal Cream [Tronolane Anesthetic]",
+              "synonym": "Tronolane Anesthetic (pramoxine hydrochloride 1 % / zinc oxide 5 % ) Rectal Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1101350",
+              "name": "dimethicone 200 MG/ML / zinc oxide 250 MG/ML Topical Spray [Rash Relief with Zinc Oxide]",
+              "synonym": "Rash Relief with Zinc Oxide (dimethicone 20 % / zinc oxide 25 % ) Topical Spray",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1113714",
+              "name": "cocoa butter 0.76 MG/MG / zinc oxide 0.1 MG/MG Rectal Suppository [Calmol]",
+              "synonym": "Calmol-4 (cocoa butter 76 % / zinc oxide 10 % ) Rectal Suppository",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1117243",
+              "name": "dimethicone 10 MG/ML / zinc oxide 100 MG/ML Topical Cream [A+D Diaper Rash]",
+              "synonym": "A+D Diaper Rash (dimethicone 1 % / zinc oxide 10 % ) Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1119573",
+              "name": "ascorbic acid 30 MG / cholecalciferol 1000 UNT / cuprous oxide 2 MG / folic acid 1 MG / magnesium oxide 20 MG / niacin 15 MG / polysaccharide iron complex 29 MG / potassium iodide 0.15 MG / pyridoxine hydrochloride 2.5 MG / riboflavin 1.8 MG / thiamine mononitrate 1.6 MG / vitamin A 1100 UNT / vitamin B12 0.012 MG / vitamin E 20 UNT / zinc oxide 25 MG Oral Capsule [Vitafol-One]",
+              "synonym": "vit-C 30 MG / cholecalciferol 1000 UNT / cuprous oxide 2 MG / folate 1 MG / magnesium oxide 20 MG / vit-B3 15 MG / polysaccharide iron complex 29 MG / K+ iodide 0.15 MG / vit-B6 hydrochloride 2.5 MG / riboflavin 1.8 MG / vit-B1 mononitrate 1.6 MG / vitamin A 1100 UNT / vitamin B12 0.012 MG / vitamin E 20 UNT / ZNO 25 MG Oral Capsule [Vitafol-One]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1145114",
+              "name": "azelaic acid 5 MG / cupric oxide 1.5 MG / folic acid 0.5 MG / niacinamide 600 MG / pyridoxine 5 MG / zinc oxide 10 MG Oral Tablet [NicAzel]",
+              "synonym": "azelaic acid 5 MG / Cupric oxide 1.5 MG / folate 0.5 MG / Niacinamide 600 MG / vit-B6 5 MG / ZNO 10 MG Oral Tablet [NicAzel]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1246066",
+              "name": "cupric oxide 1.5 MG / folic acid 0.5 MG / niacinamide 750 MG / zinc oxide 25 MG Oral Tablet [Nicomide]",
+              "synonym": "Cupric oxide 1.5 MG / folate 0.5 MG / Niacinamide 750 MG / ZNO 25 MG Oral Tablet [Nicomide]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1302176",
+              "name": "petrolatum 0.5 MG/MG / zinc oxide 0.1 MG/MG Paste [Soothe & Cool Skin Paste]",
+              "synonym": "Petrolatum 0.5 MG/MG / ZNO 0.1 MG/MG Paste [Soothe & Cool Skin Paste]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1421552",
+              "name": "zinc oxide 0.25 MG/MG Topical Ointment [Booty Goo]",
+              "synonym": "Booty Goo 25 % Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1423415",
+              "name": "camphor 0.03 MG/MG / phenol 0.025 MG/MG / tannic acid 0.022 MG/MG / zinc oxide 0.066 MG/MG Topical Ointment [Unguentine Maximum Strength]",
+              "synonym": "Unguentine Maximum Strength (camphor 3 % / phenol 2.5 % / tannic acid 2.2 % / zinc oxide 6.6 % ) Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1425912",
+              "name": "calamine 0.02 MG/MG / menthol 0.0045 MG/MG / zinc oxide 0.18 MG/MG Topical Ointment [Lantiseptic Multi-Purpose]",
+              "synonym": "Lantiseptic Multi-Purpose (ferric oxide red 2 % / menthol 0.45 % / ZNO 18 % ) Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1427959",
+              "name": "petrolatum 490 MG/ML / zinc oxide 150 MG/ML Topical Cream [Welmedix Homecare Pro]",
+              "synonym": "Welmedix Homecare Pro (petrolatum 49 % / zinc oxide 15 % ) Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1432514",
+              "name": "zinc oxide 300 MG/ML Topical Cream [Baby Butz Diaper Rash]",
+              "synonym": "Baby Butz Diaper Rash 30 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1486031",
+              "name": "zinc oxide 0.2 MG/MG Paste [Critic-Aid Skin]",
+              "synonym": "Critic-aid Skin 20 % Paste",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1492403",
+              "name": "menthol 1.1 MG/ML / zinc oxide 51 MG/ML Topical Lotion [Granulotion Medicated Lotion]",
+              "synonym": "Granulotion (menthol 0.11 % / zinc oxide 5.1 % ) Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1494203",
+              "name": "zinc oxide 100 MG/ML Topical Spray [Dr. Smith's Diaper Rash]",
+              "synonym": "Dr. Smith's Diaper Rash 10 % Topical Spray",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1494206",
+              "name": "zinc oxide 0.1 MG/MG Topical Ointment [Dr. Smith's Diaper Rash]",
+              "synonym": "Dr. Smith's Adult Barrier 10 % Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1543709",
+              "name": "dimethicone 0.011 MG/MG / zinc oxide 0.4 MG/MG Topical Ointment [Vanicream Diaper Rash]",
+              "synonym": "Vanicream Diaper Rash (dimethicone 1.1 % / zinc oxide 40 % ) Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1549717",
+              "name": "menthol 0.0044 MG/MG / zinc oxide 0.2 MG/MG Topical Ointment [Calmodrox]",
+              "synonym": "Menthol 0.0044 MG/MG / ZNO 0.2 MG/MG Topical Ointment [Calmodrox]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1550952",
+              "name": "zinc oxide 0.018 MG/MG Topical Ointment [Dynashield ZO]",
+              "synonym": "Dynashield ZO 1.8 % Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1663733",
+              "name": "zinc oxide 150 MG/ML Topical Cream [Aquaphor Diaper Rash]",
+              "synonym": "Aquaphor Diaper Rash 15 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1734942",
+              "name": "zinc oxide 220 MG/ML Topical Cream [Z-Bum]",
+              "synonym": "Z-Bum 22 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1737554",
+              "name": "petrolatum 0.57 MG/MG / zinc oxide 0.17 MG/MG Paste [Z-Guard]",
+              "synonym": "Z-Guard (petrolatum 57 % / zinc oxide 17 % ) Paste",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1797059",
+              "name": "zinc oxide 0.4 MG/MG Paste [Desitin]",
+              "synonym": "Desitin 40 % Topical Paste",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1943339",
+              "name": "zinc oxide 0.4 MG/MG Paste [Aquaphor Diaper Rash]",
+              "synonym": "Aquaphor Diaper Rash 0.4 MG/MG Paste",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1946481",
+              "name": "lanolin 0.157 MG/MG / menthol 0.0044 MG/MG / petrolatum 0.24 MG/MG / zinc oxide 0.206 MG/MG Topical Ointment [Calmoseptine]",
+              "synonym": "Calmoseptine OIntment (lanolin 15.7 % / menthol 0.44 % / petrolatum 24 % / zinc oxide 20.6 % ) Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2589796",
+              "name": "zinc oxide 120 MG/ML Topical Cream [Baza-Protect Reformulated June 2020]",
+              "synonym": "Baza-Protect (Reformulated June 2020) 12 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "260502",
+              "name": "zinc oxide 0.4 MG/MG Topical Ointment [Desitin]",
+              "synonym": "Desitin 40 % Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2621252",
+              "name": "menthol 0.0044 MG/MG / zinc oxide 0.206 MG/MG Topical Ointment [Risamine]",
+              "synonym": "Risamine (menthol 0.44 % / zinc oxide 20.6 % ) Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2702497",
+              "name": "menthol 0.0044 MG/MG / zinc oxide 0.206 MG/MG Topical Ointment [Calprotect]",
+              "synonym": "Calprotect (menthol 0.44 % / zinc oxide 20.6 % ) Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "729935",
+              "name": "zinc oxide 0.128 MG/MG Topical Ointment [Triple Paste]",
+              "synonym": "Triple Paste 12.8 % Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "792623",
+              "name": "petrolatum 0.87 MG/MG / zinc oxide 0.088 MG/MG Topical Ointment [Sayman Salve]",
+              "synonym": "Sayman Salve (Petrolatum 87 % / Zinc Oxide 8.8 % ) Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "809448",
+              "name": "zinc oxide 0.25 MG/MG Topical Ointment [Delazinc]",
+              "synonym": "Delazinc 25 % Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "831393",
+              "name": "miconazole nitrate 0.0025 MG/MG / petrolatum 0.814 MG/MG / zinc oxide 0.15 MG/MG Topical Ointment [Vusion]",
+              "synonym": "Vusion (miconazole nitrate 0.25 % / petrolatum, white 81.35 % / zinc oxide 15 % ) Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "866214",
+              "name": "lanolin 0.18 MG/MG / petrolatum 0.48 MG/MG / zinc oxide 0.1 MG/MG Topical Ointment [Dr. Smith's Rash-n-All]",
+              "synonym": "Dr. Smith's Rash-n-All (lanolin 18 % / petrolatum 0.48 % / zinc oxide 0.1 % ) Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "891709",
+              "name": "ascorbic acid 60 MG / cuprous oxide 2 MG / dl-alpha tocopheryl acetate 30 MG / lutein 6 MG / zinc oxide 15 MG Oral Capsule [Ocuvite Lutein]",
+              "synonym": "vit-C 60 MG / cuprous oxide 2 MG / dl-alpha tocopheryl acetate 30 MG / Lutein 6 MG / ZNO 15 MG Oral Capsule [Ocuvite Lutein]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "891719",
+              "name": "ascorbic acid 200 MG / beta carotene 1000 UNT / cuprous oxide 2 MG / dl-alpha tocopheryl acetate 60 UNT / lutein 2 MG / sodium selenate 0.055 MG / zinc oxide 40 MG Oral Tablet [Ocuvite]",
+              "synonym": "vit-C 200 MG / Beta Carotene 1000 UNT / cuprous oxide 2 MG / dl-alpha tocopheryl acetate 60 UNT / Lutein 2 MG / sodium selenate 0.055 MG / ZNO 40 MG Oral Tablet [Ocuvite]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "891793",
+              "name": "ascorbic acid 226 MG / beta carotene 14320 UNT / cuprous oxide 0.8 MG / dl-alpha tocopheryl acetate 200 UNT / zinc oxide 34.8 MG Oral Capsule [PreserVision]",
+              "synonym": "vit-C 226 MG / Beta Carotene 14320 UNT / cuprous oxide 0.8 MG / dl-alpha tocopheryl acetate 200 UNT / ZNO 34.8 MG Oral Capsule [PreserVision]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "891815",
+              "name": "ascorbic acid 113 MG / beta carotene 7160 MG / cuprous oxide 0.4 MG / dl-alpha tocopheryl acetate 100 UNT / zinc oxide 17.4 MG Oral Tablet [PreserVision]",
+              "synonym": "vit-C 113 MG / Beta Carotene 7160 MG / cuprous oxide 0.4 MG / dl-alpha tocopheryl acetate 100 UNT / ZNO 17.4 MG Oral Tablet [PreserVision]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "891820",
+              "name": "ascorbic acid 226 MG / cuprous oxide 0.8 MG / dl-alpha tocopheryl acetate 200 UNT / lutein 5 MG / zinc oxide 34.8 MG Oral Capsule [PreserVision with Lutein]",
+              "synonym": "vit-C 226 MG / cuprous oxide 0.8 MG / dl-alpha tocopheryl acetate 200 UNT / Lutein 5 MG / ZNO 34.8 MG Oral Capsule [PreserVision with Lutein]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "967558",
+              "name": "zinc oxide 113 MG/ML Topical Cream [Balmex]",
+              "synonym": "Balmex 11.3 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1000009",
+              "name": "dimethicone 100 MG/ML / miconazole nitrate 20 MG/ML / zinc oxide 100 MG/ML Topical Spray",
+              "synonym": "dimethicone 10 % / miconazole nitrate 2 % / zinc oxide 10 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1039054",
+              "name": "starch 0.81 MG/MG / zinc oxide 0.15 MG/MG Topical Powder",
+              "synonym": "Starch 0.81 MG/MG / ZNO 0.15 MG/MG Topical Powder",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1039181",
+              "name": "zinc oxide 0.18 MG/MG Topical Ointment",
+              "synonym": "ZNO 0.18 MG/MG Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1043549",
+              "name": "petrolatum 0.5 MG/MG / zinc oxide 0.1 MG/MG Paste",
+              "synonym": "Petrolatum 50 % / Zinc Oxide 10 % Paste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1044412",
+              "name": "zinc oxide 0.018 MG/MG Topical Ointment",
+              "synonym": "ZNO 0.018 MG/MG Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1048969",
+              "name": "petrolatum 780 MG/ML / zinc oxide 100 MG/ML Topical Cream",
+              "synonym": "petrolatum 78 % / zinc oxide 10 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1049137",
+              "name": "cocoa butter 0.76 MG/MG / zinc oxide 0.1 MG/MG Rectal Suppository",
+              "synonym": "cocoa butter 76 % / zinc oxide 10 % Rectal Suppository",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1089065",
+              "name": "zinc oxide 0.038 MG/MG Topical Ointment",
+              "synonym": "ZNO 0.038 MG/MG Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1089113",
+              "name": "bacitracin 0.5 UNT/ML / dimethicone 200 MG/ML / zinc oxide 250 MG/ML Topical Spray",
+              "synonym": "bacitracin 0.5 UNT/ML / dimethicone 20 % / zinc oxide 25 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "108928",
+              "name": "salicylic acid 0.05 MG/MG / zinc oxide 0.2 MG/MG Topical Powder",
+              "synonym": "salicylic acid 5 % / zinc oxide 20 % Topical Powder",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1090824",
+              "name": "ascorbic acid 60 MG / beta carotene 5000 UNT / copper sulfate 40 MG / dl-alpha tocopheryl acetate 30 UNT / sodium selenite 0.04 MG / zinc oxide 40 MG Oral Tablet",
+              "synonym": "vit-C 60 MG / Beta Carotene 5000 UNT / Copper Sulfate 40 MG / dl-alpha tocopheryl acetate 30 UNT / Sodium Selenite 0.04 MG / ZNO 40 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1090973",
+              "name": "ascorbic acid 60 MG / beta carotene 5000 UNT / copper sulfate 2 MG / dl-alpha tocopheryl acetate 30 UNT / lutein 2 MG / sodium selenite 0.04 MG / zinc oxide 40 MG Oral Tablet",
+              "synonym": "vit-C 60 MG / Beta Carotene 5000 UNT / Copper Sulfate 2 MG / dl-alpha tocopheryl acetate 30 UNT / Lutein 2 MG / Sodium Selenite 0.04 MG / ZNO 40 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1094560",
+              "name": "zinc oxide 0.4 MG/MG Paste",
+              "synonym": "ZNO 0.4 MG/MG Paste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1098236",
+              "name": "pramoxine hydrochloride 10 MG/ML / zinc oxide 50 MG/ML Rectal Cream",
+              "synonym": "Pramoxine hydrochloride 10 MG/ML / ZNO 50 MG/ML Rectal Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1119569",
+              "name": "ascorbic acid 30 MG / cholecalciferol 1000 UNT / cuprous oxide 2 MG / folic acid 1 MG / magnesium oxide 20 MG / niacin 15 MG / polysaccharide iron complex 29 MG / potassium iodide 0.15 MG / pyridoxine hydrochloride 2.5 MG / riboflavin 1.8 MG / thiamine mononitrate 1.6 MG / vitamin A 1100 UNT / vitamin B12 0.012 MG / vitamin E 20 UNT / zinc oxide 25 MG Oral Capsule",
+              "synonym": "vit-C 30 MG / cholecalciferol 1000 UNT / cuprous oxide 2 MG / folate 1 MG / magnesium oxide 20 MG / vit-B3 15 MG / polysaccharide iron complex 29 MG / K+ iodide 0.15 MG / vit-B6 hydrochloride 2.5 MG / riboflavin 1.8 MG / vit-B1 mononitrate 1.6 MG / vitamin A 1100 UNT / vitamin B12 0.012 MG / vitamin E 20 UNT / ZNO 25 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1125471",
+              "name": "zinc oxide 250 MG/ML Topical Cream",
+              "synonym": "ZNO 250 MG/ML Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1145110",
+              "name": "azelaic acid 5 MG / cupric oxide 1.5 MG / folic acid 0.5 MG / niacinamide 600 MG / pyridoxine 5 MG / zinc oxide 10 MG Oral Tablet",
+              "synonym": "azelaic acid 5 MG / Cupric oxide 1.5 MG / folate 0.5 MG / Niacinamide 600 MG / vit-B6 5 MG / ZNO 10 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1191136",
+              "name": "zinc oxide 50 MG/ML Rectal Cream",
+              "synonym": "ZNO 50 MG/ML Rectal Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1232104",
+              "name": "zinc oxide 100 MG/ML Topical Spray",
+              "synonym": "ZNO 100 MG/ML Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1241796",
+              "name": "cupric oxide 1.5 MG / folic acid 0.5 MG / niacinamide 750 MG / zinc oxide 25 MG Oral Tablet",
+              "synonym": "Cupric oxide 1.5 MG / folate 0.5 MG / Niacinamide 750 MG / ZNO 25 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1248142",
+              "name": "ascorbic acid 120 MG / beta carotene 2700 UNT / calcium carbonate 200 MG / cholecalciferol 400 UNT / cupric oxide 2 MG / docusate sodium 50 MG / folic acid 1 MG / iron carbonyl 90 MG / magnesium oxide 30 MG / niacinamide 20 MG / pyridoxine hydrochloride 20 MG / riboflavin 3.4 MG / thiamine mononitrate 3 MG / tocopherol acetate 30 UNT / vitamin B12 0.012 MG / zinc oxide 25 MG Oral Tablet",
+              "synonym": "vit-C 120 MG / beta carotene 2700 UNT / calcium carbonate 200 MG / cholecalciferol 400 UNT / cupric oxide 2 MG / DOSS sodium 50 MG / folate 1 MG / iron carbonyl 90 MG / magnesium oxide 30 MG / niacinamide 20 MG / vit-B6 hydrochloride 20 MG / riboflavin 3.4 MG / vit-B1 mononitrate 3 MG / tocopherol acetate 30 UNT / vitamin B12 0.012 MG / ZNO 25 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1294013",
+              "name": "pramoxine hydrochloride 0.01 MG/MG / zinc oxide 0.125 MG/MG Rectal Ointment",
+              "synonym": "pramoxine hydrochloride 1 % / zinc oxide 12.5 % Rectal Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1294330",
+              "name": "pramoxine hydrochloride 0.01 MG/MG / zinc oxide 0.125 MG/MG Topical Ointment",
+              "synonym": "pramoxine hydrochloride 1 % / zinc oxide 12.5 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1304490",
+              "name": "alpha-tocopherol acetate 30 UNT / ascorbic acid 120 MG / calcium citrate 125 MG / cholecalciferol 400 UNT / cupric oxide 2 MG / docusate sodium 50 MG / folic acid 1 MG / iron carbonyl 35 MG / niacinamide 20 MG / potassium iodide 0.15 MG / pyridoxine hydrochloride 25 MG / riboflavin 3.4 MG / thiamine hydrochloride 3 MG / zinc oxide 25 MG Oral Tablet",
+              "synonym": "alpha-Tocopherol Acetate 30 UNT / vit-C 120 MG / Calcium Citrate 125 MG / Cholecalciferol 400 UNT / Cupric oxide 2 MG / DOSS Sodium 50 MG / folate 1 MG / Iron Carbonyl 35 MG / Niacinamide 20 MG / K+ Iodide 0.15 MG / vit-B6 Hydrochloride 25 MG / Riboflavin 3.4 MG / vit-B1 hydrochloride 3 MG / ZNO 25 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1305337",
+              "name": "zinc oxide 400 MG/ML Topical Cream",
+              "synonym": "ZNO 400 MG/ML Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1305735",
+              "name": "menthol 0.005 MG/MG / zinc oxide 0.207 MG/MG Topical Ointment",
+              "synonym": "Menthol 0.005 MG/MG / ZNO 0.207 MG/MG Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1313925",
+              "name": "alpha-tocopherol acetate 30 UNT / ascorbic acid 100 MG / beta carotene 1000 UNT / calcium carbonate 200 MG / calcium pantothenate 7 MG / cholecalciferol 400 UNT / docusate sodium 25 MG / ferrous fumarate 29 MG / folic acid 1 MG / niacinamide 15 MG / pyridoxine hydrochloride 20 MG / riboflavin 3 MG / thiamine 3 MG / vitamin B12 0.012 MG / zinc oxide 20 MG Oral Tablet",
+              "synonym": "alpha-tocopherol acetate 30 UNT / vit-C 100 MG / beta carotene 1000 UNT / calcium carbonate 200 MG / calcium pantothenate 7 MG / cholecalciferol 400 UNT / DOSS sodium 25 MG / ferrous fumarate 29 MG / folate 1 MG / niacinamide 15 MG / vit-B6 hydrochloride 20 MG / riboflavin 3 MG / vit-B1 3 MG / vitamin B12 0.012 MG / ZNO 20 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1361201",
+              "name": "corn starch 0.79 MG/MG / kaolin 0.04 MG/MG / zinc oxide 0.15 MG/MG Topical Powder",
+              "synonym": "cornstarch 79 % / kaolin 4 % / zinc oxide 15 % Topical Powder",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1373115",
+              "name": "iodoform 0.03 MG/MG / zinc oxide 0.47 MG/MG Topical Powder",
+              "synonym": "iodoform 3 % / zinc oxide 47 % Topical Powder",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1373249",
+              "name": "calamine 0.02 MG/MG / menthol 0.0045 MG/MG / zinc oxide 0.18 MG/MG Topical Ointment",
+              "synonym": "calamine 2 % / menthol 0.45 % / zinc oxide 18 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1373379",
+              "name": "dimethicone 21 MG/ML / zinc oxide 20 MG/ML Topical Cream",
+              "synonym": "dimethicone 2.1 % / zinc oxide 2 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "142015",
+              "name": "cod liver oil 0.114 MG/MG / zinc oxide 0.38 MG/MG Topical Ointment",
+              "synonym": "cod liver oil 11.4 % / zinc oxide 38 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "142019",
+              "name": "calamine 15 MG/ML / dimethicone 200 MG/ML / zinc oxide 75 MG/ML Topical Cream",
+              "synonym": "dimethicone 20 % / calamine 1.5 % / zinc oxide 7.5 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1423410",
+              "name": "camphor 0.03 MG/MG / phenol 0.025 MG/MG / tannic acid 0.022 MG/MG / zinc oxide 0.066 MG/MG Topical Ointment",
+              "synonym": "camphor 3 % / phenol 2.5 % / tannic acid 2.2 % / zinc oxide 6.6 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1427410",
+              "name": "zinc oxide 18 MG/ML Topical Cream",
+              "synonym": "ZNO 18 MG/ML Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1427954",
+              "name": "petrolatum 490 MG/ML / zinc oxide 150 MG/ML Topical Cream",
+              "synonym": "petrolatum 49 % / zinc oxide 15 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1432509",
+              "name": "zinc oxide 300 MG/ML Topical Cream",
+              "synonym": "ZNO 300 MG/ML Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1441179",
+              "name": "allantoin 0.01 MG/MG / zinc oxide 0.25 MG/MG Topical Ointment",
+              "synonym": "Allantoin 0.01 MG/MG / ZNO 0.25 MG/MG Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1492398",
+              "name": "menthol 1.1 MG/ML / zinc oxide 51 MG/ML Topical Lotion",
+              "synonym": "Menthol 1.1 MG/ML / ZNO 51 MG/ML Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1494207",
+              "name": "petrolatum 0.49 MG/MG / zinc oxide 0.15 MG/MG Paste",
+              "synonym": "petrolatum 49 % / zinc oxide 15 % Paste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1494214",
+              "name": "petrolatum 0.57 MG/MG / zinc oxide 0.17 MG/MG Paste",
+              "synonym": "petrolatum 57 % / zinc oxide 17 % Paste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1495480",
+              "name": "zinc oxide 0.572 MG/MG Rectal Suppository",
+              "synonym": "ZNO 0.572 MG/MG Rectal Suppository",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1541229",
+              "name": "dimethicone 10 MG/ML / zinc oxide 50 MG/ML Topical Cream",
+              "synonym": "dimethicone 1 % / zinc oxide 5 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1543704",
+              "name": "dimethicone 0.011 MG/MG / zinc oxide 0.4 MG/MG Topical Ointment",
+              "synonym": "dimethicone 1.1 % / zinc oxide 40 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1546589",
+              "name": "zinc oxide 140 MG/ML Topical Cream",
+              "synonym": "ZNO 140 MG/ML Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1591982",
+              "name": "dimethicone 0.018 MG/MG / zinc oxide 0.02 MG/MG Topical Ointment",
+              "synonym": "dimethicone 1.8 % / zinc oxide 2 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1658664",
+              "name": "allantoin 0.01 MG/MG / petrolatum 0.45 MG/MG / zinc oxide 0.4 MG/MG Topical Ointment",
+              "synonym": "allantoin 1 % / petrolatum 45 % / zinc oxide 40 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1734937",
+              "name": "zinc oxide 220 MG/ML Topical Cream",
+              "synonym": "ZNO 220 MG/ML Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1792499",
+              "name": "menthol 4.4 MG/ML / zinc oxide 206 MG/ML Topical Cream",
+              "synonym": "Menthol 4.4 MG/ML / ZNO 206 MG/ML Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1793915",
+              "name": "zinc oxide 153 MG/ML Topical Cream",
+              "synonym": "ZNO 153 MG/ML Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1798481",
+              "name": "calamine 4 MG/ML / pramoxine hydrochloride 10 MG/ML / zinc oxide 4 MG/ML Topical Cream",
+              "synonym": "calamine 0.4 % / pramoxine HCl 1 % / zinc oxide 0.4 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1804185",
+              "name": "calamine 4 MG/ML / pramoxine hydrochloride 10 MG/ML / zinc oxide 4 MG/ML Topical Lotion",
+              "synonym": "calamine 0.4 % / pramoxine HCl 1 % / zinc oxide 0.4 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1860083",
+              "name": "petrolatum 0.75 MG/MG / zinc oxide 0.2 MG/MG Paste",
+              "synonym": "petrolatum 75 % / zinc oxide 20 % Paste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1865206",
+              "name": "zinc oxide 38 MG/ML Topical Cream",
+              "synonym": "ZNO 38 MG/ML Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1921772",
+              "name": "calamine 0.035 MG/MG / menthol 0.002 MG/MG / petrolatum 0.69 MG/MG / zinc oxide 0.165 MG/MG Paste",
+              "synonym": "calamine 3.5 % / menthol 0.2 % / petrolatum 69 % / zinc oxide 16.5 % Topical Paste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1942346",
+              "name": "menthol 4.5 MG/ML / zinc oxide 200 MG/ML Rectal Cream",
+              "synonym": "menthol 0.45 % / zinc oxide 20 % Rectal Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1946476",
+              "name": "lanolin 0.157 MG/MG / menthol 0.0044 MG/MG / petrolatum 0.24 MG/MG / zinc oxide 0.206 MG/MG Topical Ointment",
+              "synonym": "lanolin 15.7 % / menthol 0.44 % / petrolatum 24 % / zinc oxide 20.6 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198911",
+              "name": "zinc oxide 0.2 MG/MG Topical Ointment",
+              "synonym": "ZNO 0.2 MG/MG Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "199099",
+              "name": "zinc oxide 0.1 MG/MG Topical Ointment",
+              "synonym": "ZNO 0.1 MG/MG Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1998442",
+              "name": "menthol 0.001 MG/MG / zinc oxide 0.2 MG/MG Topical Ointment",
+              "synonym": "menthol 0.1 % / zinc oxide 20 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "199852",
+              "name": "zinc oxide 0.12 MG/MG Topical Ointment",
+              "synonym": "ZNO 0.12 MG/MG Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2003464",
+              "name": "zinc oxide 0.14 MG/MG Topical Ointment",
+              "synonym": "ZNO 0.14 MG/MG Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "204919",
+              "name": "zinc oxide 0.25 MG/MG Paste",
+              "synonym": "ZNO 0.25 MG/MG Paste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "205128",
+              "name": "zinc oxide 0.1 MG/MG Rectal Suppository",
+              "synonym": "ZNO 0.1 MG/MG Rectal Suppository",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2058531",
+              "name": "petrolatum 0.785 MG/MG / zinc oxide 0.08 MG/MG Topical Ointment",
+              "synonym": "petrolatum 78.5 % / zinc oxide 8 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2106103",
+              "name": "zinc oxide 99 MG/ML Topical Cream",
+              "synonym": "ZNO 99 MG/ML Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2106107",
+              "name": "zinc oxide 240 MG/ML Topical Cream",
+              "synonym": "ZNO 240 MG/ML Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2123045",
+              "name": "menthol 0.0044 MG/MG / zinc oxide 0.206 MG/MG Topical Ointment",
+              "synonym": "menthol 0.44 % / zinc oxide 20.6 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "238405",
+              "name": "zinc oxide 0.25 MG/MG Topical Ointment",
+              "synonym": "ZNO 0.25 MG/MG Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2396041",
+              "name": "petrolatum 0.78 MG/MG / zinc oxide 0.076 MG/MG Topical Ointment",
+              "synonym": "petrolatum 77.99 % / zinc oxide 7.6 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "244637",
+              "name": "zinc oxide 200 MG/ML Topical Lotion",
+              "synonym": "ZnO 20 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "244638",
+              "name": "zinc oxide 0.4 MG/MG Topical Ointment",
+              "synonym": "ZNO 0.4 MG/MG Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "245660",
+              "name": "zinc oxide 150 MG/ML Topical Cream",
+              "synonym": "ZNO 150 MG/ML Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "245663",
+              "name": "zinc oxide 0.15 MG/MG Topical Ointment",
+              "synonym": "ZNO 0.15 MG/MG Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "248279",
+              "name": "zinc oxide 100 MG/ML Topical Cream",
+              "synonym": "ZNO 100 MG/ML Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2556793",
+              "name": "zinc oxide 0.01 MG/MG Topical Ointment",
+              "synonym": "ZNO 0.01 MG/MG Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2559902",
+              "name": "menthol 0.0044 MG/MG / zinc oxide 0.206 MG/MG Paste",
+              "synonym": "menthol 0.44 % / zinc oxide 20.6 % Paste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2562886",
+              "name": "dimethicone 20 MG/ML / zinc oxide 100 MG/ML Topical Cream",
+              "synonym": "dimethicone 2 % / zinc oxide 10 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2586855",
+              "name": "glycerin 0.375 MG/MG / lanolin 0.125 MG/MG / lidocaine 0.04 MG/MG / zinc oxide 0.05 MG/MG Topical Ointment",
+              "synonym": "glycerin 37.5 % / lanolin 12.5 % / lidocaine 4 % / zinc oxide 5 % Topical or Intrarectal Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2587748",
+              "name": "petrolatum 0.715 MG/MG / zinc oxide 0.01 MG/MG Topical Ointment",
+              "synonym": "petrolatum 71.5 % / zinc oxide 1 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2595464",
+              "name": "zinc oxide 149 MG/ML Topical Spray",
+              "synonym": "ZNO 149 MG/ML Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2609848",
+              "name": "dimethicone 0.01 MG/MG / zinc oxide 0.15 MG/MG Topical Ointment",
+              "synonym": "dimethicone 1 % / zinc oxide 15 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2623963",
+              "name": "zinc oxide 205 MG/ML Topical Cream",
+              "synonym": "ZNO 205 MG/ML Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2629820",
+              "name": "calamine 150 MG/ML / zinc oxide 50 MG/ML Topical Lotion",
+              "synonym": "calamine 15 % / zinc oxide 5 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2635795",
+              "name": "lanolin 0.0517 MG/MG / petrolatum 0.665 MG/MG / zinc oxide 0.202 MG/MG Paste",
+              "synonym": "lanolin 5.17 % / petrolatum 66.5 % / zinc oxide 20.2 % Topical Paste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2639087",
+              "name": "petrolatum 780 MG/ML / zinc oxide 200 MG/ML Topical Cream",
+              "synonym": "petrolatum 78 % / zinc oxide 20 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2642278",
+              "name": "menthol 0.0044 MG/MG / petrolatum 0.53 MG/MG / zinc oxide 0.206 MG/MG Paste",
+              "synonym": "menthol 0.44 % / petrolatum 53 % / zinc oxide 20.6 % Topical Paste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2644139",
+              "name": "dimethicone 18 MG/ML / zinc oxide 20 MG/ML Topical Cream",
+              "synonym": "dimethicone 1.8 % / zinc oxide 2 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2663937",
+              "name": "zinc oxide 150 MG/ML Topical Spray",
+              "synonym": "ZNO 150 MG/ML Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2667940",
+              "name": "petrolatum 300 MG/ML / zinc oxide 100 MG/ML Topical Spray",
+              "synonym": "petrolatum 30 % / zinc oxide 10 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2671191",
+              "name": "petrolatum 0.507 MG/MG / zinc oxide 0.4 MG/MG Paste",
+              "synonym": "petrolatum 50.7 % / zinc oxide 40 % Paste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2720028",
+              "name": "menthol 0.0035 MG/MG / petrolatum 0.797 MG/MG / zinc oxide 0.05 MG/MG Rectal Ointment",
+              "synonym": "menthol 0.35 % / petrolatum 79.65 % / zinc oxide 5 % Rectal Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "349404",
+              "name": "zinc oxide 130 MG/ML Topical Cream",
+              "synonym": "ZNO 130 MG/ML Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "416684",
+              "name": "zinc oxide 0.2 MG/MG Paste",
+              "synonym": "ZNO 0.2 MG/MG Paste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "416750",
+              "name": "zinc oxide 210 MG/ML Topical Cream",
+              "synonym": "ZNO 210 MG/ML Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "417425",
+              "name": "zinc oxide 200 MG/ML Topical Cream",
+              "synonym": "ZNO 200 MG/ML Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "417994",
+              "name": "zinc oxide 120 MG/ML Topical Cream",
+              "synonym": "ZNO 120 MG/ML Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "418822",
+              "name": "zinc oxide 0.3 MG/MG Topical Ointment",
+              "synonym": "ZNO 0.3 MG/MG Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "436525",
+              "name": "zinc oxide 50 MG/ML Topical Cream",
+              "synonym": "ZNO 50 MG/ML Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "477174",
+              "name": "zinc oxide 0.16 MG/MG Paste",
+              "synonym": "ZNO 0.16 MG/MG Paste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "477180",
+              "name": "zinc oxide 306 MG/ML Topical Cream",
+              "synonym": "ZNO 306 MG/ML Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "577232",
+              "name": "menthol 0.0015 MG/MG / zinc oxide 0.01 MG/MG Topical Powder",
+              "synonym": "menthol 0.15 % / zinc oxide 1 % Topical Powder",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "617954",
+              "name": "calamine 80 MG/ML / zinc oxide 80 MG/ML Topical Lotion",
+              "synonym": "calamine 8 % / zinc oxide 8 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "630923",
+              "name": "zinc oxide 113 MG/ML Topical Cream",
+              "synonym": "ZNO 113 MG/ML Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "631669",
+              "name": "zinc oxide 0.15 MG/MG Topical Powder",
+              "synonym": "ZNO 0.15 MG/MG Topical Powder",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "637129",
+              "name": "menthol 0.004 MG/MG / zinc oxide 0.205 MG/MG Paste",
+              "synonym": "menthol 0.4 % / zinc oxide 20 % Paste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "637149",
+              "name": "petrolatum 0.87 MG/MG / zinc oxide 0.088 MG/MG Topical Ointment",
+              "synonym": "petrolatum 87 % / zinc oxide 8.8 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "637168",
+              "name": "zinc oxide 0.128 MG/MG Topical Ointment",
+              "synonym": "ZNO 0.128 MG/MG Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "637462",
+              "name": "dimethicone 50 MG/ML / zinc oxide 50 MG/ML Topical Cream",
+              "synonym": "dimethicone 5 % / zinc oxide 5 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "637565",
+              "name": "dimethicone 10 MG/ML / zinc oxide 120 MG/ML Topical Cream",
+              "synonym": "dimethicone 1 % / zinc oxide 12 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "686403",
+              "name": "dimethicone 10 MG/ML / zinc oxide 100 MG/ML Topical Cream",
+              "synonym": "dimethicone 1 % / zinc oxide 10 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "702006",
+              "name": "zinc oxide 0.134 MG/MG Topical Ointment",
+              "synonym": "ZNO 0.134 MG/MG Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "708071",
+              "name": "zinc oxide 0.16 MG/MG Topical Ointment",
+              "synonym": "ZNO 0.16 MG/MG Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "744868",
+              "name": "menthol 0.0044 MG/MG / zinc oxide 0.2 MG/MG Topical Ointment",
+              "synonym": "menthol 0.44 % / zinc oxide 20 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "797233",
+              "name": "zinc oxide 0.0938 MG/MG Topical Ointment",
+              "synonym": "ZNO 0.0938 MG/MG Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "797463",
+              "name": "ascorbic acid 80 MG / biotin 0.03 MG / calcium carbonate 200 MG / cupric oxide 3 MG / ferrous fumarate 60 MG / folic acid 1 MG / magnesium oxide 100 MG / niacinamide 17 MG / pantothenic acid 7 MG / riboflavin 1.6 MG / thiamine 1.5 MG / vitamin A 4000 UNT / vitamin B12 0.0025 MG / vitamin B6 4 MG / vitamin E 400 UNT / zinc oxide 25 MG Oral Tablet",
+              "synonym": "prenatal vitamin with minerals and folic acid greater than 0.8 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "831391",
+              "name": "miconazole nitrate 0.0025 MG/MG / petrolatum 0.814 MG/MG / zinc oxide 0.15 MG/MG Topical Ointment",
+              "synonym": "miconazole nitrate 0.25 % / petrolatum, white 81.35 % / zinc oxide 15 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "849667",
+              "name": "menthol 0.002 MG/MG / zinc oxide 0.2 MG/MG Paste",
+              "synonym": "menthol 0.2 % / zinc oxide 20 % Paste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "850425",
+              "name": "petrolatum 0.49 MG/MG / zinc oxide 0.15 MG/MG Topical Ointment",
+              "synonym": "petrolatum 49 % / zinc oxide 15 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "853373",
+              "name": "zinc oxide 0.128 MG/MG Paste",
+              "synonym": "ZNO 0.128 MG/MG Paste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "865073",
+              "name": "zinc oxide 250 MG/ML Topical Spray",
+              "synonym": "ZNO 250 MG/ML Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "866211",
+              "name": "lanolin 0.18 MG/MG / petrolatum 0.48 MG/MG / zinc oxide 0.1 MG/MG Topical Ointment",
+              "synonym": "lanolin 18 % / petrolatum 48 % / zinc oxide 10 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "884804",
+              "name": "menthol 0.0045 MG/MG / zinc oxide 0.2 MG/MG Topical Ointment",
+              "synonym": "menthol 0.45 % / zinc oxide 20 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "891706",
+              "name": "ascorbic acid 60 MG / cuprous oxide 2 MG / dl-alpha tocopheryl acetate 30 MG / lutein 6 MG / zinc oxide 15 MG Oral Capsule",
+              "synonym": "vit-C 60 MG / cuprous oxide 2 MG / dl-alpha tocopheryl acetate 30 MG / Lutein 6 MG / ZNO 15 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "891716",
+              "name": "ascorbic acid 200 MG / beta carotene 1000 UNT / cuprous oxide 2 MG / dl-alpha tocopheryl acetate 60 UNT / lutein 2 MG / sodium selenate 0.055 MG / zinc oxide 40 MG Oral Tablet",
+              "synonym": "vit-C 200 MG / Beta Carotene 1000 UNT / cuprous oxide 2 MG / dl-alpha tocopheryl acetate 60 UNT / Lutein 2 MG / sodium selenate 0.055 MG / ZNO 40 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "891790",
+              "name": "ascorbic acid 226 MG / beta carotene 14320 UNT / cuprous oxide 0.8 MG / dl-alpha tocopheryl acetate 200 UNT / zinc oxide 34.8 MG Oral Capsule",
+              "synonym": "vit-C 226 MG / Beta Carotene 14320 UNT / cuprous oxide 0.8 MG / dl-alpha tocopheryl acetate 200 UNT / ZNO 34.8 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "891806",
+              "name": "zinc oxide 0.1 MG/MG Topical Powder",
+              "synonym": "ZNO 0.1 MG/MG Topical Powder",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "891812",
+              "name": "ascorbic acid 113 MG / beta carotene 7160 MG / cuprous oxide 0.4 MG / dl-alpha tocopheryl acetate 100 UNT / zinc oxide 17.4 MG Oral Tablet",
+              "synonym": "vit-C 113 MG / Beta Carotene 7160 MG / cuprous oxide 0.4 MG / dl-alpha tocopheryl acetate 100 UNT / ZNO 17.4 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "891816",
+              "name": "ascorbic acid 226 MG / cuprous oxide 0.8 MG / dl-alpha tocopheryl acetate 200 UNT / lutein 5 MG / zinc oxide 34.8 MG Oral Capsule",
+              "synonym": "vit-C 226 MG / cuprous oxide 0.8 MG / dl-alpha tocopheryl acetate 200 UNT / Lutein 5 MG / ZNO 34.8 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "899863",
+              "name": "zinc oxide 0.13 MG/MG Topical Ointment",
+              "synonym": "ZNO 0.13 MG/MG Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "968817",
+              "name": "dimethicone 200 MG/ML / zinc oxide 250 MG/ML Topical Spray",
+              "synonym": "dimethicone 20 % / zinc oxide 25 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "991369",
+              "name": "calamine 80 MG/ML / phenol 10 MG/ML / zinc oxide 80 MG/ML Topical Lotion",
+              "synonym": "calamine 8 % / phenol 1 % / zinc oxide 8 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "998561",
+              "name": "miconazole nitrate 0.0025 MG/MG / zinc oxide 0.15 MG/MG Topical Ointment",
+              "synonym": "miconazole nitrate 0.25 % / zinc oxide 15 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:33:51.165755",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Bicifadine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:46:47.090769",
+  "source": "RxNorm"
+}

@@ -1,0 +1,190 @@
+{
+  "query": "Dabigatran etexilate",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1037049",
+              "name": "dabigatran etexilate 150 MG Oral Capsule [Pradaxa]",
+              "synonym": "Pradaxa 150 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1037181",
+              "name": "dabigatran etexilate 75 MG Oral Capsule [Pradaxa]",
+              "synonym": "Pradaxa 75 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1723478",
+              "name": "dabigatran etexilate 110 MG Oral Capsule [Pradaxa]",
+              "synonym": "Pradaxa 110 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2590619",
+              "name": "dabigatran etexilate 110 MG Oral Pellet [Pradaxa]",
+              "synonym": "Pradaxa 110 MG Oral Pellet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2590621",
+              "name": "dabigatran etexilate 150 MG Oral Pellet [Pradaxa]",
+              "synonym": "Pradaxa 150 MG Oral Pellet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2590625",
+              "name": "dabigatran etexilate 20 MG Oral Pellet [Pradaxa]",
+              "synonym": "Pradaxa 20 MG Oral Pellet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2590629",
+              "name": "dabigatran etexilate 30 MG Oral Pellet [Pradaxa]",
+              "synonym": "Pradaxa 30 MG Oral Pellet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2590633",
+              "name": "dabigatran etexilate 40 MG Oral Pellet [Pradaxa]",
+              "synonym": "Pradaxa 40 MG Oral Pellet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2590637",
+              "name": "dabigatran etexilate 50 MG Oral Pellet [Pradaxa]",
+              "synonym": "Pradaxa 50 MG Oral Pellet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1037045",
+              "name": "dabigatran etexilate 150 MG Oral Capsule",
+              "synonym": "dabigatran etexilate 150 MG (dabigatran etexilate mesylate 172.95 MG) Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1037179",
+              "name": "dabigatran etexilate 75 MG Oral Capsule",
+              "synonym": "dabigatran etexilate 75 MG (as dabigatran etexilate mesylate 86.48 MG) Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1723476",
+              "name": "dabigatran etexilate 110 MG Oral Capsule",
+              "synonym": "dabigatran etexilate 110 MG (as dabigatran etexilate mesylate 126.83 MG) Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2590616",
+              "name": "dabigatran etexilate 110 MG Oral Pellet",
+              "synonym": "dabigatran etexilate 110 MG (as dabigatran etexilate mesylate 126.83 MG) Oral Pellet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2590620",
+              "name": "dabigatran etexilate 150 MG Oral Pellet",
+              "synonym": "dabigatran etexilate 150 MG (as dabigatran etexilate mesylate 172.95 MG) Oral Pellet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2590623",
+              "name": "dabigatran etexilate 20 MG Oral Pellet",
+              "synonym": "dabigatran etexilate 20 MG (as dabigatran etexilate mesylate 23.06 MG) Oral Pellet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2590627",
+              "name": "dabigatran etexilate 30 MG Oral Pellet",
+              "synonym": "dabigatran etexilate 30 MG (as dabigatran etexilate mesylate 34.59 MG) Oral Pellet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2590631",
+              "name": "dabigatran etexilate 40 MG Oral Pellet",
+              "synonym": "dabigatran etexilate 40 MG (as dabigatran etexilate mesylate 46.12 MG) Oral Pellet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2590635",
+              "name": "dabigatran etexilate 50 MG Oral Pellet",
+              "synonym": "dabigatran etexilate 50 MG (as dabigatran etexilate mesylate 57.65 MG) Oral Pellet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:31:10.210070",
+  "source": "RxNorm"
+}

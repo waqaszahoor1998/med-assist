@@ -1,0 +1,46 @@
+{
+  "query": "Lodoxamide",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "206792",
+              "name": "lodoxamide 1 MG/ML Ophthalmic Solution [Alomide]",
+              "synonym": "Alomide 0.1 % Ophthalmic Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "311361",
+              "name": "lodoxamide 1 MG/ML Ophthalmic Solution",
+              "synonym": "lodoxamide 0.1 % Ophthalmic Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:38:13.056730",
+  "source": "RxNorm"
+}

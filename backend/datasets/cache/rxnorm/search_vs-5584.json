@@ -1,0 +1,10 @@
+{
+  "query": "VS-5584",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:27:10.292986",
+  "source": "RxNorm"
+}

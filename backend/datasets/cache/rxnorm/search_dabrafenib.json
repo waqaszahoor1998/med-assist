@@ -1,0 +1,82 @@
+{
+  "query": "Dabrafenib",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1425228",
+              "name": "dabrafenib 50 MG Oral Capsule [Tafinlar]",
+              "synonym": "Tafinlar 50 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1425230",
+              "name": "dabrafenib 75 MG Oral Capsule [Tafinlar]",
+              "synonym": "Tafinlar 75 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2632556",
+              "name": "dabrafenib 10 MG Tablet for Oral Suspension [Tafinlar]",
+              "synonym": "Tafinlar 10 MG Tablet for Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1424916",
+              "name": "dabrafenib 50 MG Oral Capsule",
+              "synonym": "dabrafenib (as dabrafenib methylsulfate 59.25 MG) 50 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1424918",
+              "name": "dabrafenib 75 MG Oral Capsule",
+              "synonym": "dabrafenib (as dabrafenib methylsulfate 88.88 MG) 75 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2632552",
+              "name": "dabrafenib 10 MG Tablet for Oral Suspension",
+              "synonym": "dabrafenib 10 MG (as dabrafenib mesylate 11.85 MG) Tablet for Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:07:08.110837",
+  "source": "RxNorm"
+}

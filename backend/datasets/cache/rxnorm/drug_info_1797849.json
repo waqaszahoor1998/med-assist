@@ -1,0 +1,16 @@
+{
+  "rxcui": "1797849",
+  "properties": {
+    "properties": {
+      "rxcui": "1797849",
+      "name": "azelastine hydrochloride 0.137 MG/ACTUAT / fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Dymista]",
+      "synonym": "Dymista (azelastine hydrochloride 137 MCG/ACTUAT / fluticasone propionate 50 MCG/ACTUAT) Metered Dose Nasal Spray",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T21:22:51.185808",
+  "source": "RxNorm"
+}

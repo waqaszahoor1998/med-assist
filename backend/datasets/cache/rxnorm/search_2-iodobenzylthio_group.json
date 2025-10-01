@@ -1,0 +1,10 @@
+{
+  "query": "2-Iodobenzylthio Group",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:50:32.491209",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "[2,4,6-Triisopropyl-Phenylsulfonyl-L-[3-Amidino-Phenylalanine]]-Piperazine-N'-Beta-Alanine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T06:52:22.135488",
+  "source": "RxNorm"
+}

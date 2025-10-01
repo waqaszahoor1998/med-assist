@@ -1,0 +1,433 @@
+{
+  "query": "Olanzapine",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "153046",
+              "name": "olanzapine 5 MG Oral Tablet [Zyprexa]",
+              "synonym": "Zyprexa 5 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "153047",
+              "name": "olanzapine 7.5 MG Oral Tablet [Zyprexa]",
+              "synonym": "Zyprexa 7.5 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "153048",
+              "name": "olanzapine 10 MG Oral Tablet [Zyprexa]",
+              "synonym": "Zyprexa 10 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1718928",
+              "name": "olanzapine 405 MG Injection [Zyprexa]",
+              "synonym": "Zyprexa 405 MG Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1718932",
+              "name": "olanzapine 300 MG Injection [Zyprexa]",
+              "synonym": "Zyprexa 300 MG Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1718936",
+              "name": "olanzapine 210 MG Injection [Zyprexa]",
+              "synonym": "Zyprexa 210 MG Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "212405",
+              "name": "olanzapine 2.5 MG Oral Tablet [Zyprexa]",
+              "synonym": "Zyprexa 2.5 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2570398",
+              "name": "olanzapine 5 MG / samidorphan 10 MG Oral Tablet [Lybalvi]",
+              "synonym": "Lybalvi (olanzapine 5 MG / samidorphan 10 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2570401",
+              "name": "olanzapine 10 MG / samidorphan 10 MG Oral Tablet [Lybalvi]",
+              "synonym": "Lybalvi (olanzapine 10 MG / samidorphan 10 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2570404",
+              "name": "olanzapine 15 MG / samidorphan 10 MG Oral Tablet [Lybalvi]",
+              "synonym": "Lybalvi (olanzapine 15 MG / samidorphan 10 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2570407",
+              "name": "olanzapine 20 MG / samidorphan 10 MG Oral Tablet [Lybalvi]",
+              "synonym": "Lybalvi (olanzapine 20 MG / samidorphan 10 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "261337",
+              "name": "olanzapine 15 MG Oral Tablet [Zyprexa]",
+              "synonym": "Zyprexa 15 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "284514",
+              "name": "olanzapine 20 MG Oral Tablet [Zyprexa]",
+              "synonym": "Zyprexa 20 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "545353",
+              "name": "olanzapine 10 MG Injection [Zyprexa]",
+              "synonym": "Zyprexa 10 MG Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "725064",
+              "name": "fluoxetine 25 MG / olanzapine 6 MG Oral Capsule [Symbyax]",
+              "synonym": "Symbyax 6/25 Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "725068",
+              "name": "fluoxetine 50 MG / olanzapine 12 MG Oral Capsule [Symbyax]",
+              "synonym": "Symbyax 12/50 Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "725072",
+              "name": "fluoxetine 50 MG / olanzapine 6 MG Oral Capsule [Symbyax]",
+              "synonym": "Symbyax 6/50 Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "725080",
+              "name": "fluoxetine 25 MG / olanzapine 3 MG Oral Capsule [Symbyax]",
+              "synonym": "Symbyax 3/25 Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "754503",
+              "name": "olanzapine 10 MG Disintegrating Oral Tablet [Zyprexa]",
+              "synonym": "Zyprexa Zydis 10 MG Disintegrating Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "754504",
+              "name": "olanzapine 15 MG Disintegrating Oral Tablet [Zyprexa]",
+              "synonym": "Zyprexa Zydis 15 MG Disintegrating Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "754505",
+              "name": "olanzapine 20 MG Disintegrating Oral Tablet [Zyprexa]",
+              "synonym": "Zyprexa Zydis 20 MG Disintegrating Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "754506",
+              "name": "olanzapine 5 MG Disintegrating Oral Tablet [Zyprexa]",
+              "synonym": "Zyprexa 5 MG Disintegrating Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1718925",
+              "name": "olanzapine 405 MG Injection",
+              "synonym": "olanzapine 405 MG (as olanzapine pamoate monohydrate 931 MG) Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1718930",
+              "name": "olanzapine 300 MG Injection",
+              "synonym": "olanzapine 300 MG (as olanzapine pamoate monohydrate 690 MG) Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1718934",
+              "name": "olanzapine 210 MG Injection",
+              "synonym": "olanzapine 210 MG (as olanzapine pamoate monohydrate 483 MG) Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "200034",
+              "name": "olanzapine 2.5 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2570392",
+              "name": "olanzapine 5 MG / samidorphan 10 MG Oral Tablet",
+              "synonym": "olanzapine 5 MG / samidorphan 10 MG (as samidorphan L-malate 13.6 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2570399",
+              "name": "olanzapine 10 MG / samidorphan 10 MG Oral Tablet",
+              "synonym": "olanzapine 10 MG / samidorphan 10 MG (as samidorphan L-malate 13.6 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2570402",
+              "name": "olanzapine 15 MG / samidorphan 10 MG Oral Tablet",
+              "synonym": "olanzapine 15 MG / samidorphan 10 MG (as samidorphan L-malate 13.6 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2570405",
+              "name": "olanzapine 20 MG / samidorphan 10 MG Oral Tablet",
+              "synonym": "olanzapine 20 MG / samidorphan 10 MG (as samidorphan L-malate 13.6 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "283639",
+              "name": "olanzapine 20 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "312076",
+              "name": "olanzapine 10 MG Disintegrating Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "312077",
+              "name": "olanzapine 15 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "312078",
+              "name": "olanzapine 5 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "312079",
+              "name": "olanzapine 7.5 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "314154",
+              "name": "olanzapine 10 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "314155",
+              "name": "olanzapine 5 MG Disintegrating Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "351107",
+              "name": "olanzapine 15 MG Disintegrating Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "351108",
+              "name": "olanzapine 20 MG Disintegrating Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "403969",
+              "name": "fluoxetine 25 MG / olanzapine 6 MG Oral Capsule",
+              "synonym": "fluoxetine 25 MG (as fluoxetine hydrochloride) / olanzapine 6 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "403970",
+              "name": "fluoxetine 25 MG / olanzapine 12 MG Oral Capsule",
+              "synonym": "fluoxetine 25 MG (as fluoxetine hydrochloride) / olanzapine 12 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "403971",
+              "name": "fluoxetine 50 MG / olanzapine 12 MG Oral Capsule",
+              "synonym": "fluoxetine 50 MG (as fluoxetine hydrochloride) / olanzapine 12 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "403972",
+              "name": "fluoxetine 50 MG / olanzapine 6 MG Oral Capsule",
+              "synonym": "fluoxetine 50 MG (as fluoxetine hydrochloride) / olanzapine 6 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "485968",
+              "name": "olanzapine 10 MG Injection",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "721787",
+              "name": "fluoxetine 25 MG / olanzapine 3 MG Oral Capsule",
+              "synonym": "fluoxetine 25 MG (as fluoxetine hydrochloride) / olanzapine 3 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:08:44.108822",
+  "source": "RxNorm"
+}

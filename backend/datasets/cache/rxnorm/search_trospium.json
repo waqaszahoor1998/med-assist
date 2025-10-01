@@ -1,0 +1,140 @@
+{
+  "query": "Trospium",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "2694993",
+              "name": "{52 (trospium chloride 20 MG / xanomeline 100 MG Oral Capsule [Cobenfy]) / 4 (trospium chloride 20 MG / xanomeline 50 MG Oral Capsule [Cobenfy]) } Pack [Cobenfy 28-Day Starter Kit]",
+              "synonym": "Cobenfy 28-Day (50 MG/20 MG (4), 100 MG/20 MG (52)) Starter Kit",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2695672",
+              "name": "{10 (trospium chloride 20 MG / xanomeline 100 MG Oral Capsule [Cobenfy]) / 4 (trospium chloride 20 MG / xanomeline 50 MG Oral Capsule [Cobenfy]) } Pack [Cobenfy 7-Day Titration Pack - 50 MG/20 MG (4), 100 MG/20 MG (10) 14 Count]",
+              "synonym": "Cobenfy 7-Day Titration Pack - 50 MG/20 MG (4), 100 MG/20 MG (10) 14 Count",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "2694992",
+              "name": "{52 (trospium chloride 20 MG / xanomeline 100 MG Oral Capsule) / 4 (trospium chloride 20 MG / xanomeline 50 MG Oral Capsule) } Pack",
+              "synonym": "xanomeline/trospium chloride 28-Day (50 MG/20 MG (4), 100 MG/20 MG (52)) Starter Kit",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2695671",
+              "name": "{10 (trospium chloride 20 MG / xanomeline 100 MG Oral Capsule) / 4 (trospium chloride 20 MG / xanomeline 50 MG Oral Capsule) } Pack",
+              "synonym": "xanomeline/trospium chloride 7-Day Titration Pack - 50 MG/20 MG (4), 100 MG/20 MG (10) 14 Count",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2694850",
+              "name": "trospium chloride 20 MG / xanomeline 50 MG Oral Capsule [Cobenfy]",
+              "synonym": "Cobenfy (trospium chloride 20 MG / xanomeline 50 MG) Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2694855",
+              "name": "trospium chloride 30 MG / xanomeline 125 MG Oral Capsule [Cobenfy]",
+              "synonym": "Cobenfy (trospium chloride 30 MG / xanomeline 125 MG) Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2694991",
+              "name": "trospium chloride 20 MG / xanomeline 100 MG Oral Capsule [Cobenfy]",
+              "synonym": "Cobenfy (trospium chloride 20 MG / xanomeline 100 MG) Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2694843",
+              "name": "trospium chloride 20 MG / xanomeline 50 MG Oral Capsule",
+              "synonym": "xanomeline 50 MG (equivalent to xanomeline tartrate 76.7 MG) / trospium chloride 20 MG (trospium 18.3 MG) Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2694853",
+              "name": "trospium chloride 30 MG / xanomeline 125 MG Oral Capsule",
+              "synonym": "xanomeline 125 MG (equivalent to xanomeline tartrate 191.7 MG) / trospium chloride 30 MG (equivalent to trospium 27.5 MG) Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2694989",
+              "name": "trospium chloride 20 MG / xanomeline 100 MG Oral Capsule",
+              "synonym": "xanomeline 100 MG (equivalent to xanomeline tartrate 153.3 MG) / trospium chloride 20 MG (equivalent to trospium 18.3 MG) Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "857560",
+              "name": "trospium chloride 20 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "857564",
+              "name": "24 HR trospium chloride 60 MG Extended Release Oral Capsule",
+              "synonym": "trospium chloride 60 MG 24 HR Extended Release Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:01:14.339281",
+  "source": "RxNorm"
+}

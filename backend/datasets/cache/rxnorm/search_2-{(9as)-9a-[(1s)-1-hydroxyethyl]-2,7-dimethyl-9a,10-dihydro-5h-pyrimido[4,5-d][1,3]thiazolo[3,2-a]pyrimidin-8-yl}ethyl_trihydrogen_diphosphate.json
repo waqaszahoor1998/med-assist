@@ -1,0 +1,10 @@
+{
+  "query": "2-{(9as)-9a-[(1s)-1-Hydroxyethyl]-2,7-Dimethyl-9a,10-Dihydro-5h-Pyrimido[4,5-D][1,3]Thiazolo[3,2-a]Pyrimidin-8-Yl}Ethyl Trihydrogen Diphosphate",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:39:00.543423",
+  "source": "RxNorm"
+}

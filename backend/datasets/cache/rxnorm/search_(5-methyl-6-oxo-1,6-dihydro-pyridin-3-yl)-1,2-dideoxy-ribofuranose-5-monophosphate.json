@@ -1,0 +1,10 @@
+{
+  "query": "(5-methyl-6-oxo-1,6-dihydro-pyridin-3-yl)-1,2-dideoxy-ribofuranose-5-monophosphate",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T06:01:05.571586",
+  "source": "RxNorm"
+}

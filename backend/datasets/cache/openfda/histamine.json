@@ -1,0 +1,23 @@
+{
+  "drug_name": "Histamine",
+  "generic_name": [
+    "HISTAMINE DIHYDROCHLORIDE"
+  ],
+  "brand_names": [
+    "BAKERS BEST Arthritis Pain Relief Cream with Hemp and Lavender"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    "Warnings: For external use only. Avoid contact with eyes. If symptoms persist for more than seven days, discontinue use and consult a physician. Keep out of reach of children. If swallowed, consult a physician ASAP. Do not apply to wounds or damaged skin. Do not bandage tightly. If pregnant or breast feeding, contact a physician prior to use."
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    "Directions: Adults and children two-years of age or older: Apply to affected area not more than three to four times daily. Children under two-years of age: consult a physician."
+  ],
+  "indications": [
+    "Indications: For the temporary relief of minor aches and pains of muscles and joints, associated with arthritis, simple back aches, strains, bruises, and sprains."
+  ],
+  "fetched_at": "2025-10-01T15:57:03.787014",
+  "source": "OpenFDA"
+}

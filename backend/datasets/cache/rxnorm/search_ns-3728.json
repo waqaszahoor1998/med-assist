@@ -1,0 +1,10 @@
+{
+  "query": "NS-3728",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:05:50.459834",
+  "source": "RxNorm"
+}

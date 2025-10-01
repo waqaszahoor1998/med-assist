@@ -1,0 +1,10 @@
+{
+  "query": "L-deprenyl-D2 C-11",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:10:28.652082",
+  "source": "RxNorm"
+}

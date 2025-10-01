@@ -1,0 +1,91 @@
+{
+  "query": "Pentazocine",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "857237",
+              "name": "pentazocine 30 MG/ML Injectable Solution [Talwin]",
+              "synonym": "Talwin 30 MG/ML Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "238133",
+              "name": "pentazocine 30 MG/ML Injectable Solution",
+              "synonym": "pentazocine (as pentazocine lactate) 30 MG/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "250485",
+              "name": "pentazocine 25 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "250486",
+              "name": "pentazocine 50 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "250877",
+              "name": "pentazocine 50 MG Rectal Suppository",
+              "synonym": "pentazocine (as pentazocine lactate) 50 MG Rectal Suppository",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "312288",
+              "name": "acetaminophen 650 MG / pentazocine 25 MG Oral Tablet",
+              "synonym": "APAP 650 MG / Pentazocine 25 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "312289",
+              "name": "naloxone 0.5 MG / pentazocine 50 MG Oral Tablet",
+              "synonym": "naloxone (as naloxone hydrochloride) 0.5 MG / pentazocine (as pentazocine hydrochloride) 50 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:26:50.657556",
+  "source": "RxNorm"
+}

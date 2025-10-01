@@ -1,0 +1,10 @@
+{
+  "query": "ASP-3026",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:14:30.248764",
+  "source": "RxNorm"
+}

@@ -1,0 +1,244 @@
+{
+  "query": "Linagliptin",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1100706",
+              "name": "linagliptin 5 MG Oral Tablet [Tradjenta]",
+              "synonym": "Tradjenta 5 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1243026",
+              "name": "linagliptin 2.5 MG / metformin hydrochloride 1000 MG Oral Tablet [Jentadueto]",
+              "synonym": "Jentadueto 2.5/1000 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1243033",
+              "name": "linagliptin 2.5 MG / metformin hydrochloride 500 MG Oral Tablet [Jentadueto]",
+              "synonym": "Jentadueto 2.5/500 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1243040",
+              "name": "linagliptin 2.5 MG / metformin hydrochloride 850 MG Oral Tablet [Jentadueto]",
+              "synonym": "Jentadueto 2.5/850 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1602115",
+              "name": "empagliflozin 10 MG / linagliptin 5 MG Oral Tablet [Glyxambi]",
+              "synonym": "Glyxambi (empagliflozin 10 MG / linagliptin 5 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1602120",
+              "name": "empagliflozin 25 MG / linagliptin 5 MG Oral Tablet [Glyxambi]",
+              "synonym": "Glyxambi (empagliflozin 25 MG / linagliptin 5 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1796091",
+              "name": "24 HR linagliptin 2.5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Jentadueto]",
+              "synonym": "Jentadueto XR (linagliptin 2.5 MG / metformin HCl 1000 MG) 24HR Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1796096",
+              "name": "24 HR linagliptin 5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Jentadueto]",
+              "synonym": "Jentadueto XR (linagliptin 5 MG / metformin HCl 1000 MG) 24HR Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2359285",
+              "name": "24 HR empagliflozin 10 MG / linagliptin 5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Trijardy]",
+              "synonym": "Trijardy XR (empagliflozin 10 MG / linagliptin 5 MG / metformin HCl 1000 MG) 24HR Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2359290",
+              "name": "24 HR empagliflozin 12.5 MG / linagliptin 2.5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Trijardy]",
+              "synonym": "Trijardy XR (empagliflozin 12.5 MG / linagliptin 2.5 MG / metformin HCl 1000 MG) 24HR Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2359353",
+              "name": "24 HR empagliflozin 25 MG / linagliptin 5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Trijardy]",
+              "synonym": "Trijardy XR (empagliflozin 25 MG / linagliptin 5 MG / metformin HCl 1000 MG) 24HR Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2359358",
+              "name": "24 HR empagliflozin 5 MG / linagliptin 2.5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Trijardy]",
+              "synonym": "Trijardy XR (empagliflozin 5 MG / linagliptin 2.5 MG / metformin hydrochloride 1000 MG) 24HR Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1100702",
+              "name": "linagliptin 5 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1243020",
+              "name": "linagliptin 2.5 MG / metformin hydrochloride 1000 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1243027",
+              "name": "linagliptin 2.5 MG / metformin hydrochloride 500 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1243034",
+              "name": "linagliptin 2.5 MG / metformin hydrochloride 850 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1602109",
+              "name": "empagliflozin 10 MG / linagliptin 5 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1602118",
+              "name": "empagliflozin 25 MG / linagliptin 5 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1796089",
+              "name": "24 HR linagliptin 2.5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+              "synonym": "linagliptin 2.5 MG / metformin HCl 1000 MG 24HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1796094",
+              "name": "24 HR linagliptin 5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+              "synonym": "linagliptin 5 MG / metformin HCl 1000 MG 24HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2359279",
+              "name": "24 HR empagliflozin 10 MG / linagliptin 5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+              "synonym": "24 HR empagliflozin 10 MG / linagliptin 5 MG / metformin hydrochloride 1000 MG 24HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2359288",
+              "name": "24 HR empagliflozin 12.5 MG / linagliptin 2.5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+              "synonym": "empagliflozin 12.5 MG / linagliptin 2.5 MG / metformin HCl 1000 MG 24HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2359351",
+              "name": "24 HR empagliflozin 25 MG / linagliptin 5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2359356",
+              "name": "24 HR empagliflozin 5 MG / linagliptin 2.5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:04:28.151833",
+  "source": "RxNorm"
+}

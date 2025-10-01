@@ -1,0 +1,10 @@
+{
+  "query": "1-(O-Carboxy-Phenylamino)-1-Deoxy-D-Ribulose-5-Phosphate",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:46:58.668915",
+  "source": "RxNorm"
+}

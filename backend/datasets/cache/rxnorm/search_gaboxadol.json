@@ -1,0 +1,10 @@
+{
+  "query": "Gaboxadol",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:25:13.233060",
+  "source": "RxNorm"
+}

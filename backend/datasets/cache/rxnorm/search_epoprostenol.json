@@ -1,0 +1,82 @@
+{
+  "query": "Epoprostenol",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1009216",
+              "name": "epoprostenol 1.5 MG Injection [Veletri]",
+              "synonym": "Veletri 1.5 MG (as epoprostenol sodium) Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1302755",
+              "name": "epoprostenol 0.5 MG Injection [Veletri]",
+              "synonym": "Veletri 0.5 MG (as epoprostenol sodium) Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "211199",
+              "name": "epoprostenol 0.5 MG Injection [Flolan]",
+              "synonym": "Flolan 0.5 MG (as epoprostenol sodium) Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "211200",
+              "name": "epoprostenol 1.5 MG Injection [Flolan]",
+              "synonym": "Flolan 1.5 MG (as epoprostenol sodium) Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "562501",
+              "name": "epoprostenol 0.5 MG Injection",
+              "synonym": "epoprostenol 0.5 MG (as epoprostenol sodium) Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "562502",
+              "name": "epoprostenol 1.5 MG Injection",
+              "synonym": "epoprostenol 1.5 MG (as epoprostenol sodium) Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T22:34:15.011770",
+  "source": "RxNorm"
+}

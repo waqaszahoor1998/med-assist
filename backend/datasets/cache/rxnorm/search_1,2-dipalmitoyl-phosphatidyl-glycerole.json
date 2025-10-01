@@ -1,0 +1,10 @@
+{
+  "query": "1,2-Dipalmitoyl-Phosphatidyl-Glycerole",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:40:50.649149",
+  "source": "RxNorm"
+}

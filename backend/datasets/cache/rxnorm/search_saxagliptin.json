@@ -1,0 +1,154 @@
+{
+  "query": "Saxagliptin",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1043567",
+              "name": "24 HR metformin hydrochloride 1000 MG / saxagliptin 2.5 MG Extended Release Oral Tablet [Kombiglyze]",
+              "synonym": "Kombiglyze 2.5/1000 24 HR Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1043574",
+              "name": "24 HR metformin hydrochloride 1000 MG / saxagliptin 5 MG Extended Release Oral Tablet [Kombiglyze]",
+              "synonym": "Kombiglyze 5/1000 24 HR Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1043582",
+              "name": "24 HR metformin hydrochloride 500 MG / saxagliptin 5 MG Extended Release Oral Tablet [Kombiglyze]",
+              "synonym": "Kombiglyze 5/500 24 HR Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1925504",
+              "name": "dapagliflozin 10 MG / saxagliptin 5 MG Oral Tablet [Qtern]",
+              "synonym": "Qtern (dapagliflozin 10 MG / saxagliptin 5 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2169276",
+              "name": "dapagliflozin 5 MG / saxagliptin 5 MG Oral Tablet [Qtern]",
+              "synonym": "",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "858040",
+              "name": "saxagliptin 5 MG Oral Tablet [Onglyza]",
+              "synonym": "Onglyza (as saxagliptin hydrochloride 5.58 MG) 5 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "858044",
+              "name": "saxagliptin 2.5 MG Oral Tablet [Onglyza]",
+              "synonym": "Onglyza 2.5 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1043563",
+              "name": "24 HR metformin hydrochloride 1000 MG / saxagliptin 2.5 MG Extended Release Oral Tablet",
+              "synonym": "metformin hydrochloride 1000 MG / saxagliptin (as saxagliptin hydrochloride) 2.5 MG 24 HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1043570",
+              "name": "24 HR metformin hydrochloride 1000 MG / saxagliptin 5 MG Extended Release Oral Tablet",
+              "synonym": "metformin hydrochloride 1000 MG / saxagliptin (as saxagliptin hydrochloride) 5 MG 24 HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1043578",
+              "name": "24 HR metformin hydrochloride 500 MG / saxagliptin 5 MG Extended Release Oral Tablet",
+              "synonym": "metformin hydrochloride 500 MG / saxagliptin (as saxagliptin hydrochloride) 5 MG 24 HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1925498",
+              "name": "dapagliflozin 10 MG / saxagliptin 5 MG Oral Tablet",
+              "synonym": "dapagliflozin 10 MG (as dapagliflozin propanediol 12.3 MG) / saxagliptin 5 MG (as saxagliptin HCl 5.95 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2169274",
+              "name": "dapagliflozin 5 MG / saxagliptin 5 MG Oral Tablet",
+              "synonym": "dapagliflozin 5 MG (as dapagliflozin propanediol 6.15 MG) / saxagliptin 5 MG (as saxagliptin HCl) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "858036",
+              "name": "saxagliptin 5 MG Oral Tablet",
+              "synonym": "saxagliptin 5 MG (as saxagliptin HCl, anhydrous 5.58 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "858042",
+              "name": "saxagliptin 2.5 MG Oral Tablet",
+              "synonym": "saxagliptin 2.5 MG (as saxagliptin HCl, anhydrous 2.79 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:18:48.706583",
+  "source": "RxNorm"
+}

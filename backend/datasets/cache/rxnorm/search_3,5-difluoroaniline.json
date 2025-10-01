@@ -1,0 +1,10 @@
+{
+  "query": "3,5-Difluoroaniline",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:32:49.704955",
+  "source": "RxNorm"
+}

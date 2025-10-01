@@ -1,0 +1,10 @@
+{
+  "query": "(3,4,8b-Trimethyl-3-oxido-2,3a-dihydro-1H-pyrrolo[2,3-b]indol-3-ium-7-yl) N-(2-ethylphenyl)carbamate",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:50:19.562783",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Iodofiltic acid I-123",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:03:37.753729",
+  "source": "RxNorm"
+}

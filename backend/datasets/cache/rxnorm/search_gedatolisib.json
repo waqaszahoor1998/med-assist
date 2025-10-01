@@ -1,0 +1,10 @@
+{
+  "query": "Gedatolisib",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:26:33.376581",
+  "source": "RxNorm"
+}

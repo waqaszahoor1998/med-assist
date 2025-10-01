@@ -1,0 +1,10 @@
+{
+  "query": "Lavoltidine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:21:53.934232",
+  "source": "RxNorm"
+}

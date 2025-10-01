@@ -1,0 +1,53 @@
+{
+  "query": "Daclatasvir",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD"
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1660185",
+              "name": "daclatasvir 30 MG Oral Tablet",
+              "synonym": "daclatasvir (as daclatasvir dihydrochloride 33 mg) 30 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1660194",
+              "name": "daclatasvir 60 MG Oral Tablet",
+              "synonym": "daclatasvir 60 MG (as daclatasvir dihydrochloride 66 mg) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1793882",
+              "name": "daclatasvir 90 MG Oral Tablet",
+              "synonym": "daclatasvir 90 MG (as daclatasvir dihydrochloride 99 mg) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:20:46.252074",
+  "source": "RxNorm"
+}

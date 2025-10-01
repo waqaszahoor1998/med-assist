@@ -1,0 +1,23 @@
+{
+  "drug_name": "Nitrite",
+  "generic_name": [
+    "AMYL NITRITE"
+  ],
+  "brand_names": [
+    "Amyl nitrosum"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    ""
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    "Adults and children: At the onset of symptoms, dissolve 5 pellets under the tongue 3 times a day until symptoms are relieved or as directed by a doctor."
+  ],
+  "indications": [
+    "Uses: See symptoms on front panel. Relieves hot flash followed by cold sweats *"
+  ],
+  "fetched_at": "2025-10-01T19:04:16.513251",
+  "source": "OpenFDA"
+}

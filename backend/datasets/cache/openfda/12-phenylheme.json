@@ -1,0 +1,39 @@
+{
+  "drug_name": "12-Phenylheme",
+  "generic_name": [
+    "PHYSICIANS EZ USE B-12 COMPLIANCE"
+  ],
+  "brand_names": [
+    "Physicians EZ Use B-12 Compliance"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    "Warnings For external use only Flammable - keep away from fire or flame Do not use with electrocautery procedures When using this product do not get into eyes apply over large areas of the body in case of deep or puncture wounds, animal bites or serious burns consult a doctor Stop use and ask a doctor if condition persists or gets worse or lasts for more than 72 hours do not use longer than 1 week unless directed by a doctor Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.",
+    "WARNINGS WARNING: This product contains aluminum that may be toxic. Aluminum may reach toxic levels with prolonged parenteral administration if kidney function is impaired. Premature neonates are particularly at risk because their kidneys are immature, and they require large amounts of calcium and phosphate solutions, which contain aluminum. Research indicates that patients with impaired kidney function, including premature neonates, who receive parenteral levels of aluminum at greater than 4 to 5 mcg/kg/day accumulate aluminum at levels associated with central nervous system and bone toxicity. Tissue loading may occur at even lower rates of administration. Patients with early Leber\u2019s disease (hereditary optic nerve atrophy) who were treated with cyanocobalamin suffered severe and swift optic atrophy. Hypokalemia and sudden death may occur in severe megaloblastic anemia which is treated intensely. Anaphylactic shock and death have been reported after parenteral Vitamin B 12 administration. An intradermal test dose is recommended before cyanocobalamin injection is administered to patients suspected of being sensitive to this drug. This product contains benzyl alcohol. Benzyl alcohol has been reported to be associated with a fatal \u2018\u2018Gasping Syndrome\u2019\u2019 in premature infants."
+  ],
+  "adverse_reactions": [
+    "ADVERSE REACTIONS Generalized Anaphylactic shock and death have been reported with administration of parenteral Vitamin B 12 (see WARNINGS ). Cardiovascular Pulmonary edema and congestive heart failure early in treatment; peripheral vascular thrombosis. Hematological Polycythemia vera. Gastrointestinal Mild transient diarrhea. Dermatological Itching; transitory exanthema. Miscellaneous Feeling of swelling of entire body.",
+    "Generalized Anaphylactic shock and death have been reported with administration of parenteral Vitamin B 12 (see WARNINGS ).",
+    "Cardiovascular Pulmonary edema and congestive heart failure early in treatment; peripheral vascular thrombosis.",
+    "Hematological Polycythemia vera.",
+    "Gastrointestinal Mild transient diarrhea.",
+    "Dermatological Itching; transitory exanthema.",
+    "Miscellaneous Feeling of swelling of entire body."
+  ],
+  "contraindications": [
+    "CONTRAINDICATIONS Sensitivity to cobalt and/or Vitamin B 12 is a contraindication."
+  ],
+  "dosage_administration": [
+    "Directions apply to skin as needed discard after single use",
+    "DOSAGE AND ADMINISTRATION Avoid using the intravenous route. Use of this product intravenously will result in almost all of the vitamin being lost in the urine. Pernicious Anemia Parenteral Vitamin B 12 is the recommended treatment and will be required for the remainder of the patient\u2019s life. The oral form is not dependable. A dose of 100 mcg daily for six or seven days should be administered by intramuscular or deep subcutaneous injection. If there is clinical improvement and if a reticulocyte response is observed, the same amount may be given on alternate days for seven doses, then every three to four days for another two to three weeks. By this time hematologic values should have become normal. This regimen should be followed by 100 mcg monthly for life. Folic acid should be administered concomitantly if needed. Patients With Normal Intestinal Absorption Where the oral route is not deemed adequate, initial treatment similar to that for patients with pernicious anemia may be indicated depending on the severity of the deficiency. Chronic treatment should be with an oral B 12 preparation. If other vitamin deficiencies are present, they should be treated. Schilling test The flushing dose is 1000 mcg. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.",
+    "Pernicious Anemia Parenteral Vitamin B 12 is the recommended treatment and will be required for the remainder of the patient\u2019s life. The oral form is not dependable. A dose of 100 mcg daily for six or seven days should be administered by intramuscular or deep subcutaneous injection. If there is clinical improvement and if a reticulocyte response is observed, the same amount may be given on alternate days for seven doses, then every three to four days for another two to three weeks. By this time hematologic values should have become normal. This regimen should be followed by 100 mcg monthly for life. Folic acid should be administered concomitantly if needed.",
+    "Patients With Normal Intestinal Absorption Where the oral route is not deemed adequate, initial treatment similar to that for patients with pernicious anemia may be indicated depending on the severity of the deficiency. Chronic treatment should be with an oral B 12 preparation. If other vitamin deficiencies are present, they should be treated.",
+    "Schilling test The flushing dose is 1000 mcg. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit."
+  ],
+  "indications": [
+    "Uses For first aid to decrease germs in minor cuts scrapes burns For preparation of the skin prior to injection",
+    "INDICATIONS AND USAGE Cyanocobalamin is indicated for Vitamin B 12 deficiencies due to malabsorption which may be associated with the following conditions: Addisonian (pernicious) anemia Gastrointestinal pathology, dysfunction, or surgery, including gluten enteropathy or sprue, small bowel bacterial overgrowth, total or partial gastrectomy Fish tapeworm infestation Malignancy of pancreas or bowel Folic acid deficiency It may be possible to treat the underlying disease by surgical correction of anatomic lesions leading to small bowel bacterial overgrowth, expulsion of fish tapeworm, discontinuation of drugs leading to vitamin malabsorption (see Drug/Laboratory Test Interactions ), use of a gluten-free diet in nontropical sprue, or administration of antibiotics in tropical sprue. Such measures remove the need for long-term administration of cyanocobalamin. Requirements of Vitamin B 12 in excess of normal (due to pregnancy, thyrotoxicosis, hemolytic anemia, hemorrhage, malignancy, hepatic and renal disease) can usually be met with oral supplementation. Cyanocobalamin injection is also suitable for the Vitamin B 12 absorption test (Schilling test)."
+  ],
+  "fetched_at": "2025-10-01T02:58:43.532414",
+  "source": "OpenFDA"
+}

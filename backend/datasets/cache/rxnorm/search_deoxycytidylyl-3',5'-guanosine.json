@@ -1,0 +1,10 @@
+{
+  "query": "Deoxycytidylyl-3',5'-guanosine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:37:20.699088",
+  "source": "RxNorm"
+}

@@ -1,0 +1,16 @@
+{
+  "rxcui": "208094",
+  "properties": {
+    "properties": {
+      "rxcui": "208094",
+      "name": "sucralfate 100 MG/ML Oral Suspension [Carafate]",
+      "synonym": "Carafate 100 MG/ML Oral Suspension",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T21:10:35.715177",
+  "source": "RxNorm"
+}

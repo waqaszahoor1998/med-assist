@@ -1,0 +1,29 @@
+{
+  "drug_name": "Hyoscyamine",
+  "generic_name": [
+    "HYOSCYAMINE SULFATE"
+  ],
+  "brand_names": [
+    "Hyoscyamine ER"
+  ],
+  "drug_interactions": [
+    "Drug Interactions Additive adverse effects resulting from cholinergic blockade may occur when hyoscyamine sulfate is administered concomitantly with other antimuscarinics, amantadine, haloperidol, phenothiazines, monoamine oxidase (MAO) inhibitors, tricyclic antidepressants or some antihistamines. Antacids may interfere with the absorption of hyoscyamine sulfate."
+  ],
+  "warnings": [
+    "WARNINGS In the presence of high environmental temperature, heat prostration can occur with drug use (fever and heat stroke due to decreased sweating). Diarrhea may be an early symptom of incomplete intestinal obstruction, especially in patients with ileostomy or colostomy. In this instance, treatment with this drug would be inappropriate and possibly harmful. Like other anticholinergic agents, hyoscyamine sulfate may produce drowsiness, dizziness, or blurred vision. In this event, the patient should be warned not to engage in activities requiring mental alertness such as operating a motor vehicle or other machinery or to perform hazardous work while taking this drug. Psychosis has been reported in sensitive individuals given anticholinergic drugs including hyoscyamine sulfate. CNS signs and symptoms include confusion, disorientation, short-term memory loss, hallucinations, dysarthria, ataxia, euphoria, anxiety, fatigue, insomnia, agitation and mannerisms, and inappropriate affect. These CNS signs and symptoms usually resolve within 12 to 48 hours after discontinuation of the drug."
+  ],
+  "adverse_reactions": [
+    "ADVERSE REACTIONS All of the following adverse reactions have been reported with hyoscyamine sulfate. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating."
+  ],
+  "contraindications": [
+    "CONTRAINDICATIONS Glaucoma; obstructive uropathy (for example, bladder neck obstruction due to prostatic hypertrophy); obstructive disease of the gastrointestinal tract (as in achalasia, pyloroduodenal stenosis); paralytic ileus, intestinal atony of elderly or debilitated patients; unstable cardiovascular status in acute hemorrhage; severe ulcerative colitis; toxic megacolon complicating ulcerative colitis; myasthenia gravis."
+  ],
+  "dosage_administration": [
+    "DOSAGE AND ADMINISTRATION Dosage may be adjusted according to the conditions and severity of symptoms. Adults And Pediatric Patients 12 Years Of Age And Older 1 to 2 tablets every 12 hours. Do not crush or chew tablets. Do not exceed 4 tablets in 24 hours."
+  ],
+  "indications": [
+    "INDICATIONS AND USAGE Hyoscyamine sulfate extended-release tablets are effective as adjunctive therapy in the treatment of peptic ulcer. They can also be used to control gastric secretion, visceral spasm and hypermotility in spastic colitis, spastic bladder, cystitis, pylorospasm, and associated abdominal cramps. May be used in functional intestinal disorders to reduce symptoms such as those seen in mild dysenteries, diverticulitis, and acute enterocolitis. For use as adjunctive therapy in the treatment of irritable bowel syndrome (irritable colon, spastic colon, mucous colitis) and functional gastrointestinal disorders. Also used as adjunctive therapy in the treatment of neurogenic bladder andmneurogenic bowel disturbances (including the splenic flexure syndrome and neurogenic colon). Hyoscyamine sulfate extended-release tablets are indicated along with morphine or other narcotics in symptomatic relief of biliary and renal colic; as a \u201cdrying agent\u201d in the relief of symptoms of acute rhinitis; in the therapy of parkinsonism to reduce rigidity and tremors and to control associated sialorrhea and hyperhidrosis. May be used in the therapy of poisoning by anticholinesterase agents."
+  ],
+  "fetched_at": "2025-09-30T21:12:35.354961",
+  "source": "OpenFDA"
+}

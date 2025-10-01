@@ -1,0 +1,10 @@
+{
+  "query": "Picoplatin",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:45:43.945572",
+  "source": "RxNorm"
+}

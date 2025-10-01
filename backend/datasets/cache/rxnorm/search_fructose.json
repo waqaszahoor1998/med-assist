@@ -1,0 +1,64 @@
+{
+  "query": "Fructose",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "809602",
+              "name": "fructose 374 MG/ML / glucose 374 MG/ML / phosphoric acid 4.3 MG/ML Oral Solution [Emetrol]",
+              "synonym": "Emetrol (sucrose 3.74 GM / phosphoric acid 21.5 MG) per 5 ML Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1049306",
+              "name": "fructose 175 MG / glucose 968 MG / sodium citrate 230 MG Chewable Tablet",
+              "synonym": "dextrose 968 MG / fructose 175 MG / trisodium citrate dihydrate 230 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "244127",
+              "name": "fructose 100 MG/ML Injectable Solution",
+              "synonym": "fructose 10 % Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "318146",
+              "name": "fructose 374 MG/ML / glucose 374 MG/ML / phosphoric acid 4.3 MG/ML Oral Solution",
+              "synonym": "dextrose 1.87 GM / fructose 1.87 GM / phosphoric acid 21.5 MG per 5 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T06:52:25.384934",
+  "source": "RxNorm"
+}

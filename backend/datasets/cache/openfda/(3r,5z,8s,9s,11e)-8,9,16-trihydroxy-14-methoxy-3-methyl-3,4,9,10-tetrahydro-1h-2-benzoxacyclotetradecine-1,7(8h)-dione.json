@@ -1,0 +1,23 @@
+{
+  "drug_name": "(3R,5Z,8S,9S,11E)-8,9,16-TRIHYDROXY-14-METHOXY-3-METHYL-3,4,9,10-TETRAHYDRO-1H-2-BENZOXACYCLOTETRADECINE-1,7(8H)-DIONE",
+  "generic_name": [
+    "8H MOISTURIZATION HAND SANITIZER"
+  ],
+  "brand_names": [
+    "Baby Dove"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    "Warnings For external use only Flammable. Keep away from fire or flame, Do not store in car. Avoid contact with eyes, in case of contact, rinse eyes thoroughly with water immediately. If irritation develps, discontinue use and consult a doctor."
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    "Directions \u2022 Not recommended for use on infants (younger than 12 months). \u2022 Children under 6 years of age should be supervised when using this product. \u2022 Place enough product in your palm to thoroughly cover your hands and rub hands togeter briskly until dry. \u2022 for babies 1 year*, rub their hands in yours and do not let them touch their eyes right after rubbing \u2022 Allow to dry without wiping or rinsing"
+  ],
+  "indications": [
+    "Uses Hand sanitizer to help reduce bacteria on the skin"
+  ],
+  "fetched_at": "2025-10-01T16:49:50.325741",
+  "source": "OpenFDA"
+}

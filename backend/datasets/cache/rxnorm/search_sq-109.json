@@ -1,0 +1,10 @@
+{
+  "query": "SQ-109",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:53:57.940503",
+  "source": "RxNorm"
+}

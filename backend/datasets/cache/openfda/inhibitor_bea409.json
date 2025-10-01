@@ -1,0 +1,24 @@
+{
+  "drug_name": "Inhibitor BEA409",
+  "generic_name": [
+    "TELOMERASE INHIBITOR"
+  ],
+  "brand_names": [
+    "K2LTS Telomerase Inhibitor"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    "Warnings This product should not be used in combination with antibiotics;",
+    "When Using Precautions: Combined use with other drugs or increased exposure to this product may result in clinically significant adverse reactions. Combined use with other drugs may significantly decrease the concentration of this product, leading to decreased therapeutic effect of the drug combination."
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    "Directions Usage: Twist off the bottle cap and take it directly; Take it twice a day; Do not overdose."
+  ],
+  "indications": [
+    "Use Product Benefits: This product can inhibit the activity of telomerase, thus preventing the proliferation and growth of tumor cells;"
+  ],
+  "fetched_at": "2025-10-01T15:30:40.142383",
+  "source": "OpenFDA"
+}

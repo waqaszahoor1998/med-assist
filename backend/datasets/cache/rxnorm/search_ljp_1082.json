@@ -1,0 +1,10 @@
+{
+  "query": "LJP 1082",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:58:46.476215",
+  "source": "RxNorm"
+}

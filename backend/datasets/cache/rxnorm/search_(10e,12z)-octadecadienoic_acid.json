@@ -1,0 +1,10 @@
+{
+  "query": "(10E,12Z)-octadecadienoic acid",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:39:29.722298",
+  "source": "RxNorm"
+}

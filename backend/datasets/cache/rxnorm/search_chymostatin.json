@@ -1,0 +1,10 @@
+{
+  "query": "Chymostatin",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T00:48:35.134133",
+  "source": "RxNorm"
+}

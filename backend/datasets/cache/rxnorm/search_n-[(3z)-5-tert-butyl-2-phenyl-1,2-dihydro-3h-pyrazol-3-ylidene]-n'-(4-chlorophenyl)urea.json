@@ -1,0 +1,10 @@
+{
+  "query": "N-[(3Z)-5-Tert-butyl-2-phenyl-1,2-dihydro-3H-pyrazol-3-ylidene]-N'-(4-chlorophenyl)urea",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:30:52.917272",
+  "source": "RxNorm"
+}

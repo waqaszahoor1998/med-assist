@@ -1,0 +1,16 @@
+{
+  "rxcui": "1101773",
+  "properties": {
+    "properties": {
+      "rxcui": "1101773",
+      "name": "docetaxel 24 MG/ML Injectable Solution [Docefrez]",
+      "synonym": "Docefrez 24 MG/ML Injectable Solution",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T22:34:26.734771",
+  "source": "RxNorm"
+}

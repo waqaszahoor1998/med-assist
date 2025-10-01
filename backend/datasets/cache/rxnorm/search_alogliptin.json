@@ -1,0 +1,226 @@
+{
+  "query": "Alogliptin",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1368012",
+              "name": "alogliptin 25 MG Oral Tablet [Nesina]",
+              "synonym": "Nesina 25 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1368020",
+              "name": "alogliptin 6.25 MG Oral Tablet [Nesina]",
+              "synonym": "Nesina 6.25 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1368036",
+              "name": "alogliptin 12.5 MG Oral Tablet [Nesina]",
+              "synonym": "Nesina 12.5 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1368391",
+              "name": "alogliptin 12.5 MG / metformin hydrochloride 1000 MG Oral Tablet [Kazano]",
+              "synonym": "Kazano 12.5/1000 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1368398",
+              "name": "alogliptin 12.5 MG / metformin hydrochloride 500 MG Oral Tablet [Kazano]",
+              "synonym": "Kazano 12.5/500 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1368409",
+              "name": "alogliptin 12.5 MG / pioglitazone 15 MG Oral Tablet [Oseni]",
+              "synonym": "Oseni 12.5/15 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1368416",
+              "name": "alogliptin 12.5 MG / pioglitazone 30 MG Oral Tablet [Oseni]",
+              "synonym": "Oseni 12.5/30 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1368423",
+              "name": "alogliptin 12.5 MG / pioglitazone 45 MG Oral Tablet [Oseni]",
+              "synonym": "Oseni 12.5/45 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1368430",
+              "name": "alogliptin 25 MG / pioglitazone 15 MG Oral Tablet [Oseni]",
+              "synonym": "Oseni 25/15 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1368437",
+              "name": "alogliptin 25 MG / pioglitazone 30 MG Oral Tablet [Oseni]",
+              "synonym": "Oseni 25/30 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1368444",
+              "name": "alogliptin 25 MG / pioglitazone 45 MG Oral Tablet [Oseni]",
+              "synonym": "Oseni 25/45 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1368006",
+              "name": "alogliptin 25 MG Oral Tablet",
+              "synonym": "alogliptin 25 MG (as alogliptin benzoate 34 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1368018",
+              "name": "alogliptin 6.25 MG Oral Tablet",
+              "synonym": "alogliptin 6.25 MG (as alogliptin benzoate 8.5 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1368034",
+              "name": "alogliptin 12.5 MG Oral Tablet",
+              "synonym": "alogliptin 12.5 MG (as alogliptin benzoate 17 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1368385",
+              "name": "alogliptin 12.5 MG / metformin hydrochloride 1000 MG Oral Tablet",
+              "synonym": "alogliptin 12.5 MG (as alogliptin benzoate 17 MG) / metformin hydrochloride 1000 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1368392",
+              "name": "alogliptin 12.5 MG / metformin hydrochloride 500 MG Oral Tablet",
+              "synonym": "alogliptin 12.5 MG (as alogliptin benzoate 17 MG / metformin hydrochloride 500 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1368403",
+              "name": "alogliptin 12.5 MG / pioglitazone 15 MG Oral Tablet",
+              "synonym": "alogliptin 12.5 MG (as alogliptin benzoate 17 MG) / pioglitazone 15 MG (as pioglitazone hydrochloride 16.53 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1368410",
+              "name": "alogliptin 12.5 MG / pioglitazone 30 MG Oral Tablet",
+              "synonym": "alogliptin 12.5 MG (as alogliptin benzoate 17 MG) / pioglitazone 30 MG (as pioglitazone hydrochloride 33.06 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1368417",
+              "name": "alogliptin 12.5 MG / pioglitazone 45 MG Oral Tablet",
+              "synonym": "alogliptin 12.5 MG (as alogliptin benzoate 17 MG) / pioglitazone 45 MG (as pioglitazone hydrochloride 49.59 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1368424",
+              "name": "alogliptin 25 MG / pioglitazone 15 MG Oral Tablet",
+              "synonym": "alogliptin 25 MG (as alogliptin benzoate 34 MG) / pioglitazone 15 MG (as pioglitazone hydrochloride 16.53 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1368431",
+              "name": "alogliptin 25 MG / pioglitazone 30 MG Oral Tablet",
+              "synonym": "alogliptin 25 MG (as alogliptin benzoate 34 MG) / pioglitazone 30 MG (as pioglitazone hydrochloride 33.06 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1368438",
+              "name": "alogliptin 25 MG / pioglitazone 45 MG Oral Tablet",
+              "synonym": "alogliptin 25 MG (as alogliptin benzoate 34 MG) / pioglitazone 45 MG (as pioglitazone hydrochloride 49.59 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:13:15.079977",
+  "source": "RxNorm"
+}

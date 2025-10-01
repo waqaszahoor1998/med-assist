@@ -1,0 +1,64 @@
+{
+  "query": "Safinamide",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1922472",
+              "name": "safinamide 50 MG Oral Tablet [Xadago]",
+              "synonym": "Xadago 50 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1922476",
+              "name": "safinamide 100 MG Oral Tablet [Xadago]",
+              "synonym": "Xadago 100 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1922466",
+              "name": "safinamide 50 MG Oral Tablet",
+              "synonym": "safinamide 50 MG (as safinamide mesylate 65.88 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1922474",
+              "name": "safinamide 100 MG Oral Tablet",
+              "synonym": "safinamide 100 MG (as safinamide mesylate 131.76 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:29:18.505624",
+  "source": "RxNorm"
+}

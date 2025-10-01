@@ -1,0 +1,10 @@
+{
+  "query": "(3R,4R,5S,6R)-6-Fluoro-3,4,5-trihydroxytetrahydro-2H-pyran-2-olate",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:48:46.911547",
+  "source": "RxNorm"
+}

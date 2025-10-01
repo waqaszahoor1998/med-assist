@@ -1,0 +1,10 @@
+{
+  "query": "N-Methyl-4-{[(2-oxo-1,2-dihydro-3H-indol-3-ylidene)methyl]amino}benzenesulfonamide",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:53:09.654579",
+  "source": "RxNorm"
+}

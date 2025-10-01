@@ -1,0 +1,10 @@
+{
+  "query": "Human blood group H type 1 trisaccharide",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:36:10.617468",
+  "source": "RxNorm"
+}

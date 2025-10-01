@@ -1,0 +1,10 @@
+{
+  "query": "3,6-Anhydro-2-(hydrogen sulfate)-alpha-D-galactopyranose",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:38:06.592306",
+  "source": "RxNorm"
+}

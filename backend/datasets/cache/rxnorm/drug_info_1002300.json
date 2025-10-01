@@ -1,0 +1,16 @@
+{
+  "rxcui": "1002300",
+  "properties": {
+    "properties": {
+      "rxcui": "1002300",
+      "name": "nilotinib 150 MG Oral Capsule [Tasigna]",
+      "synonym": "Tasigna 150 MG Oral Capsule",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T15:45:18.345225",
+  "source": "RxNorm"
+}

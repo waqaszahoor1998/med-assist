@@ -1,0 +1,10 @@
+{
+  "query": "(1R,2S)-2-Phenylcyclopropanaminium",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:06:35.021281",
+  "source": "RxNorm"
+}

@@ -1,0 +1,89 @@
+{
+  "query": "Xylometazoline",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD"
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1363493",
+              "name": "xylometazoline hydrochloride 1 MG/ML Nasal Spray",
+              "synonym": "xylometazoline HCl 0.1 % Nasal Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1549367",
+              "name": "xylometazoline hydrochloride 0.5 MG/ML Nasal Solution",
+              "synonym": "xylometazoline hydrochloride 0.05 % Nasal Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1549372",
+              "name": "xylometazoline hydrochloride 1 MG/ML Nasal Solution",
+              "synonym": "xylometazoline hydrochloride 0.1 % Nasal Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "248480",
+              "name": "antazoline 5 MG/ML / xylometazoline 0.5 MG/ML Ophthalmic Solution",
+              "synonym": "antazoline 0.5 % / xylometazoline 0.05 % Ophthalmic Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "387790",
+              "name": "xylometazoline 0.5 MG/ML Nasal Spray",
+              "synonym": "xylometazoline 0.05 % Nasal Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "648274",
+              "name": "xylometazoline 344 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "830585",
+              "name": "cromolyn sodium 20 MG/ML / xylometazoline 0.25 MG/ML Nasal Spray",
+              "synonym": "cromolyn sodium 2 % / xylometazoline HCl 0.025 % Nasal Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:31:01.947373",
+  "source": "RxNorm"
+}

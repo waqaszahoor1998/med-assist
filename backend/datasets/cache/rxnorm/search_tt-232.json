@@ -1,0 +1,10 @@
+{
+  "query": "TT-232",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:38:00.764013",
+  "source": "RxNorm"
+}

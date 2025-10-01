@@ -1,0 +1,10 @@
+{
+  "query": "Vipadenant",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:28:08.748352",
+  "source": "RxNorm"
+}

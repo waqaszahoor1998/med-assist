@@ -1,0 +1,190 @@
+{
+  "query": "Firocoxib",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1804380",
+              "name": "firocoxib 57 MG Chewable Tablet [Equioxx]",
+              "synonym": "Equioxx 57 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2621220",
+              "name": "firocoxib 57 MG Chewable Tablet [Firox]",
+              "synonym": "Firox 57 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2621222",
+              "name": "firocoxib 227 MG Chewable Tablet [Firox]",
+              "synonym": "Firox 227 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2629313",
+              "name": "firocoxib 227 MG Chewable Tablet [Flexira]",
+              "synonym": "Flexira 227 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2629315",
+              "name": "firocoxib 57 MG Chewable Tablet [Flexira]",
+              "synonym": "Flexira 57 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2634011",
+              "name": "firocoxib 227 MG Chewable Tablet [Osticoxib]",
+              "synonym": "Osticoxib 227 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2634013",
+              "name": "firocoxib 57 MG Chewable Tablet [Osticoxib]",
+              "synonym": "Osticoxib 57 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2669464",
+              "name": "firocoxib 227 MG Chewable Tablet [Firovet]",
+              "synonym": "Firovet 227 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2669466",
+              "name": "firocoxib 57 MG Chewable Tablet [Firovet]",
+              "synonym": "Firovet 57 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2675886",
+              "name": "firocoxib 9 MG/ML Oral Solution [Equicoxib]",
+              "synonym": "Equicoxib 9 MG/ML Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "880381",
+              "name": "firocoxib 227 MG Chewable Tablet [Previcox]",
+              "synonym": "Previcox 227 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "892788",
+              "name": "firocoxib 57 MG Chewable Tablet [Previcox]",
+              "synonym": "Previcox 57 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "994494",
+              "name": "firocoxib 0.0082 MG/MG Oral Paste [Equioxx]",
+              "synonym": "Equioxx 8.2 MG/GM Oral Paste",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2609899",
+              "name": "firocoxib 57 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2675880",
+              "name": "firocoxib 9 MG/ML Oral Solution",
+              "synonym": "firocoxib 9 MG/ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "880377",
+              "name": "firocoxib 227 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "892786",
+              "name": "firocoxib 57 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "994490",
+              "name": "firocoxib 0.0082 MG/MG Oral Paste",
+              "synonym": "firocoxib 8.2 MG/GM Oral Paste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:27:52.478167",
+  "source": "RxNorm"
+}

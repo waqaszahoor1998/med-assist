@@ -1,0 +1,10 @@
+{
+  "query": "N-[3-(aminomethyl)benzyl]acetamidine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:40:53.856699",
+  "source": "RxNorm"
+}

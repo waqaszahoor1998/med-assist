@@ -1,0 +1,91 @@
+{
+  "query": "Tranexamic acid",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "208104",
+              "name": "10 ML tranexamic acid 100 MG/ML Injection [Cyklokapron]",
+              "synonym": "Cyklokapron 1000 MG per 10 ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "883830",
+              "name": "tranexamic acid 650 MG Oral Tablet [Lysteda]",
+              "synonym": "Lysteda 650 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "104481",
+              "name": "tranexamic acid 500 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2170286",
+              "name": "100 ML tranexamic acid 10 MG/ML Injection",
+              "synonym": "tranexamic acid 1000 MG in 100 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "238720",
+              "name": "10 ML tranexamic acid 100 MG/ML Injection",
+              "synonym": "tranexamic acid 1000 MG per 10 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2672350",
+              "name": "azelaic acid 50 MG/ML / tranexamic acid 10 MG/ML Topical Cream",
+              "synonym": "azelaic acid 5 % / tranexamic acid 1 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "883826",
+              "name": "tranexamic acid 650 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:06:01.854216",
+  "source": "RxNorm"
+}

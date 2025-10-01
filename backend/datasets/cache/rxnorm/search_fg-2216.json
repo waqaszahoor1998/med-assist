@@ -1,0 +1,10 @@
+{
+  "query": "FG-2216",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:58:22.152708",
+  "source": "RxNorm"
+}

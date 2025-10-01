@@ -1,0 +1,27 @@
+{
+  "drug_name": "Cycloserine",
+  "generic_name": [
+    "CYCLOSERINE"
+  ],
+  "brand_names": [
+    "Cycloserine"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    "WARNINGS Administration of cycloserine should be discontinued or the dosage reduced if the patient develops allergic dermatitis or symptoms of CNS toxicity, such as convulsions, psychosis, somnolence, depression, confusion, hyperreflexia, headache, tremor, vertigo paresis, or dysarthria. The toxicity of cycloserine is closely related to excessive blood levels (above 30 mcg/mL), as determined by high dosage or inadequate renal clearance. The ratio of toxic dose to effective dose in tuberculosis is small. The risk of convulsions is increased in chronic alcoholics. Patients should be monitored by hematologic, renal excretion, blood level, and liver function studies."
+  ],
+  "adverse_reactions": [
+    "ADVERSE REACTIONS Most adverse reactions occurring during therapy with cycloserine involve the nervous system or are manifestations of drug hypersensitivity. The following side effects have been observed in patients receiving cycloserine: Nervous system symptoms (which appear to be related to higher dosages of the drug, i.e., more than 500 mg daily) \u2022 Convulsions \u2022 Drowsiness and somnolence \u2022 Headache \u2022 Tremor \u2022 Dysarthria \u2022 Vertigo \u2022 Confusion and disorientation with loss of memory \u2022 Psychoses, possibly with suicidal tendencies \u2022 Character changes \u2022 Hyperirritability \u2022 Aggression \u2022 Paresis \u2022 Hyperreflexia \u2022 Paresthesia \u2022 Major & minor (localized) clonic seizures \u2022 Coma Cardiovascular: Sudden development of congestive heart failure in patients receiving 1 to 1.5 g of cycloserine daily has been reported. Allergy (apparently not related to dosage) Skin rash Miscellaneous: Elevated serum transaminase, especially in patients with preexisting liver disease To report SUSPECTED ADVERSE REACTIONS, contact Cerovene, Inc. at 1-833-304-9569 or FDA at 1\u2011800-FDA-1088 or www.fda.gov/medwatch."
+  ],
+  "contraindications": [
+    "CONTRAINDICATIONS Administration is contraindicated in patients with any of the following: \u2022 Hypersensitivity to cycloserine \u2022 Epilepsy \u2022 Depression, severe anxiety, or psychosis \u2022 Severe renal insufficiency \u2022 Excessive concurrent use of alcoho"
+  ],
+  "dosage_administration": [
+    "DOSAGE AND ADMINISTRATION Cycloserine is effective orally and is currently administered only by this route. The usual dosage is 500 mg to 1 g daily in divided doses monitored by blood levels. 1 The initial adult dosage most frequently given is 250 mg twice daily at 12-hour intervals for the first 2 weeks. A daily dosage of 1 g should not be exceeded."
+  ],
+  "indications": [
+    "INDICATIONS AND USAGE Cycloserine is indicated in the treatment of active pulmonary and extrapulmonary tuberculosis (including renal disease) when the causative organisms are susceptible to this drug and when treatment with the primary medications (streptomycin, isoniazid, rifampin, and ethambutol) has proved inadequate. Like all antituberculosis drugs, cycloserine should be administered in conjunction with other effective chemotherapy and not as the sole therapeutic agent. Cycloserine may be effective in the treatment of acute urinary tract infections caused by susceptible strains of gram-positive and gram- negative bacteria. Use of cycloserine in these infections should be considered only when more conventional therapy has failed and when the organism has been demonstrated to be susceptible to the drug"
+  ],
+  "fetched_at": "2025-09-30T21:03:19.451903",
+  "source": "OpenFDA"
+}

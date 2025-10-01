@@ -1,0 +1,82 @@
+{
+  "query": "Ivabradine",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1649491",
+              "name": "ivabradine 5 MG Oral Tablet [Corlanor]",
+              "synonym": "Corlanor 5 MG (as ivabradine HCl 5.39 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1649495",
+              "name": "ivabradine 7.5 MG Oral Tablet [Corlanor]",
+              "synonym": "Corlanor 7.5 MG (as ivabradine HCl 8.085 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2168596",
+              "name": "ivabradine 1 MG/ML Oral Solution [Corlanor]",
+              "synonym": "Corlanor 1 MG/ML Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1649485",
+              "name": "ivabradine 5 MG Oral Tablet",
+              "synonym": "ivabradine 5 MG (as ivabradine HCl 5.39 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1649493",
+              "name": "ivabradine 7.5 MG Oral Tablet",
+              "synonym": "ivabradine 7.5 MG (as ivabradine HCl 8.085 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2168592",
+              "name": "ivabradine 1 MG/ML Oral Solution",
+              "synonym": "ivabradine 5 MG per 5 ML (as ivabradine HCl 5.39 MG) Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:19:20.413609",
+  "source": "RxNorm"
+}

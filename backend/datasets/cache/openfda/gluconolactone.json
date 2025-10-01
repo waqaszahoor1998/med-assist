@@ -1,0 +1,27 @@
+{
+  "drug_name": "Gluconolactone",
+  "generic_name": [
+    "CITRIC ACID, GLUCONOLACTONE AND MAGNESIUM CARBONATE"
+  ],
+  "brand_names": [
+    "Renacidin"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    "WARNINGS Renacidin use should be stopped immediately if the patient develops fever, urinary tract infection, signs and symptoms consistent with urinary tract infection, or persistent flank pain. Irrigation should be stopped if elevated serum creatinine develops. The contents of individual Renacidin containers should not be combined for use as continuous irrigation of the urinary tract because of complications that may arise from inadequate aseptic technique. Terminal sterilization processes that are not adequate may result in sepsis and/or injury to product handlers (e.g., irritation to exposed, unprotected areas of the skin). Serious adverse reactions, including sepsis and hypermagnesemia, have been reported to occur when Renacidin was used for continuous irrigation of the upper urinary tract. Renacidin is not indicated for continuous irrigation of the upper urinary tract."
+  ],
+  "adverse_reactions": [
+    "ADVERSE REACTIONS The most common adverse reactions with use of Renacidin for dissolution of bladder calculi or prevention of encrustations of indwelling urethral catheters are \u201cbladder irritability\u201d and chemical cystitis, both reported to occur in approximately 3% of patients. A transient burning sensation in the bladder following Renacidin has been reported to occur in less than 1% of patients receiving Renacidin."
+  ],
+  "contraindications": [
+    "CONTRAINDICATIONS Renacidin is contraindicated in the presence of demonstrable urinary tract extravasation."
+  ],
+  "dosage_administration": [
+    "DOSAGE AND ADMINISTRATION Renacidin for local irrigation within the lower urinary tract is available in single-use 30 mL containers. Prepare and Administer the Dose: Step 1: Inspect Renacidin visually for particulate matter and discoloration prior to administration. If particulate matter or discoloration are observed, do not administer. Step 2: Remove the plastic tab connected to the conical tip of the Renacidin container by twisting the plastic tab. See Figure 1. Figure 1 Step 3: Connect the conical tip of the Renacidin container to the end of the urethral catheter or cystostomy tube. See Figure 2. Figure 2 Step 4: Squeeze the Renacidin container to expel the entire contents into the urethral catheter or cystostomy tube. See Figure 3. Figure 3 For Dissolution of Bladder Calculi: Instill 30 mL (one container) of Renacidin into the bladder via a urethral catheter or cystostomy tube. Clamp the urethral catheter or cystostomy tube for 30 to 60 minutes. Release the clamp and drain the bladder. Repeat the instillation procedure 4 to 6 times a day. Monitor for dissolution of calculi. For Prevention of Encrustations in Urethral Catheters and Cystostomy Tubes: Instill 30 mL (one container) of Renacidin into the urethral catheter or cystostomy tube. Clamp the urethral catheter or cystostomy tube for 10 minutes. Remove the clamp and drain the bladder. Repeat the instillation procedure 3 times a day. Figure 1 Figure 2 Figure 3"
+  ],
+  "indications": [
+    "INDICATIONS AND USAGE Renacidin is indicated for dissolution of bladder calculi of the struvite or apatite variety by local intermittent irrigation through a urethral catheter or cystostomy tube as an alternative or adjunct to surgical procedures. Renacidin is also indicated for use as an intermittent irrigating solution to prevent encrustations of indwelling urethral catheters and cystostomy tubes."
+  ],
+  "fetched_at": "2025-10-01T15:31:31.531142",
+  "source": "OpenFDA"
+}

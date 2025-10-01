@@ -1,0 +1,23 @@
+{
+  "drug_name": "E-6201",
+  "generic_name": [
+    "VITAMIN E AND KUKUI NUT OIL SOOTHING POST-SHAVE 48H ANTIPERSPIRANT DEODORANT"
+  ],
+  "brand_names": [
+    "Dove"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    "Warnings \u2022 For external use only. \u2022 Do not use on broken skin . \u2022 Ask a doctor before use if you have kidney disease. \u2022 Stop use if rash or irritation occurs."
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    "Directions apply to underarms only"
+  ],
+  "indications": [
+    "Uses reduces underarm wetness"
+  ],
+  "fetched_at": "2025-10-01T18:14:00.959822",
+  "source": "OpenFDA"
+}

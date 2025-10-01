@@ -1,0 +1,16 @@
+{
+  "rxcui": "207369",
+  "properties": {
+    "properties": {
+      "rxcui": "207369",
+      "name": "penicillamine 250 MG Oral Capsule [Cuprimine]",
+      "synonym": "Cuprimine 250 MG Oral Capsule",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T22:10:57.911694",
+  "source": "RxNorm"
+}

@@ -1,0 +1,46 @@
+{
+  "query": "Valrubicin",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "262063",
+              "name": "valrubicin 40 MG/ML Intravesical Solution [Valstar]",
+              "synonym": "Valstar 200 MG per 5 ML Intravesical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "313567",
+              "name": "valrubicin 40 MG/ML Intravesical Solution",
+              "synonym": "valrubicin 200 MG per 5 ML Intravesical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:11:18.315100",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "7,8-Dihydroneopterin",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:24:12.271854",
+  "source": "RxNorm"
+}

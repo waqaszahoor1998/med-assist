@@ -1,0 +1,10 @@
+{
+  "query": "TG-100801",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:52:06.896520",
+  "source": "RxNorm"
+}

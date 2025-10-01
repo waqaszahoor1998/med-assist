@@ -1,0 +1,136 @@
+{
+  "query": "Fenbendazole",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1667778",
+              "name": "fenbendazole 0.222 MG/MG Oral Granules [Safe-Guard]",
+              "synonym": "Safe-Guard 22.2 % Oral Granules",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1667780",
+              "name": "fenbendazole 0.222 MG/MG Oral Granules [Panacur]",
+              "synonym": "Panacur 22.2 % Oral Granules",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2712064",
+              "name": "fenbendazole 100 MG/ML Oral Suspension [Primacur]",
+              "synonym": "Primacur 10 % Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2716736",
+              "name": "fenbendazole 42.9 MG/ML / pyrantel 28.5 MG/ML Oral Suspension [GiarcidiaZap-Wormer]",
+              "synonym": "GiarCidia Zap-Wormer (fenbendazole 42.86 MG/ML / pyrantel 28.54 MG/ML) Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "993336",
+              "name": "fenbendazole 0.1 MG/MG Oral Paste [Panacur]",
+              "synonym": "Panacur 10 % Oral Paste",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "993348",
+              "name": "fenbendazole 0.1 MG/MG Oral Paste [Safe-Guard]",
+              "synonym": "Safe-Guard 10 % Oral Paste",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1667774",
+              "name": "fenbendazole 0.222 MG/MG Oral Granules",
+              "synonym": "fenbendazole 22.2 % Oral Granules",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2704951",
+              "name": "fenbendazole 444 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2704953",
+              "name": "fenbendazole 222 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2716730",
+              "name": "fenbendazole 42.9 MG/ML / pyrantel 28.5 MG/ML Oral Suspension",
+              "synonym": "fenbendazole 42.9 MG / pyrantel 28.5 MG per 1 mL Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "867451",
+              "name": "fenbendazole 100 MG/ML Oral Suspension",
+              "synonym": "fenbendazole 10 % Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "993334",
+              "name": "fenbendazole 0.1 MG/MG Oral Paste",
+              "synonym": "fenbendazole 10 % Oral Paste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:58:21.246177",
+  "source": "RxNorm"
+}

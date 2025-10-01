@@ -1,0 +1,100 @@
+{
+  "query": "Dronabinol",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1928954",
+              "name": "dronabinol 5 MG/ML Oral Solution [Syndros]",
+              "synonym": "Syndros 5 MG/ML Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "205641",
+              "name": "dronabinol 2.5 MG Oral Capsule [Marinol]",
+              "synonym": "Marinol 2.5 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "205642",
+              "name": "dronabinol 5 MG Oral Capsule [Marinol]",
+              "synonym": "Marinol 5 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "205645",
+              "name": "dronabinol 10 MG Oral Capsule [Marinol]",
+              "synonym": "Marinol 10 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1928948",
+              "name": "dronabinol 5 MG/ML Oral Solution",
+              "synonym": "dronabinol 5 MG/ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "197634",
+              "name": "dronabinol 10 MG Oral Capsule",
+              "synonym": "dronabinol 10 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "197635",
+              "name": "dronabinol 2.5 MG Oral Capsule",
+              "synonym": "dronabinol 2.5 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "197636",
+              "name": "dronabinol 5 MG Oral Capsule",
+              "synonym": "dronabinol 5 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:15:20.032631",
+  "source": "RxNorm"
+}

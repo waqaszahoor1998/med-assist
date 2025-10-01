@@ -1,0 +1,10 @@
+{
+  "query": "[3,5-Dibromo-4-(4-Hydroxy-3-Phenethylcarbamoyl-Phenoxy)-Phenyl]-Acetic Acid",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:43:18.785531",
+  "source": "RxNorm"
+}

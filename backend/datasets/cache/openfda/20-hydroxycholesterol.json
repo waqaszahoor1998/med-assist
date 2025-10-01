@@ -1,0 +1,23 @@
+{
+  "drug_name": "20-hydroxycholesterol",
+  "generic_name": [
+    "GLYCERIN 20%"
+  ],
+  "brand_names": [
+    "Hydro Gel"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    "Warning For External Use Only"
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    "Directions Apply liberally as often as necessary to cover affected areas. If gauze is used as a wound covering, moisten first. Children under 6 months: Consult a doctor before use"
+  ],
+  "indications": [
+    "Uses Temporarily protects and helps relieve minor skin irritation and itching of minor cuts, scrapes and burns Maintains a moist wound environment Ideal for managment of stasis ulcers, pressure ulcers (stages 1-4), first and second degree burns, cuts, post-operative incisions, and skin conditions associated with peristomal care."
+  ],
+  "fetched_at": "2025-10-01T15:37:29.455741",
+  "source": "OpenFDA"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "2-{2-[2-2-(Methoxy-Ethoxy)-Ethoxy]-Ethoxy}-Ethanol",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:19:26.915859",
+  "source": "RxNorm"
+}

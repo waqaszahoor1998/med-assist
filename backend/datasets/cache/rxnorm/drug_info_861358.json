@@ -1,0 +1,16 @@
+{
+  "rxcui": "861358",
+  "properties": {
+    "properties": {
+      "rxcui": "861358",
+      "name": "0.8 ML fondaparinux sodium 12.5 MG/ML Prefilled Syringe [Arixtra]",
+      "synonym": "Arixtra 10 MG per 0.8 ML Prefilled Syringe",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T21:21:26.059441",
+  "source": "RxNorm"
+}

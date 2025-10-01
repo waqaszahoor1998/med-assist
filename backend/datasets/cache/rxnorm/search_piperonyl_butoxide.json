@@ -1,0 +1,176 @@
+{
+  "query": "Piperonyl butoxide",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1049759",
+              "name": "{1 (60 ML) (benzalkonium chloride 1 MG/ML Topical Solution [Pronto Plus Lice Egg Remover]) / 1 (60 ML) (piperonyl butoxide 40 MG/ML / pyrethrins 3.3 MG/ML Medicated Shampoo [Pronto Plus]) } Pack [Pronto Plus Complete Lice Remover System]",
+              "synonym": "Pronto Plus Complete Lice Remover System",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1049756",
+              "name": "{1 (60 ML) (benzalkonium chloride 1 MG/ML Topical Solution) / 1 (60 ML) (piperonyl butoxide 40 MG/ML / pyrethrins 3.3 MG/ML Medicated Shampoo) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1988409",
+              "name": "piperonyl butoxide 40 MG/ML / pyrethrins 3.3 MG/ML Medicated Shampoo [Herklin]",
+              "synonym": "Herklin (piperonyl butoxide 4 % / pyrethrins 0.33 % ) Medicated Shampoo",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2058508",
+              "name": "piperonyl butoxide 0.035 MG/MG / pyrethrins 0.003 MG/MG Topical Gel [Vanalice]",
+              "synonym": "Vanalice (piperonyl butoxide 3.5 % / pyrethrins 0.03 % ) Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "210601",
+              "name": "piperonyl butoxide 30 MG/ML / pyrethrins 3 MG/ML Medicated Shampoo [Pronto]",
+              "synonym": "Pronto (piperonyl butoxide 3 % / pyrethrins 0.3 % ) Medicated Shampoo",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "210604",
+              "name": "piperonyl butoxide 30 MG/ML / pyrethrins 3 MG/ML Medicated Shampoo [Tegrin-LT Shampoo]",
+              "synonym": "Tegrin-LT Shampoo (piperonyl butoxide 3 % / pyrethrins 0.3 % ) Medicated Shampoo",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2599624",
+              "name": "piperonyl butoxide 30 MG/ML / pyrethrins 3 MG/ML Medicated Shampoo [Liceout]",
+              "synonym": "Liceout (piperonyl butoxide 3 % / pyrethrins 0.3 % ) Medicated Shampoo",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "729773",
+              "name": "piperonyl butoxide 40 MG/ML / pyrethrins 3.3 MG/ML Medicated Shampoo [Pronto Plus]",
+              "synonym": "Pronto Plus (piperonyl butoxide 4 % / pyrethrins 0.33 % ) Medicated Shampoo",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "864131",
+              "name": "piperonyl butoxide 40 MG/ML / pyrethrins 3.3 MG/ML Medicated Shampoo [RID]",
+              "synonym": "RID Pediculicide Medicated Shampoo",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1372905",
+              "name": "piperonyl butoxide 40 MG/ML / pyrethrins 3 MG/ML Medicated Shampoo",
+              "synonym": "piperonyl butoxide 4 % / pyrethrins 0.3 % Medicated Shampoo",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2058503",
+              "name": "piperonyl butoxide 0.035 MG/MG / pyrethrins 0.003 MG/MG Topical Gel",
+              "synonym": "piperonyl butoxide 3.5 % / pyrethrins 0.3 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "283217",
+              "name": "piperonyl butoxide 30 MG/ML / pyrethrins 3 MG/ML Medicated Shampoo",
+              "synonym": "piperonyl butoxide 3 % / pyrethrins 0.3 % Medicated Shampoo",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "283219",
+              "name": "piperonyl butoxide 40 MG/ML / pyrethrins 3.3 MG/ML Medicated Shampoo",
+              "synonym": "piperonyl butoxide 4 % / pyrethrins 0.33 % Medicated Shampoo",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "312454",
+              "name": "piperonyl butoxide 30 MG/ML / pyrethrins 3 MG/ML Topical Solution",
+              "synonym": "piperonyl butoxide 3 % / pyrethrins 0.3 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "312456",
+              "name": "piperonyl butoxide 40 MG/ML / pyrethrins 3 MG/ML Topical Solution",
+              "synonym": "piperonyl butoxide 4 % / pyrethrins 0.3 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "360079",
+              "name": "piperonyl butoxide 40 MG/ML / pyrethrins 3.3 MG/ML Topical Foam",
+              "synonym": "piperonyl butoxide 4 % / pyrethrins 0.33 % Topical Foam",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:35:23.406715",
+  "source": "RxNorm"
+}

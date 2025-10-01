@@ -1,0 +1,127 @@
+{
+  "query": "Phosphoric acid",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1014431",
+              "name": "alanine 7.1 MG/ML / arginine 9.5 MG/ML / cysteine 0.16 MG/ML / glycine 14 MG/ML / histidine 2.8 MG/ML / isoleucine 6.9 MG/ML / leucine 9.1 MG/ML / lysine 7.3 MG/ML / methionine 5.3 MG/ML / phenylalanine 5.6 MG/ML / phosphoric acid 1.2 MG/ML / proline 11.2 MG/ML / serine 5.9 MG/ML / sodium bisulfite 1 MG/ML / threonine 4 MG/ML / tryptophan 1.5 MG/ML / valine 6.6 MG/ML Injectable Solution [Freamine III 10]",
+              "synonym": "Freamine III 10 10 % Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "800933",
+              "name": "alanine 7.7 MG/ML / arginine 6 MG/ML / cysteine 0.2 MG/ML / glycine 9 MG/ML / histidine 2.4 MG/ML / isoleucine 9 MG/ML / leucine 11 MG/ML / lysine 6.1 MG/ML / methionine 1 MG/ML / phenylalanine 1 MG/ML / phosphoric acid 1.15 MG/ML / proline 8 MG/ML / serine 5 MG/ML / threonine 4.5 MG/ML / tryptophan 0.66 MG/ML / valine 8.4 MG/ML Injectable Solution [Hepatamine 8]",
+              "synonym": "Hepatamine 8 % Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "801417",
+              "name": "alanine 2.1 MG/ML / arginine 2.9 MG/ML / calcium acetate 0.003 MEQ/ML / cysteine 0.2 MG/ML / glycerin 30 MG/ML / glycine 4.2 MG/ML / histidine 0.85 MG/ML / isoleucine 2.1 MG/ML / leucine 2.7 MG/ML / lysine 3.1 MG/ML / magnesium acetate 0.008 MEQ/ML / methionine 1.6 MG/ML / phenylalanine 1.7 MG/ML / phosphoric acid 0.41 MG/ML / potassium chloride 0.02 MEQ/ML / proline 3.4 MG/ML / serine 1.8 MG/ML / sodium acetate 0.025 MEQ/ML / sodium chloride 0.014 MEQ/ML / threonine 1.2 MG/ML / tryptophan 0.46 MG/ML / valine 2 MG/ML Injectable Solution [ProcalAmine 3]",
+              "synonym": "ProcalAmine 3 % Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "809602",
+              "name": "fructose 374 MG/ML / glucose 374 MG/ML / phosphoric acid 4.3 MG/ML Oral Solution [Emetrol]",
+              "synonym": "Emetrol (sucrose 3.74 GM / phosphoric acid 21.5 MG) per 5 ML Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "847785",
+              "name": "alanine 4.48 MG/ML / arginine 3.43 MG/ML / glycine 4.48 MG/ML / histidine 1.05 MG/ML / isoleucine 2.52 MG/ML / leucine 3.29 MG/ML / lysine 2.52 MG/ML / magnesium acetate 0.003 MEQ/ML / methionine 1.4 MG/ML / phenylalanine 1.54 MG/ML / phosphoric acid 0.4 MG/ML / potassium acetate 0.01 MEQ/ML / proline 3 MG/ML / serine 1.47 MG/ML / sodium chloride 0.04 MEQ/ML / threonine 1.82 MG/ML / tryptophan 0.56 MG/ML / tyrosine 0.31 MG/ML / valine 2.8 MG/ML Injectable Solution [Aminosyn 3.5 % M, Sulfite Free]",
+              "synonym": "Aminosyn 3.5 % M, Sulfite Free Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1014427",
+              "name": "alanine 7.1 MG/ML / arginine 9.5 MG/ML / cysteine 0.16 MG/ML / glycine 14 MG/ML / histidine 2.8 MG/ML / isoleucine 6.9 MG/ML / leucine 9.1 MG/ML / lysine 7.3 MG/ML / methionine 5.3 MG/ML / phenylalanine 5.6 MG/ML / phosphoric acid 1.2 MG/ML / proline 11.2 MG/ML / serine 5.9 MG/ML / sodium bisulfite 1 MG/ML / threonine 4 MG/ML / tryptophan 1.5 MG/ML / valine 6.6 MG/ML Injectable Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1297381",
+              "name": "hydrofluoric acid 0.01 MG/MG / phosphoric acid 0.0112 MG/MG / sodium fluoride 0.018 MG/MG Oral Gel",
+              "synonym": "hydrofluoric acid 1 % / phosphoric acid 1.12 % / sodium fluoride 1.8 % Oral Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "318146",
+              "name": "fructose 374 MG/ML / glucose 374 MG/ML / phosphoric acid 4.3 MG/ML Oral Solution",
+              "synonym": "dextrose 1.87 GM / fructose 1.87 GM / phosphoric acid 21.5 MG per 5 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "800929",
+              "name": "alanine 7.7 MG/ML / arginine 6 MG/ML / cysteine 0.2 MG/ML / glycine 9 MG/ML / histidine 2.4 MG/ML / isoleucine 9 MG/ML / leucine 11 MG/ML / lysine 6.1 MG/ML / methionine 1 MG/ML / phenylalanine 1 MG/ML / phosphoric acid 1.15 MG/ML / proline 8 MG/ML / serine 5 MG/ML / threonine 4.5 MG/ML / tryptophan 0.66 MG/ML / valine 8.4 MG/ML Injectable Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "801413",
+              "name": "alanine 2.1 MG/ML / arginine 2.9 MG/ML / calcium acetate 0.003 MEQ/ML / cysteine 0.2 MG/ML / glycerin 30 MG/ML / glycine 4.2 MG/ML / histidine 0.85 MG/ML / isoleucine 2.1 MG/ML / leucine 2.7 MG/ML / lysine 3.1 MG/ML / magnesium acetate 0.008 MEQ/ML / methionine 1.6 MG/ML / phenylalanine 1.7 MG/ML / phosphoric acid 0.41 MG/ML / potassium chloride 0.02 MEQ/ML / proline 3.4 MG/ML / serine 1.8 MG/ML / sodium acetate 0.025 MEQ/ML / sodium chloride 0.014 MEQ/ML / threonine 1.2 MG/ML / tryptophan 0.46 MG/ML / valine 2 MG/ML Injectable Solution",
+              "synonym": "amino acids 3 % with glycerin 3 % and electrolytes Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "847781",
+              "name": "alanine 4.48 MG/ML / arginine 3.43 MG/ML / glycine 4.48 MG/ML / histidine 1.05 MG/ML / isoleucine 2.52 MG/ML / leucine 3.29 MG/ML / lysine 2.52 MG/ML / magnesium acetate 0.003 MEQ/ML / methionine 1.4 MG/ML / phenylalanine 1.54 MG/ML / phosphoric acid 0.4 MG/ML / potassium acetate 0.01 MEQ/ML / proline 3 MG/ML / serine 1.47 MG/ML / sodium chloride 0.04 MEQ/ML / threonine 1.82 MG/ML / tryptophan 0.56 MG/ML / tyrosine 0.31 MG/ML / valine 2.8 MG/ML Injectable Solution",
+              "synonym": "Alanine 4.48 MG/ML / Arginine 3.43 MG/ML / Glycine 4.48 MG/ML / Histidine 1.05 MG/ML / Isoleucine 2.52 MG/ML / Leucine 3.29 MG/ML / Lysine 2.52 MG/ML / magnesium acetate 0.003 MEQ/ML / Methionine 1.4 MG/ML / Phenylalanine 1.54 MG/ML / Phosphoric acid 0.4 MG/ML / K+ Acetate 0.01 MEQ/ML / Proline 3 MG/ML / Serine 1.47 MG/ML / NaCl 0.04 MEQ/ML / Threonine 1.82 MG/ML / Tryptophan 0.56 MG/ML / Tyrosine 0.31 MG/ML / Valine 2.8 MG/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:37:08.510782",
+  "source": "RxNorm"
+}

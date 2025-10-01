@@ -1,0 +1,64 @@
+{
+  "query": "Pitolisant",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2197890",
+              "name": "pitolisant 4.45 MG Oral Tablet [Wakix]",
+              "synonym": "Wakix 4.45 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2197894",
+              "name": "pitolisant 17.8 MG Oral Tablet [Wakix]",
+              "synonym": "Wakix 17.8 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2197884",
+              "name": "pitolisant 4.45 MG Oral Tablet",
+              "synonym": "pitolisant 4.45 MG (as pitolisant HCl 5 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2197892",
+              "name": "pitolisant 17.8 MG Oral Tablet",
+              "synonym": "pitolisant 17.8 MG (as pitolisant HCl 20 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:11:22.434704",
+  "source": "RxNorm"
+}

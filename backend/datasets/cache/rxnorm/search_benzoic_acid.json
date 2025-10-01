@@ -1,0 +1,91 @@
+{
+  "query": "Benzoic acid",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1037236",
+              "name": "benzoic acid 9 MG / hyoscyamine sulfate 0.12 MG / methenamine 81.6 MG / methylene blue 10.8 MG / phenyl salicylate 36.2 MG Oral Tablet [Hyophen]",
+              "synonym": "Hyophen (benzoic acid 9 MG / hyoscyamine sulfate 0.12 MG / methenamine 81.6 MG / methylene blue 10.8 MG / phenyl salicylate 36.2 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1245492",
+              "name": "benzoic acid 9 MG / hyoscyamine sulfate 0.12 MG / methenamine 81.6 MG / methylene blue 10.8 MG / phenyl salicylate 36.2 MG Oral Tablet [Prosed DS]",
+              "synonym": "Prosed DS (benzoic acid 9 MG / hyoscyamine sulfate 0.12 MG / methenamine 81.6 MG / methylene blue 10.8 MG / phenyl salicylate 36.2 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1439936",
+              "name": "benzoic acid 74 MG/ML Topical Spray [Provita Combat]",
+              "synonym": "Provita Combat 7.4 % Topical Spray",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2670308",
+              "name": "benzoic acid 9 MG / hyoscyamine sulfate 0.12 MG / methenamine 81.6 MG / methylene blue 10.8 MG / phenyl salicylate 36.2 MG Oral Tablet [Uribel Tabs]",
+              "synonym": "Uribel Tabs (benzoic acid 9 MG / hyoscyamine sulfate 0.12 MG / methenamine 81.6 MG / methylene blue 10.8 MG / phenyl salicylate 36.2 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1037234",
+              "name": "benzoic acid 9 MG / hyoscyamine sulfate 0.12 MG / methenamine 81.6 MG / methylene blue 10.8 MG / phenyl salicylate 36.2 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1439931",
+              "name": "benzoic acid 74 MG/ML Topical Spray",
+              "synonym": "benzoic acid 7.4 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "244425",
+              "name": "benzoic acid 60 MG/ML / salicylic acid 30 MG/ML Topical Cream",
+              "synonym": "benzoic acid 6 % / salicylic acid 3 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T04:27:01.668324",
+  "source": "RxNorm"
+}

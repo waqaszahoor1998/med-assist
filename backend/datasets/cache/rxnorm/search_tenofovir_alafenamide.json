@@ -1,0 +1,172 @@
+{
+  "query": "Tenofovir alafenamide",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1721619",
+              "name": "cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir alafenamide 10 MG Oral Tablet [Genvoya]",
+              "synonym": "Genvoya (cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir alafenamide 10 MG (as tenofovir alafenamide fumarate 11.2 MG)) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1741739",
+              "name": "emtricitabine 200 MG / rilpivirine 25 MG / tenofovir alafenamide 25 MG Oral Tablet [Odefsey]",
+              "synonym": "Odefsey (emtricitabine 200 MG / rilpivirine 25 MG (as rilpivirine HCl 27.5 MG) / tenofovir alafenamide 25 MG (as tenofovir alafenamide fumarate 28 MG)) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1747697",
+              "name": "emtricitabine 200 MG / tenofovir alafenamide 25 MG Oral Tablet [Descovy]",
+              "synonym": "Descovy (emtricitabine 200 MG / tenofovir alafenamide 25 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1858267",
+              "name": "tenofovir alafenamide 25 MG Oral Tablet [Vemlidy]",
+              "synonym": "Vemlidy 25 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1999673",
+              "name": "bictegravir 50 MG / emtricitabine 200 MG / tenofovir alafenamide 25 MG Oral Tablet [Biktarvy]",
+              "synonym": "Biktarvy 50 MG / 200 MG / 25 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2049677",
+              "name": "cobicistat 150 MG / darunavir 800 MG / emtricitabine 200 MG / tenofovir alafenamide 10 MG Oral Tablet [Symtuza]",
+              "synonym": "Symtuza (cobicistat 150 MG / as darunavir ethanolate 800 MG / emtricitabine 200 MG / as tenofovir alafenamide fumarate 10 MG ) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2584356",
+              "name": "bictegravir 30 MG / emtricitabine 120 MG / tenofovir alafenamide 15 MG Oral Tablet [Biktarvy]",
+              "synonym": "Biktarvy 30 MG / 120 MG / 15 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2590643",
+              "name": "emtricitabine 120 MG / tenofovir alafenamide 15 MG Oral Tablet [Descovy]",
+              "synonym": "Descovy (emtricitabine 120 MG / tenofovir alafenamide 15 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1721613",
+              "name": "cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir alafenamide 10 MG Oral Tablet",
+              "synonym": "cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir alafenamide 10 MG (as tenofovir alafenamide fumarate 11.2 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1741733",
+              "name": "emtricitabine 200 MG / rilpivirine 25 MG / tenofovir alafenamide 25 MG Oral Tablet",
+              "synonym": "emtricitabine 200 MG / rilpivirine 25 MG (as rilpivirine HCl 27.5 MG) / tenofovir alafenamide 25 MG (as tenofovir alafenamide fumarate 28 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1747691",
+              "name": "emtricitabine 200 MG / tenofovir alafenamide 25 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1858261",
+              "name": "tenofovir alafenamide 25 MG Oral Tablet",
+              "synonym": "tenofovir alafenamide 25 MG (equiv. to 28 MG tenofovir alafenamide fumarate) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1999667",
+              "name": "bictegravir 50 MG / emtricitabine 200 MG / tenofovir alafenamide 25 MG Oral Tablet",
+              "synonym": "bictegravir 50 MG (as bictegravir sodium 52.5 MG) / emtricitabine 200 MG / tenofovir alafenamide 25 MG (as tenofovir alafenamide fumarate 28 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2049671",
+              "name": "cobicistat 150 MG / darunavir 800 MG / emtricitabine 200 MG / tenofovir alafenamide 10 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2584354",
+              "name": "bictegravir 30 MG / emtricitabine 120 MG / tenofovir alafenamide 15 MG Oral Tablet",
+              "synonym": "bictegravir 30 MG (as bictegravir sodium 31.5 MG) / emtricitabine 120 MG / tenofovir alafenamide 15 MG (as tenofovir alafenamide fumarate 16.5 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2590641",
+              "name": "emtricitabine 120 MG / tenofovir alafenamide 15 MG Oral Tablet",
+              "synonym": "emtricitabine 120 MG / tenofovir alafenamide 15 MG (as tenofovir alafenamide fumarate 16.8 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:32:50.538357",
+  "source": "RxNorm"
+}

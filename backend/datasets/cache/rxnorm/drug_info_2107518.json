@@ -1,0 +1,16 @@
+{
+  "rxcui": "2107518",
+  "properties": {
+    "properties": {
+      "rxcui": "2107518",
+      "name": "amifampridine 10 MG Oral Tablet [Firdapse]",
+      "synonym": "Firdapse 10 MG (as amifampridine phosphate 18.98 MG) Oral Tablet",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T18:11:12.676519",
+  "source": "RxNorm"
+}

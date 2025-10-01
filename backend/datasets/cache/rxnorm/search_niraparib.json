@@ -1,0 +1,136 @@
+{
+  "query": "Niraparib",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1918242",
+              "name": "niraparib 100 MG Oral Capsule [Zejula]",
+              "synonym": "Zejula 100 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2640210",
+              "name": "niraparib 100 MG Oral Tablet [Zejula]",
+              "synonym": "Zejula 100 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2640212",
+              "name": "niraparib 200 MG Oral Tablet [Zejula]",
+              "synonym": "Zejula 200 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2640214",
+              "name": "niraparib 300 MG Oral Tablet [Zejula]",
+              "synonym": "Zejula 300 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2645250",
+              "name": "abiraterone acetate 500 MG / niraparib 50 MG Oral Tablet [Akeega]",
+              "synonym": "Akeega (abiraterone acetate 500 MG / niraparib 50 MG (equivalent to 76.9 MG niraparib tosylate)) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2645253",
+              "name": "abiraterone acetate 500 MG / niraparib 100 MG Oral Tablet [Akeega]",
+              "synonym": "Akeega (abiraterone acetate 500 MG / niraparib 100 MG (equivalent to 153.7 MG niraparib tosylate)) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1918236",
+              "name": "niraparib 100 MG Oral Capsule",
+              "synonym": "niraparib (as niraparib tosylate) 100 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2637449",
+              "name": "niraparib 100 MG Oral Tablet",
+              "synonym": "niraparib 100 MG (as niraparib tosylate monohydrate 159.3 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2637452",
+              "name": "niraparib 200 MG Oral Tablet",
+              "synonym": "niraparib 200 MG (as niraparib tosylate monohydrate 318.7 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2637465",
+              "name": "niraparib 300 MG Oral Tablet",
+              "synonym": "niraparib 300 MG (as niraparib tosylate monohydrate 478 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2645244",
+              "name": "abiraterone acetate 500 MG / niraparib 50 MG Oral Tablet",
+              "synonym": "abiraterone acetate 500 MG / niraparib 50 MG (equivalent to 76.9 MG niraparib tosylate) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2645251",
+              "name": "abiraterone acetate 500 MG / niraparib 100 MG Oral Tablet",
+              "synonym": "abiraterone acetate 500 MG / niraparib 100 MG (equivalent to 153.7 MG niraparib tosylate) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:20:39.709155",
+  "source": "RxNorm"
+}

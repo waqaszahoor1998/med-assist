@@ -1,0 +1,10 @@
+{
+  "query": "2-[4-(4-Chlorophenyl)Cyclohexylidene]-3,4-Dihydroxy-1(2h)-Naphthalenone",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T13:37:19.332359",
+  "source": "RxNorm"
+}

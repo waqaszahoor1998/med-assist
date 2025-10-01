@@ -1,0 +1,10 @@
+{
+  "query": "SP4160",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:02:29.080999",
+  "source": "RxNorm"
+}

@@ -1,0 +1,44 @@
+{
+  "query": "Glutaral",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD"
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "239353",
+              "name": "glutaral 250 MG/ML Topical Solution",
+              "synonym": "glutaral 25 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "251428",
+              "name": "glutaral 100 MG/ML Topical Solution",
+              "synonym": "glutaral 10 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T03:34:10.533618",
+  "source": "RxNorm"
+}

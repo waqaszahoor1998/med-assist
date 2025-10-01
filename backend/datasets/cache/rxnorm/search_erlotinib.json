@@ -1,0 +1,82 @@
+{
+  "query": "Erlotinib",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1088251",
+              "name": "erlotinib 100 MG Oral Tablet [Tarceva]",
+              "synonym": "Tarceva 100 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1088253",
+              "name": "erlotinib 150 MG Oral Tablet [Tarceva]",
+              "synonym": "Tarceva 150 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1088255",
+              "name": "erlotinib 25 MG Oral Tablet [Tarceva]",
+              "synonym": "Tarceva 25 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "603203",
+              "name": "erlotinib 100 MG Oral Tablet",
+              "synonym": "erlotinib 100 MG (equivalent to erlotinib HCl 109.3 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "603206",
+              "name": "erlotinib 150 MG Oral Tablet",
+              "synonym": "erlotinib 150 MG (equivalent to erlotinib HCl 163.9 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "603208",
+              "name": "erlotinib 25 MG Oral Tablet",
+              "synonym": "erlotinib (as erlotinib hydrochloride) 25 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:18:41.032564",
+  "source": "RxNorm"
+}

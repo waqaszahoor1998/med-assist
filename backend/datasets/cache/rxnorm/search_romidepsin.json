@@ -1,0 +1,55 @@
+{
+  "query": "Romidepsin",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "877516",
+              "name": "romidepsin 10 MG Injection [Istodax]",
+              "synonym": "Istodax 10 MG Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2289413",
+              "name": "5.5 ML romidepsin 5 MG/ML Injection",
+              "synonym": "romidepsin 27.5 MG per 5.5 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "877513",
+              "name": "romidepsin 10 MG Injection",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:11:57.380565",
+  "source": "RxNorm"
+}

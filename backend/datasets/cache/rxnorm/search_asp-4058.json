@@ -1,0 +1,10 @@
+{
+  "query": "ASP-4058",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:22:22.655429",
+  "source": "RxNorm"
+}

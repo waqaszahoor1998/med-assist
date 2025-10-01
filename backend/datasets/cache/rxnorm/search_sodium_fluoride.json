@@ -1,0 +1,1243 @@
+{
+  "query": "Sodium fluoride",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1006558",
+              "name": "sodium fluoride 0.011 MG/MG Toothpaste [Clinpro 5000]",
+              "synonym": "Clinpro 5000 1.1 % Toothpaste",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1044540",
+              "name": "sodium fluoride 0.2 MG/ML Mouthwash [ACT Fluoride Rinse]",
+              "synonym": "ACT Braces Care 0.02 % Mouthwash",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1093170",
+              "name": "sodium fluoride 27.2 MG/ML Oral Foam [Kolorz]",
+              "synonym": "Kolorz 2.72 % Oral Foam",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1098478",
+              "name": "sodium fluoride 0.55 MG / xylitol 237 MG Chewable Tablet [Fluor a Day Chewable]",
+              "synonym": "Fluor a Day Chewable (sodium fluoride 0.55 MG (fluoride ion 0.25 MG) / xylitol 236.79 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1098490",
+              "name": "sodium fluoride 2.2 MG / xylitol 237 MG Chewable Tablet [Fluor a Day Chewable]",
+              "synonym": "Fluor a Day Chewable (sodium fluoride 2.2 MG (fluoride ion 1 MG) / xylitol 236.79 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1098924",
+              "name": "sodium fluoride 11 MG/ML Oral Solution [Flura-Drops]",
+              "synonym": "Flura-Drops 11 MG/ML Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1101877",
+              "name": "sodium fluoride 0.011 MG/MG Toothpaste [NeutraGard]",
+              "synonym": "Neutragard 1.1 % Gel Toothpaste",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1101881",
+              "name": "sodium fluoride 0.011 MG/MG Toothpaste [Phos-Flur]",
+              "synonym": "Phos-Flur 1.1 % Dental Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1101883",
+              "name": "sodium fluoride 0.011 MG/MG Toothpaste [ProDenRx Gel]",
+              "synonym": "ProDenRx Gel 0.011 MG/MG Toothpaste",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1101938",
+              "name": "sodium fluoride 0.011 MG/MG Toothpaste [Dentagel]",
+              "synonym": "Dentagel 1.1 % Dental Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1191716",
+              "name": "sodium fluoride 0.011 MG/MG Toothpaste [Neutramaxx]",
+              "synonym": "Neutramaxx 1.1 % Dental Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1193240",
+              "name": "sodium fluoride 27.2 MG/ML Oral Foam [Zooby Fluoride Foam]",
+              "synonym": "Zooby Fluoride Foam 27.2 MG/ML Oral Foam",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1233862",
+              "name": "sodium fluoride 0.44 MG/ML Mouthwash [Phos-Flur]",
+              "synonym": "Phos-Flur 0.44 MG/ML Mouthwash",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1302368",
+              "name": "sodium fluoride 1.1 MG Chewable Tablet [Nafrinse]",
+              "synonym": "Nafrinse 1.1 MG (fluoride ion 0.5 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1302475",
+              "name": "sodium fluoride 2.2 MG Chewable Tablet [Nafrinse]",
+              "synonym": "Nafrinse 2.2 MG (fluoride ion 1 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1304254",
+              "name": "sodium fluoride 50 MG/ML Mouthwash [Duraflor]",
+              "synonym": "Duraflor 5 % Mouthwash",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1363558",
+              "name": "sodium fluoride 20 MG/ML Oral Foam [PCxx Neutral Foam]",
+              "synonym": "PCxx Neutral Foam 2 % Oral Foam",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1428828",
+              "name": "ascorbic acid 60 MG / cholecalciferol 0.01 MG / folic acid 0.3 MG / niacin 13.5 MG / riboflavin 1.2 MG / sodium fluoride 2.2 MG / thiamine 1.05 MG / vitamin A 0.75 MG / vitamin B12 0.0045 MG / vitamin B6 1.05 MG / vitamin E 15 UNT Chewable Tablet [MVC-Fluoride]",
+              "synonym": "vit-C 60 MG / cholecalciferol 0.01 MG / folate 0.3 MG / vit-B3 13.5 MG / riboflavin 1.2 MG / sodium fluoride 2.2 MG / vit-B1 1.05 MG / vitamin A 0.75 MG / vitamin B12 0.0045 MG / vitamin B6 1.05 MG / vitamin E 15 UNT Chewable Tablet [MVC-Fluoride]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1486338",
+              "name": "sodium fluoride 0.22 MG/ML Mouthwash [Crest]",
+              "synonym": "Crest 0.22 MG/ML Mouthwash",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1486534",
+              "name": "sodium fluoride 0.5 MG/ML Mouthwash [CTx3 Rinse]",
+              "synonym": "CTx3 Rinse 0.05 % Mouthwash",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1488074",
+              "name": "sodium fluoride 2 MG/ML Mouthwash [ProDenRx Rinse]",
+              "synonym": "ProDenRx Rinse 0.2 % Oral Rinse",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1546240",
+              "name": "sodium fluoride 0.011 MG/MG Oral Gel [FluoriSHIELD]",
+              "synonym": "FluoriSHIELD 1.1 % Oral Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1596938",
+              "name": "sodium fluoride 0.011 MG/MG Oral Gel [Neutracare]",
+              "synonym": "Neutracare 1.1 % Dental Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1600786",
+              "name": "sodium fluoride 20 MG/ML Mouthwash [PCxx Neutral Rinse]",
+              "synonym": "PCxx Neutral Rinse 2 % Mouthwash",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1658137",
+              "name": "sodium fluoride 0.2 MG/ML Mouthwash [Crest]",
+              "synonym": "Crest 0.2 MG/ML Mouthwash",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1720009",
+              "name": "sodium fluoride 0.02 MG/MG Oral Gel [Neutracare]",
+              "synonym": "Neutracare 0.02 MG/MG Oral Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1721964",
+              "name": "sodium fluoride 0.2 MG/ML Mouthwash [Colgate]",
+              "synonym": "Colgate 0.2 MG/ML Mouthwash",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1798474",
+              "name": "sodium fluoride 0.2 MG/ML Mouthwash [Listerine]",
+              "synonym": "Listerine 0.2 MG/ML Mouthwash",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "210248",
+              "name": "calcium carbonate 364 MG / sodium fluoride 8.3 MG Oral Tablet [Florical]",
+              "synonym": "Florical (calcium carbonate 364 MG / sodium fluoride 8.3 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "210249",
+              "name": "calcium carbonate 364 MG / sodium fluoride 8.3 MG Oral Capsule [Florical]",
+              "synonym": "Florical (calcium carbonate 364 MG / sodium fluoride 8.3 MG) Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2105866",
+              "name": "sodium fluoride 0.01 MG/MG Oral Gel [FluoriSHIELD]",
+              "synonym": "FluoriSHIELD 1 % Oral Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "211275",
+              "name": "sodium fluoride 2 MG/ML Mouthwash [Prevident Dental Rinse]",
+              "synonym": "Prevident Dental Rinse 0.2 % Mouthwash",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2121950",
+              "name": "sodium fluoride 0.0272 MG/MG Oral Gel [Kolorz]",
+              "synonym": "Kolorz 2.72 % Oral Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2602147",
+              "name": "sodium fluoride 0.011 MG/MG Toothpaste [Allday]",
+              "synonym": "Allday 5000 1.1 % Toothpaste",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2603764",
+              "name": "potassium nitrate 0.05 MG/MG / sodium fluoride 0.011 MG/MG Toothpaste [Fluorimax Sensitive]",
+              "synonym": "Fluorimax Sensitive (potassium nitrate 5 % / sodium fluoride 1.1 % ) Toothpaste",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2603773",
+              "name": "sodium fluoride 0.011 MG/MG Toothpaste [Fluorimax]",
+              "synonym": "Fluorimax 5000 1.1 % Toothpaste",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "352349",
+              "name": "sodium fluoride 2 MG/ML Mouthwash [Fluorinse]",
+              "synonym": "Fluorinse 2 MG/ML Mouthwash",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "539886",
+              "name": "sodium fluoride 0.55 MG Oral Tablet [Nafrinse]",
+              "synonym": "Nafrinse 0.55 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "540263",
+              "name": "sodium fluoride 2.2 MG Chewable Tablet [Fluorabon]",
+              "synonym": "Fluorabon 2.2 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "617624",
+              "name": "sodium fluoride 0.011 MG/MG Toothpaste [Fluoridex]",
+              "synonym": "Fluoridex 1.1 % Dental Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "630194",
+              "name": "sodium fluoride 0.011 MG/MG Toothpaste [Prevident]",
+              "synonym": "PreviDent 1.1 % Toothpaste",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "630196",
+              "name": "sodium fluoride 0.011 MG/MG Toothpaste [Denta 5000 Plus]",
+              "synonym": "Denta 5000 Plus 0.011 MG/MG Toothpaste",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "630475",
+              "name": "sodium fluoride 5.56 MG/ML Oral Solution [Fluor a Day]",
+              "synonym": "Fluor a Day 5.56 MG/ML Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "656809",
+              "name": "sodium fluoride 0.5 MG/ML Mouthwash [ACT Fluoride Rinse]",
+              "synonym": "ACT Fluoride Rinse 0.5 MG/ML Mouthwash",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "656838",
+              "name": "sodium fluoride 0.02 MG/MG Oral Gel [Gelato sodium fluoride]",
+              "synonym": "Gelato 0.02 MG/MG Oral Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "688397",
+              "name": "sodium fluoride 20 MG/ML Oral Foam [Kolorz]",
+              "synonym": "Kolorz 2 % Oral Foam",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "831838",
+              "name": "sodium fluoride 0.5 MG/ML Mouthwash [Nafrinse]",
+              "synonym": "Nafrinse 0.05 % Mouthwash",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "847014",
+              "name": "potassium nitrate 0.05 MG/MG / sodium fluoride 0.011 MG/MG Toothpaste [Fluoridex Daily Defense Sensitivity]",
+              "synonym": "Fluoridex Daily Defense Sensitivity Toothpaste",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "851204",
+              "name": "sodium fluoride 2 MG/ML Mouthwash [Nafrinse]",
+              "synonym": "Nafrinse 0.2 % Mouthwash",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "861724",
+              "name": "sodium fluoride 1.1 MG Chewable Tablet [Fluoritab]",
+              "synonym": "Fluoritab 1.1 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "861728",
+              "name": "sodium fluoride 2.2 MG Chewable Tablet [Fluoritab]",
+              "synonym": "Fluoritab 2.2 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "901280",
+              "name": "sodium fluoride 0.55 MG Chewable Tablet [Ludent]",
+              "synonym": "Ludent 0.55 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "901288",
+              "name": "sodium fluoride 1.1 MG Chewable Tablet [Ludent]",
+              "synonym": "Ludent 1.1 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "901296",
+              "name": "sodium fluoride 2.2 MG Chewable Tablet [Ludent]",
+              "synonym": "Ludent 2.2 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "991007",
+              "name": "sodium fluoride 20 MG/ML Mouthwash [DentiCare Neutral]",
+              "synonym": "DentiCare Neutral 2 % Mouthwash",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "999476",
+              "name": "sodium fluoride 0.55 MG Chewable Tablet [Epiflur]",
+              "synonym": "Epiflur 0.55 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "999479",
+              "name": "sodium fluoride 1.1 MG Chewable Tablet [Epiflur]",
+              "synonym": "Epiflur 1.1 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "999494",
+              "name": "sodium fluoride 2.2 MG Chewable Tablet [Epiflur]",
+              "synonym": "Epiflur 2.2 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "999717",
+              "name": "potassium nitrate 0.05 MG/MG / sodium fluoride 0.011 MG/MG Toothpaste [Prevident 5000 Sensitive]",
+              "synonym": "K+ nitrate 0.05 MG/MG / Sodium Fluoride 0.011 MG/MG Toothpaste [Prevident 5000 Sensitive]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1006439",
+              "name": "sodium fluoride 50 MG/ML Mouthwash",
+              "synonym": "sodium fluoride 5 % Mouthwash",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1038800",
+              "name": "potassium nitrate 0.05 MG/MG / sodium fluoride 0.00243 MG/MG Toothpaste",
+              "synonym": "K+ nitrate 0.05 MG/MG / Sodium Fluoride 0.00243 MG/MG Toothpaste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1038841",
+              "name": "potassium nitrate 0.05 MG/MG / sodium fluoride 0.0015 MG/MG Toothpaste",
+              "synonym": "potassium nitrate 5 % / sodium fluoride 0.15 % Toothpaste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1038904",
+              "name": "sodium fluoride 0.221 MG/ML Mouthwash",
+              "synonym": "sodium fluoride 0.0221 % (fluoride 0.01 % ) Oral Rinse",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1038929",
+              "name": "potassium nitrate 0.05 MG/MG / sodium fluoride 0.0024 MG/MG Toothpaste",
+              "synonym": "potassium nitrate 5 % / sodium fluoride 0.24 % Toothpaste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1044547",
+              "name": "sodium fluoride 0.0025 MG/MG Toothpaste",
+              "synonym": "sodium fluoride 0.25 % Toothpaste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1046867",
+              "name": "sodium fluoride 0.001 MG/MG / sodium monofluorophosphate 0.0016 MG/MG Toothpaste",
+              "synonym": "sodium fluoride 0.1 % / sodium monofluorophosphate 0.16 % Toothpaste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1086243",
+              "name": "potassium nitrate 0.05 MG/MG / sodium fluoride 0.0025 MG/MG Toothpaste",
+              "synonym": "K+ nitrate 0.05 MG/MG / Sodium Fluoride 0.0025 MG/MG Toothpaste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1090579",
+              "name": "sodium fluoride 0.22 MG/ML Mouthwash",
+              "synonym": "sodium fluoride 0.0219 % (fluoride ion 0.01 % ) Mouthwash",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1098474",
+              "name": "sodium fluoride 0.55 MG / xylitol 237 MG Chewable Tablet",
+              "synonym": "sodium fluoride 0.55 MG (fluoride ion 0.25 MG) / xylitol 236.79 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1098488",
+              "name": "sodium fluoride 2.2 MG / xylitol 237 MG Chewable Tablet",
+              "synonym": "sodium fluoride 2.2 MG (fluoride ion 1 MG) / xylitol 236.79 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1099038",
+              "name": "sodium fluoride 0.0021 MG/MG Toothpaste",
+              "synonym": "sodium fluoride 0.21 % Toothpaste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1234482",
+              "name": "ascorbic acid 35 MG/ML / cholecalciferol 400 UNT/ML / niacin 8 MG/ML / riboflavin 0.6 MG/ML / sodium fluoride 0.55 MG/ML / thiamine 0.5 MG/ML / vitamin A 1500 UNT/ML / vitamin B12 0.002 MG/ML / vitamin B6 0.4 MG/ML / vitamin E 5 UNT/ML Oral Solution",
+              "synonym": "vit-C 35 MG/ML / cholecalciferol 400 UNT/ML / vit-B3 8 MG/ML / riboflavin 0.6 MG/ML / sodium fluoride 0.55 MG/ML / vit-B1 0.5 MG/ML / vitamin A 1500 UNT/ML / vitamin B12 0.002 MG/ML / vitamin B6 0.4 MG/ML / vitamin E 5 UNT/ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1235389",
+              "name": "ascorbic acid 60 MG / cholecalciferol 0.01 MG / folic acid 0.3 MG / niacin 13.5 MG / riboflavin 1.2 MG / sodium fluoride 0.55 MG / thiamine 1.05 MG / vitamin A 0.75 MG / vitamin B12 0.0045 MG / vitamin B6 1.05 MG / vitamin E 6.75 MG Chewable Tablet",
+              "synonym": "vit-C 60 MG / cholecalciferol 0.01 MG / folate 0.3 MG / vit-B3 13.5 MG / riboflavin 1.2 MG / sodium fluoride 0.55 MG / vit-B1 1.05 MG / vitamin A 0.75 MG / vitamin B12 0.0045 MG / vitamin B6 1.05 MG / vitamin E 6.75 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1235783",
+              "name": "sodium fluoride 0.002 MG/MG Toothpaste",
+              "synonym": "sodium fluoride 0.2 % Toothpaste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1297381",
+              "name": "hydrofluoric acid 0.01 MG/MG / phosphoric acid 0.0112 MG/MG / sodium fluoride 0.018 MG/MG Oral Gel",
+              "synonym": "hydrofluoric acid 1 % / phosphoric acid 1.12 % / sodium fluoride 1.8 % Oral Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1364854",
+              "name": "ascorbic acid 60 MG / cholecalciferol 0.01 MG / folic acid 0.3 MG / niacin 13.5 MG / riboflavin 1.2 MG / sodium fluoride 1.1 MG / thiamine 1.05 MG / vitamin A 0.75 MG / vitamin B12 0.0045 MG / vitamin B6 1.05 MG / vitamin E 6.75 MG Chewable Tablet",
+              "synonym": "vit-C 60 MG / cholecalciferol 0.01 MG / folate 0.3 MG / vit-B3 13.5 MG / riboflavin 1.2 MG / sodium fluoride 1.1 MG / vit-B1 1.05 MG / vitamin A 0.75 MG / vitamin B12 0.0045 MG / vitamin B6 1.05 MG / vitamin E 6.75 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1364855",
+              "name": "ascorbic acid 60 MG / cholecalciferol 0.01 MG / folic acid 0.3 MG / niacin 13.5 MG / riboflavin 1.2 MG / sodium fluoride 2.2 MG / thiamine 1.05 MG / vitamin A 0.75 MG / vitamin B12 0.0045 MG / vitamin B6 1.05 MG / vitamin E 15 UNT Chewable Tablet",
+              "synonym": "vit-C 60 MG / cholecalciferol 0.01 MG / folate 0.3 MG / vit-B3 13.5 MG / riboflavin 1.2 MG / sodium fluoride 2.2 MG / vit-B1 1.05 MG / vitamin A 0.75 MG / vitamin B12 0.0045 MG / vitamin B6 1.05 MG / vitamin E 15 UNT Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1365980",
+              "name": "ascorbic acid 35 MG/ML / cholecalciferol 0.01 MG/ML / sodium fluoride 0.55 MG/ML / vitamin A palmitate 1500 UNT/ML Oral Solution",
+              "synonym": "vit-C 35 MG/ML / cholecalciferol 0.01 MG/ML / sodium fluoride 0.55 MG/ML / vitamin A palmitate 1500 UNT/ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1365984",
+              "name": "ascorbic acid 35 MG/ML / cholecalciferol 0.01 MG/ML / sodium fluoride 1.1 MG/ML / vitamin A palmitate 1500 UNT/ML Oral Solution",
+              "synonym": "vit-C 35 MG/ML / cholecalciferol 0.01 MG/ML / sodium fluoride 1.1 MG/ML / vitamin A palmitate 1500 UNT/ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "141988",
+              "name": "sodium fluoride 1.1 MG Oral Tablet",
+              "synonym": "sodium fluoride 1.1 MG (fluoride ion 0.5 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1435514",
+              "name": "sodium fluoride 33 MG/ML Mouthwash",
+              "synonym": "sodium fluoride 3.3 % (fluoride ion 1.5 % ) Mouthwash",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1484805",
+              "name": "sodium fluoride 18.1 MG/ML Oral Foam",
+              "synonym": "sodium fluoride 1.81 % (fluoride ion 1.23 % ) Oral Foam",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1486566",
+              "name": "sodium fluoride 0.011 MG/MG Oral Gel",
+              "synonym": "sodium fluoride 1.1 % Oral Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1489127",
+              "name": "sodium fluoride 0.0023 MG/MG Toothpaste",
+              "synonym": "sodium fluoride 0.23 % Toothpaste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1535362",
+              "name": "sodium fluoride 0.0272 MG/MG Oral Gel",
+              "synonym": "sodium fluoride 2.7 % Oral Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1596005",
+              "name": "cholecalciferol 0.01 MG/ML / sodium fluoride 0.55 MG/ML Oral Solution",
+              "synonym": "cholecalciferol 400 UNT/ML / sodium fluoride 0.55 MG/ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198215",
+              "name": "sodium fluoride 0.55 MG Chewable Tablet",
+              "synonym": "sodium fluoride 0.55 MG (fluoride ion 0.25 MG) Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198864",
+              "name": "calcium carbonate 364 MG / sodium fluoride 8.3 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198865",
+              "name": "calcium carbonate 364 MG / sodium fluoride 8.3 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2105864",
+              "name": "sodium fluoride 0.01 MG/MG Oral Gel",
+              "synonym": "sodium fluoride 1 % Oral Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2265639",
+              "name": "carbamide peroxide 0.15 MG/MG / sodium fluoride 0.0025 MG/MG Oral Gel",
+              "synonym": "carbamide peroxide 15 % / sodium fluoride 0.25 % Oral Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "240698",
+              "name": "sodium fluoride 0.5 MG/ML Mouthwash",
+              "synonym": "sodium fluoride 0.05 % (fluoride ion 0.02 % ) Oral Rinse",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "243997",
+              "name": "sodium fluoride 0.44 MG/ML Oral Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "244333",
+              "name": "sodium fluoride 0.0123 MG/MG Toothpaste",
+              "synonym": "sodium fluoride 1.23 % Toothpaste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "245593",
+              "name": "sodium fluoride 0.02 MG/MG Oral Gel",
+              "synonym": "sodium fluoride 2 % (fluoride ion 1.23 % ) Dental Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "245598",
+              "name": "sodium fluoride 0.0022 MG/MG Toothpaste",
+              "synonym": "sodium fluoride 0.22 % (fluoride 0.1 % ) Toothpaste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "248389",
+              "name": "sodium fluoride 27.2 MG/ML Oral Foam",
+              "synonym": "sodium fluoride 2.72 % Oral Foam",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "249277",
+              "name": "sodium fluoride 2.2 MG/ML Oral Solution",
+              "synonym": "sodium fluoride 2.2 MG/ML (fluoride ion 1 MG/ML) Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "251960",
+              "name": "sodium fluoride 20 MG/ML Mouthwash",
+              "synonym": "sodium fluoride 2 % Oral Rinse",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2557915",
+              "name": "sodium fluoride 0.0002 MG/MG Toothpaste",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2585483",
+              "name": "sodium fluoride 0.00234 MG/MG Toothpaste",
+              "synonym": "sodium fluoride 0.234 % Toothpaste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2682752",
+              "name": "potassium nitrate 0.045 MG/MG / sodium fluoride 0.011 MG/MG Toothpaste",
+              "synonym": "potassium nitrate 4.5 % / sodium fluoride 1.1 % Toothpaste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2682817",
+              "name": "sodium fluoride 0.3 MG/ML Mouthwash",
+              "synonym": "sodium fluoride 0.03 % (fluoride ion 0.02 % ) Oral Rinse",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2699486",
+              "name": "potassium nitrate 0.05 MG/MG / sodium fluoride 0.00315 MG/MG Toothpaste",
+              "synonym": "K+ nitrate 0.05 MG/MG / sodium fluoride 0.00315 MG/MG Toothpaste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2701521",
+              "name": "sodium fluoride 0.00221 MG/MG Toothpaste",
+              "synonym": "sodium fluoride 0.221 % Toothpaste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2713755",
+              "name": "alpha-tocopherol acetate 0.002 MG/MG / silicon dioxide 0.15 MG/MG / sodium fluoride 0.0022 MG/MG Toothpaste",
+              "synonym": "alpha-tocopherol acetate 0.2 % / silicon dioxide 15 % / sodium fluoride 0.22 % Toothpaste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2717560",
+              "name": "cetylpyridinium chloride 0.2 MG/ML / sodium fluoride 0.5 MG/ML Mouthwash",
+              "synonym": "cetylpyridinium chloride 0.02 % / sodium fluoride 0.05 % (fluoride ion 0.02 % ) Oral Rinse",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "312982",
+              "name": "sodium fluoride 0.029 MG/MG / sodium phosphate, monobasic 0.01 MG/MG Toothpaste",
+              "synonym": "sodium fluoride 2.9 % / sodium phosphate, monobasic 1 % Toothpaste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "313029",
+              "name": "sodium fluoride 0.2 MG/ML Mouthwash",
+              "synonym": "sodium fluoride 0.02 % (fluoride ion 0.01 % ) Oral Rinse",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "313036",
+              "name": "sodium fluoride 1.1 MG Chewable Tablet",
+              "synonym": "sodium fluoride 1.1 MG (fluoride ion 0.5 MG) Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "313037",
+              "name": "sodium fluoride 11 MG/ML Oral Solution",
+              "synonym": "sodium fluoride 0.55 MG (fluoride ion 0.25 MG) per Drop Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "313038",
+              "name": "sodium fluoride 1 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "313043",
+              "name": "sodium fluoride 2.2 MG Oral Tablet",
+              "synonym": "sodium fluoride 2.2 MG (fluoride ion 1 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "315102",
+              "name": "sodium fluoride 1.1 MG/ML Oral Solution",
+              "synonym": "sodium fluoride 0.11 % Oral Drops",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "315213",
+              "name": "sodium fluoride 2.2 MG Chewable Tablet",
+              "synonym": "sodium fluoride 2.2 MG (fluoride ion 1 MG) Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "317156",
+              "name": "sodium fluoride 1 MG Oral Lozenge",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "328162",
+              "name": "sodium fluoride 0.55 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "346975",
+              "name": "sodium fluoride 2.21 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "347061",
+              "name": "sodium fluoride 0.5 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "388516",
+              "name": "sodium fluoride 0.00619 MG/MG Toothpaste",
+              "synonym": "sodium fluoride 0.619 % Toothpaste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "389123",
+              "name": "sodium fluoride 27.5 MG/ML Oral Foam",
+              "synonym": "sodium fluoride 2.75 % Oral Foam",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "392038",
+              "name": "sodium fluoride 0.011 MG/MG Toothpaste",
+              "synonym": "sodium fluoride 1.1 % Dental Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "392046",
+              "name": "sodium fluoride 5.56 MG/ML Oral Solution",
+              "synonym": "sodium fluoride 5.56 MG (fluoride ion 2.5 MG) per 1 ML Oral Drops",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "392069",
+              "name": "sodium fluoride 3.1 MG/ML Mouthwash",
+              "synonym": "sodium fluoride 0.31 % Mouthwash",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "392144",
+              "name": "sodium fluoride 0.0272 MG/MG Toothpaste",
+              "synonym": "sodium fluoride 2.72 % Toothpaste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "416783",
+              "name": "sodium fluoride 0.0024 MG/MG Toothpaste",
+              "synonym": "sodium fluoride 0.24 % (fluoride ion 0.13 % ) Toothpaste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "430340",
+              "name": "sodium fluoride 0.25 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "562510",
+              "name": "sodium fluoride 2 MG/ML Mouthwash",
+              "synonym": "sodium fluoride 0.2 % Mouthwash",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "630176",
+              "name": "sodium fluoride 1 MG/ML Mouthwash",
+              "synonym": "sodium fluoride 0.1 % Mouthwash",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "636724",
+              "name": "sodium fluoride 0.917 MG/ML Oral Solution",
+              "synonym": "sodium fluoride 0.55 MG (fluoride ion 0.25 MG ) per 0.6 ML Oral Drops",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "637365",
+              "name": "potassium nitrate 0.05 MG/MG / sodium fluoride 0.011 MG/MG Toothpaste",
+              "synonym": "potassium nitrate 5 % / sodium fluoride 1.1 % Gel Toothpaste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "688393",
+              "name": "sodium fluoride 20 MG/ML Oral Foam",
+              "synonym": "sodium fluoride 2 % Oral Foam",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "831719",
+              "name": "sodium fluoride 12.3 MG/ML Oral Foam",
+              "synonym": "sodium fluoride 1.23 % Oral Foam",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "831877",
+              "name": "sodium fluoride 0.44 MG/ML Mouthwash",
+              "synonym": "sodium fluoride 0.04 % (fluoride ion 0.02 % ) Mouthwash",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "891775",
+              "name": "sodium fluoride 0.00243 MG/MG Toothpaste",
+              "synonym": "sodium fluoride 0.243 % (fluoride ion 0.13 % ) Toothpaste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:34:12.045436",
+  "source": "RxNorm"
+}

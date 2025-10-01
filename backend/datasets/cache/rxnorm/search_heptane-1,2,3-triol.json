@@ -1,0 +1,10 @@
+{
+  "query": "Heptane-1,2,3-Triol",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T06:27:56.551872",
+  "source": "RxNorm"
+}

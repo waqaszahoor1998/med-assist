@@ -1,0 +1,10 @@
+{
+  "query": "CUDC-101",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:43:04.660863",
+  "source": "RxNorm"
+}

@@ -1,0 +1,82 @@
+{
+  "query": "Trametinib",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1425110",
+              "name": "trametinib 0.5 MG Oral Tablet [Mekinist]",
+              "synonym": "Mekinist 0.5 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1425118",
+              "name": "trametinib 2 MG Oral Tablet [Mekinist]",
+              "synonym": "Mekinist 2 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2632564",
+              "name": "trametinib 0.05 MG/ML Oral Solution [Mekinist]",
+              "synonym": "Mekinist 0.05 MG/ML Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1425104",
+              "name": "trametinib 0.5 MG Oral Tablet",
+              "synonym": "trametinib 0.5 MG (as trametinib dimethyl sulfoxide 0.5635 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1425116",
+              "name": "trametinib 2 MG Oral Tablet",
+              "synonym": "trametinib 2 MG (as trametinib dimethyl sulfoxide 2.254 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2632560",
+              "name": "trametinib 0.05 MG/ML Oral Solution",
+              "synonym": "trametinib 0.05 MG per 1 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:06:59.604067",
+  "source": "RxNorm"
+}

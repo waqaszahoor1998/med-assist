@@ -1,0 +1,10 @@
+{
+  "query": "(10R)-10-formyl-5,8,10-trideazafolic acid",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T13:21:07.849508",
+  "source": "RxNorm"
+}

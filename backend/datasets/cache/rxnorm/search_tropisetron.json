@@ -1,0 +1,44 @@
+{
+  "query": "Tropisetron",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD"
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "199593",
+              "name": "tropisetron 1 MG/ML Injectable Solution",
+              "synonym": "tropisetron (as tropisetron hydrochloride) 1 MG/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "199594",
+              "name": "tropisetron 5 MG Oral Capsule",
+              "synonym": "tropisetron (as tropisetron hydrochloride) 5 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:15:02.905778",
+  "source": "RxNorm"
+}

@@ -1,0 +1,136 @@
+{
+  "query": "Febantel",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "892097",
+              "name": "febantel 680 MG / praziquantel 136 MG / pyrantel 136 MG Oral Tablet [Drontal Plus]",
+              "synonym": "Drontal Plus for large dogs (45 lbs. and greater) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "892101",
+              "name": "febantel 680 MG / praziquantel 136 MG / pyrantel 136 MG Chewable Tablet [Drontal Plus]",
+              "synonym": "Drontal Plus for large dogs (45 lbs. and greater) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "892316",
+              "name": "febantel 113 MG / praziquantel 22.7 MG / pyrantel 22.7 MG Oral Tablet [Drontal Plus]",
+              "synonym": "Drontal Plus for puppies and small dogs (2-25 lbs.) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "892327",
+              "name": "febantel 340 MG / praziquantel 68 MG / pyrantel 68 MG Oral Tablet [Drontal Plus]",
+              "synonym": "Drontal Plus for medium sized dogs (26 to 60 lbs.) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "892331",
+              "name": "febantel 113 MG / praziquantel 22.7 MG / pyrantel 22.7 MG Chewable Tablet [Drontal Plus]",
+              "synonym": "Drontal Plus Taste Tabs for puppies and small dogs (2-25 lbs) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "892337",
+              "name": "febantel 340 MG / praziquantel 68 MG / pyrantel 68 MG Chewable Tablet [Drontal Plus]",
+              "synonym": "Drontal Plus Taste Tabs for medium sized dogs (26-60 lbs) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "892093",
+              "name": "febantel 680 MG / praziquantel 136 MG / pyrantel 136 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "892099",
+              "name": "febantel 680 MG / praziquantel 136 MG / pyrantel 136 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "892314",
+              "name": "febantel 113 MG / praziquantel 22.7 MG / pyrantel 22.7 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "892325",
+              "name": "febantel 340 MG / praziquantel 68 MG / pyrantel 68 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "892330",
+              "name": "febantel 113 MG / praziquantel 22.7 MG / pyrantel 22.7 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "892336",
+              "name": "febantel 340 MG / praziquantel 68 MG / pyrantel 68 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:58:13.683569",
+  "source": "RxNorm"
+}

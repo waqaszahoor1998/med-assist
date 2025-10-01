@@ -1,0 +1,10 @@
+{
+  "query": "Basmisanil",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:25:34.126270",
+  "source": "RxNorm"
+}

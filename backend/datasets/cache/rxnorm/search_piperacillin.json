@@ -1,0 +1,109 @@
+{
+  "query": "Piperacillin",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1659134",
+              "name": "piperacillin 2000 MG / tazobactam 250 MG Injection [Zosyn]",
+              "synonym": "Zosyn (piperacillin / tazobactam) 2.25 GM Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1659139",
+              "name": "piperacillin 3000 MG / tazobactam 375 MG Injection [Zosyn]",
+              "synonym": "Zosyn (piperacillin / tazobactam) 3.375 GM Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1659151",
+              "name": "piperacillin 4000 MG / tazobactam 500 MG Injection [Zosyn]",
+              "synonym": "Zosyn (piperacillin / tazobactam) 4.5 GM Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1659131",
+              "name": "piperacillin 2000 MG / tazobactam 250 MG Injection",
+              "synonym": "piperacillin / tazobactam 2.25 GM Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1659137",
+              "name": "piperacillin 3000 MG / tazobactam 375 MG Injection",
+              "synonym": "piperacillin / tazobactam 3.375 GM Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1659149",
+              "name": "piperacillin 4000 MG / tazobactam 500 MG Injection",
+              "synonym": "piperacillin / tazobactam 4.5 GM Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "239186",
+              "name": "piperacillin 200 MG/ML Injectable Solution",
+              "synonym": "piperacillin (as piperacillin sodium) 200 MG/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "312444",
+              "name": "piperacillin 400 MG/ML Injectable Solution",
+              "synonym": "piperacillin (as piperacillin sodium) 400 MG/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "312447",
+              "name": "piperacillin 200 MG/ML / tazobactam 25 MG/ML Injectable Solution",
+              "synonym": "piperacillin (as piperacillin sodium) 200 MG/ML / tazobactam (as tazobactam sodium) 25 MG/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:07:37.339090",
+  "source": "RxNorm"
+}

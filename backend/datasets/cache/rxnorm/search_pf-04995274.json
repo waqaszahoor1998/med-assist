@@ -1,0 +1,10 @@
+{
+  "query": "PF-04995274",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:11:53.402725",
+  "source": "RxNorm"
+}

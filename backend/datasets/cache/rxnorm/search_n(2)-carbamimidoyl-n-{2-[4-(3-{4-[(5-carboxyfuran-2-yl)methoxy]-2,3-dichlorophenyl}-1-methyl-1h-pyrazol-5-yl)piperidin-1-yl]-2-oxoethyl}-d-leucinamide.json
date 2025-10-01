@@ -1,0 +1,10 @@
+{
+  "query": "N(2)-carbamimidoyl-N-{2-[4-(3-{4-[(5-carboxyfuran-2-yl)methoxy]-2,3-dichlorophenyl}-1-methyl-1H-pyrazol-5-yl)piperidin-1-yl]-2-oxoethyl}-D-leucinamide",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:03:30.135121",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "ADP-597",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:37:45.201235",
+  "source": "RxNorm"
+}

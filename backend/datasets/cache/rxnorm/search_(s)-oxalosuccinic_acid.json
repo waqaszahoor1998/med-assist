@@ -1,0 +1,10 @@
+{
+  "query": "(S)-oxalosuccinic acid",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:46:56.230337",
+  "source": "RxNorm"
+}

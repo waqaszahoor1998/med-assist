@@ -1,0 +1,35 @@
+{
+  "query": "Ethyl chloride",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD"
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "315097",
+              "name": "ethyl chloride 1 ML/ML Topical Spray",
+              "synonym": "ethyl chloride 100 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T21:19:22.846540",
+  "source": "RxNorm"
+}

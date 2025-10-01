@@ -1,0 +1,203 @@
+{
+  "query": "Tetracycline",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "758020",
+              "name": "{112 (bismuth subsalicylate 262 MG Chewable Tablet) / 56 (metronidazole 250 MG Oral Tablet) / 56 (tetracycline hydrochloride 500 MG Oral Capsule) } Pack [Helidac Therapy]",
+              "synonym": "Helidac Therapy Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "758019",
+              "name": "{112 (bismuth subsalicylate 262 MG Chewable Tablet) / 56 (metronidazole 250 MG Oral Tablet) / 56 (tetracycline hydrochloride 500 MG Oral Capsule) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1294621",
+              "name": "bismuth subcitrate 140 MG / metronidazole 125 MG / tetracycline hydrochloride 125 MG Oral Capsule [Pylera]",
+              "synonym": "Pylera (bismuth subcitrate 140 MG / metronidazole 125 MG / tetracycline hydrochloride 125 MG) Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1926470",
+              "name": "tetracycline hydrochloride 0.03 MG/MG Topical Ointment [Viabecline]",
+              "synonym": "Viabecline 3 % Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2180661",
+              "name": "tetracycline hydrochloride 30 MG/ML Topical Spray [Vitastem]",
+              "synonym": "Vitastem 3 % Topical Spray",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1294619",
+              "name": "bismuth subcitrate 140 MG / metronidazole 125 MG / tetracycline hydrochloride 125 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1542813",
+              "name": "tetracycline hydrochloride 0.03 MG/MG Topical Ointment",
+              "synonym": "tetracycline HCl 3 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1546038",
+              "name": "tetracycline hydrochloride 2.2 MG/ML Topical Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198249",
+              "name": "tetracycline hydrochloride 100 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198250",
+              "name": "tetracycline hydrochloride 250 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198252",
+              "name": "tetracycline hydrochloride 500 MG Oral Capsule",
+              "synonym": "tetracycline HCl 500 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2180656",
+              "name": "tetracycline hydrochloride 30 MG/ML Topical Spray",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "313251",
+              "name": "tetracycline hydrochloride 25 MG/ML Oral Suspension",
+              "synonym": "tetracycline 125 MG per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "313252",
+              "name": "tetracycline hydrochloride 250 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "313254",
+              "name": "tetracycline hydrochloride 500 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "391989",
+              "name": "tetracycline hydrochloride 0.01 MG/MG Topical Ointment",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "391990",
+              "name": "tetracycline hydrochloride 10 MG/ML Topical Lotion",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "687231",
+              "name": "bismuth biskalcitrate 140 MG / metronidazole 125 MG / tetracycline 125 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "756192",
+              "name": "tetracycline 25 MG/ML Oral Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:33:00.385157",
+  "source": "RxNorm"
+}

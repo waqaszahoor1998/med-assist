@@ -1,0 +1,23 @@
+{
+  "drug_name": "p-Benzoyl-L-phenylalanine",
+  "generic_name": [
+    "BENZOYL PEROXIDE"
+  ],
+  "brand_names": [
+    "Dr. Zenovia Acne Cleanser"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    "Warnings For external use only When using this product Skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time. Avoid contact with eyes. If contact occurs, flush thoroughly with water. Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away."
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    "Directions Pump a small amount of cleanser into dampened hands, and gently massage over face and neck using a circular motion. Rinse thoroughly with water and pat dry."
+  ],
+  "indications": [
+    "Uses For the treatment and management of acne Penetrates pores to eliminate most acne and blemishes Helps prevent development of new acne blemishes and blackheads"
+  ],
+  "fetched_at": "2025-10-01T16:55:00.679017",
+  "source": "OpenFDA"
+}

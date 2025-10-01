@@ -1,0 +1,64 @@
+{
+  "query": "Tipiracil",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1670322",
+              "name": "tipiracil 6.14 MG / trifluridine 15 MG Oral Tablet [Lonsurf]",
+              "synonym": "Lonsurf (trifluridine 15 MG / tipiracil 6.14 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1670324",
+              "name": "tipiracil 8.19 MG / trifluridine 20 MG Oral Tablet [Lonsurf]",
+              "synonym": "Lonsurf (trifluridine 20 MG / tipiracil 8.19 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1670311",
+              "name": "tipiracil 6.14 MG / trifluridine 15 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1670316",
+              "name": "tipiracil 8.19 MG / trifluridine 20 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:34:57.925184",
+  "source": "RxNorm"
+}

@@ -1,0 +1,118 @@
+{
+  "query": "Palovarotene",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2663966",
+              "name": "palovarotene 1 MG Oral Capsule [Sohonos]",
+              "synonym": "Sohonos 1 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2663970",
+              "name": "palovarotene 1.5 MG Oral Capsule [Sohonos]",
+              "synonym": "Sohonos 1.5 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2663974",
+              "name": "palovarotene 10 MG Oral Capsule [Sohonos]",
+              "synonym": "Sohonos 10 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2663978",
+              "name": "palovarotene 2.5 MG Oral Capsule [Sohonos]",
+              "synonym": "Sohonos 2.5 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2663982",
+              "name": "palovarotene 5 MG Oral Capsule [Sohonos]",
+              "synonym": "Sohonos 5 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2663960",
+              "name": "palovarotene 1 MG Oral Capsule",
+              "synonym": "palovarotene 1 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2663968",
+              "name": "palovarotene 1.5 MG Oral Capsule",
+              "synonym": "palovarotene 1.5 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2663972",
+              "name": "palovarotene 10 MG Oral Capsule",
+              "synonym": "palovarotene 10 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2663976",
+              "name": "palovarotene 2.5 MG Oral Capsule",
+              "synonym": "palovarotene 2.5 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2663980",
+              "name": "palovarotene 5 MG Oral Capsule",
+              "synonym": "palovarotene 5 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T15:59:20.888476",
+  "source": "RxNorm"
+}

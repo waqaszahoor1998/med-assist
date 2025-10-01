@@ -1,0 +1,68 @@
+{
+  "query": "Oteseconazole",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "2605803",
+              "name": "{18 (oteseconazole 150 MG Oral Capsule [Vivjoa]) } Pack [Vivjoa 18-Count]",
+              "synonym": "Vivjoa 18-Count Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "2605802",
+              "name": "{18 (oteseconazole 150 MG Oral Capsule) } Pack",
+              "synonym": "oteseconazole 150 MG 18-Count Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2602588",
+              "name": "oteseconazole 150 MG Oral Capsule [Vivjoa]",
+              "synonym": "Vivjoa 150 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2602582",
+              "name": "oteseconazole 150 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T19:30:36.317189",
+  "source": "RxNorm"
+}

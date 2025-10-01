@@ -1,0 +1,16 @@
+{
+  "rxcui": "1360633",
+  "properties": {
+    "properties": {
+      "rxcui": "1360633",
+      "name": "{7 (24 HR rotigotine 0.0833 MG/HR Transdermal System [Neupro]) / 7 (24 HR rotigotine 0.167 MG/HR Transdermal System [Neupro]) } Pack [Neupro Kit]",
+      "synonym": "Neupro Titration Kit for Parkinson's disease",
+      "tty": "BPCK",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T15:55:44.621580",
+  "source": "RxNorm"
+}

@@ -1,0 +1,136 @@
+{
+  "query": "Bisoprolol",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "854910",
+              "name": "bisoprolol fumarate 10 MG / hydrochlorothiazide 6.25 MG Oral Tablet [Ziac]",
+              "synonym": "Ziac 10/6.25 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "854918",
+              "name": "bisoprolol fumarate 2.5 MG / hydrochlorothiazide 6.25 MG Oral Tablet [Ziac]",
+              "synonym": "Ziac 2.5/6.25 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "854921",
+              "name": "bisoprolol fumarate 5 MG / hydrochlorothiazide 6.25 MG Oral Tablet [Ziac]",
+              "synonym": "Ziac 5/6.25 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "854901",
+              "name": "bisoprolol fumarate 10 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "854905",
+              "name": "bisoprolol fumarate 5 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "854908",
+              "name": "bisoprolol fumarate 10 MG / hydrochlorothiazide 6.25 MG Oral Tablet",
+              "synonym": "bisoprolol fumarate 10 MG / HCTZ 6.25 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "854916",
+              "name": "bisoprolol fumarate 2.5 MG / hydrochlorothiazide 6.25 MG Oral Tablet",
+              "synonym": "bisoprolol fumarate 2.5 MG / HCTZ 6.25 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "854919",
+              "name": "bisoprolol fumarate 5 MG / hydrochlorothiazide 6.25 MG Oral Tablet",
+              "synonym": "bisoprolol fumarate 5 MG / HCTZ 6.25 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "865154",
+              "name": "bisoprolol fumarate 1.25 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "865155",
+              "name": "bisoprolol fumarate 2.5 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "865157",
+              "name": "bisoprolol fumarate 3.75 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "865159",
+              "name": "bisoprolol fumarate 7.5 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:24:41.248348",
+  "source": "RxNorm"
+}

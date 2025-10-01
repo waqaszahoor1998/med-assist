@@ -1,0 +1,10 @@
+{
+  "query": "Gimatecan",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:33:27.819772",
+  "source": "RxNorm"
+}

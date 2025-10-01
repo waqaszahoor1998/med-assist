@@ -1,0 +1,212 @@
+{
+  "query": "Bisacodyl",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1718991",
+              "name": "{1 (bisacodyl 5 MG Delayed Release Oral Tablet) / 1 (2000 ML) (polyethylene glycol 3350 210000 MG / potassium chloride 740 MG / sodium bicarbonate 2860 MG / sodium chloride 5600 MG Powder for Oral Solution [Gavilyte-H]) } Pack [Gavilyte-H and Bisacodyl]",
+              "synonym": "Gavilyte-H and Bisacodyl Bowel Prep (PEG-3350 210 GM / sodium chloride 5.6 GM / sodium bicarbonate 2.86 GM / potassium chloride 0.74 GM) Powder for 2 L Oral Solution / 1 x bisacodyl Delayed Release Oral Tablet",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1000479",
+              "name": "{1 (bisacodyl 5 MG Delayed Release Oral Tablet) / 1 (2000 ML) (polyethylene glycol 3350 210000 MG / potassium chloride 740 MG / sodium bicarbonate 2860 MG / sodium chloride 5600 MG Powder for Oral Solution) } Pack",
+              "synonym": "PEG-3350 210 GM / potassium chloride 0.740 GM / sodium bicarbonate 2.86 GM / sodium chloride 5.6 GM Powder for 2 L Oral Solution / 1 x bisacodyl 5 MG Delayed Release Oral Tablet",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "209597",
+              "name": "bisacodyl 10 MG Rectal Suppository [Bisac-Evac]",
+              "synonym": "Bisac-Evac 10 MG Rectal Suppository",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "209601",
+              "name": "bisacodyl 10 MG Rectal Suppository [Dulcolax]",
+              "synonym": "Dulcolax 10 MG Rectal Suppository",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "209607",
+              "name": "bisacodyl 5 MG Delayed Release Oral Tablet [Bisac-Evac]",
+              "synonym": "Bisac-Evac 5 MG Delayed Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "209611",
+              "name": "bisacodyl 5 MG Delayed Release Oral Tablet [Correct (New Formula)]",
+              "synonym": "Correct (New Formula) 5 MG Delayed Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "209613",
+              "name": "bisacodyl 5 MG Delayed Release Oral Tablet [Dulcolax]",
+              "synonym": "Dulcolax 5 MG Delayed Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2719716",
+              "name": "bisacodyl 5 MG Delayed Release Oral Tablet [Laxomil]",
+              "synonym": "Laxomil 5 MG Delayed Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "284283",
+              "name": "bisacodyl 10 MG Rectal Suppository [The Magic Bullet]",
+              "synonym": "The Magic Bullet 10 MG Rectal Suppository",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "404165",
+              "name": "bisacodyl 5 MG Delayed Release Oral Tablet [Ex-lax Ultra]",
+              "synonym": "Ex-lax Ultra 5 MG Delayed Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "750171",
+              "name": "bisacodyl 5 MG Delayed Release Oral Tablet [Alophen Reformulated Jan 2008]",
+              "synonym": "Alophen Reformulated Jan 2008 5 MG Delayed Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "751984",
+              "name": "bisacodyl 5 MG Delayed Release Oral Tablet [Evac-U-Gen Reformulated Jan 2008]",
+              "synonym": "Evac-U-Gen Reformulated Jan 2008 5 MG Delayed Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "751988",
+              "name": "bisacodyl 5 MG Delayed Release Oral Tablet [Feen-A-Mint Reformulated Jan 2008]",
+              "synonym": "Feen-A-Mint Reformulated Jan 2008 5 MG Delayed Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "754463",
+              "name": "bisacodyl 5 MG Delayed Release Oral Tablet [Correctol laxative Reformulated Feb 2008]",
+              "synonym": "Correctol laxative Reformulated Feb 2008 5 MG Delayed Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "198509",
+              "name": "bisacodyl 10 MG Rectal Suppository",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "245323",
+              "name": "bisacodyl 2 MG/ML Enema",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2710428",
+              "name": "bisacodyl 5 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308749",
+              "name": "bisacodyl 0.333 MG/ML Enema",
+              "synonym": "bisacodyl 10 MG per 30 ML Enema",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308753",
+              "name": "bisacodyl 5 MG Delayed Release Oral Tablet",
+              "synonym": "bisacodyl 5 MG Enteric Coated Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "313863",
+              "name": "bisacodyl 5 MG Rectal Suppository",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:14:08.024517",
+  "source": "RxNorm"
+}

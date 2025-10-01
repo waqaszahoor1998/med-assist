@@ -1,0 +1,10 @@
+{
+  "query": "2-phenyl-1H-imidazole-4-carboxylic acid",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:49:58.618991",
+  "source": "RxNorm"
+}

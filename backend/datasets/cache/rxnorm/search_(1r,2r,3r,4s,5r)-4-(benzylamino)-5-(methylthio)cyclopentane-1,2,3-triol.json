@@ -1,0 +1,10 @@
+{
+  "query": "(1R,2R,3R,4S,5R)-4-(Benzylamino)-5-(methylthio)cyclopentane-1,2,3-triol",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:42:14.835408",
+  "source": "RxNorm"
+}

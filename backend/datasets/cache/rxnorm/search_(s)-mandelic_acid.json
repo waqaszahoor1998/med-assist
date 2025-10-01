@@ -1,0 +1,10 @@
+{
+  "query": "(S)-Mandelic acid",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:38:46.909777",
+  "source": "RxNorm"
+}

@@ -1,0 +1,23 @@
+{
+  "drug_name": "2-Chloro-6-Methyl-Aniline",
+  "generic_name": [
+    "MENTHOL, METHYL SALICYLATE"
+  ],
+  "brand_names": [
+    "Mentholatum Pain Relieving"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    "Warnings For external use only When using this product use only as directed do not get into eyes or on mucous membranes do not apply to wounds or to damaged skin do not bandage tightly do not use with a heating pad, other heat sources, or right after a shower/bath do not use in combination with other external analgesic products Stop use and ask a doctor if condition worsens excessive irritation, burning or discomfort of the skin develops symptoms persist for more than 7 days or clear up and occur again within a few days"
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    "Directions adults and children 12 years and over: apply to affected area not more than 3 to 4 times daily children under 12 years: ask a doctor"
+  ],
+  "indications": [
+    "Uses temporarily relieves minor aches and pains of muscles and joints due to arthritis simple backache strains sprains"
+  ],
+  "fetched_at": "2025-10-01T04:29:12.039017",
+  "source": "OpenFDA"
+}

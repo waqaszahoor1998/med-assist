@@ -1,0 +1,10 @@
+{
+  "query": "GSK-256066",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:40:46.156292",
+  "source": "RxNorm"
+}

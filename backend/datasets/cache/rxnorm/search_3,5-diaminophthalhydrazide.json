@@ -1,0 +1,10 @@
+{
+  "query": "3,5-Diaminophthalhydrazide",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T06:33:38.892279",
+  "source": "RxNorm"
+}

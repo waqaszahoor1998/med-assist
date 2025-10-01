@@ -1,0 +1,16 @@
+{
+  "rxcui": "1654009",
+  "properties": {
+    "properties": {
+      "rxcui": "1654009",
+      "name": "10 ML etomidate 2 MG/ML Injection [Amidate]",
+      "synonym": "10 ML Amidate 2 MG/ML Injection",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T21:05:05.892411",
+  "source": "RxNorm"
+}

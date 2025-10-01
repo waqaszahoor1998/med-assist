@@ -1,0 +1,10 @@
+{
+  "query": "1-METHYL-3-PHENYL-1H-PYRAZOL-5-YLSULFAMIC ACID",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:41:49.436124",
+  "source": "RxNorm"
+}

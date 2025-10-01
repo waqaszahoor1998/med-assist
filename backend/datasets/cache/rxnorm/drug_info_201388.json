@@ -1,0 +1,16 @@
+{
+  "rxcui": "201388",
+  "properties": {
+    "properties": {
+      "rxcui": "201388",
+      "name": "metyrosine 250 MG Oral Capsule [Demser]",
+      "synonym": "Demser 250 MG Oral Capsule",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T21:33:52.620870",
+  "source": "RxNorm"
+}

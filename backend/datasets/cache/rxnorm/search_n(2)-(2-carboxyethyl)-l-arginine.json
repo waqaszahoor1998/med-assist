@@ -1,0 +1,10 @@
+{
+  "query": "N(2)-(2-carboxyethyl)-L-arginine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T07:58:00.605888",
+  "source": "RxNorm"
+}

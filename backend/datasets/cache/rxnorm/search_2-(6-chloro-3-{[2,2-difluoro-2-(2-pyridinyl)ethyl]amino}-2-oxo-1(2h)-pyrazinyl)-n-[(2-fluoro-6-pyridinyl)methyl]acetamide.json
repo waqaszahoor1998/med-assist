@@ -1,0 +1,10 @@
+{
+  "query": "2-(6-Chloro-3-{[2,2-difluoro-2-(2-pyridinyl)ethyl]amino}-2-oxo-1(2H)-pyrazinyl)-N-[(2-fluoro-6-pyridinyl)methyl]acetamide",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:46:46.807036",
+  "source": "RxNorm"
+}

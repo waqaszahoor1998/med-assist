@@ -1,0 +1,10 @@
+{
+  "query": "3-Amino-N-{4-[2-(2,6-Dimethyl-Phenoxy)-Acetylamino]-3-Hydroxy-1-Isobutyl-5-Phenyl-Pentyl}-Benzamide",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:21:41.706651",
+  "source": "RxNorm"
+}

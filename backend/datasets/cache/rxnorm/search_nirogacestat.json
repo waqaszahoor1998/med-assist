@@ -1,0 +1,122 @@
+{
+  "query": "Nirogacestat",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "2680364",
+              "name": "{14 (nirogacestat 100 MG Oral Tablet [Ogsiveo]) } Pack [Ogsiveo 100 MG 7-Day]",
+              "synonym": "Ogsiveo 100 MG Tablet 7-Day 14 Count Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2680370",
+              "name": "{14 (nirogacestat 150 MG Oral Tablet [Ogsiveo]) } Pack [Ogsiveo 150 MG 7-Day]",
+              "synonym": "Ogsiveo 150 MG Tablet 7-Day 14 Count Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "2680363",
+              "name": "{14 (nirogacestat 100 MG Oral Tablet) } Pack",
+              "synonym": "nirogacestat 100 MG Tablet 7-Day 14 Count Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2680369",
+              "name": "{14 (nirogacestat 150 MG Oral Tablet) } Pack",
+              "synonym": "nirogacestat 150 MG Tablet 7-Day 14 Count Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2670643",
+              "name": "nirogacestat 50 MG Oral Tablet [Ogsiveo]",
+              "synonym": "Ogsiveo 50 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2680362",
+              "name": "nirogacestat 100 MG Oral Tablet [Ogsiveo]",
+              "synonym": "Ogsiveo 100 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2680368",
+              "name": "nirogacestat 150 MG Oral Tablet [Ogsiveo]",
+              "synonym": "Ogsiveo 150 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2670637",
+              "name": "nirogacestat 50 MG Oral Tablet",
+              "synonym": "nirogacestat 50 MG (equivalent to nirogacestat HBr 66.5 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2680360",
+              "name": "nirogacestat 100 MG Oral Tablet",
+              "synonym": "nirogacestat 100 MG (equivalent to nirogacestat HBr 133.05 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2680366",
+              "name": "nirogacestat 150 MG Oral Tablet",
+              "synonym": "nirogacestat 150 MG (equivalent to nirogacestat HBr 199.574 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:33:04.818926",
+  "source": "RxNorm"
+}

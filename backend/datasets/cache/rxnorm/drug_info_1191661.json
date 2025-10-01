@@ -1,0 +1,16 @@
+{
+  "rxcui": "1191661",
+  "properties": {
+    "properties": {
+      "rxcui": "1191661",
+      "name": "{1 (dextromethorphan hydrobromide 4 MG/ML Oral Solution) / 1 (guaifenesin 375 MG / pseudoephedrine hydrochloride 60 MG Oral Tablet) } Pack",
+      "synonym": "dextromethorphan HBr 20 MG per 5 mL Oral Solution (1) / guaiFENesin 375 MG / pseudoephedrine HCl 60 MG Oral Tablet (1) Pack",
+      "tty": "GPCK",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T21:17:10.788032",
+  "source": "RxNorm"
+}

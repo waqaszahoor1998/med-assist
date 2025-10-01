@@ -1,0 +1,10 @@
+{
+  "query": "Tanomastat",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:16:56.367924",
+  "source": "RxNorm"
+}

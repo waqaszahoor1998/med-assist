@@ -1,0 +1,230 @@
+{
+  "query": "Tezacaftor",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1999389",
+              "name": "{28 (ivacaftor 150 MG / tezacaftor 100 MG Oral Tablet) / 28 (ivacaftor 150 MG Oral Tablet) } Pack [Symdeko (100 MG / 150 MG; 150 MG)]",
+              "synonym": "symdeko 100 MG / 150 MG and 150 MG Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2174390",
+              "name": "{28 (ivacaftor 75 MG / tezacaftor 50 MG Oral Tablet) / 28 (ivacaftor 75 MG Oral Tablet) } Pack [Symdeko (50 MG / 75 MG; 75 MG)]",
+              "synonym": "symdeko 50 MG / 75 MG and 75 MG Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2257013",
+              "name": "{56 (elexacaftor 100 MG / ivacaftor 75 MG / tezacaftor 50 MG Oral Tablet) / 28 (ivacaftor 150 MG Oral Tablet) } Pack [Trikafta (100 MG / 50 MG / 75 MG; 150 MG)]",
+              "synonym": "trikafta 100 MG / 50 MG / 75 MG and 150 MG Tablet Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2557216",
+              "name": "{56 (elexacaftor 50 MG / ivacaftor 37.5 MG / tezacaftor 25 MG Oral Tablet) / 28 (ivacaftor 75 MG Oral Tablet) } Pack [Trikafta (50 MG / 37.5 MG / 25 MG; 75 MG)]",
+              "synonym": "trikafta 50 MG / 37.5 MG / 25 MG and 75 MG Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2635022",
+              "name": "{28 (elexacaftor 80 MG / ivacaftor 60 MG / tezacaftor 40 MG Oral Granules) / 28 (ivacaftor 59.5 MG Oral Granules) } Pack [Trikafta (80 MG / 40 MG / 60 MG; 59.5 MG) Granules]",
+              "synonym": "Trikafta 80 MG / 40 MG / 60 MG and 59.5 MG Oral Granules Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2635026",
+              "name": "{28 (elexacaftor 100 MG / ivacaftor 75 MG / tezacaftor 50 MG Oral Granules) / 28 (ivacaftor 75 MG Oral Granules) } Pack [Trikafta (100 MG / 50 MG / 75 MG; 75 MG) Granules]",
+              "synonym": "Trikafta 100 MG / 50 MG / 75 MG and 75 MG Oral Granules Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1999388",
+              "name": "{28 (ivacaftor 150 MG / tezacaftor 100 MG Oral Tablet) / 28 (ivacaftor 150 MG Oral Tablet) } Pack",
+              "synonym": "ivacaftor 150 MG / tezacaftor 100 MG (28) Oral Tablet / ivacaftor 150 MG (28) Oral Tablet Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2174389",
+              "name": "{28 (ivacaftor 75 MG / tezacaftor 50 MG Oral Tablet) / 28 (ivacaftor 75 MG Oral Tablet) } Pack",
+              "synonym": "ivacaftor 75 MG / tezacaftor 50 MG (28) Oral Tablet / ivacaftor 75 MG (28) Oral Tablet Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2257012",
+              "name": "{56 (elexacaftor 100 MG / ivacaftor 75 MG / tezacaftor 50 MG Oral Tablet) / 28 (ivacaftor 150 MG Oral Tablet) } Pack",
+              "synonym": "elexacaftor 100 MG / ivacaftor 75 MG / tezacaftor 50 MG Oral Tablet (56) and ivacaftor 150 MG Oral Tablet (28) Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2557215",
+              "name": "{56 (elexacaftor 50 MG / ivacaftor 37.5 MG / tezacaftor 25 MG Oral Tablet) / 28 (ivacaftor 75 MG Oral Tablet) } Pack",
+              "synonym": "elexacaftor 50 MG / ivacaftor 37.5 MG / tezacaftor 25 MG Oral Tablet (56) and ivacaftor 75 MG Oral Tablet (28) Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2635021",
+              "name": "{28 (elexacaftor 80 MG / ivacaftor 60 MG / tezacaftor 40 MG Oral Granules) / 28 (ivacaftor 59.5 MG Oral Granules) } Pack",
+              "synonym": "elexacaftor 80 MG / ivacaftor 60 MG / tezacaftor 40 MG Oral Granules (28) / ivacaftor 59.5 MG Oral Granules (28) Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2635025",
+              "name": "{28 (elexacaftor 100 MG / ivacaftor 75 MG / tezacaftor 50 MG Oral Granules) / 28 (ivacaftor 75 MG Oral Granules) } Pack",
+              "synonym": "elexacaftor 100 MG / ivacaftor 75 MG / tezacaftor 50 MG Oral Granules (28) / ivacaftor 75 MG Oral Granules (28) Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2701444",
+              "name": "deutivacaftor 125 MG / tezacaftor 50 MG / vanzacaftor 10 MG Oral Tablet [Alyftrek]",
+              "synonym": "Alyftrek 125 MG / 50 MG / 10 MG (equivalent to vanzacaftor calcium dihydrate 10.6 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2701450",
+              "name": "deutivacaftor 50 MG / tezacaftor 20 MG / vanzacaftor 4 MG Oral Tablet [Alyftrek]",
+              "synonym": "Alyftrek 50 MG / 20 MG / 4 MG (equivalent to vanzacaftor calcium dihydrate 4.24 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1999387",
+              "name": "ivacaftor 150 MG / tezacaftor 100 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2174387",
+              "name": "ivacaftor 75 MG / tezacaftor 50 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2257011",
+              "name": "elexacaftor 100 MG / ivacaftor 75 MG / tezacaftor 50 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2557214",
+              "name": "elexacaftor 50 MG / ivacaftor 37.5 MG / tezacaftor 25 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2635013",
+              "name": "elexacaftor 80 MG / ivacaftor 60 MG / tezacaftor 40 MG Oral Granules",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2635024",
+              "name": "elexacaftor 100 MG / ivacaftor 75 MG / tezacaftor 50 MG Oral Granules",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2701438",
+              "name": "deutivacaftor 125 MG / tezacaftor 50 MG / vanzacaftor 10 MG Oral Tablet",
+              "synonym": "deutivacaftor 125 MG / tezacaftor 50 MG / vanzacaftor 10 MG (equivalent to vanzacaftor calcium dihydrate 10.6 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2701448",
+              "name": "deutivacaftor 50 MG / tezacaftor 20 MG / vanzacaftor 4 MG Oral Tablet",
+              "synonym": "deutivacaftor 50 MG / tezacaftor 20 MG / vanzacaftor 4 MG (equivalent to vanzacaftor calcium dihydrate 4.24 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:15:59.422060",
+  "source": "RxNorm"
+}

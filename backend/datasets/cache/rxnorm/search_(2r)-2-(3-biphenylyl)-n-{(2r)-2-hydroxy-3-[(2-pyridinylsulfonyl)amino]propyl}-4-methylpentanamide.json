@@ -1,0 +1,10 @@
+{
+  "query": "(2R)-2-(3-Biphenylyl)-N-{(2R)-2-hydroxy-3-[(2-pyridinylsulfonyl)amino]propyl}-4-methylpentanamide",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T11:36:04.965797",
+  "source": "RxNorm"
+}

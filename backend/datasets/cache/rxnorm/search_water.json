@@ -1,0 +1,208 @@
+{
+  "query": "Water",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1235504",
+              "name": "water 984 MG/ML Ophthalmic Irrigation Solution [Dorama-Neo]",
+              "synonym": "Dorama-Neo 98.4 % Ophthalmic Irrigation Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1424605",
+              "name": "water 983 MG/ML Ophthalmic Irrigation Solution [Pur-Wash]",
+              "synonym": "Pur-Wash 98.3 % Ophthalmic Irrigation Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1425978",
+              "name": "water 985 MG/ML Ophthalmic Irrigation Solution [Opticlear]",
+              "synonym": "Opticlear 985 MG/ML Ophthalmic Irrigation Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1489378",
+              "name": "water 988 MG/ML Ophthalmic Irrigation Solution [OcuFresh]",
+              "synonym": "OcuFresh 98.8 % Ophthalmic Irrigation Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1549855",
+              "name": "water 986 MG/ML Ophthalmic Irrigation Solution [Eye Stream]",
+              "synonym": "Eye Stream 98.6 % Ophthalmic Irrigation Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2360610",
+              "name": "water 983 MG/ML Ophthalmic Irrigation Solution [Firstflush]",
+              "synonym": "Firstflush 98.3 % Ophthalmic Irrigation Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1053148",
+              "name": "water 980 MG/ML Ophthalmic Irrigation Solution",
+              "synonym": "water 98 % Ophthalmic Irrigation Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1053154",
+              "name": "water 951 MG/ML Ophthalmic Irrigation Solution",
+              "synonym": "water 95.1 % Ophthalmic Irrigation Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1053173",
+              "name": "water 986 MG/ML Ophthalmic Irrigation Solution",
+              "synonym": "water 98.6 % Ophthalmic Irrigation Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1053429",
+              "name": "water 991 MG/ML Ophthalmic Irrigation Solution",
+              "synonym": "water 99.1 % Ophthalmic Irrigation Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1151101",
+              "name": "water 983 MG/ML Ophthalmic Irrigation Solution",
+              "synonym": "water 98.3 % Ophthalmic Irrigation Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1235499",
+              "name": "water 984 MG/ML Ophthalmic Irrigation Solution",
+              "synonym": "water 98.4 % Ophthalmic Irrigation Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1423321",
+              "name": "water 985 MG/ML Ophthalmic Irrigation Solution",
+              "synonym": "water 98.5 % Ophthalmic Irrigation Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1489376",
+              "name": "water 988 MG/ML Ophthalmic Irrigation Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "150985",
+              "name": "water 1000 MG/ML Irrigation Solution",
+              "synonym": "water 100 % Irrigation Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1539535",
+              "name": "water 1000 MG/ML Ophthalmic Irrigation Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1923420",
+              "name": "water 987 MG/ML Ophthalmic Irrigation Solution",
+              "synonym": "water 98.7 % Ophthalmic Irrigation Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "204918",
+              "name": "water 1000 MG/ML Inhalation Solution",
+              "synonym": "water 100 % Inhalation Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2704856",
+              "name": "water 921 MG/ML Ophthalmic Irrigation Solution",
+              "synonym": "water 92.1 % Ophthalmic Irrigation Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2719930",
+              "name": "water 991 MG/ML Irrigation Solution",
+              "synonym": "water 99.1 % Irrigation Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:23:16.498986",
+  "source": "RxNorm"
+}

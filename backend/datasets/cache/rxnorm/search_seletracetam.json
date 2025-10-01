@@ -1,0 +1,10 @@
+{
+  "query": "Seletracetam",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:06:30.953512",
+  "source": "RxNorm"
+}

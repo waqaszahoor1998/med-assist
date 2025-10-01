@@ -1,0 +1,10 @@
+{
+  "query": "Facinicline",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:01:49.612415",
+  "source": "RxNorm"
+}

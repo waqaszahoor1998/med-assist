@@ -1,0 +1,10 @@
+{
+  "query": "5-amino-1,3,4-thiadiazole-2-thiol",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:54:08.573415",
+  "source": "RxNorm"
+}

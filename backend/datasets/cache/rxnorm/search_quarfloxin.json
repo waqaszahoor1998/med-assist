@@ -1,0 +1,10 @@
+{
+  "query": "Quarfloxin",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:28:54.060097",
+  "source": "RxNorm"
+}

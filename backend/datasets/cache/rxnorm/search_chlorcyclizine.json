@@ -1,0 +1,136 @@
+{
+  "query": "Chlorcyclizine",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1193111",
+              "name": "chlorcyclizine hydrochloride 12.5 MG / phenylephrine hydrochloride 5 MG Chewable Tablet [Dallergy Reformulated Nov 2011]",
+              "synonym": "Dallergy (chlorcyclizine hydrochloride 12.5 MG / phenylephrine hydrochloride 5 MG) Chewable Tablet, Reformulated Nov 2011",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1236716",
+              "name": "chlorcyclizine hydrochloride 25 MG / pseudoephedrine hydrochloride 60 MG Oral Tablet [Stahist AD]",
+              "synonym": "Stahist AD (chlorcyclizine hydrochloride 25 MG / pseudoephedrine hydrochloride 60 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1242558",
+              "name": "chlorcyclizine hydrochloride 2.5 MG/ML / codeine phosphate 1.8 MG/ML / pseudoephedrine hydrochloride 6 MG/ML Oral Solution [Statuss Green Reformulated Jan 2012]",
+              "synonym": "Statuss Green (chloryclizine hydrochloride 12.5 MG / codeine phosphate 9 MG / pseudoephedrine hydrochloride 30 MG) per 5 ML Oral Solution, Reformulated Jan 2012",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1358165",
+              "name": "chlophedianol hydrochloride 2.5 MG/ML / chlorcyclizine hydrochloride 2.5 MG/ML Oral Solution [Biclora]",
+              "synonym": "Biclora (chlophedianol hydrochloride 12.5 MG / chlorcyclizine hydrochloride 12.5 MG) per 5 ML Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1361704",
+              "name": "chlophedianol hydrochloride 25 MG / chlorcyclizine hydrochloride 25 MG Oral Tablet [Biclora]",
+              "synonym": "Biclora (chlophedianol HCl 25 MG / chlorcyclizine HCl 25 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1366500",
+              "name": "chlorcyclizine hydrochloride 25 MG Oral Tablet [Ahist Antihistamine]",
+              "synonym": "Ahist Antihistamine 25 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1193105",
+              "name": "chlorcyclizine hydrochloride 12.5 MG / phenylephrine hydrochloride 5 MG Chewable Tablet",
+              "synonym": "chlorcyclizine HCl 12.5 MG / phenylephrine HCl 5 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1235861",
+              "name": "chlorcyclizine hydrochloride 25 MG / pseudoephedrine hydrochloride 60 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1235862",
+              "name": "chlorcyclizine hydrochloride 2.5 MG/ML / codeine phosphate 1.8 MG/ML / pseudoephedrine hydrochloride 6 MG/ML Oral Solution",
+              "synonym": "chlorcyclizine hydrochloride 12.5 MG / codeine phosphate 9 MG / pseudoephedrine hydrochloride 30 MG per 5 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1236451",
+              "name": "chlophedianol hydrochloride 25 MG / chlorcyclizine hydrochloride 25 MG Oral Tablet",
+              "synonym": "chlophedianol HCl 25 MG / chlorcyclizine HCl 25 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1236710",
+              "name": "chlophedianol hydrochloride 2.5 MG/ML / chlorcyclizine hydrochloride 2.5 MG/ML Oral Solution",
+              "synonym": "chlophedianol hydrochloride 12.5 MG / chlorcyclizine hydrochloride 12.5 MG per 5 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1366494",
+              "name": "chlorcyclizine hydrochloride 25 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:08:53.171111",
+  "source": "RxNorm"
+}

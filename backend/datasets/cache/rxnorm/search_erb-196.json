@@ -1,0 +1,10 @@
+{
+  "query": "ERB-196",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:41:12.060046",
+  "source": "RxNorm"
+}

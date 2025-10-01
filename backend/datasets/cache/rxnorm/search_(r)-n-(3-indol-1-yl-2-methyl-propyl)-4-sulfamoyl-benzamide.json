@@ -1,0 +1,10 @@
+{
+  "query": "(R)-N-(3-Indol-1-Yl-2-Methyl-Propyl)-4-Sulfamoyl-Benzamide",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:59:11.323757",
+  "source": "RxNorm"
+}

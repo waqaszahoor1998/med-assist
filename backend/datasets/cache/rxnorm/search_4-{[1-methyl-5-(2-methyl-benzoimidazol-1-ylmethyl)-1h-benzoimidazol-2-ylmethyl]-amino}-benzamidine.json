@@ -1,0 +1,10 @@
+{
+  "query": "4-{[1-Methyl-5-(2-Methyl-Benzoimidazol-1-Ylmethyl)-1h-Benzoimidazol-2-Ylmethyl]-Amino}-Benzamidine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:54:03.373864",
+  "source": "RxNorm"
+}

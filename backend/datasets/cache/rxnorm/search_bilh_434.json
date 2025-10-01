@@ -1,0 +1,10 @@
+{
+  "query": "Bilh 434",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:19:19.531879",
+  "source": "RxNorm"
+}

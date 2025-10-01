@@ -1,0 +1,212 @@
+{
+  "query": "Selexipag",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1729076",
+              "name": "{140 (selexipag 0.2 MG Oral Tablet [Uptravi]) / 60 (selexipag 0.8 MG Oral Tablet [Uptravi]) } Pack [Uptravi Titration Pack]",
+              "synonym": "Uptravi Titration Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1729075",
+              "name": "{140 (selexipag 0.2 MG Oral Tablet) / 60 (selexipag 0.8 MG Oral Tablet) } Pack",
+              "synonym": "{140 (selexipag 200 MCG Oral Tablet) / 60 (selexipag 800 MCG Oral Tablet) } Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1729013",
+              "name": "selexipag 1 MG Oral Tablet [Uptravi]",
+              "synonym": "Uptravi 1 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1729029",
+              "name": "selexipag 1.2 MG Oral Tablet [Uptravi]",
+              "synonym": "Uptravi 1.2 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1729033",
+              "name": "selexipag 1.4 MG Oral Tablet [Uptravi]",
+              "synonym": "Uptravi 1.4 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1729047",
+              "name": "selexipag 1.6 MG Oral Tablet [Uptravi]",
+              "synonym": "Uptravi 1.6 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1729053",
+              "name": "selexipag 0.2 MG Oral Tablet [Uptravi]",
+              "synonym": "Uptravi 0.2 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1729057",
+              "name": "selexipag 0.4 MG Oral Tablet [Uptravi]",
+              "synonym": "Uptravi 0.4 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1729061",
+              "name": "selexipag 0.6 MG Oral Tablet [Uptravi]",
+              "synonym": "Uptravi 0.6 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1729065",
+              "name": "selexipag 0.8 MG Oral Tablet [Uptravi]",
+              "synonym": "Uptravi 0.8 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2565275",
+              "name": "selexipag 1.8 MG Injection [Uptravi]",
+              "synonym": "Uptravi 1.8 MG Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1729007",
+              "name": "selexipag 1 MG Oral Tablet",
+              "synonym": "selexipag 1000 MCG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1729027",
+              "name": "selexipag 1.2 MG Oral Tablet",
+              "synonym": "selexipag 1200 MCG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1729031",
+              "name": "selexipag 1.4 MG Oral Tablet",
+              "synonym": "selexipag 1400 MCG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1729045",
+              "name": "selexipag 1.6 MG Oral Tablet",
+              "synonym": "selexipag 1600 MCG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1729051",
+              "name": "selexipag 0.2 MG Oral Tablet",
+              "synonym": "selexipag 200 MCG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1729055",
+              "name": "selexipag 0.4 MG Oral Tablet",
+              "synonym": "selexipag 400 MCG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1729059",
+              "name": "selexipag 0.6 MG Oral Tablet",
+              "synonym": "selexipag 600 MCG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1729063",
+              "name": "selexipag 0.8 MG Oral Tablet",
+              "synonym": "selexipag 800 MCG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2565271",
+              "name": "selexipag 1.8 MG Injection",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:54:58.545501",
+  "source": "RxNorm"
+}

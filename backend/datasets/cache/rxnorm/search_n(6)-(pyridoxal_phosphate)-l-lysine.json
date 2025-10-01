@@ -1,0 +1,10 @@
+{
+  "query": "N(6)-(pyridoxal phosphate)-L-lysine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T06:28:04.118226",
+  "source": "RxNorm"
+}

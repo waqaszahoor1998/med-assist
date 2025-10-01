@@ -1,0 +1,10 @@
+{
+  "query": "N-(4-{2-[(3-chlorobenzyl)amino]ethyl}phenyl)thiophene-2-carboximidamide",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:43:01.688180",
+  "source": "RxNorm"
+}

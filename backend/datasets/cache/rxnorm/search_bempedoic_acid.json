@@ -1,0 +1,64 @@
+{
+  "query": "Bempedoic acid",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2282414",
+              "name": "bempedoic acid 180 MG Oral Tablet [Nexletol]",
+              "synonym": "Nexletol 180 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2283236",
+              "name": "bempedoic acid 180 MG / ezetimibe 10 MG Oral Tablet [Nexlizet]",
+              "synonym": "Nexlizet (bempedoic acid 180 MG / ezetimibe 10 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2282408",
+              "name": "bempedoic acid 180 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2283230",
+              "name": "bempedoic acid 180 MG / ezetimibe 10 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:28:41.513711",
+  "source": "RxNorm"
+}

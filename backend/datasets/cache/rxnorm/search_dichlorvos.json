@@ -1,0 +1,10 @@
+{
+  "query": "Dichlorvos",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T17:57:30.360874",
+  "source": "RxNorm"
+}

@@ -1,0 +1,16 @@
+{
+  "rxcui": "104084",
+  "properties": {
+    "properties": {
+      "rxcui": "104084",
+      "name": "ranitidine 25 MG/ML Injectable Solution [Zantac]",
+      "synonym": "Zantac 25 MG/ML Injectable Solution",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T22:11:15.454208",
+  "source": "RxNorm"
+}

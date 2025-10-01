@@ -1,0 +1,230 @@
+{
+  "query": "Cenobamate",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "2283518",
+              "name": "{28 (cenobamate 150 MG Oral Tablet [Xcopri]) / 28 (cenobamate 200 MG Oral Tablet) } Pack [Xcopri 350 MG Maintenance Pack]",
+              "synonym": "Xcopri 350 MG Maintenance Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2283536",
+              "name": "{14 (cenobamate 100 MG Oral Tablet [Xcopri]) / 14 (cenobamate 50 MG Oral Tablet [Xcopri]) } Pack [Xcopri Titration Pack - 50 MG (14), 100 MG (14) 28 Count]",
+              "synonym": "Xcopri Titration Pack - 50 MG (14), 100 MG (14) 28 Count",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2283538",
+              "name": "{14 (cenobamate 12.5 MG Oral Tablet [Xcopri]) / 14 (cenobamate 25 MG Oral Tablet [Xcopri]) } Pack [Xcopri Titration Pack - 12.5 MG (14), 25 MG (14) 28 Count]",
+              "synonym": "Xcopri Titration Pack - 12.5 MG (14), 25 MG (14) 28 Count",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2283540",
+              "name": "{14 (cenobamate 150 MG Oral Tablet [Xcopri]) / 14 (cenobamate 200 MG Oral Tablet [Xcopri]) } Pack [Xcopri Titration Pack - 150 MG (14), 200 MG (14) 28 Count]",
+              "synonym": "Xcopri Titration Pack - 150 MG (14), 200 MG (14) 28 Count",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2540432",
+              "name": "{28 (cenobamate 100 MG Oral Tablet [Xcopri]) / 28 (cenobamate 150 MG Oral Tablet [Xcopri]) } Pack [Xcopri 250 MG Maintenance Pack - 100 MG (28), 150 MG (28) 56 Count]",
+              "synonym": "Xcopri 250 MG Maintenance Pack - 100 MG (28), 150 MG (28) 56 Count",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "2283517",
+              "name": "{28 (cenobamate 150 MG Oral Tablet) / 28 (cenobamate 200 MG Oral Tablet) } Pack",
+              "synonym": "cenobamate 150 MG Oral Tablet (28) / cenobamate 200 MG Oral Tablet (28) Maintenance Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2283523",
+              "name": "{14 (cenobamate 12.5 MG Oral Tablet) / 14 (cenobamate 25 MG Oral Tablet) } Pack",
+              "synonym": "cenobamate 12.5 MG Oral Tablet (14) / cenobamate 25 MG Oral Tablet (14) Titration Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2283535",
+              "name": "{14 (cenobamate 100 MG Oral Tablet) / 14 (cenobamate 50 MG Oral Tablet) } Pack",
+              "synonym": "cenobamate 50 MG Oral Tablet (14) / cenobamate 100 MG Oral Tablet (14) Titration Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2283539",
+              "name": "{14 (cenobamate 150 MG Oral Tablet) / 14 (cenobamate 200 MG Oral Tablet) } Pack",
+              "synonym": "cenobamate 150 MG Oral Tablet (14) / cenobamate 200 MG Oral Tablet (14) Titration Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2540431",
+              "name": "{28 (cenobamate 100 MG Oral Tablet) / 28 (cenobamate 150 MG Oral Tablet) } Pack",
+              "synonym": "cenobamate 100 MG Oral Tablet (28) / cenobamate 150 MG Oral Tablet (28) Maintenance Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2265701",
+              "name": "cenobamate 50 MG Oral Tablet [Xcopri]",
+              "synonym": "Xcopri 50 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2283505",
+              "name": "cenobamate 100 MG Oral Tablet [Xcopri]",
+              "synonym": "Xcopri 100 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2283509",
+              "name": "cenobamate 150 MG Oral Tablet [Xcopri]",
+              "synonym": "Xcopri 150 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2283513",
+              "name": "cenobamate 200 MG Oral Tablet [Xcopri]",
+              "synonym": "Xcopri 200 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2283525",
+              "name": "cenobamate 12.5 MG Oral Tablet [Xcopri]",
+              "synonym": "Xcopri 12.5 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2283527",
+              "name": "cenobamate 25 MG Oral Tablet [Xcopri]",
+              "synonym": "Xcopri 25 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2265695",
+              "name": "cenobamate 50 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2283503",
+              "name": "cenobamate 100 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2283507",
+              "name": "cenobamate 150 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2283511",
+              "name": "cenobamate 200 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2283520",
+              "name": "cenobamate 12.5 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2283522",
+              "name": "cenobamate 25 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:09:45.577298",
+  "source": "RxNorm"
+}

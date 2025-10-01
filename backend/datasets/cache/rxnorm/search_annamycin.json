@@ -1,0 +1,10 @@
+{
+  "query": "Annamycin",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:21:03.215967",
+  "source": "RxNorm"
+}

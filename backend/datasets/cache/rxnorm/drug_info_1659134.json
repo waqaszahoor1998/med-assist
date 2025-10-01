@@ -1,0 +1,16 @@
+{
+  "rxcui": "1659134",
+  "properties": {
+    "properties": {
+      "rxcui": "1659134",
+      "name": "piperacillin 2000 MG / tazobactam 250 MG Injection [Zosyn]",
+      "synonym": "Zosyn (piperacillin / tazobactam) 2.25 GM Injection",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T21:07:38.772950",
+  "source": "RxNorm"
+}

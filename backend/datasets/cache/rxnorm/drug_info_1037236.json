@@ -1,0 +1,16 @@
+{
+  "rxcui": "1037236",
+  "properties": {
+    "properties": {
+      "rxcui": "1037236",
+      "name": "benzoic acid 9 MG / hyoscyamine sulfate 0.12 MG / methenamine 81.6 MG / methylene blue 10.8 MG / phenyl salicylate 36.2 MG Oral Tablet [Hyophen]",
+      "synonym": "Hyophen (benzoic acid 9 MG / hyoscyamine sulfate 0.12 MG / methenamine 81.6 MG / methylene blue 10.8 MG / phenyl salicylate 36.2 MG) Oral Tablet",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T21:12:38.906618",
+  "source": "RxNorm"
+}

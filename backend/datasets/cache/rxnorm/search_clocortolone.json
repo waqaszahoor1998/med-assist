@@ -1,0 +1,46 @@
+{
+  "query": "Clocortolone",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "206048",
+              "name": "clocortolone 1 MG/ML Topical Cream [Cloderm]",
+              "synonym": "Cloderm 0.1 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "197520",
+              "name": "clocortolone 1 MG/ML Topical Cream",
+              "synonym": "clocortolone (as clocortolone pivalate) 0.1 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T22:09:46.944919",
+  "source": "RxNorm"
+}

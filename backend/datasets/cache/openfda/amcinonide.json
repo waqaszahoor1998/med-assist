@@ -1,0 +1,25 @@
+{
+  "drug_name": "Amcinonide",
+  "generic_name": [
+    "AMCINONIDE"
+  ],
+  "brand_names": [
+    "Amcinonide"
+  ],
+  "drug_interactions": [],
+  "warnings": [],
+  "adverse_reactions": [
+    "ADVERSE REACTIONS: The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae and miliaria. To report SUSPECTED ADVERSE REACTIONS, contact Pharm-Olam at 1-866-511-6754 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+  ],
+  "contraindications": [
+    "CONTRAINDICATIONS: Topical corticosteroids are contraindicated in those patients with a history of hypersensitivity to any of the components of the preparation."
+  ],
+  "dosage_administration": [
+    "DOSAGE AND ADMINISTRATION: Topical corticosteroids are generally applied to the affected area as a thin film from two to three times daily depending on the severity of the condition. Occlusive dressings may be a valuable therapeutic adjunct for the management of psoriasis or recalcitrant conditions. If an infection develops, the use of occlusive dressings should be discontinued and appropriate antimicrobial therapy instituted."
+  ],
+  "indications": [
+    "INDICATIONS AND USAGE: Topical corticosteroids are indicated for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses."
+  ],
+  "fetched_at": "2025-09-30T21:04:50.314119",
+  "source": "OpenFDA"
+}

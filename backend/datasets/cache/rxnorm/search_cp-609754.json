@@ -1,0 +1,10 @@
+{
+  "query": "CP-609754",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:09:51.829081",
+  "source": "RxNorm"
+}

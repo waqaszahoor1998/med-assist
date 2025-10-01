@@ -1,0 +1,10 @@
+{
+  "query": "Tartronate",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:52:44.215391",
+  "source": "RxNorm"
+}

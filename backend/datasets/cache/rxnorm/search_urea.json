@@ -1,0 +1,887 @@
+{
+  "query": "Urea",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1247825",
+              "name": "{1 (70000 MG) (salicylic acid 60 MG/ML Topical Foam [Salvax]) / 1 (150000 MG) (urea 350 MG/ML Topical Foam [Hydro 35]) } Pack [Salvax Duo Plus]",
+              "synonym": "Salvax Duo Plus Kit",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "904620",
+              "name": "{1 (85 ML) (sulfacetamide sodium 100 MG/ML Topical Lotion [Carmol Scalp]) / 1 (120 ML) (urea 100 MG/ML Medicated Shampoo [Carmol]) } Pack [Carmol Scalp Treatment Kit]",
+              "synonym": "Carmol Scalp Treatment Kit",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1247823",
+              "name": "{1 (70000 MG) (salicylic acid 60 MG/ML Topical Foam) / 1 (150000 MG) (urea 350 MG/ML Topical Foam) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "904617",
+              "name": "{1 (85 ML) (sulfacetamide sodium 100 MG/ML Topical Lotion) / 1 (120 ML) (urea 100 MG/ML Medicated Shampoo) } Pack",
+              "synonym": "{1 (120 ML urea 10 % Medicated Shampoo) / 1 (85 ML sulfacetamide 10 % Topical Lotion) } Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1053859",
+              "name": "ammonium lactate 100 MG/ML / urea 200 MG/ML Topical Cream [Carb-O-Lac]",
+              "synonym": "Carb-O-Lac HP (ammonium lactate 10 % / urea 20 % ) Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1053861",
+              "name": "ammonium lactate 50 MG/ML / urea 200 MG/ML Topical Cream [Carb-O-Lac]",
+              "synonym": "Carb-O-Lac5 (ammonium lactate 5 % / urea 20 % ) Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1087593",
+              "name": "urea 400 MG/ML Topical Cream [Aluvea]",
+              "synonym": "Aluvea 40 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1242631",
+              "name": "urea 0.45 MG/MG Topical Gel [CEM-Urea]",
+              "synonym": "CEM-Urea 45 % Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1428958",
+              "name": "alpha hydroxy acids 60 MG/ML / urea 250 MG/ML Topical Cream [Hydrasyn25]",
+              "synonym": "Hydrasyn25 (alpha hydroxy acids 6 % / urea 25 % ) Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1436938",
+              "name": "urea 410 MG/ML Topical Cream [Utopic]",
+              "synonym": "Utopic 41 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1491516",
+              "name": "urea 420 MG/ML Topical Cream [Kera-42]",
+              "synonym": "Kera-42 42 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1491521",
+              "name": "urea 0.47 MG/MG Topical Gel [Kera Nail]",
+              "synonym": "Kera Nail 47 % Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1494798",
+              "name": "urea 470 MG/ML Topical Cream [Keralac]",
+              "synonym": "Keralac 47 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1544708",
+              "name": "urea 400 MG/ML Topical Cream [Rea-Lo]",
+              "synonym": "Rea-Lo 40 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1544719",
+              "name": "urea 400 MG/ML Topical Lotion [Rea-Lo]",
+              "synonym": "Rea-Lo 40 % Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1547639",
+              "name": "urea 390 MG/ML Topical Cream [Rea Lo 39]",
+              "synonym": "Rea Lo 39 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "208673",
+              "name": "urea 0.5 MG/MG Paste [Epimide 50]",
+              "synonym": "Epimide 50 50 % Paste",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "212392",
+              "name": "urea 300 MG/ML Topical Cream [Rea-Lo]",
+              "synonym": "Rea-Lo 30 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "212425",
+              "name": "urea 200 MG/ML Topical Cream [Carmol]",
+              "synonym": "Carmol-20 20 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "212426",
+              "name": "urea 200 MG/ML Topical Cream [Gormel]",
+              "synonym": "Gormel 20 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "212428",
+              "name": "urea 200 MG/ML Topical Cream [Ureacin-20]",
+              "synonym": "Ureacin-20 20 % Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "212429",
+              "name": "urea 100 MG/ML Topical Lotion [Aqua Care]",
+              "synonym": "Aqua Care 100 MG/ML Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "212430",
+              "name": "urea 100 MG/ML Topical Lotion [Carmol]",
+              "synonym": "Carmol-10 10 % Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "212432",
+              "name": "urea 100 MG/ML Topical Lotion [Gormel 10]",
+              "synonym": "Gormel 10 100 MG/ML Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "212433",
+              "name": "urea 100 MG/ML Topical Lotion [Nutraplus]",
+              "synonym": "Nutraplus 10 % Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "212434",
+              "name": "urea 100 MG/ML Topical Lotion [Ureacin-10]",
+              "synonym": "Ureacin-10 10 % Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "212593",
+              "name": "urea 250 MG/ML Topical Lotion [Ultra Mide]",
+              "synonym": "Ultra Mide 25 % Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "212822",
+              "name": "urea 100 MG/ML Topical Cream [Aqua Care]",
+              "synonym": "Aqua Care 10 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "212824",
+              "name": "urea 100 MG/ML Topical Cream [Nutraplus]",
+              "synonym": "Nutraplus 10 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "213279",
+              "name": "lactic acid 20 MG/ML / urea 100 MG/ML Topical Lotion [U-Lactin]",
+              "synonym": "U-Lactin (lactic acid 2 % / urea 10 % ) Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "213355",
+              "name": "urea 0.1 MG/MG Topical Ointment [Aquaphilic with Urea]",
+              "synonym": "Aquaphilic with Urea 10 % Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "352340",
+              "name": "urea 100 MG/ML Medicated Shampoo [Carmol]",
+              "synonym": "Carmol 10 % Medicated Shampoo",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "605715",
+              "name": "urea 400 MG/ML Topical Cream [U-Kera]",
+              "synonym": "U-Kera 40 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "728546",
+              "name": "urea 400 MG/ML Topical Foam [Hydro 40]",
+              "synonym": "Hydro 40 40 % Topical Foam",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "748312",
+              "name": "urea 400 MG/ML Topical Foam [Umecta]",
+              "synonym": "Umecta 40 % Topical Foam",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "802780",
+              "name": "urea 500 MG/ML Topical Cream [Remeven]",
+              "synonym": "Remeven 50 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "807012",
+              "name": "lactic acid 25 MG/ML / urea 50 MG/ML Topical Lotion [Atrac-Tain]",
+              "synonym": "Atrac-Tain 5 % Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "807016",
+              "name": "lactic acid 40 MG/ML / urea 100 MG/ML Topical Cream [Atrac-Tain]",
+              "synonym": "Atrac-Tain 10 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "828275",
+              "name": "urea 0.45 MG/MG Topical Gel [Uramaxin]",
+              "synonym": "Uramaxin 45 % Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "849650",
+              "name": "urea 350 MG/ML Topical Foam [Hydro 35]",
+              "synonym": "Hydro 35 35 % Topical Foam",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "853328",
+              "name": "urea 200 MG/ML Topical Foam [Uramaxin]",
+              "synonym": "Uramaxin 20 % Topical Foam",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "853332",
+              "name": "urea 450 MG/ML Topical Cream [Uramaxin]",
+              "synonym": "Uramaxin 45 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "885770",
+              "name": "urea 500 MG/ML Topical Lotion [Latrix]",
+              "synonym": "Latrix 50 % Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "904023",
+              "name": "urea 450 MG/ML Topical Lotion [Uramaxin]",
+              "synonym": "Uramaxin 45 % Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1052690",
+              "name": "ammonium lactate 100 MG/ML / urea 200 MG/ML Topical Cream",
+              "synonym": "ammonium lactate 10 % / urea 20 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1052692",
+              "name": "ammonium lactate 50 MG/ML / urea 200 MG/ML Topical Cream",
+              "synonym": "ammoniume lactate 5 % / urea 20 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "106199",
+              "name": "urea 100 MG/ML Topical Cream",
+              "synonym": "urea 10 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "106200",
+              "name": "lactic acid 50 MG/ML / urea 100 MG/ML Topical Cream",
+              "synonym": "lactic acid 5 % / urea 10 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1093289",
+              "name": "urea 390 MG/ML Topical Cream",
+              "synonym": "urea 39 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1428953",
+              "name": "alpha hydroxy acids 60 MG/ML / urea 250 MG/ML Topical Cream",
+              "synonym": "alpha hydroxy acids 6 % / urea 25 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1436933",
+              "name": "urea 410 MG/ML Topical Cream",
+              "synonym": "urea 41 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1490477",
+              "name": "urea 420 MG/ML Topical Cream",
+              "synonym": "urea 42 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1490479",
+              "name": "urea 0.47 MG/MG Topical Gel",
+              "synonym": "urea 47 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1494097",
+              "name": "urea 470 MG/ML Topical Cream",
+              "synonym": "urea 47 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "153233",
+              "name": "lauromacrogols 30 MG/ML / urea 50 MG/ML Topical Cream",
+              "synonym": "lauromacrogols 3 % / urea 5 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1650606",
+              "name": "urea 440 MG/ML Topical Cream",
+              "synonym": "urea 44 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1796546",
+              "name": "urea 375 MG/ML Topical Cream",
+              "synonym": "urea 37.5 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198342",
+              "name": "urea 400 MG/ML Topical Cream",
+              "synonym": "urea 40 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198884",
+              "name": "urea 100 MG/ML Topical Lotion",
+              "synonym": "urea 10 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198885",
+              "name": "urea 0.1 MG/MG Topical Ointment",
+              "synonym": "urea 10 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198886",
+              "name": "urea 200 MG/ML Topical Cream",
+              "synonym": "urea 20 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198887",
+              "name": "urea 0.2 MG/MG Topical Ointment",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "199072",
+              "name": "urea 0.5 MG/MG Paste",
+              "synonym": "urea 50 % Paste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "199090",
+              "name": "urea 300 MG/ML Topical Cream",
+              "synonym": "urea 30 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1995088",
+              "name": "urea 425 MG/ML Topical Cream",
+              "synonym": "urea 42.5 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "199902",
+              "name": "urea 250 MG/ML Topical Lotion",
+              "synonym": "urea 25 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2046639",
+              "name": "urea 350 MG/ML Topical Cream",
+              "synonym": "urea 35 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "204946",
+              "name": "urea 50 MG/ML Topical Lotion",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "205248",
+              "name": "lactic acid 20 MG/ML / urea 100 MG/ML Topical Lotion",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "247760",
+              "name": "urea 0.5 MG/MG Topical Ointment",
+              "synonym": "urea 50 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "248678",
+              "name": "salicylic acid 0.05 MG/MG / urea 0.1 MG/MG Topical Ointment",
+              "synonym": "salicylic acid 5 % / urea 10 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "260006",
+              "name": "urea 100 MG/ML Medicated Shampoo",
+              "synonym": "urea 10 % Medicated Shampoo",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2627282",
+              "name": "urea 395 MG/ML Topical Cream",
+              "synonym": "urea 39.5 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2632843",
+              "name": "salicylic acid 20 MG/ML / urea 395 MG/ML Topical Cream",
+              "synonym": "salicylic acid 2 % / urea 39.5 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "313061",
+              "name": "sodium lactate 50 MG/ML / urea 50 MG/ML Topical Lotion",
+              "synonym": "sodium lactate 5 % / urea 5 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "313554",
+              "name": "urea 220 MG/ML Topical Cream",
+              "synonym": "urea 22 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "349352",
+              "name": "urea 0.4 MG/MG Topical Gel",
+              "synonym": "urea 40 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "351155",
+              "name": "urea 400 MG/ML Topical Lotion",
+              "synonym": "urea 40 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "416916",
+              "name": "urea 500 MG/ML Topical Cream",
+              "synonym": "urea 50 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "417434",
+              "name": "urea 50 MG/ML Topical Cream",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "477126",
+              "name": "urea 350 MG/ML Topical Lotion",
+              "synonym": "urea 35 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "477225",
+              "name": "urea 0.5 MG/MG Topical Gel",
+              "synonym": "urea 50 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "545103",
+              "name": "papain 26.5 MG/ML / urea 100 MG/ML Topical Spray",
+              "synonym": "papain 2.65 % / urea 10 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "584420",
+              "name": "urea 200 MG/ML Topical Foam",
+              "synonym": "urea 20 % Topical Foam",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "604595",
+              "name": "papain 100 MG/ML / urea 100 MG/ML Topical Spray",
+              "synonym": "papain 10 % / urea 10 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "616535",
+              "name": "urea 500 MG/ML Topical Solution",
+              "synonym": "urea 50 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "700903",
+              "name": "urea 400 MG/ML Topical Foam",
+              "synonym": "urea 40 % Topical Foam",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "707348",
+              "name": "urea 500 MG/ML Topical Lotion",
+              "synonym": "urea 50 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "807008",
+              "name": "lactic acid 25 MG/ML / urea 50 MG/ML Topical Lotion",
+              "synonym": "lactic acid 2.5 % / urea 5 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "807013",
+              "name": "lactic acid 40 MG/ML / urea 100 MG/ML Topical Cream",
+              "synonym": "lactic acid 4 % / urea 10 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "827406",
+              "name": "urea 0.45 MG/MG Topical Gel",
+              "synonym": "urea 45 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "835837",
+              "name": "urea 450 MG/ML Topical Cream",
+              "synonym": "urea 45 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "849646",
+              "name": "urea 350 MG/ML Topical Foam",
+              "synonym": "urea 35 % Topical Foam",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "866107",
+              "name": "urea 450 MG/ML Topical Lotion",
+              "synonym": "urea 45 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "997836",
+              "name": "urea 450 MG/ML Topical Solution",
+              "synonym": "urea 45 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T04:32:02.314652",
+  "source": "RxNorm"
+}

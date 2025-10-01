@@ -1,0 +1,10 @@
+{
+  "query": "(S)-oct-1-en-3-ol",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:23:21.575789",
+  "source": "RxNorm"
+}

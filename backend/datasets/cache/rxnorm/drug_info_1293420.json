@@ -1,0 +1,16 @@
+{
+  "rxcui": "1293420",
+  "properties": {
+    "properties": {
+      "rxcui": "1293420",
+      "name": "5-hydroxytryptophan 50 MG / magnesium oxide 50 MG / melatonin 2 MG / tryptophan 100 MG / vitamin B6 10 MG Oral Capsule [Somnicin]",
+      "synonym": "Somnicin (5-Hydroxytryptophan 50 MG / Magnesium Oxide 50 MG / Melatonin 2 MG / Tryptophan 100 MG / Vitamin B6 10 MG) Oral Capsule",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T03:20:05.468803",
+  "source": "RxNorm"
+}

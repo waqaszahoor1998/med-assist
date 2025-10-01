@@ -1,0 +1,10 @@
+{
+  "query": "5-Aminoisoquinoline",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:33:33.045216",
+  "source": "RxNorm"
+}

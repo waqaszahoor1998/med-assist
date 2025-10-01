@@ -1,0 +1,46 @@
+{
+  "query": "Tranylcypromine",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "104838",
+              "name": "tranylcypromine 10 MG Oral Tablet [Parnate]",
+              "synonym": "Parnate 10 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "313447",
+              "name": "tranylcypromine 10 MG Oral Tablet",
+              "synonym": "tranylcypromine (as tranylcypromine sulfate) 10 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:32:22.447367",
+  "source": "RxNorm"
+}

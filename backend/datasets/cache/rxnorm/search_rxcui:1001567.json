@@ -1,0 +1,10 @@
+{
+  "query": "rxcui:1001567",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:57:17.813371",
+  "source": "RxNorm"
+}

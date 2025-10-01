@@ -1,0 +1,10 @@
+{
+  "query": "2,3-Dicarboxy-4-(2-Chloro-Phenyl)-1-Ethyl-5-Isopropoxycarbonyl-6-Methyl-Pyridinium",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T06:00:55.837228",
+  "source": "RxNorm"
+}

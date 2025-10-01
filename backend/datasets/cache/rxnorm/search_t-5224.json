@@ -1,0 +1,10 @@
+{
+  "query": "T-5224",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:08:07.462924",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "5-(hexahydro-2-oxo-1H-thieno[3,4-D]imidazol-6-yl)pentanal",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:46:04.578463",
+  "source": "RxNorm"
+}

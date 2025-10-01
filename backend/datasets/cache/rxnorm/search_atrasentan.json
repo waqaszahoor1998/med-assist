@@ -1,0 +1,46 @@
+{
+  "query": "Atrasentan",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2710460",
+              "name": "atrasentan 0.75 MG Oral Tablet [Vanrafia]",
+              "synonym": "Vanrafia 0.75 MG (equivalent to atrasentan hydrochloride 0.803 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2710454",
+              "name": "atrasentan 0.75 MG Oral Tablet",
+              "synonym": "atrasentan 0.75 MG (equivalent to atrasentan hydrochloride 0.803 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:12:52.523664",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Adenylate-3'-phosphate-[[2'-deoxy-uridine-5'-phosphate]-3'-phosphate]",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:30:11.248079",
+  "source": "RxNorm"
+}

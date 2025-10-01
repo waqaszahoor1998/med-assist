@@ -1,0 +1,64 @@
+{
+  "query": "Tecovirimat",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2055115",
+              "name": "tecovirimat 200 MG Oral Capsule [Tpoxx]",
+              "synonym": "Tpoxx 200 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2602131",
+              "name": "20 ML tecovirimat 10 MG/ML Injection [Tpoxx]",
+              "synonym": "20 ML Tpoxx 10 MG/ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2055109",
+              "name": "tecovirimat 200 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2602126",
+              "name": "20 ML tecovirimat 10 MG/ML Injection",
+              "synonym": "tecovirimat 200 MG per 20 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:34:07.060385",
+  "source": "RxNorm"
+}

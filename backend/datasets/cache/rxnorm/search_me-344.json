@@ -1,0 +1,10 @@
+{
+  "query": "ME-344",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:31:00.904379",
+  "source": "RxNorm"
+}

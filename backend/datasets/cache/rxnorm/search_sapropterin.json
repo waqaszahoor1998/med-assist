@@ -1,0 +1,127 @@
+{
+  "query": "Sapropterin",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1111020",
+              "name": "sapropterin dihydrochloride 100 MG Powder for Oral Solution [Kuvan]",
+              "synonym": "Kuvan 100 MG Powder for Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1486691",
+              "name": "sapropterin dihydrochloride 100 MG Oral Tablet [Kuvan]",
+              "synonym": "Kuvan 100 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1653221",
+              "name": "sapropterin dihydrochloride 500 MG Powder for Oral Solution [Kuvan]",
+              "synonym": "Kuvan 500 MG (sapropterin 384 MG) Powder for Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2611951",
+              "name": "sapropterin dihydrochloride 100 MG Powder for Oral Solution [Javygtor]",
+              "synonym": "Javygtor 100 MG Powder for Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2612671",
+              "name": "sapropterin dihydrochloride 100 MG Oral Tablet [Javygtor]",
+              "synonym": "Javygtor 100 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2621237",
+              "name": "sapropterin dihydrochloride 500 MG Powder for Oral Solution [Javygtor]",
+              "synonym": "Javygtor 500 MG Powder for Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2712689",
+              "name": "sapropterin dihydrochloride 100 MG Powder for Oral Solution [Zelvysia]",
+              "synonym": "Zelvysia 100 MG Powder for Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2712691",
+              "name": "sapropterin dihydrochloride 500 MG Powder for Oral Solution [Zelvysia]",
+              "synonym": "Zelvysia 500 MG Powder for Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1111018",
+              "name": "sapropterin dihydrochloride 100 MG Powder for Oral Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1486687",
+              "name": "sapropterin dihydrochloride 100 MG Oral Tablet",
+              "synonym": "sapropterin dihydrochloride 100 MG Soluble Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1653217",
+              "name": "sapropterin dihydrochloride 500 MG Powder for Oral Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:10:05.498056",
+  "source": "RxNorm"
+}

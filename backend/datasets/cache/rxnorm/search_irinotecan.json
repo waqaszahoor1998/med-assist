@@ -1,0 +1,109 @@
+{
+  "query": "Irinotecan",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1719777",
+              "name": "10 ML irinotecan hydrochloride liposome 4.3 MG/ML Injection [Onivyde]",
+              "synonym": "10 ML Onivyde 4.3 MG/ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1726321",
+              "name": "2 ML irinotecan hydrochloride 20 MG/ML Injection [Camptosar]",
+              "synonym": "2 ML Camptosar 20 MG/ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1726325",
+              "name": "5 ML irinotecan hydrochloride 20 MG/ML Injection [Camptosar]",
+              "synonym": "5 ML Camptosar 20 MG/ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1726335",
+              "name": "15 ML irinotecan hydrochloride 20 MG/ML Injection [Camptosar]",
+              "synonym": "15 ML Camptosar 20 MG/ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1719772",
+              "name": "10 ML irinotecan hydrochloride liposome 4.3 MG/ML Injection",
+              "synonym": "irinotecan hydrochloride liposome 43 MG per 10 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1726319",
+              "name": "2 ML irinotecan hydrochloride 20 MG/ML Injection",
+              "synonym": "irinotecan HCl 40 MG per 2 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1726324",
+              "name": "5 ML irinotecan hydrochloride 20 MG/ML Injection",
+              "synonym": "irinotecan HCl 100 MG per 5 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1726333",
+              "name": "15 ML irinotecan hydrochloride 20 MG/ML Injection",
+              "synonym": "irinotecan HCl 300 MG per 15 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1726492",
+              "name": "25 ML irinotecan hydrochloride 20 MG/ML Injection",
+              "synonym": "irinotecan HCl 500 MG per 25 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:33:31.734617",
+  "source": "RxNorm"
+}

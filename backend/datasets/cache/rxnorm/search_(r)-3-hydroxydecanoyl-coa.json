@@ -1,0 +1,10 @@
+{
+  "query": "(R)-3-hydroxydecanoyl-CoA",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:30:28.509498",
+  "source": "RxNorm"
+}

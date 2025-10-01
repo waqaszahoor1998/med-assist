@@ -1,0 +1,10 @@
+{
+  "query": "4-(N,N-Dimethylamino)cinnamoyl-CoA",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T06:29:43.453988",
+  "source": "RxNorm"
+}

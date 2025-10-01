@@ -1,0 +1,10 @@
+{
+  "query": "2-(2-{2-[2-(2-{2-[2-(2-Ethoxy-Ethoxy)-Ethoxy]-Ethoxy}-Ethoxy)-Ethoxy]-Ethoxy}-Ethoxy)-Ethanol, Polyethyleneglycol Peg400",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:47:33.219909",
+  "source": "RxNorm"
+}

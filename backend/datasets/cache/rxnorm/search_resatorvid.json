@@ -1,0 +1,10 @@
+{
+  "query": "Resatorvid",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:07:01.685792",
+  "source": "RxNorm"
+}

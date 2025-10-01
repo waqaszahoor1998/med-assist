@@ -1,0 +1,10 @@
+{
+  "query": "2-deoxy-2-fluoro-\u03b1-D-glucose",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T13:37:22.833645",
+  "source": "RxNorm"
+}

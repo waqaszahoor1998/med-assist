@@ -1,0 +1,10 @@
+{
+  "query": "6-[(Z)-Amino(Imino)Methyl]-N-[4-(Aminomethyl)Phenyl]-4-(Pyrimidin-2-Ylamino)-2-Naphthamide",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:25:32.554377",
+  "source": "RxNorm"
+}

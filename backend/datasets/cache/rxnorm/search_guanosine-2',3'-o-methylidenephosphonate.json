@@ -1,0 +1,10 @@
+{
+  "query": "GUANOSINE-2',3'-O-METHYLIDENEPHOSPHONATE",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:40:02.998191",
+  "source": "RxNorm"
+}

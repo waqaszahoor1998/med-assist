@@ -1,0 +1,10 @@
+{
+  "query": "(2S)-1-[4-({4-[(2,5-Dichlorophenyl)amino]-2-pyrimidinyl}amino)phenoxy]-3-(dimethylamino)-2-propanol",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:49:17.533465",
+  "source": "RxNorm"
+}

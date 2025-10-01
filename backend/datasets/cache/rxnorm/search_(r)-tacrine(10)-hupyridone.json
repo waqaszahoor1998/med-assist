@@ -1,0 +1,10 @@
+{
+  "query": "(R)-tacrine(10)-hupyridone",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:33:50.637986",
+  "source": "RxNorm"
+}

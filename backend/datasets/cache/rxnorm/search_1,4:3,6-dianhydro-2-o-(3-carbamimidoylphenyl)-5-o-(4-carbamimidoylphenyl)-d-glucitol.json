@@ -1,0 +1,10 @@
+{
+  "query": "1,4:3,6-Dianhydro-2-O-(3-carbamimidoylphenyl)-5-O-(4-carbamimidoylphenyl)-D-glucitol",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:41:27.568509",
+  "source": "RxNorm"
+}

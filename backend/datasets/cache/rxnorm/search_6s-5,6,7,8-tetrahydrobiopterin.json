@@ -1,0 +1,10 @@
+{
+  "query": "6S-5,6,7,8-Tetrahydrobiopterin",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T04:32:47.527907",
+  "source": "RxNorm"
+}

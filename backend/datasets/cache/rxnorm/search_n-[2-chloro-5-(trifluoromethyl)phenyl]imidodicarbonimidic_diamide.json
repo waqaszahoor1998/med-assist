@@ -1,0 +1,10 @@
+{
+  "query": "N-[2-Chloro-5-(trifluoromethyl)phenyl]imidodicarbonimidic diamide",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:56:03.600043",
+  "source": "RxNorm"
+}

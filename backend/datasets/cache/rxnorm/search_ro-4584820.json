@@ -1,0 +1,10 @@
+{
+  "query": "RO-4584820",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:52:56.155319",
+  "source": "RxNorm"
+}

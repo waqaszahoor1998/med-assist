@@ -1,0 +1,10 @@
+{
+  "query": "Muparfostat",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:05:21.567810",
+  "source": "RxNorm"
+}

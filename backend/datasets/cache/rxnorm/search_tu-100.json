@@ -1,0 +1,10 @@
+{
+  "query": "TU-100",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:00:50.446507",
+  "source": "RxNorm"
+}

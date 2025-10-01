@@ -1,0 +1,1661 @@
+{
+  "query": "Calcium carbonate",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1102207",
+              "name": "{6 (ascorbic acid 100 MG / biotin 0.3 MG / calcium carbonate 100 MG / calcium pantothenate 7 MG / folic acid 1 MG / niacin 25 MG / pyridoxine hydrochloride 30 MG / riboflavin 5 MG / succinic acid 150 MG / thiamine hydrochloride 5 MG / vitamin B12 0.01 MG Oral Tablet) / 24 (ascorbic acid 100 MG / biotin 0.3 MG / calcium pantothenate 0.3 MG / ferrous bisglycinate 65 MG / folic acid 1 MG / formic acid 155 MG / iron-dextran complex 65 MG / niacin 25 MG / pyridoxine hydrochloride 30 MG / riboflavin 5 MG / thiamine hydrochloride 5 MG / vitamin B12 0.01 MG Oral Tablet [Irospan Tablet]) } Pack [Irospan 24/6 Kit]",
+              "synonym": "Irospan 24/6 Kit",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "995864",
+              "name": "{30 (calcium ascorbate 25 MG / calcium carbonate 400 MG / cholecalciferol 200 UNT / folic acid 2 MG / pyridoxine hydrochloride 25 MG Oral Tablet [Encora AM Tablet]) / 30 (calcium ascorbate 25 MG / calcium carbonate 600 MG / cholecalciferol 600 UNT / folic acid 0.5 MG / pyridoxine hydrochloride 12.5 MG Oral Tablet [Encora PM Tablet]) / 60 (linoleic acid 10 MG / omega-3 acid ethyl esters (USP) 650 MG / vitamin E 50 UNT Oral Capsule [Encora Capsule]) } Pack [Encora]",
+              "synonym": "Encora 30 Day Tablet and Capsule Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1102202",
+              "name": "{6 (ascorbic acid 100 MG / biotin 0.3 MG / calcium carbonate 100 MG / calcium pantothenate 7 MG / folic acid 1 MG / niacin 25 MG / pyridoxine hydrochloride 30 MG / riboflavin 5 MG / succinic acid 150 MG / thiamine hydrochloride 5 MG / vitamin B12 0.01 MG Oral Tablet) / 24 (ascorbic acid 100 MG / biotin 0.3 MG / calcium pantothenate 0.3 MG / ferrous bisglycinate 65 MG / folic acid 1 MG / formic acid 155 MG / iron-dextran complex 65 MG / niacin 25 MG / pyridoxine hydrochloride 30 MG / riboflavin 5 MG / thiamine hydrochloride 5 MG / vitamin B12 0.01 MG Oral Tablet) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "995855",
+              "name": "{30 (calcium ascorbate 25 MG / calcium carbonate 400 MG / cholecalciferol 200 UNT / folic acid 2 MG / pyridoxine hydrochloride 25 MG Oral Tablet) / 30 (calcium ascorbate 25 MG / calcium carbonate 600 MG / cholecalciferol 600 UNT / folic acid 0.5 MG / pyridoxine hydrochloride 12.5 MG Oral Tablet) / 60 (linoleic acid 10 MG / omega-3 acid ethyl esters (USP) 650 MG / vitamin E 50 UNT Oral Capsule) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1044524",
+              "name": "calcium carbonate 1000 MG Chewable Tablet [Tums]",
+              "synonym": "Tums 1000 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1044532",
+              "name": "calcium carbonate 750 MG Chewable Tablet [Tums]",
+              "synonym": "Tums Kids 750 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1087262",
+              "name": "24 HR calcium carbonate 200 MG / folic acid 1 MG / pyridoxine 75 MG / vitamin B12 0.012 MG Extended Release Oral Tablet [Folbecal]",
+              "synonym": "24 HR calcium carbonate 200 MG / folate 1 MG / vit-B6 75 MG / vitamin B12 0.012 MG Extended Release Oral Tablet [Folbecal]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1087285",
+              "name": "boron 1.5 MG / calcium carbonate 500 MG / cholecalciferol 300 UNT / folic acid 1.1 MG / magnesium oxide 100 MG / pyridoxine 12.5 MG / vitamin B12 0.25 MG Oral Tablet [Folgard OS]",
+              "synonym": "boron 1.5 MG / calcium carbonate 500 MG / cholecalciferol 300 UNT / folate 1.1 MG / magnesium oxide 100 MG / vit-B6 12.5 MG / vitamin B12 0.25 MG Oral Tablet [Folgard OS]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1088805",
+              "name": "24 HR calcium carbonate 200 MG / folic acid 1 MG / pyridoxine 75 MG / vitamin B12 0.012 MG Extended Release Oral Tablet [FoliNatal Plus B]",
+              "synonym": "24 HR calcium carbonate 200 MG / folate 1 MG / vit-B6 75 MG / vitamin B12 0.012 MG Extended Release Oral Tablet [FoliNatal Plus B]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1116183",
+              "name": "ascorbic acid 100 MG / calcium carbonate 200 MG / cholecalciferol 0.01 MG / copper sulfate 2 MG / dl-alpha tocopheryl acetate 30 UNT / ferrous fumarate 65 MG / folic acid 1 MG / magnesium oxide 10 MG / niacinamide 20 MG / potassium iodide 0.15 MG / pyridoxine hydrochloride 5 MG / retinol acetate 4000 UNT / riboflavin 3.4 MG / thiamine mononitrate 3 MG / vitamin B12 0.012 MG / zinc sulfate 15 MG Oral Tablet [Lactocal]",
+              "synonym": "Lactocal (calcium carbonate 200 MG / copper sulfate 2 MG / cyanocobalamin 12 MCG / folate 1 MG / iron (as ferrous fumarate) 65 MG / magnesium oxide 10 MG / nicotinamide 20 MG / potassium iodide 0.15 MG / vitamin A 4000 UNT / vitamin B1 3 MG / vitamin B2 3.4 MG / vitamin B6 5 MG / vitamin C 100 MG / vitamin E 30 UNT / vitamin D 400 UNT/ML / zinc sulfate 15 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1243364",
+              "name": "calcium carbonate 1250 MG / cholecalciferol 600 UNT Chewable Tablet [Os-Cal 500 with D]",
+              "synonym": "Os-Cal Chewable (calcium carbonate 1250 MG (calcium 500 MG) / vitamin D3 600 UNT) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1243393",
+              "name": "calcium carbonate 1250 MG / cholecalciferol 600 UNT Oral Tablet [Os-Cal 500 with D]",
+              "synonym": "Os-Cal Extra D3 (calcium carbonate 1250 MG (calcium 500 MG) / vitamin D3 600 UNT) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1243415",
+              "name": "calcium carbonate 1250 MG / cholecalciferol 200 UNT Oral Tablet [Os-Cal 500 with D]",
+              "synonym": "Os-Cal Calcium with D3 (calcium carbonate 1250 MG (calcium 500 MG) / vitamin D3 200 UNT) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1245389",
+              "name": "calcium carbonate 298 MG / magnesium chloride 596 MG Delayed Release Oral Tablet [Slow-Mag Reformulated Feb 2012]",
+              "synonym": "Slow-Mag (calcium carbonate 298 MG (calcium 119 MG) / magnesium chloride 596 MG (magnesium 71.5 MG)) Delayed Release Oral Tablet, Reformulated Feb 2012",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1297389",
+              "name": "calcium carbonate 1250 MG / cholecalciferol 200 UNT Oral Tablet [Oysco 500 with D]",
+              "synonym": "Oysco 500 with D (calcium carbonate 1250 MG (calcium 500 MG) / vitamin D3 200 UNT) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1299817",
+              "name": "calcium carbonate 250 MG/ML / cholecalciferol 80 UNT/ML Oral Solution [Cal-Quick]",
+              "synonym": "Cal-Quick (calcium carbonate 1250 MG / vitamin D3 400 UNT) per 5 ML Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1310954",
+              "name": "calcium carbonate 1500 MG / cholecalciferol 800 UNT Oral Tablet [Caltrate Plus D]",
+              "synonym": "Caltrate Plus D 600/800 (calcium carbonate 1500 MG (calcium 600 MG) / vitamin D3 800 UNT) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1358869",
+              "name": "calcium carbonate 420 MG Chewable Tablet [Nutralox]",
+              "synonym": "Nutralox 420 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1425181",
+              "name": "calcium carbonate 500 MG Chewable Tablet [Healthy Mama]",
+              "synonym": "Healthy Mama 500 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1437788",
+              "name": "calcium carbonate 1250 MG / cholecalciferol 0.01 MG Oral Tablet [Ostercal-D]",
+              "synonym": "Ostercal-D 500 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1438107",
+              "name": "calcium carbonate 1000 MG / magnesium hydroxide 200 MG Chewable Tablet [Rolaids Reformulated Aug 2006]",
+              "synonym": "Rolaids Ultra (calcium carbonate 10000 MG / magnesium hydroxide 200 MG) Chewable Tablet, Reformulated Aug 2006",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1442443",
+              "name": "calcium carbonate 1500 MG / cholecalciferol 800 UNT Chewable Tablet [Caltrate Plus D]",
+              "synonym": "Caltrate 600 + D Soft Chews",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1538595",
+              "name": "calcium carbonate 500 MG Chewing Gum [Chooz]",
+              "synonym": "Chooz 500 MG Chewing Gum",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1653049",
+              "name": "calcium carbonate 1177 MG Chewable Tablet [Tums]",
+              "synonym": "Tums 1177 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1741569",
+              "name": "calcium carbonate 750 MG / simethicone 250 MG Chewable Tablet [Phazyme Gas & Acid]",
+              "synonym": "Phazyme Gas & Acid (calcium carbonate 750 MG / simethicone 250 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1744398",
+              "name": "calcium carbonate 800 MG / famotidine 10 MG / magnesium hydroxide 165 MG Chewable Tablet [Duo Fusion]",
+              "synonym": "Duo Fusion (calcium carbonate 800 MG / famotidine 10 MG / magnesium hydroxide 165 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1999202",
+              "name": "calcium carbonate 400 MG / simethicone 40 MG Chewable Tablet [Mylicon Children's]",
+              "synonym": "Mylicon Children's (calcium Carbonate 400 MG / simethicone 40 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2000686",
+              "name": "calcium carbonate 750 MG / simethicone 80 MG Chewable Tablet [Tums with Gas Relief]",
+              "synonym": "Tums with Gas Relief (calcium carbonate 750 MG / simethicone 80 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "210111",
+              "name": "calcium carbonate 500 MG Chewable Tablet [Alkums]",
+              "synonym": "Alkums 500 MG (calcium 200 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "210117",
+              "name": "calcium carbonate 500 MG Chewable Tablet [Tums]",
+              "synonym": "Tums Freshers 500 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "210248",
+              "name": "calcium carbonate 364 MG / sodium fluoride 8.3 MG Oral Tablet [Florical]",
+              "synonym": "Florical (calcium carbonate 364 MG / sodium fluoride 8.3 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "210249",
+              "name": "calcium carbonate 364 MG / sodium fluoride 8.3 MG Oral Capsule [Florical]",
+              "synonym": "Florical (calcium carbonate 364 MG / sodium fluoride 8.3 MG) Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "212462",
+              "name": "calcium carbonate 850 MG Chewable Tablet [Alka-Mints]",
+              "synonym": "Alka-Mints 850 MG (Calcium 340 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2179019",
+              "name": "calcium carbonate 625 MG / sodium monofluorophosphate 22.8 MG Oral Tablet [Monocal]",
+              "synonym": "Monocal 625 MG (as calcium 250 MG) / 22.8 MG (as fluoride 3 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2275183",
+              "name": "calcium carbonate 1625 MG / cholecalciferol 0.0125 MG / vitamin K 0.04 MG Chewable Tablet [Viactiv Calcium Plus D]",
+              "synonym": "Viactiv Calcium Plus D (calcium carbonate 1625 MG / cholecalciferol 500 UNT / vitamin K 0.04 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2590817",
+              "name": "calcium carbonate 750 MG / simethicone 250 MG Chewable Tablet [Gas-X Total Relief]",
+              "synonym": "Gas-X Total Relief (calcium carbonate 750 MG / simethicone 250 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2599612",
+              "name": "calcium carbonate 80 MG/ML / simethicone 8 MG/ML Oral Suspension [Mylicon Children's]",
+              "synonym": "Mylicon Children's (calcium carbonate 400 MG / simethicone 40 MG per 5 ML) Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "346210",
+              "name": "calcium carbonate 1250 MG Oral Tablet [OsCal 500]",
+              "synonym": "OsCal 500 1250 MG (Calcium 500 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "404179",
+              "name": "calcium carbonate 420 MG Chewable Tablet [Titralac]",
+              "synonym": "Titralac 420 MG (calcium 168 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "404507",
+              "name": "calcium carbonate 500 MG / simethicone 125 MG Chewable Tablet [Gas-X with Maalox]",
+              "synonym": "Gas-X w/ Maalox Extra Strength (calcium carbonate 500 MG / simethicone 125 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "404509",
+              "name": "calcium carbonate 1000 MG / simethicone 60 MG Chewable Tablet [Maalox Max Quick Dissolve]",
+              "synonym": "Maalox Max Quick Dissolve (calcium carbonate 1000 MG / simethicone 60 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "404688",
+              "name": "calcium carbonate 250 MG / magnesium carbonate 300 MG Oral Tablet [MagneBind]",
+              "synonym": "MagneBind (calcium carbonate / magnesium carbonate) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "642338",
+              "name": "calcium carbonate 550 MG / magnesium hydroxide 110 MG Chewable Tablet [Rolaids Reformulated Aug 2006]",
+              "synonym": "Rolaids Reformulated Aug 2006 (calcium carbonate 550 MG / magnesium hydroxide 110 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "642355",
+              "name": "calcium carbonate 675 MG / magnesium hydroxide 135 MG Chewable Tablet [Rolaids Reformulated Aug 2006]",
+              "synonym": "Rolaids Extra Strength (calcium carbonate 675 MG / magnesium hydroxide 135 MG) Chewable Tablet, Reformulated Aug 2006",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "688892",
+              "name": "calcium carbonate 800 MG / famotidine 10 MG / magnesium hydroxide 165 MG Chewable Tablet [Pepcid Complete]",
+              "synonym": "Pepcid Complete (calcium carbonate 800 MG / famotidine 10 MG / magnesium hydroxide 165 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "701392",
+              "name": "calcium carbonate 400 MG Chewable Tablet [Pepto-Bismol Children's]",
+              "synonym": "Pepto-Bismol Children's 400 MG (calcium 161 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "701678",
+              "name": "calcium carbonate 420 MG / simethicone 21 MG Chewable Tablet [Titralac Plus]",
+              "synonym": "Titralac Plus (calcium carbonate 420 MG / simethicone 21 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "790271",
+              "name": "calcium carbonate 1500 MG Oral Tablet [Caltrate]",
+              "synonym": "Caltrate 1500 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "794747",
+              "name": "calcium carbonate 200 MG / folic acid 1 MG / magnesium carbonate 400 MG Oral Tablet [MagneBind 400 Rx]",
+              "synonym": "MagneBind 400 Rx Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "809559",
+              "name": "calcium carbonate 625 MG / cholecalciferol 125 UNT Oral Tablet [Oysco D]",
+              "synonym": "Oysco D (calcium carbonate 625 MG (calcium 250 MG) / vitamin D3 125 UNT) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "833741",
+              "name": "calcium carbonate 1500 MG / cholecalciferol 200 UNT Oral Tablet [Caltrate Plus D]",
+              "synonym": "Caltrate Plus D 600/200 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "864669",
+              "name": "calcium carbonate 1500 MG / cholecalciferol 1000 UNT Oral Tablet [Osteo-Poretical]",
+              "synonym": "Osteo-Poretical Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "866489",
+              "name": "calcium carbonate 1000 MG Oral Powder [Tums]",
+              "synonym": "Tums 1000 MG Oral Powder",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "867497",
+              "name": "calcium carbonate 800 MG / famotidine 10 MG / magnesium hydroxide 165 MG Chewable Tablet [Tums Dual Action]",
+              "synonym": "Tums Dual Action (calcium carbonate 800 MG / famotidine 10 MG / milk of magnesia 165 MG) Chewable Tab",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "995859",
+              "name": "calcium ascorbate 25 MG / calcium carbonate 400 MG / cholecalciferol 200 UNT / folic acid 2 MG / pyridoxine hydrochloride 25 MG Oral Tablet [Encora AM Tablet]",
+              "synonym": "Calcium ascorbate 25 MG / Calcium Carbonate 400 MG / Cholecalciferol 200 UNT / folate 2 MG / vit-B6 Hydrochloride 25 MG Oral Tablet [Encora AM Tablet]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "995863",
+              "name": "calcium ascorbate 25 MG / calcium carbonate 600 MG / cholecalciferol 600 UNT / folic acid 0.5 MG / pyridoxine hydrochloride 12.5 MG Oral Tablet [Encora PM Tablet]",
+              "synonym": "Calcium ascorbate 25 MG / Calcium Carbonate 600 MG / Cholecalciferol 600 UNT / folate 0.5 MG / vit-B6 Hydrochloride 12.5 MG Oral Tablet [Encora PM Tablet]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "998704",
+              "name": "calcium carbonate 500 MG Chewable Tablet [Cal Gest]",
+              "synonym": "Cal-Gest 500 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1001409",
+              "name": "calcium carbonate 625 MG / ergocalciferol 125 UNT Oral Tablet",
+              "synonym": "Calcium Carbonate 625 MG / vit-D 125 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1001679",
+              "name": "calcium carbonate 400 MG / cholecalciferol 133 UNT / magnesium oxide 167 MG Oral Tablet",
+              "synonym": "calcium carbonate 400 MG / vitamin D3 133 UNT / magnesium oxide 167 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1001691",
+              "name": "calcium carbonate 1250 MG / cholecalciferol 100 UNT / vitamin K1 0.04 MG Chewable Tablet",
+              "synonym": "calcium carbonate 1250 MG / phytonadione 40 MCG / vitamin D3 100 UNT Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1041834",
+              "name": "calcium carbonate 250 MG / wheat dextrin 1000 MG Chewable Tablet",
+              "synonym": "calcium carbonate 250 MG (calcium 100 MG) / wheat dextrin 1000 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1086605",
+              "name": "calcium carbonate 600 MG / ergocalciferol 200 UNT Oral Capsule",
+              "synonym": "Calcium Carbonate 600 MG / vit-D 200 UNT Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1087258",
+              "name": "24 HR calcium carbonate 200 MG / folic acid 1 MG / pyridoxine 75 MG / vitamin B12 0.012 MG Extended Release Oral Tablet",
+              "synonym": "24 HR calcium carbonate 200 MG / folate 1 MG / vit-B6 75 MG / vitamin B12 0.012 MG Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1087281",
+              "name": "boron 1.5 MG / calcium carbonate 500 MG / cholecalciferol 300 UNT / folic acid 1.1 MG / magnesium oxide 100 MG / pyridoxine 12.5 MG / vitamin B12 0.25 MG Oral Tablet",
+              "synonym": "boron 1.5 MG / calcium carbonate 500 MG / cholecalciferol 300 UNT / folate 1.1 MG / magnesium oxide 100 MG / vit-B6 12.5 MG / vitamin B12 0.25 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1088800",
+              "name": "calcium carbonate 600 MG / cholecalciferol 125 UNT Oral Tablet",
+              "synonym": "calcium carbonate 600 MG (calcium 240 MG) / vitamin D3 125 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1094022",
+              "name": "calcium carbonate 1500 MG / cholecalciferol 500 UNT Oral Capsule",
+              "synonym": "calcium carbonate 1500 MG (calcium 600 MG) / vitamin D3 500 UNT Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1099861",
+              "name": "calcium carbonate 2500 MG / cholecalciferol 800 UNT Oral Tablet",
+              "synonym": "calcium carbonate 2500 MG (calcium 1000 MG) / vitamin D3 800 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1099878",
+              "name": "calcium carbonate 1625 MG Oral Tablet",
+              "synonym": "calcium carbonate 1625 MG (as calcium 650 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1100894",
+              "name": "calcium carbonate 1500 MG / cholecalciferol 1000 UNT Oral Capsule",
+              "synonym": "calcium carbonate 1500 MG (calcium 600 MG) / vitamin D3 1000 UNT Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1102201",
+              "name": "ascorbic acid 100 MG / biotin 0.3 MG / calcium carbonate 100 MG / calcium pantothenate 7 MG / folic acid 1 MG / niacin 25 MG / pyridoxine hydrochloride 30 MG / riboflavin 5 MG / succinic acid 150 MG / thiamine hydrochloride 5 MG / vitamin B12 0.01 MG Oral Tablet",
+              "synonym": "vit-C 100 MG / biotin 0.3 MG / calcium carbonate 100 MG / calcium pantothenate 7 MG / folate 1 MG / vit-B3 25 MG / vit-B6 hydrochloride 30 MG / riboflavin 5 MG / succinic acid 150 MG / vit-B1 hydrochloride 5 MG / vitamin B12 0.01 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1112810",
+              "name": "calcium carbonate 250 MG / magnesium oxide 155 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1116179",
+              "name": "ascorbic acid 100 MG / calcium carbonate 200 MG / cholecalciferol 0.01 MG / copper sulfate 2 MG / dl-alpha tocopheryl acetate 30 UNT / ferrous fumarate 65 MG / folic acid 1 MG / magnesium oxide 10 MG / niacinamide 20 MG / potassium iodide 0.15 MG / pyridoxine hydrochloride 5 MG / retinol acetate 4000 UNT / riboflavin 3.4 MG / thiamine mononitrate 3 MG / vitamin B12 0.012 MG / zinc sulfate 15 MG Oral Tablet",
+              "synonym": "vit-C 100 MG / calcium carbonate 200 MG / cholecalciferol 0.01 MG / copper sulfate 2 MG / dl-alpha tocopheryl acetate 30 UNT / ferrous fumarate 65 MG / folate 1 MG / magnesium oxide 10 MG / niacinamide 20 MG / K+ iodide 0.15 MG / vit-B6 hydrochloride 5 MG / retinol acetate 4000 UNT / riboflavin 3.4 MG / vit-B1 mononitrate 3 MG / vitamin B12 0.012 MG / ZnSO4 15 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1150172",
+              "name": "ascorbic acid 500 MG / calcium carbonate 30 MG Oral Tablet",
+              "synonym": "vit-C 500 MG / Calcium Carbonate 30 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1233607",
+              "name": "calcium carbonate 1250 MG / cholecalciferol 600 UNT Oral Tablet",
+              "synonym": "calcium carbonate 1250 MG (calcium 500 MG) / vitamin D3 600 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1244925",
+              "name": "calcium carbonate 1250 MG / cholecalciferol 500 UNT / vitamin K 0.04 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1244936",
+              "name": "calcium carbonate 1250 MG / cholecalciferol 100 UNT / vitamin K 0.04 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1245383",
+              "name": "calcium carbonate 298 MG / magnesium chloride 596 MG Delayed Release Oral Tablet",
+              "synonym": "calcium carbonate 298 MG (calcium 119 MG) / magnesium chloride 596 MG (magnesium 71.5 MG) Delayed Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1248142",
+              "name": "ascorbic acid 120 MG / beta carotene 2700 UNT / calcium carbonate 200 MG / cholecalciferol 400 UNT / cupric oxide 2 MG / docusate sodium 50 MG / folic acid 1 MG / iron carbonyl 90 MG / magnesium oxide 30 MG / niacinamide 20 MG / pyridoxine hydrochloride 20 MG / riboflavin 3.4 MG / thiamine mononitrate 3 MG / tocopherol acetate 30 UNT / vitamin B12 0.012 MG / zinc oxide 25 MG Oral Tablet",
+              "synonym": "vit-C 120 MG / beta carotene 2700 UNT / calcium carbonate 200 MG / cholecalciferol 400 UNT / cupric oxide 2 MG / DOSS sodium 50 MG / folate 1 MG / iron carbonyl 90 MG / magnesium oxide 30 MG / niacinamide 20 MG / vit-B6 hydrochloride 20 MG / riboflavin 3.4 MG / vit-B1 mononitrate 3 MG / tocopherol acetate 30 UNT / vitamin B12 0.012 MG / ZNO 25 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1251313",
+              "name": "alginic acid 200 MG / calcium carbonate 80 MG / magnesium trisilicate 20 MG / sodium bicarbonate 70 MG Oral Tablet",
+              "synonym": "alginic acid 200 MG / Calcium Carbonate 80 MG / magnesium trisilicate 20 MG / NaHCO3 70 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1299811",
+              "name": "calcium carbonate 250 MG/ML / cholecalciferol 80 UNT/ML Oral Solution",
+              "synonym": "calcium carbonate 1250 MG (calcium 500 MG) / vitamin D3 400 UNT per 5 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1302636",
+              "name": "calcium carbonate 118 MG / prasterone 10 MG Oral Tablet",
+              "synonym": "calcium carbonate 118 MG (calcium 47 MG) / DHEA 10 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1302637",
+              "name": "calcium carbonate 150 MG / prasterone 50 MG Oral Tablet",
+              "synonym": "calcium carbonate 150 MG (calcium 60 MG) / DHEA 50 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1310948",
+              "name": "calcium carbonate 1500 MG / cholecalciferol 800 UNT Oral Tablet",
+              "synonym": "calcium carbonate 1500 MG / vitamin D3 800 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1313925",
+              "name": "alpha-tocopherol acetate 30 UNT / ascorbic acid 100 MG / beta carotene 1000 UNT / calcium carbonate 200 MG / calcium pantothenate 7 MG / cholecalciferol 400 UNT / docusate sodium 25 MG / ferrous fumarate 29 MG / folic acid 1 MG / niacinamide 15 MG / pyridoxine hydrochloride 20 MG / riboflavin 3 MG / thiamine 3 MG / vitamin B12 0.012 MG / zinc oxide 20 MG Oral Tablet",
+              "synonym": "alpha-tocopherol acetate 30 UNT / vit-C 100 MG / beta carotene 1000 UNT / calcium carbonate 200 MG / calcium pantothenate 7 MG / cholecalciferol 400 UNT / DOSS sodium 25 MG / ferrous fumarate 29 MG / folate 1 MG / niacinamide 15 MG / vit-B6 hydrochloride 20 MG / riboflavin 3 MG / vit-B1 3 MG / vitamin B12 0.012 MG / ZNO 20 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1361708",
+              "name": "calcium carbonate 497 MG / sodium bicarbonate 600 MG Oral Powder",
+              "synonym": "Calcium Carbonate 497 MG / NaHCO3 600 MG Oral Powder",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1362805",
+              "name": "calcium carbonate 1250 MG / cholecalciferol 1000 UNT / vitamin K 0.4 MG Chewable Tablet",
+              "synonym": "calcium carbonate 1250 MG / vitamin D3 1000 UNT / phytonadione 40 MCG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1432465",
+              "name": "calcium carbonate 1177 MG Chewable Tablet",
+              "synonym": "calcium carbonate 1177 MG Soft Chew",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1438105",
+              "name": "calcium carbonate 1000 MG / magnesium hydroxide 200 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1442442",
+              "name": "calcium carbonate 1500 MG / cholecalciferol 800 UNT Chewable Tablet",
+              "synonym": "calcium carbonate 1500 MG (calcium 600 MG) / vitamin D3 800 UNT Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1490487",
+              "name": "calcium carbonate 36.8 MG/ML Oral Suspension",
+              "synonym": "calcium carbonate 1250 MG per 34 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1492387",
+              "name": "calcium carbonate 750 MG / simethicone 80 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "150923",
+              "name": "calcium carbonate 1250 MG / cholecalciferol 0.005 MG Oral Tablet",
+              "synonym": "calcium carbonate 1250 MG (calcium 500 MG) / vitamin D3 5 MCG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "152770",
+              "name": "calcium carbonate 1250 MG / cholecalciferol 0.01 MG Oral Tablet",
+              "synonym": "calcium carbonate 1250 MG (calcium 500 MG) / vitamin D3 10 MCG (400 UNT) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "153116",
+              "name": "calcium carbonate 6.25 MG/ML / cholecalciferol 2.2 UNT/ML Oral Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1536922",
+              "name": "calcium carbonate 1250 MG Effervescent Oral Tablet",
+              "synonym": "calcium carbonate 1250 MG (calcium 500 MG) Effervescent Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1549966",
+              "name": "calcium carbonate 200 MG/ML / magnesium hydroxide 40 MG/ML Oral Suspension",
+              "synonym": "calcium carbonate 1000 MG / magnesium hydroxide 200 MG per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1607295",
+              "name": "calcium carbonate 1330 MG / magnesium hydroxide 235 MG Chewable Tablet",
+              "synonym": "calcium carbonate 1330 MG (Ca 535 MG) / magnesium hydroxide 235 MG (Mg 100 MG) Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1649510",
+              "name": "calcium carbonate 1000 MG / magnesium hydroxide 200 MG / simethicone 40 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1722689",
+              "name": "aspirin 81 MG / calcium carbonate 777 MG Oral Tablet",
+              "synonym": "ASA 81 MG / Calcium Carbonate 777 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1741562",
+              "name": "calcium carbonate 750 MG / simethicone 250 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1788932",
+              "name": "calcium carbonate 80 MG/ML / magnesium hydroxide 27 MG/ML / simethicone 8 MG/ML Oral Suspension",
+              "synonym": "calcium carbonate 800 MG / magnesium hydroxide 270 MG / simethicone 80 MG per 10 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198527",
+              "name": "calcium carbonate 250 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198529",
+              "name": "calcium carbonate 420 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198533",
+              "name": "calcium carbonate 650 MG Oral Tablet",
+              "synonym": "calcium carbonate 650 MG (as calcium 260 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198864",
+              "name": "calcium carbonate 364 MG / sodium fluoride 8.3 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198865",
+              "name": "calcium carbonate 364 MG / sodium fluoride 8.3 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1999195",
+              "name": "calcium carbonate 400 MG / simethicone 40 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "204636",
+              "name": "calcium carbonate 1500 MG Chewable Tablet",
+              "synonym": "calcium carbonate 1500 MG (calcium 600 MG) Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "205074",
+              "name": "calcium carbonate 850 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "205233",
+              "name": "calcium carbonate 700 MG / magnesium hydroxide 300 MG Chewable Tablet",
+              "synonym": "calcium carbonate 700 MG / milk of magnesia 300 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2123177",
+              "name": "calcium carbonate 1500 MG / cholecalciferol 2500 UNT Oral Capsule",
+              "synonym": "calcium carbonate 1500 MG (calcium 600 MG) / vitamin D3 2500 UNT Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2275181",
+              "name": "calcium carbonate 1625 MG / cholecalciferol 0.0125 MG / vitamin K 0.04 MG Chewable Tablet",
+              "synonym": "calcium carbonate 1625 MG / cholecalciferol 500 UNT / vitamin K 0.04 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2281777",
+              "name": "calcium carbonate 750 MG Chewing Gum",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2281844",
+              "name": "calcium carbonate 120 MG/ML / magnesium hydroxide 27 MG/ML / simethicone 8 MG/ML Oral Suspension",
+              "synonym": "calcium carbonate 1200 MG / magnesium hydroxide 270 MG / simethicone 80 MG per 10 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2282016",
+              "name": "calcium carbonate 1330 MG / magnesium hydroxide 235 MG / simethicone 40 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "237420",
+              "name": "calcium carbonate 1500 MG Oral Tablet",
+              "synonym": "calcium carbonate 1500 MG (calcium 600 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "237865",
+              "name": "calcium carbonate 80 MG/ML / magnesium hydroxide 27 MG/ML Oral Suspension",
+              "synonym": "calcium carbonate 400 MG / milk of magnesia 135 MG per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "237867",
+              "name": "calcium carbonate 420 MG / simethicone 21 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "241166",
+              "name": "calcium carbonate 625 MG / sodium monofluorophosphate 22.8 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "242623",
+              "name": "calcium carbonate 550 MG / magnesium hydroxide 110 MG Chewable Tablet",
+              "synonym": "calcium carbonate 550 MG / milk of magnesia 110 MG Chewable Tab",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "250757",
+              "name": "calcium carbonate 2500 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2556794",
+              "name": "calcium carbonate 1000 MG / magnesium hydroxide 270 MG / simethicone 80 MG Chewable Tablet",
+              "synonym": "calcium carbonate 1000 MG / magnesium hydroxide 270 MG / dimethicone 80 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "259567",
+              "name": "calcium carbonate 200 MG / folic acid 1 MG / magnesium carbonate 400 MG Oral Tablet",
+              "synonym": "Calcium Carbonate 200 MG / folate 1 MG / magnesium carbonate 400 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "259590",
+              "name": "boron 1.5 MG / calcium carbonate 500 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2599608",
+              "name": "calcium carbonate 80 MG/ML / simethicone 8 MG/ML Oral Suspension",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2601097",
+              "name": "calcium carbonate 200 MG / magnesium carbonate 400 MG Oral Tablet",
+              "synonym": "calcium carbonate 200 MG (calcium 80 MG) / magnesium carbonate 400 MG (magnesium 115 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2603520",
+              "name": "calcium carbonate 118 MG / magnesium chloride 71 MG Delayed Release Oral Tablet",
+              "synonym": "calcium carbonate 118 MG / magnesium chloride 71 MG (magnesium 64 MG) Delayed Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2628926",
+              "name": "calcium carbonate 975 MG / magnesium carbonate 232 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2667489",
+              "name": "calcium carbonate 200 MG Oral Lozenge",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "282465",
+              "name": "calcium carbonate 1250 MG Oral Tablet",
+              "synonym": "calcium carbonate 1250 MG (calcium 500 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "282679",
+              "name": "calcium carbonate 220 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "283641",
+              "name": "calcium carbonate 800 MG / famotidine 10 MG / magnesium hydroxide 165 MG Chewable Tablet",
+              "synonym": "calcium carbonate 800 MG / famotidine 10 MG / milk of magnesia 165 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "283709",
+              "name": "calcium carbonate 144 MG / gelatin 324 MG / magnesium oxide 140 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308841",
+              "name": "calcium carbonate 280 MG / magnesium hydroxide 128 MG / simethicone 20 MG Chewable Tablet",
+              "synonym": "calcium carbonate 280 MG (calcium 112 MG) / milk of magnesia 128 MG / simethicone 20 MG Chewable Tab",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308888",
+              "name": "calcium carbonate 1250 MG Oral Capsule",
+              "synonym": "calcium carbonate 1250 MG (calcium 500 MG) Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308891",
+              "name": "calcium carbonate 250 MG/ML Oral Suspension",
+              "synonym": "calcium carbonate 1250 MG (calcium 500 MG) per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308892",
+              "name": "calcium carbonate 1000 MG Chewable Tablet",
+              "synonym": "calcium carbonate 1000 MG (calcium 400 MG) Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308895",
+              "name": "calcium carbonate 250 MG / magnesium carbonate 300 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308901",
+              "name": "calcium carbonate 80 MG/ML Oral Suspension",
+              "synonym": "calcium carbonate 400 MG per 5 ML Oral Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308906",
+              "name": "calcium carbonate 500 MG Chewing Gum",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308907",
+              "name": "calcium carbonate 500 MG Chewable Tablet",
+              "synonym": "calcium carbonate 500 MG (equivalent to calcium 200 MG) Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308914",
+              "name": "calcium carbonate 600 MG Chewable Tablet",
+              "synonym": "calcium carbonate 600 MG (calcium 240 MG) Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308915",
+              "name": "calcium carbonate 750 MG Chewable Tablet",
+              "synonym": "calcium carbonate 750 MG (calcium 300 MG) Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "313884",
+              "name": "calcium carbonate 420 MG Chewable Tablet",
+              "synonym": "calcium carbonate 420 MG (calcium 168 MG) Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "317865",
+              "name": "calcium carbonate 400 MG Chewable Tablet",
+              "synonym": "calcium carbonate 400 MG (as calcium 161 MG) Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "318076",
+              "name": "calcium carbonate 500 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "359297",
+              "name": "calcium carbonate 1250 MG Chewable Tablet",
+              "synonym": "calcium carbonate 1250 MG (calcium 500 MG) Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "360422",
+              "name": "calcium carbonate 600 MG / cholecalciferol 200 UNT Oral Tablet",
+              "synonym": "calcium carbonate 600 MG / cholecalciferol 5 MCG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "386989",
+              "name": "calcium carbonate 1250 MG / cholecalciferol 0.01 MG Chewable Tablet",
+              "synonym": "calcium carbonate 1250 MG (calcium 500 MG) / vitamin D3 10 MCG (400 UNT) Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "389238",
+              "name": "calcium carbonate 1500 MG / cholecalciferol 0.01 MG Chewable Tablet",
+              "synonym": "calcium carbonate 1500 MG (calcium 600 MG) / vitamin D3 10 MCG (400 UNT) Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "403826",
+              "name": "calcium carbonate 500 MG / simethicone 125 MG Chewable Tablet",
+              "synonym": "calcium carbonate 500 MG (calcium 200 MG) / simethicone 125 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "403828",
+              "name": "calcium carbonate 1000 MG / simethicone 60 MG Chewable Tablet",
+              "synonym": "calcium carbonate 1000 MG (calcium 400 MG) / simethicone 60 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "428485",
+              "name": "calcium carbonate 1500 MG / cholecalciferol 0.01 MG Oral Tablet",
+              "synonym": "calcium carbonate 1500 MG / cholecalciferol 400 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "428634",
+              "name": "calcium carbonate 625 MG / magnesium oxide 155 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "476549",
+              "name": "calcium carbonate 675 MG / magnesium hydroxide 135 MG Chewable Tablet",
+              "synonym": "calcium carbonate 675 MG / milk of magnesia 135 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "476553",
+              "name": "calcium carbonate 675 MG / magnesium hydroxide 135 MG / simethicone 60 MG Chewable Tablet",
+              "synonym": "calcium carbonate 675 MG / milk of magnesia 135 MG / simethicone 60 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "577040",
+              "name": "calcium carbonate 648 MG Oral Tablet",
+              "synonym": "calcium carbonate 648 MG (as calcium 260 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "577043",
+              "name": "calcium carbonate 500 MG / cholecalciferol 200 UNT Oral Tablet",
+              "synonym": "calcium carbonate 500 MG (as calcium 200 MG) / cholecalciferol 5 MCG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "577049",
+              "name": "calcium carbonate 115 MG / folic acid 0.4 MG / vitamin B complex 50 MG Extended Release Oral Tablet",
+              "synonym": "Calcium Carbonate 115 MG / folate 0.4 MG / Vitamin B Complex 50 MG Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "577181",
+              "name": "calcium carbonate 60 MG / psyllium 1000 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "616229",
+              "name": "activated charcoal 350 MG / calcium carbonate 650 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "668292",
+              "name": "calcium carbonate 600 MG / cholecalciferol 0.01 MG Oral Tablet",
+              "synonym": "calcium carbonate 600 MG / cholecalciferol 400 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "797463",
+              "name": "ascorbic acid 80 MG / biotin 0.03 MG / calcium carbonate 200 MG / cupric oxide 3 MG / ferrous fumarate 60 MG / folic acid 1 MG / magnesium oxide 100 MG / niacinamide 17 MG / pantothenic acid 7 MG / riboflavin 1.6 MG / thiamine 1.5 MG / vitamin A 4000 UNT / vitamin B12 0.0025 MG / vitamin B6 4 MG / vitamin E 400 UNT / zinc oxide 25 MG Oral Tablet",
+              "synonym": "prenatal vitamin with minerals and folic acid greater than 0.8 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "808596",
+              "name": "24 HR calcium carbonate 1500 MG / cholecalciferol 500 UNT Extended Release Oral Tablet",
+              "synonym": "calcium carbonate 1500 MG (calcium 600 MG) / vitamin D3 500 UNT 24 HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "809533",
+              "name": "calcium carbonate 1500 MG / cholecalciferol 200 UNT Oral Tablet",
+              "synonym": "calcium carbonate 1500 MG (calcium 600 MG) / vitamin D3 5 MCG (200 UNT) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "809536",
+              "name": "calcium carbonate 1250 MG / cholecalciferol 200 UNT Oral Tablet",
+              "synonym": "calcium carbonate 1250 MG (calcium 500 MG) / vitamin D3 5 MCG (200 UNT) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "809555",
+              "name": "calcium carbonate 625 MG / cholecalciferol 125 UNT Oral Tablet",
+              "synonym": "calcium carbonate 625 MG (calcium 250 MG) / vitamin D3 125 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "809572",
+              "name": "calcium carbonate 1250 MG / cholecalciferol 125 UNT Oral Tablet",
+              "synonym": "calcium carbonate 1250 MG (calcium 500 MG) / vitamin D3 125 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "824590",
+              "name": "biotin 0.8 MG / calcium carbonate 488 MG Oral Tablet",
+              "synonym": "biotin 0.8 MG / calcium carbonate 488 MG (calcium 195 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "829758",
+              "name": "calcium carbonate 1250 MG / cholecalciferol 200 UNT / vitamin K1 0.04 MG Chewable Tablet",
+              "synonym": "calcium carbonate 1250 MG / vitamin D3 200 UNT / vitamin K 1 40 MCG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "829759",
+              "name": "calcium carbonate 1250 MG / cholecalciferol 500 UNT / vitamin K1 0.04 MG Chewable Tablet",
+              "synonym": "calcium carbonate 1250 MG (calcium 500 MG) / cholecalciferol 500 UNT / vitamin K 1 40 MCG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "830456",
+              "name": "activated charcoal 175 MG / calcium carbonate 325 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "832909",
+              "name": "calcium carbonate 1250 MG / cholecalciferol 100 UNT Chewable Tablet",
+              "synonym": "calcium carbonate 1250 MG (calcium 500 MG) / vitamin D3 100 UNT Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "832910",
+              "name": "calcium carbonate 1500 MG / cholecalciferol 0.01 MG Oral Capsule",
+              "synonym": "calcium carbonate 1500 MG / cholecalciferol 400 UNT Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "832919",
+              "name": "calcium carbonate 1500 MG / cholecalciferol 200 UNT Oral Capsule",
+              "synonym": "calcium carbonate 1500 MG (calcium 600 MG) / vitamin D3 200 UNT Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "864665",
+              "name": "calcium carbonate 1500 MG / cholecalciferol 1000 UNT Oral Tablet",
+              "synonym": "calcium carbonate 1500 MG (calcium 600 MG) / vitamin D3 1000 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "866486",
+              "name": "calcium carbonate 1000 MG Oral Powder",
+              "synonym": "calcium carbonate 1000 MG (calcium 400 MG) Oral Powder",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "991370",
+              "name": "calcium carbonate 650 MG Chewable Tablet",
+              "synonym": "calcium carbonate 650 MG (calcium 260 MG) Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "994831",
+              "name": "calcium carbonate 1250 MG / cholecalciferol 600 UNT Chewable Tablet",
+              "synonym": "calcium carbonate 1250 MG (calcium 500 MG) / vitamin D3 600 UNT Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "995852",
+              "name": "calcium ascorbate 25 MG / calcium carbonate 400 MG / cholecalciferol 200 UNT / folic acid 2 MG / pyridoxine hydrochloride 25 MG Oral Tablet",
+              "synonym": "Calcium ascorbate 25 MG / Calcium Carbonate 400 MG / Cholecalciferol 200 UNT / folate 2 MG / vit-B6 Hydrochloride 25 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "995854",
+              "name": "calcium ascorbate 25 MG / calcium carbonate 600 MG / cholecalciferol 600 UNT / folic acid 0.5 MG / pyridoxine hydrochloride 12.5 MG Oral Tablet",
+              "synonym": "Calcium ascorbate 25 MG / Calcium Carbonate 600 MG / Cholecalciferol 600 UNT / folate 0.5 MG / vit-B6 Hydrochloride 12.5 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:33:38.956125",
+  "source": "RxNorm"
+}

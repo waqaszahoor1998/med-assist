@@ -1,0 +1,16 @@
+{
+  "rxcui": "239178",
+  "properties": {
+    "properties": {
+      "rxcui": "239178",
+      "name": "vinblastine sulfate 1 MG/ML Injectable Solution",
+      "synonym": "VLB Sulfate 1 MG/ML Injectable Solution",
+      "tty": "SCD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T21:21:36.877644",
+  "source": "RxNorm"
+}

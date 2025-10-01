@@ -1,0 +1,145 @@
+{
+  "query": "Ceftiofur",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1356516",
+              "name": "ceftiofur 50 MG/ML Injectable Suspension [Excenel]",
+              "synonym": "Excenel 50 MG/ML Injectable Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1363767",
+              "name": "10 ML ceftiofur hydrochloride 50 MG/ML Prefilled Syringe [Spectramast]",
+              "synonym": "10 ML Spectramast 50 MG/ML Prefilled Syringe",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1421023",
+              "name": "ceftiofur 200 MG/ML Injectable Suspension [Excede]",
+              "synonym": "Excede 200 MG/ML Injectable Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1421034",
+              "name": "ceftiofur 50 MG/ML Injectable Solution [Naxcel]",
+              "synonym": "Naxcel 50 MG/ML Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1552097",
+              "name": "ceftiofur 100 MG/ML Injectable Suspension [Excede]",
+              "synonym": "Excede 100 MG/ML Injectable Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1594753",
+              "name": "10 ML ceftiofur hydrochloride 12.5 MG/ML Prefilled Syringe [Spectramast]",
+              "synonym": "10 ML Spectramast 12.5 MG/ML Prefilled Syringe",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2282006",
+              "name": "ceftiofur 50 MG/ML Injectable Suspension [Cefenil]",
+              "synonym": "Cefenil 50 MG/ML Injectable Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1356511",
+              "name": "ceftiofur 50 MG/ML Injectable Suspension",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1363762",
+              "name": "10 ML ceftiofur hydrochloride 50 MG/ML Prefilled Syringe",
+              "synonym": "ceftiofur hydrochoride 500 MG per 10 ML Prefilled Syringe",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1421018",
+              "name": "ceftiofur 200 MG/ML Injectable Suspension",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1421029",
+              "name": "ceftiofur 50 MG/ML Injectable Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1552095",
+              "name": "ceftiofur 100 MG/ML Injectable Suspension",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1594751",
+              "name": "10 ML ceftiofur hydrochloride 12.5 MG/ML Prefilled Syringe",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:03:54.049548",
+  "source": "RxNorm"
+}

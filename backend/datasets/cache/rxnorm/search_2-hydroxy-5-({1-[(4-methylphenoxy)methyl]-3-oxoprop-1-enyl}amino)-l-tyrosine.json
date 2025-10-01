@@ -1,0 +1,10 @@
+{
+  "query": "2-Hydroxy-5-({1-[(4-Methylphenoxy)Methyl]-3-Oxoprop-1-Enyl}Amino)-L-Tyrosine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:01:39.324474",
+  "source": "RxNorm"
+}

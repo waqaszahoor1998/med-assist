@@ -1,0 +1,10 @@
+{
+  "query": "Aurodox",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T06:30:03.319383",
+  "source": "RxNorm"
+}

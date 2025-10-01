@@ -1,0 +1,10 @@
+{
+  "query": "[4,6-O-(1-CARBOXYETHYLIDENE)-BETA-D-MANNOSE]",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:33:18.864584",
+  "source": "RxNorm"
+}

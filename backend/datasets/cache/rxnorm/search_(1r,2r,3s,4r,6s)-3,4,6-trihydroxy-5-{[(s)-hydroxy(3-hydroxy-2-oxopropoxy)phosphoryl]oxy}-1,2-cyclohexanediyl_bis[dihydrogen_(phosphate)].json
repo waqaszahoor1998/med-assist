@@ -1,0 +1,10 @@
+{
+  "query": "(1R,2R,3S,4R,6S)-3,4,6-Trihydroxy-5-{[(S)-hydroxy(3-hydroxy-2-oxopropoxy)phosphoryl]oxy}-1,2-cyclohexanediyl bis[dihydrogen (phosphate)]",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:40:11.986916",
+  "source": "RxNorm"
+}

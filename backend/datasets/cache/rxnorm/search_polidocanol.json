@@ -1,0 +1,91 @@
+{
+  "query": "Polidocanol",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1485070",
+              "name": "polidocanol 10 MG/ML Injectable Foam [Varithena]",
+              "synonym": "Varithena 1 % Injectable Foam",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "968177",
+              "name": "2 ML polidocanol 5 MG/ML Injection [Asclera]",
+              "synonym": "Asclera 0.5 % Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "968183",
+              "name": "2 ML polidocanol 10 MG/ML Injection [Asclera]",
+              "synonym": "Asclera 1 % Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1485068",
+              "name": "polidocanol 10 MG/ML Injectable Foam",
+              "synonym": "polidocanol 1 % Injectable Foam",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "246782",
+              "name": "polidocanol 30 MG/ML Injectable Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "968173",
+              "name": "2 ML polidocanol 5 MG/ML Injection",
+              "synonym": "polidocanol 0.5 % Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "968181",
+              "name": "2 ML polidocanol 10 MG/ML Injection",
+              "synonym": "polidocanol 1 % Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:39:38.506813",
+  "source": "RxNorm"
+}

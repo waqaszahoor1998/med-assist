@@ -1,0 +1,16 @@
+{
+  "rxcui": "1810489",
+  "properties": {
+    "properties": {
+      "rxcui": "1810489",
+      "name": "0.4 ML granisetron 25 MG/ML Prefilled Syringe [Sustol]",
+      "synonym": "0.4 ML Sustol 25 MG/ML Prefilled Syringe",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T22:29:14.533688",
+  "source": "RxNorm"
+}

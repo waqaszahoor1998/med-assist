@@ -1,0 +1,10 @@
+{
+  "query": "Coenzyme F420",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T04:32:34.435501",
+  "source": "RxNorm"
+}

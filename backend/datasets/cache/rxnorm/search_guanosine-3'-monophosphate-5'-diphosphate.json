@@ -1,0 +1,10 @@
+{
+  "query": "Guanosine-3'-monophosphate-5'-diphosphate",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T06:29:56.473324",
+  "source": "RxNorm"
+}

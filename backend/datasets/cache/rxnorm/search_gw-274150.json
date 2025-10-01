@@ -1,0 +1,10 @@
+{
+  "query": "GW-274150",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:47:11.477814",
+  "source": "RxNorm"
+}

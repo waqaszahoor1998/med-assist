@@ -1,0 +1,10 @@
+{
+  "query": "5-Formyl-2'-deoxy-cytidine-5'-monophosphate",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:33:29.714935",
+  "source": "RxNorm"
+}

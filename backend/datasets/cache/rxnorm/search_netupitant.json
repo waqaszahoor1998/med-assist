@@ -1,0 +1,82 @@
+{
+  "query": "Netupitant",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1552349",
+              "name": "netupitant 300 MG / palonosetron 0.5 MG Oral Capsule [Akynzeo]",
+              "synonym": "Akynzeo (netupitant 300 MG / palonosetron 0.5) MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2044431",
+              "name": "fosnetupitant 235 MG / palonosetron 0.25 MG Injection [Akynzeo]",
+              "synonym": "Akynzeo (fosnetupitant 235 MG / palonosetron 0.25 MG) Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2374368",
+              "name": "20 ML fosnetupitant 11.75 MG/ML / palonosetron 0.0125 MG/ML Injection [Akynzeo]",
+              "synonym": "Akynzeo (fosnetupitant 235 MG (equivalent to fosnetupitant chloride HCl 260 MG) / palonosetron 0.25 MG (equivalent to palonosetron HCl 28 MG)) per 20 ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1552343",
+              "name": "netupitant 300 MG / palonosetron 0.5 MG Oral Capsule",
+              "synonym": "netupitant 300 MG / palonosetron 0.5 MG (as palonosetron hydrochloride 0.56 MG) Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2044429",
+              "name": "fosnetupitant 235 MG / palonosetron 0.25 MG Injection",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2374366",
+              "name": "20 ML fosnetupitant 11.75 MG/ML / palonosetron 0.0125 MG/ML Injection",
+              "synonym": "fosnetupitant 235 MG / palonosetron 0.25 MG per 20 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:15:45.629951",
+  "source": "RxNorm"
+}

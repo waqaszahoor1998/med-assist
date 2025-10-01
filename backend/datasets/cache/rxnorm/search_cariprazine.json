@@ -1,0 +1,122 @@
+{
+  "query": "Cariprazine",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1741747",
+              "name": "{1 (cariprazine 1.5 MG Oral Capsule [Vraylar]) / 6 (cariprazine 3 MG Oral Capsule [Vraylar]) } Pack [Vraylar 1.5/3 Mixed Pack]",
+              "synonym": "Vraylar 1.5/3 Mixed Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1741746",
+              "name": "{1 (cariprazine 1.5 MG Oral Capsule) / 6 (cariprazine 3 MG Oral Capsule) } Pack",
+              "synonym": "cariprazine 1.5/3 mixed pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1667666",
+              "name": "cariprazine 1.5 MG Oral Capsule [Vraylar]",
+              "synonym": "Vraylar 1.5 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1667670",
+              "name": "cariprazine 3 MG Oral Capsule [Vraylar]",
+              "synonym": "Vraylar 3 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1667674",
+              "name": "cariprazine 4.5 MG Oral Capsule [Vraylar]",
+              "synonym": "Vraylar 4.5 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1667678",
+              "name": "cariprazine 6 MG Oral Capsule [Vraylar]",
+              "synonym": "Vraylar 6 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1667660",
+              "name": "cariprazine 1.5 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1667668",
+              "name": "cariprazine 3 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1667672",
+              "name": "cariprazine 4.5 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1667676",
+              "name": "cariprazine 6 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:08:17.946043",
+  "source": "RxNorm"
+}

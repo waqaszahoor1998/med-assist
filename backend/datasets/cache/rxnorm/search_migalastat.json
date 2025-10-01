@@ -1,0 +1,68 @@
+{
+  "query": "Migalastat",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "2054275",
+              "name": "{14 (migalastat 123 MG Oral Capsule [Galafold]) } Pack [Galafold 28 Day Wallet]",
+              "synonym": "Galafold 123 MG 28 Day (4 Week) Wallet Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "2054266",
+              "name": "{14 (migalastat 123 MG Oral Capsule) } Pack",
+              "synonym": "{14 (migalastat 123 MG (as migalastat HCl 150 MG) Oral Capsule)} Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2054263",
+              "name": "migalastat 123 MG Oral Capsule [Galafold]",
+              "synonym": "Galafold 123 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2054257",
+              "name": "migalastat 123 MG Oral Capsule",
+              "synonym": "migalastat 123 MG (as migalastat HCl 150 MG) Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T15:51:04.832317",
+  "source": "RxNorm"
+}

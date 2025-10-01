@@ -1,0 +1,73 @@
+{
+  "query": "Aminobenzoic acid",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "905473",
+              "name": "4-aminobenzoic acid 5.92 MG/ML / arginine 19 MG/ML Topical Cream [SwineAid]",
+              "synonym": "SwineAid 2.5 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "105766",
+              "name": "4-aminobenzoic acid 15 MG/ML Oral Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "204749",
+              "name": "4-aminobenzoic acid 30 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "312223",
+              "name": "4-aminobenzoic acid 100 MG Oral Tablet",
+              "synonym": "para-aminobenzoic acid 100 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "905469",
+              "name": "4-aminobenzoic acid 5.92 MG/ML / arginine 19 MG/ML Topical Cream",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T02:54:22.906042",
+  "source": "RxNorm"
+}

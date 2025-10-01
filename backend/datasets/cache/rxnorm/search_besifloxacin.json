@@ -1,0 +1,46 @@
+{
+  "query": "Besifloxacin",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "850309",
+              "name": "besifloxacin 6 MG/ML Ophthalmic Suspension [Besivance]",
+              "synonym": "Besivance 0.6 % Ophthalmic Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "850305",
+              "name": "besifloxacin 6 MG/ML Ophthalmic Suspension",
+              "synonym": "besifloxacin 0.6 % Ophthalmic Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:36:20.106784",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "3,7-DIHYDROXYNAPHTHALENE-2-CARBOXYLIC ACID",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:34:46.163720",
+  "source": "RxNorm"
+}

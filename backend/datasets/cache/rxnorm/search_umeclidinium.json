@@ -1,0 +1,172 @@
+{
+  "query": "Umeclidinium",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1487524",
+              "name": "7 ACTUAT umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler [Anoro]",
+              "synonym": "Anoro Ellipta (umeclidinium 62.5 MCG / vilanterol 25 MCG) per ACTUAT Dry Powder Inhaler, 7 ACTUAT",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1487528",
+              "name": "30 ACTUAT umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler [Anoro]",
+              "synonym": "Anoro Ellipta (umeclidinium 62.5 MCG / vilanterol 25 MCG) per ACTUAT Dry Powder Inhaler, 30 ACTUAT",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1539885",
+              "name": "30 ACTUAT umeclidinium 0.0625 MG/ACTUAT Dry Powder Inhaler [Incruse]",
+              "synonym": "Incruse Ellipta 62.5 MCG/INHAL Dry Powder Inhaler, 30 Blisters",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1596445",
+              "name": "7 ACTUAT umeclidinium 0.0625 MG/ACTUAT Dry Powder Inhaler [Incruse]",
+              "synonym": "Incruse Ellipta 62.5 MCG/INHAL Dry Powder Inhaler, 7 Blisters",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1945044",
+              "name": "14 ACTUAT fluticasone furoate 0.1 MG/ACTUAT / umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler [Trelegy]",
+              "synonym": "Trelegy Ellipta (fluticasone furoate 100 MCG/ACTUAT / umeclidinium (as umeclidinium Br) 62.5 MCG/ACTUAT / vilanterol (as vilanterol trifenatate) 25 MCG/ACTUAT) Dry Powder Inhaler, 14 ACTUAT",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1945048",
+              "name": "30 ACTUAT fluticasone furoate 0.1 MG/ACTUAT / umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler [Trelegy]",
+              "synonym": "Trelegy Ellipta (fluticasone furoate 100 MCG/ACTUAT / umeclidinium (as umeclidinium Br) 62.5 MCG/ACTUAT / vilanterol (as vilanterol trifenatate) 25 MCG/ACTUAT) Dry Powder Inhaler, 30 ACTUAT",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2395771",
+              "name": "14 ACTUAT fluticasone furoate 0.2 MG/ACTUAT / umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler [Trelegy]",
+              "synonym": "Trelegy Ellipta (fluticasone furoate 200 MCG/ACTUAT / umeclidinium (as umeclidinium Br) 62.5 MCG/ACTUAT / vilanterol (as vilanterol trifenatate) 25 MCG/ACTUAT) Dry Powder Inhaler, 14 ACTUAT",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2395775",
+              "name": "30 ACTUAT fluticasone furoate 0.2 MG/ACTUAT / umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler [Trelegy]",
+              "synonym": "Trelegy Ellipta (fluticasone furoate 200 MCG/ACTUAT / umeclidinium (as umeclidinium Br) 62.5 MCG/ACTUAT / vilanterol (as vilanterol trifenatate) 25 MCG/ACTUAT) Dry Powder Inhaler, 30 ACTUAT",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1487519",
+              "name": "7 ACTUAT umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler",
+              "synonym": "umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT 7 ACTUAT Dry Powder Inhaler",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1487527",
+              "name": "30 ACTUAT umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler",
+              "synonym": "umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT 30 ACTUAT Dry Powder Inhaler",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1539251",
+              "name": "30 ACTUAT umeclidinium 0.0625 MG/ACTUAT Dry Powder Inhaler",
+              "synonym": "umeclidinium 62.5 MCG/INHAL Dry Powder Inhaler, 30 Blisters",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1596444",
+              "name": "7 ACTUAT umeclidinium 0.0625 MG/ACTUAT Dry Powder Inhaler",
+              "synonym": "umeclidinium 62.5 MCG/INHAL Dry Powder Inhaler, 7 Blisters",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1945039",
+              "name": "14 ACTUAT fluticasone furoate 0.1 MG/ACTUAT / umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler",
+              "synonym": "fluticasone furoate 100 MCG/ACTUAT / umeclidinium (as umeclidinium Br) 62.5 MCG/ACTUAT / vilanterol (as vilanterol trifenatate) 25 MCG/ACTUAT Dry Powder Inhaler, 14 ACTUAT",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1945047",
+              "name": "30 ACTUAT fluticasone furoate 0.1 MG/ACTUAT / umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler",
+              "synonym": "fluticasone furoate 100 MCG/ACTUAT / umeclidinium (as umeclidinium Br) 62.5 MCG/ACTUAT / vilanterol (as vilanterol trifenatate) 25 MCG/ACTUAT Dry Powder Inhaler, 30 ACTUAT",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2395769",
+              "name": "14 ACTUAT fluticasone furoate 0.2 MG/ACTUAT / umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler",
+              "synonym": "fluticasone furoate 200 MCG/ACTUAT / umeclidinium (as umeclidinium Br) 62.5 MCG/ACTUAT / vilanterol (as vilanterol trifenatate) 25 MCG/ACTUAT Dry Powder Inhaler, 14 ACTUAT",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2395774",
+              "name": "30 ACTUAT fluticasone furoate 0.2 MG/ACTUAT / umeclidinium 0.0625 MG/ACTUAT / vilanterol 0.025 MG/ACTUAT Dry Powder Inhaler",
+              "synonym": "fluticasone furoate 200 MCG/ACTUAT / umeclidinium (as umeclidinium Br) 62.5 MCG/ACTUAT / vilanterol (as vilanterol trifenatate) 25 MCG/ACTUAT Dry Powder Inhaler, 30 ACTUAT",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:18:33.600863",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Coprogen",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T01:40:04.162103",
+  "source": "RxNorm"
+}

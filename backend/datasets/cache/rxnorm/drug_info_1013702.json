@@ -1,0 +1,16 @@
+{
+  "rxcui": "1013702",
+  "properties": {
+    "properties": {
+      "rxcui": "1013702",
+      "name": "oxytetracycline 300 MG/ML Injectable Solution [Noromycin]",
+      "synonym": "Noromycin 300 MG/ML Injectable Solution",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T21:23:23.042345",
+  "source": "RxNorm"
+}

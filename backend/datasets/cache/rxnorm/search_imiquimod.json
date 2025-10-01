@@ -1,0 +1,82 @@
+{
+  "query": "Imiquimod",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1248442",
+              "name": "imiquimod 25 MG/ML Topical Cream [Zyclara]",
+              "synonym": "Zyclara 2.5 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "226734",
+              "name": "imiquimod 50 MG/ML Topical Cream [Aldara]",
+              "synonym": "Aldara 5 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "967021",
+              "name": "imiquimod 37.5 MG/ML Topical Cream [Zyclara]",
+              "synonym": "Zyclara 3.75 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1248440",
+              "name": "imiquimod 25 MG/ML Topical Cream",
+              "synonym": "imiquimod 2.5 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "310982",
+              "name": "imiquimod 50 MG/ML Topical Cream",
+              "synonym": "imiquimod 5 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "967017",
+              "name": "imiquimod 37.5 MG/ML Topical Cream",
+              "synonym": "imiquimod 3.75 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:30:27.916710",
+  "source": "RxNorm"
+}

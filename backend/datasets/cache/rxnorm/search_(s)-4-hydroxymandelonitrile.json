@@ -1,0 +1,10 @@
+{
+  "query": "(S)-4-hydroxymandelonitrile",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:42:07.167428",
+  "source": "RxNorm"
+}

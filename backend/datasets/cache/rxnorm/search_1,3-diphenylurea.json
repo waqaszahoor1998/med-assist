@@ -1,0 +1,10 @@
+{
+  "query": "1,3-diphenylurea",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:46:01.003828",
+  "source": "RxNorm"
+}

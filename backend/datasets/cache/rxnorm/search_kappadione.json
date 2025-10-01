@@ -1,0 +1,10 @@
+{
+  "query": "Kappadione",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T17:34:37.281068",
+  "source": "RxNorm"
+}

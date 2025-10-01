@@ -1,0 +1,10 @@
+{
+  "query": "JNJ-27390467",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:41:51.285029",
+  "source": "RxNorm"
+}

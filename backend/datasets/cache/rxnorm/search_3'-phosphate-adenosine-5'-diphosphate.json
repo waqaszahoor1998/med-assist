@@ -1,0 +1,10 @@
+{
+  "query": "3'-Phosphate-Adenosine-5'-Diphosphate",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:32:32.470044",
+  "source": "RxNorm"
+}

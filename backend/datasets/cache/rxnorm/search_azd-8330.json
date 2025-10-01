@@ -1,0 +1,10 @@
+{
+  "query": "AZD-8330",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:08:50.963724",
+  "source": "RxNorm"
+}

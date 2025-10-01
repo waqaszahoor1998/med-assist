@@ -1,0 +1,10 @@
+{
+  "query": "Bavisant",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:51:18.358950",
+  "source": "RxNorm"
+}

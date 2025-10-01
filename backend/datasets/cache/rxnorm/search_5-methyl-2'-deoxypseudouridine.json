@@ -1,0 +1,10 @@
+{
+  "query": "5-methyl-2'-deoxypseudouridine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:56:12.883139",
+  "source": "RxNorm"
+}

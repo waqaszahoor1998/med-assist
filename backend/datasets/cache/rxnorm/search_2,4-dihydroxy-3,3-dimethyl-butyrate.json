@@ -1,0 +1,10 @@
+{
+  "query": "2,4-Dihydroxy-3,3-Dimethyl-Butyrate",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:35:56.935852",
+  "source": "RxNorm"
+}

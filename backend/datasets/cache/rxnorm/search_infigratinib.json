@@ -1,0 +1,140 @@
+{
+  "query": "Infigratinib",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "2551012",
+              "name": "{21 (infigratinib 100 MG Oral Capsule [Truseltiq]) } Pack [Truseltiq 100 MG Daily Dose Carton]",
+              "synonym": "Truseltiq 100 MG Daily Dose Carton Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2551207",
+              "name": "{42 (infigratinib 25 MG Oral Capsule [Truseltiq]) } Pack [Truseltiq 50 MG Daily Dose Carton]",
+              "synonym": "Truseltiq 50 MG Daily Dose Carton Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2551212",
+              "name": "{63 (infigratinib 25 MG Oral Capsule [Truseltiq]) } Pack [Truseltiq 75 MG Daily Dose Carton]",
+              "synonym": "Truseltiq 75 MG Daily Dose Carton Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2551217",
+              "name": "{21 (infigratinib 100 MG Oral Capsule [Truseltiq]) / 21 (infigratinib 25 MG Oral Capsule [Truseltiq]) } Pack [Truseltiq 125 MG Daily Dose Carton]",
+              "synonym": "Truseltiq 125 MG Daily Dose Carton Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "2551005",
+              "name": "{21 (infigratinib 100 MG Oral Capsule) } Pack",
+              "synonym": "infigratinib 100 MG Daily Dose Carton, 1 Blister Card, 21 Capsules Each",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2551204",
+              "name": "{42 (infigratinib 25 MG Oral Capsule) } Pack",
+              "synonym": "infigratinib 50 MG Daily Dose Carton, 1 Blister Card, 42 Capsules Each",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2551211",
+              "name": "{63 (infigratinib 25 MG Oral Capsule) } Pack",
+              "synonym": "infigratinib 75 MG Daily Dose Carton, 2 Blister Cards, 42 & 21 Capsules Each",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2551216",
+              "name": "{21 (infigratinib 100 MG Oral Capsule) / 21 (infigratinib 25 MG Oral Capsule) } Pack",
+              "synonym": "infigratinib 100 MG (21) Oral Capsule / infigratinib 25 MG Oral Capsule (21) Oral Capsule, 125 MG Daily Dose Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2551011",
+              "name": "infigratinib 100 MG Oral Capsule [Truseltiq]",
+              "synonym": "Truseltiq 100 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2551206",
+              "name": "infigratinib 25 MG Oral Capsule [Truseltiq]",
+              "synonym": "Truseltiq 25 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2551004",
+              "name": "infigratinib 100 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2551203",
+              "name": "infigratinib 25 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:26:01.436362",
+  "source": "RxNorm"
+}

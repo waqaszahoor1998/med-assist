@@ -1,0 +1,10 @@
+{
+  "query": "D-norleucine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:23:48.201525",
+  "source": "RxNorm"
+}

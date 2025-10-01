@@ -1,0 +1,10 @@
+{
+  "query": "(S)-atrolactic acid",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:44:50.303485",
+  "source": "RxNorm"
+}

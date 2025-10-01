@@ -1,0 +1,16 @@
+{
+  "rxcui": "2714235",
+  "properties": {
+    "properties": {
+      "rxcui": "2714235",
+      "name": "{4 (iloperidone 1 MG Oral Tablet [Fanapt]) / 2 (iloperidone 2 MG Oral Tablet [Fanapt]) / 2 (iloperidone 6 MG Oral Tablet [Fanapt]) } Pack [Fanapt Titration Pack C]",
+      "synonym": "Fanapt Titration Pack C",
+      "tty": "BPCK",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T15:49:00.480721",
+  "source": "RxNorm"
+}

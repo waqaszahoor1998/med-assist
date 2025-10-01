@@ -1,0 +1,10 @@
+{
+  "query": "N-[2-(carbamimidamidooxy)ethyl]-2-{6-cyano-3-[(2,2-difluoro-2-pyridin-2-ylethyl)amino]-2-fluorophenyl}acetamide",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:48:08.576224",
+  "source": "RxNorm"
+}

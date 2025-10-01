@@ -1,0 +1,163 @@
+{
+  "query": "Potassium nitrate",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1536601",
+              "name": "potassium nitrate 250 MG/ML / silver nitrate 750 MG/ML Medicated Pad [Styptstix]",
+              "synonym": "K+ nitrate 250 MG/ML / AgNO3 750 MG/ML Medicated Pad [Styptstix]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2049636",
+              "name": "potassium nitrate 250 MG/ML / silver nitrate 750 MG/ML Medicated Pad [Avoca]",
+              "synonym": "K+ nitrate 250 MG/ML / AgNO3 750 MG/ML Medicated Pad [Avoca]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2603764",
+              "name": "potassium nitrate 0.05 MG/MG / sodium fluoride 0.011 MG/MG Toothpaste [Fluorimax Sensitive]",
+              "synonym": "Fluorimax Sensitive (potassium nitrate 5 % / sodium fluoride 1.1 % ) Toothpaste",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "847014",
+              "name": "potassium nitrate 0.05 MG/MG / sodium fluoride 0.011 MG/MG Toothpaste [Fluoridex Daily Defense Sensitivity]",
+              "synonym": "Fluoridex Daily Defense Sensitivity Toothpaste",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "999717",
+              "name": "potassium nitrate 0.05 MG/MG / sodium fluoride 0.011 MG/MG Toothpaste [Prevident 5000 Sensitive]",
+              "synonym": "K+ nitrate 0.05 MG/MG / Sodium Fluoride 0.011 MG/MG Toothpaste [Prevident 5000 Sensitive]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1038800",
+              "name": "potassium nitrate 0.05 MG/MG / sodium fluoride 0.00243 MG/MG Toothpaste",
+              "synonym": "K+ nitrate 0.05 MG/MG / Sodium Fluoride 0.00243 MG/MG Toothpaste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1038841",
+              "name": "potassium nitrate 0.05 MG/MG / sodium fluoride 0.0015 MG/MG Toothpaste",
+              "synonym": "potassium nitrate 5 % / sodium fluoride 0.15 % Toothpaste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1038929",
+              "name": "potassium nitrate 0.05 MG/MG / sodium fluoride 0.0024 MG/MG Toothpaste",
+              "synonym": "potassium nitrate 5 % / sodium fluoride 0.24 % Toothpaste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1086243",
+              "name": "potassium nitrate 0.05 MG/MG / sodium fluoride 0.0025 MG/MG Toothpaste",
+              "synonym": "K+ nitrate 0.05 MG/MG / Sodium Fluoride 0.0025 MG/MG Toothpaste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1117536",
+              "name": "potassium nitrate 250 MG/ML / silver nitrate 750 MG/ML Medicated Pad",
+              "synonym": "K+ nitrate 250 MG/ML / AgNO3 750 MG/ML Medicated Pad",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1426152",
+              "name": "potassium nitrate 0.05 MG/MG / sodium monofluorophosphate 0.0076 MG/MG Toothpaste",
+              "synonym": "K+ nitrate 0.05 MG/MG / Sodium monofluorophosphate 0.0076 MG/MG Toothpaste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2682752",
+              "name": "potassium nitrate 0.045 MG/MG / sodium fluoride 0.011 MG/MG Toothpaste",
+              "synonym": "potassium nitrate 4.5 % / sodium fluoride 1.1 % Toothpaste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2699486",
+              "name": "potassium nitrate 0.05 MG/MG / sodium fluoride 0.00315 MG/MG Toothpaste",
+              "synonym": "K+ nitrate 0.05 MG/MG / sodium fluoride 0.00315 MG/MG Toothpaste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "312544",
+              "name": "potassium nitrate 0.05 MG/MG Toothpaste",
+              "synonym": "K+ nitrate 0.05 MG/MG Toothpaste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "637365",
+              "name": "potassium nitrate 0.05 MG/MG / sodium fluoride 0.011 MG/MG Toothpaste",
+              "synonym": "potassium nitrate 5 % / sodium fluoride 1.1 % Gel Toothpaste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:43:45.932365",
+  "source": "RxNorm"
+}

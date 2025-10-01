@@ -1,0 +1,10 @@
+{
+  "query": "(2Z)-2-(Benzoylamino)-3-[4-(2-bromophenoxy)phenyl]acrylic acid",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T01:38:48.153713",
+  "source": "RxNorm"
+}

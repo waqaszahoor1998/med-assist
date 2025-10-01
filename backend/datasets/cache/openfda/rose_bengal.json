@@ -1,0 +1,27 @@
+{
+  "drug_name": "Rose bengal",
+  "generic_name": [
+    "Rose bengal"
+  ],
+  "brand_names": [],
+  "drug_interactions": [
+    "Drug Interactions Application of hydroxypropyl cellulose ophthalmic inserts to the eyes of unanesthetized rabbits immediately prior to or two hours before instilling pilocarpine, proparacaine HCl (0.5%), or phenylephrine (5%) did not markedly alter the magnitude and/or duration of the miotic, local corneal anesthetic, or mydriatic activity, respectively, of these agents. Under various treatment schedules, the anti-inflammatory effect of ocularly instilled dexamethasone (0.1%) in unanesthetized rabbits with primary uveitis was not affected by the presence of hydroxypropyl cellulose inserts."
+  ],
+  "warnings": [
+    "WARNINGS Instructions for inserting and removing LACRISERT should be carefully followed."
+  ],
+  "adverse_reactions": [
+    "ADVERSE REACTIONS The following adverse reactions have been reported in patients treated with LACRISERT, but were in most instances mild and transient: Transient blurring of vision (See PRECAUTIONS ) Ocular discomfort or irritation Matting or stickiness of eyelashes Photophobia Hypersensitivity Edema of the eyelids Hyperemia"
+  ],
+  "contraindications": [
+    "CONTRAINDICATIONS LACRISERT is contraindicated in patients who are hypersensitive to hydroxypropyl cellulose."
+  ],
+  "dosage_administration": [
+    "DOSAGE AND ADMINISTRATION One LACRISERT ophthalmic insert in each eye once daily is usually sufficient to relieve the symptoms associated with moderate to severe dry eye syndromes. Individual patients may require more flexibility in the use of LACRISERT; some patients may require twice daily use for optimal results. Clinical experience with LACRISERT indicates that in some patients several weeks may be required before satisfactory improvement of symptoms is achieved. LACRISERT is inserted into the inferior cul-de-sac of the eye beneath the base of the tarsus, not in apposition to the cornea, nor beneath the eyelid at the level of the tarsal plate. If not properly positioned, it will be expelled into the interpalpebral fissure, and may cause symptoms of a foreign body. Illustrated instructions are included in each package. While in the licensed practitioner's office, the patient should read the instructions, then practice insertion and removal of LACRISERT until proficiency is achieved. NOTE: Occasionally LACRISERT is inadvertently expelled from the eye, especially in patients with shallow conjunctival fornices. The patient should be cautioned against rubbing the eye(s) containing LACRISERT, especially upon awakening, so as not to dislodge or expel the insert. If required, another LACRISERT ophthalmic insert may be inserted. If experience indicates that transient blurred vision develops in an individual patient, the patient may want to remove LACRISERT a few hours after insertion to avoid this. Another LACRISERT ophthalmic insert maybe inserted if needed. If LACRISERT causes worsening of symptoms, the patient should be instructed to inspect the conjunctival sac to make certain LACRISERT is in the proper location, deep in the inferior cul-de-sac of the eye beneath the base of the tarsus. If these symptoms persist, LACRISERT should be removed and the patient should contact the practitioner."
+  ],
+  "indications": [
+    "INDICATIONS AND USAGE LACRISERT is indicated in patients with moderate to severe dry eye syndromes, including keratoconjunctivitis sicca. LACRISERT is indicated especially in patients who remain symptomatic after an adequate trial of therapy with artificial tear solutions. LACRISERT is also indicated for patients with: Exposure keratitis Decreased corneal sensitivity Recurrent corneal erosions"
+  ],
+  "fetched_at": "2025-10-01T17:48:43.599317",
+  "source": "OpenFDA"
+}

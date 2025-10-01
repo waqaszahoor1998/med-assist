@@ -1,0 +1,46 @@
+{
+  "query": "Voxilaprevir",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1939335",
+              "name": "sofosbuvir 400 MG / velpatasvir 100 MG / voxilaprevir 100 MG Oral Tablet [Vosevi]",
+              "synonym": "Vosevi 400/100/100 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1939329",
+              "name": "sofosbuvir 400 MG / velpatasvir 100 MG / voxilaprevir 100 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:34:28.747495",
+  "source": "RxNorm"
+}

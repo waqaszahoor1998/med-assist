@@ -1,0 +1,10 @@
+{
+  "query": "DTP-348",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:14:58.112480",
+  "source": "RxNorm"
+}

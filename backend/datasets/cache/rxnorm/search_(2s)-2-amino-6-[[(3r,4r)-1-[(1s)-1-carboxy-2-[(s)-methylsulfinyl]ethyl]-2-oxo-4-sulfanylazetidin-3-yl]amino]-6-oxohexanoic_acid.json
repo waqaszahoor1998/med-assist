@@ -1,0 +1,10 @@
+{
+  "query": "(2S)-2-amino-6-[[(3R,4R)-1-[(1S)-1-carboxy-2-[(S)-methylsulfinyl]ethyl]-2-oxo-4-sulfanylazetidin-3-yl]amino]-6-oxohexanoic acid",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:22:20.428122",
+  "source": "RxNorm"
+}

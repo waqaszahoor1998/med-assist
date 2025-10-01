@@ -1,0 +1,16 @@
+{
+  "rxcui": "1244638",
+  "properties": {
+    "properties": {
+      "rxcui": "1244638",
+      "name": "methohexital sodium 50 MG/ML Injectable Solution [Brevital]",
+      "synonym": "Brevital 50 MG/ML Injectable Solution",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T21:15:35.096960",
+  "source": "RxNorm"
+}

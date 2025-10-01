@@ -1,0 +1,118 @@
+{
+  "query": "Tofacitinib",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1357547",
+              "name": "tofacitinib 5 MG Oral Tablet [Xeljanz]",
+              "synonym": "Xeljanz 5 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1741049",
+              "name": "24 HR tofacitinib 11 MG Extended Release Oral Tablet [Xeljanz]",
+              "synonym": "Xeljanz XR 11 MG 24 HR Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2048568",
+              "name": "tofacitinib 10 MG Oral Tablet [Xeljanz]",
+              "synonym": "Xeljanz 10 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2273115",
+              "name": "24 HR tofacitinib 22 MG Extended Release Oral Tablet [Xeljanz]",
+              "synonym": "Xeljanz XR 22 MG (as tofacitinib citrate 35.54 MG) 24 HR Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2478437",
+              "name": "tofacitinib 1 MG/ML Oral Solution [Xeljanz]",
+              "synonym": "Xeljanz 1 MG/ML Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1357541",
+              "name": "tofacitinib 5 MG Oral Tablet",
+              "synonym": "tofacitinib 5 MG (as tofacitinib citrate 8 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1741046",
+              "name": "24 HR tofacitinib 11 MG Extended Release Oral Tablet",
+              "synonym": "tofacitinib 11 MG 24 HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2048566",
+              "name": "tofacitinib 10 MG Oral Tablet",
+              "synonym": "tofacitinib 10 MG (as tofacitinib citrate 16 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2273113",
+              "name": "24 HR tofacitinib 22 MG Extended Release Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2478433",
+              "name": "tofacitinib 1 MG/ML Oral Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:05:22.861106",
+  "source": "RxNorm"
+}

@@ -1,0 +1,16 @@
+{
+  "rxcui": "1859009",
+  "properties": {
+    "properties": {
+      "rxcui": "1859009",
+      "name": "2 ML pancuronium bromide 2 MG/ML Injection",
+      "synonym": "pancuronium bromide 4 MG per 2 ML Injection",
+      "tty": "SCD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T23:32:42.438349",
+  "source": "RxNorm"
+}

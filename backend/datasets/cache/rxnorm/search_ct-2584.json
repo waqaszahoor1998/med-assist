@@ -1,0 +1,10 @@
+{
+  "query": "CT-2584",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:32:54.937725",
+  "source": "RxNorm"
+}

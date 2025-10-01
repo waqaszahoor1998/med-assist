@@ -1,0 +1,235 @@
+{
+  "query": "Chlorthalidone",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1235150",
+              "name": "azilsartan medoxomil 40 MG / chlorthalidone 12.5 MG Oral Tablet [Edarbyclor]",
+              "synonym": "Edarbyclor 40/12.5 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1235157",
+              "name": "azilsartan medoxomil 40 MG / chlorthalidone 25 MG Oral Tablet [Edarbyclor]",
+              "synonym": "Edarbyclor 40/25 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "214081",
+              "name": "chlorthalidone 15 MG Oral Tablet [Thalitone]",
+              "synonym": "Thalitone 15 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "214083",
+              "name": "chlorthalidone 25 MG Oral Tablet [Thalitone]",
+              "synonym": "Thalitone 25 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2709679",
+              "name": "chlorthalidone 12.5 MG Oral Tablet [Hemiclor]",
+              "synonym": "Hemiclor 12.5 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "746023",
+              "name": "atenolol 100 MG / chlorthalidone 25 MG Oral Tablet [Tenoretic]",
+              "synonym": "Tenoretic 100 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "746030",
+              "name": "atenolol 50 MG / chlorthalidone 25 MG Oral Tablet [Tenoretic]",
+              "synonym": "Tenoretic 50 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "884196",
+              "name": "chlorthalidone 15 MG / clonidine hydrochloride 0.1 MG Oral Tablet [Clorpres]",
+              "synonym": "Clorpres 0.1/15 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "884202",
+              "name": "chlorthalidone 15 MG / clonidine hydrochloride 0.2 MG Oral Tablet [Clorpres]",
+              "synonym": "Clorpres 0.2/15 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "884207",
+              "name": "chlorthalidone 15 MG / clonidine hydrochloride 0.3 MG Oral Tablet [Clorpres]",
+              "synonym": "Clorpres 0.3/15 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "104248",
+              "name": "chlorthalidone 50 MG / triamterene 50 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1235144",
+              "name": "azilsartan medoxomil 40 MG / chlorthalidone 12.5 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1235151",
+              "name": "azilsartan medoxomil 40 MG / chlorthalidone 25 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "152916",
+              "name": "atenolol 50 MG / chlorthalidone 12.5 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "197382",
+              "name": "atenolol 100 MG / chlorthalidone 25 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "197383",
+              "name": "atenolol 50 MG / chlorthalidone 25 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "197498",
+              "name": "chlorthalidone 15 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "197499",
+              "name": "chlorthalidone 25 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "197500",
+              "name": "chlorthalidone 50 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "428539",
+              "name": "chlorthalidone 12.5 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "884192",
+              "name": "chlorthalidone 15 MG / clonidine hydrochloride 0.1 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "884198",
+              "name": "chlorthalidone 15 MG / clonidine hydrochloride 0.2 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "884203",
+              "name": "chlorthalidone 15 MG / clonidine hydrochloride 0.3 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:06:50.560523",
+  "source": "RxNorm"
+}

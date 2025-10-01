@@ -1,0 +1,35 @@
+{
+  "query": "Idoxuridine",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD"
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "310971",
+              "name": "idoxuridine 1 MG/ML Ophthalmic Solution",
+              "synonym": "idoxuridine 0.1 % Ophthalmic Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:02:48.581670",
+  "source": "RxNorm"
+}

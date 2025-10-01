@@ -1,0 +1,244 @@
+{
+  "query": "Deracoxib",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1244491",
+              "name": "deracoxib 12 MG Chewable Tablet [Deramaxx]",
+              "synonym": "Deramaxx 12 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2170445",
+              "name": "deracoxib 100 MG Chewable Tablet [Doxidyl]",
+              "synonym": "Doxidyl 100 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2170447",
+              "name": "deracoxib 12 MG Chewable Tablet [Doxidyl]",
+              "synonym": "Doxidyl 12 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2170449",
+              "name": "deracoxib 25 MG Chewable Tablet [Doxidyl]",
+              "synonym": "Doxidyl 25 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2170451",
+              "name": "deracoxib 75 MG Chewable Tablet [Doxidyl]",
+              "synonym": "Doxidyl 75 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2171237",
+              "name": "deracoxib 100 MG Chewable Tablet [Coxiba]",
+              "synonym": "COXIBA 100 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2171244",
+              "name": "deracoxib 100 MG Chewable Tablet [OstiMax]",
+              "synonym": "OstiMax 100 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2171246",
+              "name": "deracoxib 12 MG Chewable Tablet [Coxiba]",
+              "synonym": "COXIBA 12 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2171248",
+              "name": "deracoxib 12 MG Chewable Tablet [OstiMax]",
+              "synonym": "OstiMax 12 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2171250",
+              "name": "deracoxib 25 MG Chewable Tablet [Coxiba]",
+              "synonym": "COXIBA 25 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2171252",
+              "name": "deracoxib 25 MG Chewable Tablet [OstiMax]",
+              "synonym": "OstiMax 25 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2171254",
+              "name": "deracoxib 75 MG Chewable Tablet [Coxiba]",
+              "synonym": "COXIBA 75 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2171256",
+              "name": "deracoxib 75 MG Chewable Tablet [OstiMax]",
+              "synonym": "OstiMax 75 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2586578",
+              "name": "deracoxib 100 MG Chewable Tablet [Rederox]",
+              "synonym": "Rederox 100 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2586580",
+              "name": "deracoxib 12 MG Chewable Tablet [Rederox]",
+              "synonym": "Rederox 12 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2586582",
+              "name": "deracoxib 25 MG Chewable Tablet [Rederox]",
+              "synonym": "Rederox 25 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2586584",
+              "name": "deracoxib 75 MG Chewable Tablet [Rederox]",
+              "synonym": "Rederox 75 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "656511",
+              "name": "deracoxib 25 MG Chewable Tablet [Deramaxx]",
+              "synonym": "Deramaxx 25 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "890915",
+              "name": "deracoxib 75 MG Chewable Tablet [Deramaxx]",
+              "synonym": "Deramaxx 75 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "898515",
+              "name": "deracoxib 100 MG Chewable Tablet [Deramaxx]",
+              "synonym": "Deramaxx 100 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1244489",
+              "name": "deracoxib 12 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "656501",
+              "name": "deracoxib 100 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "656507",
+              "name": "deracoxib 25 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "890913",
+              "name": "deracoxib 75 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:57:19.377187",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Trifluoroalanine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T04:27:06.516018",
+  "source": "RxNorm"
+}

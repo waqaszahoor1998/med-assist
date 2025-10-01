@@ -1,0 +1,10 @@
+{
+  "query": "IRX-5183",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:02:58.427923",
+  "source": "RxNorm"
+}

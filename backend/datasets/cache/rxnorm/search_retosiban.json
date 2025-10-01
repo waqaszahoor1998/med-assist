@@ -1,0 +1,10 @@
+{
+  "query": "Retosiban",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:22:19.287225",
+  "source": "RxNorm"
+}

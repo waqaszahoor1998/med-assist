@@ -1,0 +1,82 @@
+{
+  "query": "Etelcalcetide",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1876132",
+              "name": "2 ML etelcalcetide 5 MG/ML Injection [Parsabiv]",
+              "synonym": "Parsabiv 10 MG per 2 ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1876136",
+              "name": "1 ML etelcalcetide 5 MG/ML Injection [Parsabiv]",
+              "synonym": "Parsabiv 5 MG per 1 ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1876138",
+              "name": "0.5 ML etelcalcetide 5 MG/ML Injection [Parsabiv]",
+              "synonym": "Parsabiv 2.5 MG per 0.5 ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1876127",
+              "name": "2 ML etelcalcetide 5 MG/ML Injection",
+              "synonym": "etelcalcetide 10 MG per 2 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1876135",
+              "name": "1 ML etelcalcetide 5 MG/ML Injection",
+              "synonym": "etelcalcetide 5 MG in 1 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1876137",
+              "name": "0.5 ML etelcalcetide 5 MG/ML Injection",
+              "synonym": "etelcalcetide 2.5 MG per 0.5 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T19:20:42.737655",
+  "source": "RxNorm"
+}

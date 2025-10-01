@@ -1,0 +1,46 @@
+{
+  "query": "Ibutilide",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "979122",
+              "name": "10 ML ibutilide fumarate 0.1 MG/ML Injection [Corvert]",
+              "synonym": "Corvert 1 MG per 10 ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "979120",
+              "name": "10 ML ibutilide fumarate 0.1 MG/ML Injection",
+              "synonym": "ibutilide fumarate 1 MG per 10 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:06:33.838276",
+  "source": "RxNorm"
+}

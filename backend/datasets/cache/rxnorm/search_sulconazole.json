@@ -1,0 +1,64 @@
+{
+  "query": "Sulconazole",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "208117",
+              "name": "sulconazole nitrate 10 MG/ML Topical Cream [Exelderm]",
+              "synonym": "Exelderm 1 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "208118",
+              "name": "sulconazole nitrate 10 MG/ML Topical Solution [Exelderm]",
+              "synonym": "Exelderm 1 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "106366",
+              "name": "sulconazole nitrate 10 MG/ML Topical Cream",
+              "synonym": "sulconazole nitrate 1 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "313125",
+              "name": "sulconazole nitrate 10 MG/ML Topical Solution",
+              "synonym": "sulconazole nitrate 1 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:40:15.022995",
+  "source": "RxNorm"
+}

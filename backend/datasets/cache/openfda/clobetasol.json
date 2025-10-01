@@ -1,0 +1,25 @@
+{
+  "drug_name": "Clobetasol",
+  "generic_name": [
+    "CLOBETASOL PROPIONATE OINTMENT USP, 0.05%"
+  ],
+  "brand_names": [
+    "Clobetasol Propionate"
+  ],
+  "drug_interactions": [],
+  "warnings": [],
+  "adverse_reactions": [
+    "ADVERSE REACTIONS In controlled clinical trials, the most frequent adverse events reported for clobetasol propionate ointment were burning sensation, irritation, and itching in 0.5% of treated patients. Less frequent adverse reactions were stinging, cracking, erythema, folliculitis, numbness of fingers, skin atrophy, and telangiectasia Cushing's syndrome has been reported in infants and adults as a result of prolonged use of topical clobetasol propionate formulations. The following additional local adverse reactions have been reported with topical corticosteroids, and they may occur more frequently with the use of occlusive dressings and higher potency corticosteroids. These reactions are listed in an approximately decreasing order of occurrence: dryness, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, irritation, striae, and miliaria. To report SUSPECTED ADVERSE REACTIONS, contact Encube Ethicals Private Limited at 1-833-285-4151 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+  ],
+  "contraindications": [
+    "CONTRAINDICATIONS Clobetasol propionate ointment is contraindicated in those patients with a history of hypersensitivity to any of the components of the preparations."
+  ],
+  "dosage_administration": [
+    "DOSAGE AND ADMINISTRATION Apply a thin layer of clobetasol propionate ointment to the affected skin areas twice daily and rub in gently and completely. (See INDICATIONS AND USAGE .) Clobetasol propionate ointment are super- high potency topical corticosteroids; therefore, treatment should be limited to 2 consecutive weeks , and amounts greater than 50 g per week should not be used . As with other highly active corticosteroids, therapy should be discontinued when control has been achieved. If no improvement is seen within 2 weeks, reassessment of diagnosis may be necessary. Clobetasol propionate ointment should not be used with occlusive dressings . Geriatric Use : In studies where geriatric patients (65 years of age or older, see PRECAUTIONS ) have been treated with clobetasol propionate ointment, safety did not differ from that in younger patients; therefore, no dosage adjustment is recommended."
+  ],
+  "indications": [
+    "INDICATIONS AND USAGE Clobetasol propionate ointment USP, 0.05% is super-high potency corticosteroid formulations indicated for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses. Treatment beyond 2 consecutive weeks is not recommended, and the total dosage should not exceed 50 g/week because of the potential for the drug to suppress the hypothalamic-pituitary- adrenal (HPA) axis. Use in pediatric patients under 12 years of age is not recommended. As with other highly active corticosteroids, therapy should be discontinued when control has been achieved. If no improvement is seen within 2 weeks, reassessment of the diagnosis may be necessary."
+  ],
+  "fetched_at": "2025-10-01T18:18:03.794806",
+  "source": "OpenFDA"
+}

@@ -1,0 +1,55 @@
+{
+  "query": "Levonordefrin",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1012785",
+              "name": "1.7 ML levonordefrin 0.05 MG/ML / mepivacaine hydrochloride 20 MG/ML Cartridge [Carbocaine with NeoCobefrin]",
+              "synonym": "Carbocaine 2 % with Neo-Cobefrin 1:20,000 1.7ML Dental Cartridge",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1012798",
+              "name": "levonordefrin 0.05 MG/ML / mepivacaine hydrochloride 30 MG/ML Injectable Solution",
+              "synonym": "levonordefrin 1:20,000 / mepivacaine hydrochloride 3 % Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1661504",
+              "name": "1.7 ML levonordefrin 0.05 MG/ML / mepivacaine hydrochloride 20 MG/ML Cartridge",
+              "synonym": "mepivacaine HCl 2 % / levonordefrin 1:20,000 1.7 mL Dental Cartridge",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:32:24.784226",
+  "source": "RxNorm"
+}

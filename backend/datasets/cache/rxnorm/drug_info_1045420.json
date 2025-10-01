@@ -1,0 +1,16 @@
+{
+  "rxcui": "1045420",
+  "properties": {
+    "properties": {
+      "rxcui": "1045420",
+      "name": "{1 (118 ML) (benzethonium chloride 1.3 MG/ML Medicated Liquid Soap) / 1 (92000 MG) (zinc oxide 306 MG/ML Topical Cream) } Pack",
+      "synonym": "{1 (118 ML benzethonium chloride 0.13 % Medicated Liquid Soap) / 1 (92000 MG zinc oxide 30.6 % Topical Cream) } Pack",
+      "tty": "GPCK",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T17:33:53.018062",
+  "source": "RxNorm"
+}

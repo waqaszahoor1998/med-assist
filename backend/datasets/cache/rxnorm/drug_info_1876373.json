@@ -1,0 +1,16 @@
+{
+  "rxcui": "1876373",
+  "properties": {
+    "properties": {
+      "rxcui": "1876373",
+      "name": "100 ML sodium nitroprusside 0.5 MG/ML Injection [Nipride]",
+      "synonym": "Nipride 50 MG per 100 ML Injection",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T21:07:55.637341",
+  "source": "RxNorm"
+}

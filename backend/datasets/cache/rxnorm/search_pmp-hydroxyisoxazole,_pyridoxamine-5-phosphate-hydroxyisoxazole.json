@@ -1,0 +1,10 @@
+{
+  "query": "PMP-hydroxyisoxazole, pyridoxamine-5-phosphate-hydroxyisoxazole",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:26:11.880086",
+  "source": "RxNorm"
+}

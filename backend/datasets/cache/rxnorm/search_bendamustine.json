@@ -1,0 +1,100 @@
+{
+  "query": "Bendamustine",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1726102",
+              "name": "bendamustine hydrochloride 25 MG/ML Injectable Solution [Bendeka]",
+              "synonym": "Bendeka 25 MG/ML Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1805004",
+              "name": "bendamustine hydrochloride 100 MG Injection [Treanda]",
+              "synonym": "Treanda 100 MG Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1805009",
+              "name": "bendamustine hydrochloride 25 MG Injection [Treanda]",
+              "synonym": "Treanda 25 MG Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2178266",
+              "name": "bendamustine hydrochloride 25 MG/ML Injectable Solution [Belrapzo]",
+              "synonym": "Belrapzo 25 MG/ML Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2622914",
+              "name": "bendamustine hydrochloride 25 MG/ML Injectable Solution [Vivimusta]",
+              "synonym": "Vivimusta 25 MG/ML Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1726097",
+              "name": "bendamustine hydrochloride 25 MG/ML Injectable Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1805001",
+              "name": "bendamustine hydrochloride 100 MG Injection",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1805007",
+              "name": "bendamustine hydrochloride 25 MG Injection",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:36:03.256815",
+  "source": "RxNorm"
+}

@@ -1,0 +1,16 @@
+{
+  "rxcui": "756029",
+  "properties": {
+    "properties": {
+      "rxcui": "756029",
+      "name": "ferric ammonium citrate 16 MG/ML / folic acid 0.1 MG/ML Oral Solution",
+      "synonym": "ferric ammonium citrate 16 MG/ML / folate 0.1 MG/ML Oral Solution",
+      "tty": "SCD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T17:40:37.788310",
+  "source": "RxNorm"
+}

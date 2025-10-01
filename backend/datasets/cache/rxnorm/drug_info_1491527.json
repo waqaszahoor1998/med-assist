@@ -1,0 +1,16 @@
+{
+  "rxcui": "1491527",
+  "properties": {
+    "properties": {
+      "rxcui": "1491527",
+      "name": "indomethacin 20 MG Oral Capsule [Tivorbex]",
+      "synonym": "Tivorbex 20 MG Oral Capsule",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T21:08:08.198508",
+  "source": "RxNorm"
+}

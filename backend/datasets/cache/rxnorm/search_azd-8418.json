@@ -1,0 +1,10 @@
+{
+  "query": "AZD-8418",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:33:08.925288",
+  "source": "RxNorm"
+}

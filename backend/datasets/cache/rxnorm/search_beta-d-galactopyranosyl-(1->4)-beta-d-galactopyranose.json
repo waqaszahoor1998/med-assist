@@ -1,0 +1,10 @@
+{
+  "query": "beta-D-galactopyranosyl-(1->4)-beta-D-galactopyranose",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:09:58.078553",
+  "source": "RxNorm"
+}

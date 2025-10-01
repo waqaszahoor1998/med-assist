@@ -1,0 +1,100 @@
+{
+  "query": "Atipamezole",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2123362",
+              "name": "atipamezole 5 MG/ML Injectable Solution [Revertidine]",
+              "synonym": "Revertidine 5 MG/ML Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2665923",
+              "name": "atipamezole hydrochloride 5 MG/ML Injectable Solution [Contrased]",
+              "synonym": "Contrased 5 MG/ML Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2665929",
+              "name": "atipamezole hydrochloride 5 MG/ML Injectable Solution [Cropamezole]",
+              "synonym": "Cropamezole 5 MG/ML Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2665935",
+              "name": "atipamezole hydrochloride 5 MG/ML Injectable Solution [Revertased]",
+              "synonym": "Revertased 5 MG/ML Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2686042",
+              "name": "atipamezole hydrochloride 5 MG/ML Injectable Solution [Inversedine]",
+              "synonym": "Inversedine 5 MG/ML Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "646269",
+              "name": "atipamezole 5 MG/ML Injectable Solution [Antisedan]",
+              "synonym": "Antisedan 5 MG/ML Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2665917",
+              "name": "atipamezole hydrochloride 5 MG/ML Injectable Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "646265",
+              "name": "atipamezole 5 MG/ML Injectable Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:03:46.136623",
+  "source": "RxNorm"
+}

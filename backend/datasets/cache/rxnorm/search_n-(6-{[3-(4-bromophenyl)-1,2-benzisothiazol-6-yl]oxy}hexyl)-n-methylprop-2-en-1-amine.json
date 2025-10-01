@@ -1,0 +1,10 @@
+{
+  "query": "N-(6-{[3-(4-Bromophenyl)-1,2-Benzisothiazol-6-Yl]Oxy}Hexyl)-N-Methylprop-2-En-1-Amine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:01:56.139523",
+  "source": "RxNorm"
+}

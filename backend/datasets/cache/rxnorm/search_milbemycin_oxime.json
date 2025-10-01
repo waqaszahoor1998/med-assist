@@ -1,0 +1,460 @@
+{
+  "query": "Milbemycin oxime",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1094297",
+              "name": "milbemycin oxime 13.5 MG / spinosad 810 MG Chewable Tablet [Trifexis]",
+              "synonym": "Trifexis 40.1-60 lbs (spinosad 810 MG / milbemycin oxime 13.5 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1094303",
+              "name": "milbemycin oxime 9.3 MG / spinosad 560 MG Chewable Tablet [Trifexis]",
+              "synonym": "Trifexis 20.1-40 lbs (milbemycin oxime 9.3 MG / spinosad 560 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1094309",
+              "name": "milbemycin oxime 4.5 MG / spinosad 270 MG Chewable Tablet [Trifexis]",
+              "synonym": "Trifexis 10.1-20 lbs (milbemycin oxime 4.5 MG / spinosad 270 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1094313",
+              "name": "milbemycin oxime 27 MG / spinosad 1620 MG Chewable Tablet [Trifexis]",
+              "synonym": "Trifexis 60.1-120 lbs (milbemycin oxime 27 MG / spinosad 1620 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1094317",
+              "name": "milbemycin oxime 2.3 MG / spinosad 140 MG Chewable Tablet [Trifexis]",
+              "synonym": "Trifexis 5-10 lbs (milbemycin oxime 2.3 MG / spinosad 140 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1487100",
+              "name": "lufenuron 230 MG / milbemycin oxime 11.5 MG / praziquantel 114 MG Chewable Tablet [Sentinel Spectrum]",
+              "synonym": "",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1487105",
+              "name": "lufenuron 46 MG / milbemycin oxime 2.3 MG / praziquantel 22.8 MG Chewable Tablet [Sentinel Spectrum]",
+              "synonym": "",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1487109",
+              "name": "lufenuron 460 MG / milbemycin oxime 23 MG / praziquantel 228 MG Chewable Tablet [Sentinel Spectrum]",
+              "synonym": "",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1487113",
+              "name": "lufenuron 115 MG / milbemycin oxime 5.75 MG / praziquantel 57 MG Chewable Tablet [Sentinel Spectrum]",
+              "synonym": "",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1487178",
+              "name": "lufenuron 230 MG / milbemycin oxime 11.5 MG Oral Tablet [Sentinel Flavor Tabs]",
+              "synonym": "Sentinel Flavor Tabs (lufenuron 230 MG / milbemycin oxime 11.5 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1487181",
+              "name": "lufenuron 46 MG / milbemycin oxime 2.3 MG Oral Tablet [Sentinel Flavor Tabs]",
+              "synonym": "Sentinel Flavor Tabs (lufenuron 46 MG / milbemycin oxime 2.3 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1487184",
+              "name": "lufenuron 460 MG / milbemycin oxime 23 MG Oral Tablet [Sentinel Flavor Tabs]",
+              "synonym": "Sentinel Flavor Tabs (lufenuron 460 MG / milbemycin oxime 23 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1487187",
+              "name": "lufenuron 115 MG / milbemycin oxime 5.75 MG Oral Tablet [Sentinel Flavor Tabs]",
+              "synonym": "Sentinel Flavor Tabs (lufenuron 115 MG / milbemycin oxime 5.75 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2058482",
+              "name": "milbemycin oxime 2.3 MG / praziquantel 22.8 MG Chewable Tablet [Interceptor Plus]",
+              "synonym": "Interceptor Plus (milbemycin oxime 2.3 MG / praziquantel 22.8 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2058485",
+              "name": "milbemycin oxime 5.75 MG / praziquantel 57 MG Chewable Tablet [Interceptor Plus]",
+              "synonym": "Interceptor Plus (milbemycin oxime 5.75 MG / praziquantel 57 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2058488",
+              "name": "milbemycin oxime 11.5 MG / praziquantel 114 MG Chewable Tablet [Interceptor Plus]",
+              "synonym": "Interceptor Plus (milbemycin oxime 11.5 MG / praziquantel 114 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2058491",
+              "name": "milbemycin oxime 23 MG / praziquantel 228 MG Chewable Tablet [Interceptor Plus]",
+              "synonym": "Interceptor Plus (milbemycin oxime 23 MG / praziquantel 228 MG) Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2106988",
+              "name": "milbemycin oxime 11.5 MG Oral Tablet [Milbeguard]",
+              "synonym": "Milbeguard 11.5 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2106990",
+              "name": "milbemycin oxime 2.3 MG Oral Tablet [Milbeguard]",
+              "synonym": "Milbeguard 2.3 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2106992",
+              "name": "milbemycin oxime 23 MG Oral Tablet [Milbeguard]",
+              "synonym": "Milbeguard 23 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2106994",
+              "name": "milbemycin oxime 5.75 MG Oral Tablet [Milbeguard]",
+              "synonym": "Milbeguard 5.75 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "545172",
+              "name": "milbemycin oxime 1 MG/ML Otic Solution [MilbeMite]",
+              "synonym": "MilbeMite 0.1 % Otic Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "890929",
+              "name": "milbemycin oxime 11.5 MG Oral Tablet [INTERCEPTOR]",
+              "synonym": "Interceptor 11.5 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "890933",
+              "name": "milbemycin oxime 2.3 MG Oral Tablet [INTERCEPTOR]",
+              "synonym": "Interceptor 2.3 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "890937",
+              "name": "milbemycin oxime 23 MG Oral Tablet [INTERCEPTOR]",
+              "synonym": "Interceptor 23 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "890941",
+              "name": "milbemycin oxime 5.75 MG Oral Tablet [INTERCEPTOR]",
+              "synonym": "Interceptor 5.75 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1094283",
+              "name": "milbemycin oxime 2.3 MG / spinosad 140 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1094289",
+              "name": "milbemycin oxime 27 MG / spinosad 1620 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1094293",
+              "name": "milbemycin oxime 13.5 MG / spinosad 810 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1094299",
+              "name": "milbemycin oxime 9.3 MG / spinosad 560 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1094305",
+              "name": "milbemycin oxime 4.5 MG / spinosad 270 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1487093",
+              "name": "lufenuron 230 MG / milbemycin oxime 11.5 MG / praziquantel 114 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1487103",
+              "name": "lufenuron 46 MG / milbemycin oxime 2.3 MG / praziquantel 22.8 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1487107",
+              "name": "lufenuron 460 MG / milbemycin oxime 23 MG / praziquantel 228 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1487111",
+              "name": "lufenuron 115 MG / milbemycin oxime 5.75 MG / praziquantel 57 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1487172",
+              "name": "lufenuron 230 MG / milbemycin oxime 11.5 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1487179",
+              "name": "lufenuron 46 MG / milbemycin oxime 2.3 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1487182",
+              "name": "lufenuron 460 MG / milbemycin oxime 23 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1487185",
+              "name": "lufenuron 115 MG / milbemycin oxime 5.75 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2058475",
+              "name": "milbemycin oxime 2.3 MG / praziquantel 22.8 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2058483",
+              "name": "milbemycin oxime 5.75 MG / praziquantel 57 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2058486",
+              "name": "milbemycin oxime 11.5 MG / praziquantel 114 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2058489",
+              "name": "milbemycin oxime 23 MG / praziquantel 228 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "545168",
+              "name": "milbemycin oxime 1 MG/ML Otic Solution",
+              "synonym": "milbemycin oxime 0.1 % Otic Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "890926",
+              "name": "milbemycin oxime 11.5 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "890931",
+              "name": "milbemycin oxime 2.3 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "890935",
+              "name": "milbemycin oxime 23 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "890939",
+              "name": "milbemycin oxime 5.75 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:06:15.026574",
+  "source": "RxNorm"
+}

@@ -1,0 +1,442 @@
+{
+  "query": "Tretinoin",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1191264",
+              "name": "fluocinolone acetonide 0.1 MG/ML / hydroquinone 40 MG/ML / tretinoin 0.5 MG/ML Topical Cream [Tri-Luma]",
+              "synonym": "Tri-Luma (fluocinolone acetonide 0.01 % / hydroquinone 4 % / tretinoin 0.05 % ) Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1424457",
+              "name": "tretinoin 0.75 MG/ML Topical Cream [Tretin X]",
+              "synonym": "Tretin X 0.075 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1488047",
+              "name": "tretinoin 0.0008 MG/MG Topical Gel [Retin-A]",
+              "synonym": "Retin-A 0.08 % Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "153595",
+              "name": "tretinoin 10 MG Oral Capsule [Vesanoid]",
+              "synonym": "Vesanoid 10 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1987646",
+              "name": "tretinoin 0.0006 MG/MG Topical Gel [Retin-A]",
+              "synonym": "Retin-A 0.0006 MG/MG Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2055008",
+              "name": "tretinoin 0.5 MG/ML Topical Lotion [Altreno]",
+              "synonym": "Altreno 0.05 % Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "208327",
+              "name": "tretinoin 0.25 MG/ML Topical Cream [Avita]",
+              "synonym": "Avita 0.025 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "208328",
+              "name": "tretinoin 0.25 MG/ML Topical Cream [Retin-A]",
+              "synonym": "Retin-A 0.025 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "208330",
+              "name": "tretinoin 0.5 MG/ML Topical Cream [Retin-A]",
+              "synonym": "Retin-A 0.05 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "208331",
+              "name": "tretinoin 1 MG/ML Topical Cream [Retin-A]",
+              "synonym": "Retin-A 0.1 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "208332",
+              "name": "tretinoin 0.00025 MG/MG Topical Gel [Avita]",
+              "synonym": "Avita 0.025 % Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "208334",
+              "name": "tretinoin 0.0001 MG/MG Topical Gel [Retin-A]",
+              "synonym": "Retin-A 0.01 % Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2565812",
+              "name": "benzoyl peroxide 30 MG/ML / tretinoin 1 MG/ML Topical Cream [Twyneo]",
+              "synonym": "Twyneo (benzoyl peroxide 3 % / tretinoin 0.1 % ) Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "656882",
+              "name": "tretinoin 0.5 MG/ML Topical Cream [Tretin X]",
+              "synonym": "Tretin X 0.05 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "701305",
+              "name": "tretinoin 0.00025 MG/MG Topical Gel [Retin-A]",
+              "synonym": "Retin-A 0.025 % Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "749329",
+              "name": "tretinoin 0.0005 MG/MG Topical Gel [Atralin]",
+              "synonym": "Atralin 0.05 % Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "805370",
+              "name": "tretinoin 0.0004 MG/MG Topical Gel [Retin-A]",
+              "synonym": "Retin-A 0.04 % Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "805372",
+              "name": "tretinoin 0.001 MG/MG Topical Gel [Retin-A]",
+              "synonym": "Retin-A 0.001 MG/MG Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "846955",
+              "name": "tretinoin 0.2 MG/ML Topical Cream [Renova]",
+              "synonym": "Renova 0.02 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "855687",
+              "name": "Emollient tretinoin 0.5 MG/ML Topical Cream [Refissa]",
+              "synonym": "Refissa 0.05 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "882550",
+              "name": "clindamycin phosphate 0.012 MG/MG / tretinoin 0.00025 MG/MG Topical Gel [Ziana]",
+              "synonym": "Ziana (clindamycin phosphate 1.2 % / tretinoin 0.025 % ) Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "997643",
+              "name": "tretinoin 0.375 MG/ML Topical Cream [Tretin X]",
+              "synonym": "Tretin X 0.0375 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "999927",
+              "name": "clindamycin phosphate 0.012 MG/MG / tretinoin 0.00025 MG/MG Topical Gel [Veltin]",
+              "synonym": "Veltin (clindamycin phosphate 1.2 % (clindamycin 1 % ) / tretinoin 0.025 % ) Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "106302",
+              "name": "tretinoin 0.25 MG/ML Topical Cream",
+              "synonym": "tretinoin 0.025 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "106303",
+              "name": "tretinoin 0.5 MG/ML Topical Cream",
+              "synonym": "tretinoin 0.05 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "106304",
+              "name": "tretinoin 0.25 MG/ML Topical Lotion",
+              "synonym": "tretinoin 0.025 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1191262",
+              "name": "fluocinolone acetonide 0.1 MG/ML / hydroquinone 40 MG/ML / tretinoin 0.5 MG/ML Topical Cream",
+              "synonym": "fluocinolone acetonide 0.01 % / hydroquinone 4 % / tretinoin 0.05 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1424455",
+              "name": "tretinoin 0.75 MG/ML Topical Cream",
+              "synonym": "tretinoin 0.075 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1488045",
+              "name": "tretinoin 0.0008 MG/MG Topical Gel",
+              "synonym": "tretinoin 0.08 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198300",
+              "name": "tretinoin 1 MG/ML Topical Cream",
+              "synonym": "tretinoin 0.1 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1987644",
+              "name": "tretinoin 0.0006 MG/MG Topical Gel",
+              "synonym": "tretinoin 0.06 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "199159",
+              "name": "tretinoin 10 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2117659",
+              "name": "Emollient tretinoin 0.5 MG/ML Topical Cream",
+              "synonym": "tretinoin 0.05 % Emollient Base Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "245723",
+              "name": "tretinoin 0.0005 MG/MG Topical Gel",
+              "synonym": "tretinoin 0.05 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "250939",
+              "name": "tretinoin 0.5 MG/ML Topical Lotion",
+              "synonym": "tretinoin 0.05 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "252265",
+              "name": "tretinoin 0.2 MG/ML Topical Cream",
+              "synonym": "tretinoin 0.02 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2565807",
+              "name": "benzoyl peroxide 30 MG/ML / tretinoin 1 MG/ML Topical Cream",
+              "synonym": "benzoyl peroxide 3 % / tretinoin 0.1 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "313450",
+              "name": "tretinoin 0.0001 MG/MG Topical Gel",
+              "synonym": "tretinoin 0.01 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "313451",
+              "name": "tretinoin 0.00025 MG/MG Topical Gel",
+              "synonym": "tretinoin 0.025 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "313452",
+              "name": "tretinoin 0.5 MG/ML Topical Solution",
+              "synonym": "tretinoin 0.05 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "313453",
+              "name": "tretinoin 0.001 MG/MG Topical Gel",
+              "synonym": "tretinoin 0.1 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "359050",
+              "name": "tretinoin 0.0004 MG/MG Topical Gel",
+              "synonym": "tretinoin 0.04 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "389251",
+              "name": "erythromycin 40 MG/ML / tretinoin 0.25 MG/ML Topical Solution",
+              "synonym": "erythromycin 4 % / tretinoin 0.025 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "562793",
+              "name": "mequinol 20 MG/ML / tretinoin 0.1 MG/ML Topical Solution",
+              "synonym": "mequinol 2 % / tretinoin 0.01 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "882548",
+              "name": "clindamycin phosphate 0.012 MG/MG / tretinoin 0.00025 MG/MG Topical Gel",
+              "synonym": "clindamycin phosphate 1.2 % (clindamycin 1 % ) / tretinoin 0.025 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "997641",
+              "name": "tretinoin 0.375 MG/ML Topical Cream",
+              "synonym": "tretinoin 0.0375 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:32:32.267373",
+  "source": "RxNorm"
+}

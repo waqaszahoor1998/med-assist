@@ -1,0 +1,10 @@
+{
+  "query": "beta-D-glucose 6-phosphate",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T06:29:59.965964",
+  "source": "RxNorm"
+}

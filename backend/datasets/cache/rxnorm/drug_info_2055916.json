@@ -1,0 +1,16 @@
+{
+  "rxcui": "2055916",
+  "properties": {
+    "properties": {
+      "rxcui": "2055916",
+      "name": "eravacycline 50 MG Injection [Xerava]",
+      "synonym": "Xerava 50 MG Injection",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T18:53:15.046806",
+  "source": "RxNorm"
+}

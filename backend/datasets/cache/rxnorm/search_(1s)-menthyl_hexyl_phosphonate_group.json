@@ -1,0 +1,10 @@
+{
+  "query": "(1S)-menthyl hexyl phosphonate group",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:53:33.427172",
+  "source": "RxNorm"
+}

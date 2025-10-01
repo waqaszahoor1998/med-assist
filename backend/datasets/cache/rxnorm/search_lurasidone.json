@@ -1,0 +1,118 @@
+{
+  "query": "Lurasidone",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1040036",
+              "name": "lurasidone hydrochloride 40 MG Oral Tablet [Latuda]",
+              "synonym": "Latuda 40 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1040043",
+              "name": "lurasidone hydrochloride 80 MG Oral Tablet [Latuda]",
+              "synonym": "Latuda 80 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1235249",
+              "name": "lurasidone hydrochloride 20 MG Oral Tablet [Latuda]",
+              "synonym": "Latuda 20 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1297357",
+              "name": "lurasidone hydrochloride 120 MG Oral Tablet [Latuda]",
+              "synonym": "Latuda 120 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1431237",
+              "name": "lurasidone hydrochloride 60 MG Oral Tablet [Latuda]",
+              "synonym": "Latuda 60 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1040031",
+              "name": "lurasidone hydrochloride 40 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1040041",
+              "name": "lurasidone hydrochloride 80 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1235247",
+              "name": "lurasidone hydrochloride 20 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1297278",
+              "name": "lurasidone hydrochloride 120 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1431235",
+              "name": "lurasidone hydrochloride 60 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:00:14.230095",
+  "source": "RxNorm"
+}

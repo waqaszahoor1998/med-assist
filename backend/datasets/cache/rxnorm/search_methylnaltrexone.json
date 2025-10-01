@@ -1,0 +1,100 @@
+{
+  "query": "Methylnaltrexone",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1244062",
+              "name": "0.6 ML methylnaltrexone bromide 20 MG/ML Prefilled Syringe [Relistor]",
+              "synonym": "0.6 ML Relistor 20 MG/ML Prefilled Syringe",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1244064",
+              "name": "0.4 ML methylnaltrexone bromide 20 MG/ML Prefilled Syringe [Relistor]",
+              "synonym": "0.4 ML Relistor 20 MG/ML Prefilled Syringe",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1801519",
+              "name": "methylnaltrexone bromide 150 MG Oral Tablet [Relistor]",
+              "synonym": "Relistor 150 MG (equivalent to methylnaltrexone 122.5 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "979115",
+              "name": "0.6 ML methylnaltrexone bromide 20 MG/ML Injection [Relistor]",
+              "synonym": "0.6 ML Relistor 20 MG/ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1244060",
+              "name": "0.6 ML methylnaltrexone bromide 20 MG/ML Prefilled Syringe",
+              "synonym": "methylnaltrexone bromide 12 MG per 0.6 ML Prefilled Syringe",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1244063",
+              "name": "0.4 ML methylnaltrexone bromide 20 MG/ML Prefilled Syringe",
+              "synonym": "methylnaltrexone bromide 8 MG per 0.4 ML Prefilled Syringe",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1801514",
+              "name": "methylnaltrexone bromide 150 MG Oral Tablet",
+              "synonym": "methylnaltrexone bromide 150 MG (equivalent to methylnaltrexone 122.5 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "979113",
+              "name": "0.6 ML methylnaltrexone bromide 20 MG/ML Injection",
+              "synonym": "methylnaltrexone bromide 12 MG per 0.6 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:38:41.272559",
+  "source": "RxNorm"
+}

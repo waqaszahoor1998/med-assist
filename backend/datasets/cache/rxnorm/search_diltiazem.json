@@ -1,0 +1,703 @@
+{
+  "query": "Diltiazem",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1091623",
+              "name": "24 HR diltiazem hydrochloride 420 MG Extended Release Oral Tablet [Matzim]",
+              "synonym": "24 HR Matzim 420 MG Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1091629",
+              "name": "24 HR diltiazem hydrochloride 240 MG Extended Release Oral Tablet [Matzim]",
+              "synonym": "24 HR Matzim 240 MG Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1091632",
+              "name": "24 HR diltiazem hydrochloride 180 MG Extended Release Oral Tablet [Matzim]",
+              "synonym": "24 HR Matzim 180 MG Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1091635",
+              "name": "24 HR diltiazem hydrochloride 300 MG Extended Release Oral Tablet [Matzim]",
+              "synonym": "24 HR Matzim 300 MG Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1091638",
+              "name": "24 HR diltiazem hydrochloride 360 MG Extended Release Oral Tablet [Matzim]",
+              "synonym": "24 HR Matzim 360 MG Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1988308",
+              "name": "24 HR diltiazem hydrochloride 120 MG Extended Release Oral Capsule [Tiadylt]",
+              "synonym": "24 HR Tiadylt 120 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1988311",
+              "name": "24 HR diltiazem hydrochloride 180 MG Extended Release Oral Capsule [Tiadylt]",
+              "synonym": "24 HR Tiadylt 180 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1988316",
+              "name": "24 HR diltiazem hydrochloride 240 MG Extended Release Oral Capsule [Tiadylt]",
+              "synonym": "24 HR Tiadylt 240 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1988319",
+              "name": "24 HR diltiazem hydrochloride 300 MG Extended Release Oral Capsule [Tiadylt]",
+              "synonym": "24 HR Tiadylt 300 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1988324",
+              "name": "24 HR diltiazem hydrochloride 360 MG Extended Release Oral Capsule [Tiadylt]",
+              "synonym": "24 HR Tiadylt 360 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1988330",
+              "name": "24 HR diltiazem hydrochloride 420 MG Extended Release Oral Capsule [Tiadylt]",
+              "synonym": "24 HR Tiadylt 420 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "830798",
+              "name": "24 HR diltiazem hydrochloride 360 MG Extended Release Oral Capsule [Cardizem]",
+              "synonym": "24 HR Cardizem 360 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "830803",
+              "name": "24 HR diltiazem hydrochloride 300 MG Extended Release Oral Capsule [Cardizem]",
+              "synonym": "24 HR Cardizem 300 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "830839",
+              "name": "24 HR diltiazem hydrochloride 240 MG Extended Release Oral Capsule [Cardizem]",
+              "synonym": "24 HR Cardizem 240 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "830847",
+              "name": "24 HR diltiazem hydrochloride 180 MG Extended Release Oral Capsule [Cardizem]",
+              "synonym": "24 HR Cardizem 180 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "830863",
+              "name": "24 HR diltiazem hydrochloride 120 MG Extended Release Oral Capsule [Cardizem]",
+              "synonym": "24 HR Cardizem 120 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "830876",
+              "name": "24 HR diltiazem hydrochloride 120 MG Extended Release Oral Tablet [Cardizem]",
+              "synonym": "24 HR Cardizem 120 MG Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "830878",
+              "name": "24 HR diltiazem hydrochloride 180 MG Extended Release Oral Tablet [Cardizem]",
+              "synonym": "24 HR Cardizem 180 MG Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "830880",
+              "name": "24 HR diltiazem hydrochloride 240 MG Extended Release Oral Tablet [Cardizem]",
+              "synonym": "24 HR Cardizem 240 MG Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "830883",
+              "name": "24 HR diltiazem hydrochloride 300 MG Extended Release Oral Tablet [Cardizem]",
+              "synonym": "24 HR Cardizem 300 MG Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "830898",
+              "name": "24 HR diltiazem hydrochloride 360 MG Extended Release Oral Tablet [Cardizem]",
+              "synonym": "24 HR Cardizem 360 MG Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "830902",
+              "name": "24 HR diltiazem hydrochloride 420 MG Extended Release Oral Tablet [Cardizem]",
+              "synonym": "24 HR Cardizem 420 MG Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "831055",
+              "name": "diltiazem hydrochloride 120 MG Oral Tablet [Cardizem]",
+              "synonym": "Cardizem 120 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "831193",
+              "name": "24 HR diltiazem hydrochloride 120 MG Extended Release Oral Capsule [Tiazac]",
+              "synonym": "24 HR Tiazac 120 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "831196",
+              "name": "24 HR diltiazem hydrochloride 120 MG Extended Release Oral Capsule [Taztia]",
+              "synonym": "24 HR Taztia 120 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "831215",
+              "name": "24 HR diltiazem hydrochloride 120 MG Extended Release Oral Capsule [Dilt]",
+              "synonym": "24 HR Dilt 120 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "831226",
+              "name": "24 HR diltiazem hydrochloride 120 MG Extended Release Oral Capsule [Cartia]",
+              "synonym": "24 HR Cartia 120 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "831244",
+              "name": "24 HR diltiazem hydrochloride 180 MG Extended Release Oral Capsule [Tiazac]",
+              "synonym": "24 HR Tiazac 180 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "831248",
+              "name": "24 HR diltiazem hydrochloride 180 MG Extended Release Oral Capsule [Taztia]",
+              "synonym": "24 HR Taztia 180 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "831252",
+              "name": "24 HR diltiazem hydrochloride 180 MG Extended Release Oral Capsule [Dilt]",
+              "synonym": "24 HR Dilt 180 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "831255",
+              "name": "24 HR diltiazem hydrochloride 180 MG Extended Release Oral Capsule [Cartia]",
+              "synonym": "24 HR Cartia 180 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "831285",
+              "name": "24 HR diltiazem hydrochloride 240 MG Extended Release Oral Capsule [Dilt]",
+              "synonym": "24 HR Dilt 240 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "831296",
+              "name": "24 HR diltiazem hydrochloride 240 MG Extended Release Oral Capsule [Tiazac]",
+              "synonym": "24 HR Tiazac 240 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "831300",
+              "name": "24 HR diltiazem hydrochloride 240 MG Extended Release Oral Capsule [Taztia]",
+              "synonym": "24 HR Taztia 240 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "831309",
+              "name": "24 HR diltiazem hydrochloride 240 MG Extended Release Oral Capsule [Cartia]",
+              "synonym": "24 HR Cartia 240 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "831323",
+              "name": "24 HR diltiazem hydrochloride 300 MG Extended Release Oral Capsule [Tiazac]",
+              "synonym": "24 HR Tiazac 300 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "831325",
+              "name": "24 HR diltiazem hydrochloride 300 MG Extended Release Oral Capsule [Taztia]",
+              "synonym": "24 HR Taztia 300 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "831338",
+              "name": "24 HR diltiazem hydrochloride 300 MG Extended Release Oral Capsule [Cartia]",
+              "synonym": "24 HR Cartia 300 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "831347",
+              "name": "24 HR diltiazem hydrochloride 360 MG Extended Release Oral Capsule [Tiazac]",
+              "synonym": "24 HR Tiazac 360 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "831349",
+              "name": "24 HR diltiazem hydrochloride 360 MG Extended Release Oral Capsule [Taztia]",
+              "synonym": "24 HR Taztia 360 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "831360",
+              "name": "24 HR diltiazem hydrochloride 420 MG Extended Release Oral Capsule [Tiazac]",
+              "synonym": "Tiazac 420 MG 24 HR Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "833219",
+              "name": "diltiazem hydrochloride 30 MG Oral Tablet [Cardizem]",
+              "synonym": "Cardizem 30 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "833704",
+              "name": "24 HR diltiazem hydrochloride 240 MG Extended Release Oral Capsule [Diltzac]",
+              "synonym": "24 HR Diltzac 240 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "833705",
+              "name": "24 HR diltiazem hydrochloride 300 MG Extended Release Oral Capsule [Diltzac]",
+              "synonym": "24 HR Diltzac 300 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "834393",
+              "name": "diltiazem hydrochloride 60 MG Oral Tablet [Cardizem]",
+              "synonym": "Cardizem 60 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "848524",
+              "name": "24 HR diltiazem hydrochloride 120 MG Extended Release Oral Capsule [Diltzac]",
+              "synonym": "24 HR Diltzac 120 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1791229",
+              "name": "5 ML diltiazem hydrochloride 5 MG/ML Injection",
+              "synonym": "diltiazem hydrochloride 25 MG per 5 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1791232",
+              "name": "10 ML diltiazem hydrochloride 5 MG/ML Injection",
+              "synonym": "diltiazem hydrochloride 50 MG per 10 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1791233",
+              "name": "25 ML diltiazem hydrochloride 5 MG/ML Injection",
+              "synonym": "diltiazem hydrochloride 125 MG per 25 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1791240",
+              "name": "diltiazem hydrochloride 100 MG Injection",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2586036",
+              "name": "250 ML diltiazem hydrochloride 1 MG/ML Injection",
+              "synonym": "diltiazem hydrochloride 250 MG per 250 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2709225",
+              "name": "100 ML diltiazem hydrochloride 1 MG/ML Injection",
+              "synonym": "diltiazem hydrochloride 100 MG per 100 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "830795",
+              "name": "24 HR diltiazem hydrochloride 360 MG Extended Release Oral Capsule",
+              "synonym": "diltiazem hydrochloride 360 MG 24 HR Extended Release Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "830801",
+              "name": "24 HR diltiazem hydrochloride 300 MG Extended Release Oral Capsule",
+              "synonym": "diltiazem hydrochloride 300 MG 24 HR Extended Release Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "830837",
+              "name": "24 HR diltiazem hydrochloride 240 MG Extended Release Oral Capsule",
+              "synonym": "diltiazem HCl 240 MG 24 HR Extended Release Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "830845",
+              "name": "24 HR diltiazem hydrochloride 180 MG Extended Release Oral Capsule",
+              "synonym": "diltiazem HCl 180 MG 24 HR Extended Release Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "830861",
+              "name": "24 HR diltiazem hydrochloride 120 MG Extended Release Oral Capsule",
+              "synonym": "diltiazem HCl 120 MG 24 HR Extended Release Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "830865",
+              "name": "12 HR diltiazem hydrochloride 60 MG Extended Release Oral Capsule",
+              "synonym": "diltiazem hydrochloride 60 MG 12 HR Extended Release Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "830869",
+              "name": "12 HR diltiazem hydrochloride 90 MG Extended Release Oral Capsule",
+              "synonym": "diltiazem hydrochloride 90 MG 12 HR Extended Release Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "830872",
+              "name": "12 HR diltiazem hydrochloride 120 MG Extended Release Oral Capsule",
+              "synonym": "diltiazem hydrochloride 120 MG 12 HR Extended Release Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "830874",
+              "name": "24 HR diltiazem hydrochloride 120 MG Extended Release Oral Tablet",
+              "synonym": "diltiazem hydrochloride 120 MG 24 HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "830877",
+              "name": "24 HR diltiazem hydrochloride 180 MG Extended Release Oral Tablet",
+              "synonym": "diltiazem hydrochloride 180 MG 24 HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "830879",
+              "name": "24 HR diltiazem hydrochloride 240 MG Extended Release Oral Tablet",
+              "synonym": "diltiazem hydrochloride 240 MG 24 HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "830882",
+              "name": "24 HR diltiazem hydrochloride 300 MG Extended Release Oral Tablet",
+              "synonym": "diltiazem hydrochloride 300 MG 24 HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "830897",
+              "name": "24 HR diltiazem hydrochloride 360 MG Extended Release Oral Tablet",
+              "synonym": "diltiazem hydrochloride 360 MG 24 HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "830900",
+              "name": "24 HR diltiazem hydrochloride 420 MG Extended Release Oral Tablet",
+              "synonym": "diltiazem hydrochloride 420 MG 24 HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "831012",
+              "name": "diltiazem hydrochloride 60 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "831054",
+              "name": "diltiazem hydrochloride 120 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "831102",
+              "name": "diltiazem hydrochloride 90 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "831103",
+              "name": "diltiazem hydrochloride 60 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "831359",
+              "name": "24 HR diltiazem hydrochloride 420 MG Extended Release Oral Capsule",
+              "synonym": "diltiazem hydrochloride 420 MG 24 HR Extended Release Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "833217",
+              "name": "diltiazem hydrochloride 30 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "833237",
+              "name": "diltiazem hydrochloride 180 MG / enalapril maleate 5 MG Extended Release Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "833707",
+              "name": "12 HR diltiazem hydrochloride 60 MG Extended Release Oral Tablet",
+              "synonym": "diltiazem hydrochloride 60 MG 12 HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "849860",
+              "name": "diltiazem malate 240 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:09:16.482210",
+  "source": "RxNorm"
+}

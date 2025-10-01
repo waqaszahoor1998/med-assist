@@ -1,0 +1,46 @@
+{
+  "query": "Plerixafor",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "828703",
+              "name": "1.2 ML plerixafor 20 MG/ML Injection [Mozobil]",
+              "synonym": "Mozobil 24 MG per 1.2 ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "828700",
+              "name": "1.2 ML plerixafor 20 MG/ML Injection",
+              "synonym": "plerixafor 24 MG per 1.2 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:39:23.092038",
+  "source": "RxNorm"
+}

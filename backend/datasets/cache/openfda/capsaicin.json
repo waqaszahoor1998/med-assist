@@ -1,0 +1,23 @@
+{
+  "drug_name": "Capsaicin",
+  "generic_name": [
+    "CAPSAICIN"
+  ],
+  "brand_names": [
+    "Capsaicin 0.1 Percent"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    "Warnings For external use only Read all warnings and directions before use. Test first on small area of skin. Do not use \u2022 On wounds or damaged skin \u2022 If you are allergic to capsicum or chili peppers Whe n us ing this product \u2022 You may experience a burning sensation. The intensity of this reaction varies among individuals and may be severe. With regular use, this sensation generally disappears after several days. \u2022 Avoid contact with the eyes, lips, nose and mucous membranes \u2022 Do not tightly wrap or bandage the treated area \u2022 Do not apply heat to the treated area immediately before or after use Stop use and as k a doctor if \u2022 Condition worsens or does not improve after regular use \u2022 Severe burning persists or blistering occurs Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately."
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    "Directions Adults and children 18 years of age and older: Apply a thin film of cream to affected area and gently rub in until fully absorbed unless treating hands. Wash hands thoroughly with soap and water immediately after application for best results. Apply 3 to 4 times daily. Children under 18 years : Ask a doctor"
+  ],
+  "indications": [
+    "Uses Temporarily relieves minor aches and pains of muscles and joints due to: \u2022 simple backache \u2022 arthritis \u2022 strains \u2022 sprains"
+  ],
+  "fetched_at": "2025-10-01T16:36:35.239727",
+  "source": "OpenFDA"
+}

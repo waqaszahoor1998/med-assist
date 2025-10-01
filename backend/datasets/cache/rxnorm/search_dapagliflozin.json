@@ -1,0 +1,190 @@
+{
+  "query": "Dapagliflozin",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1486977",
+              "name": "dapagliflozin 10 MG Oral Tablet [Farxiga]",
+              "synonym": "Farxiga 10 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1486981",
+              "name": "dapagliflozin 5 MG Oral Tablet [Farxiga]",
+              "synonym": "Farxiga 5 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1593775",
+              "name": "24 HR dapagliflozin 10 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Xigduo]",
+              "synonym": "Xigduo XR 10/1000 24HR Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1593831",
+              "name": "24 HR dapagliflozin 5 MG / metformin hydrochloride 500 MG Extended Release Oral Tablet [Xigduo]",
+              "synonym": "Xigduo XR 5/500 24HR Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1593833",
+              "name": "24 HR dapagliflozin 5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Xigduo]",
+              "synonym": "Xigduo XR 5/1000 24HR Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1593835",
+              "name": "24 HR dapagliflozin 10 MG / metformin hydrochloride 500 MG Extended Release Oral Tablet [Xigduo]",
+              "synonym": "Xigduo XR 10/500 24HR Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1925504",
+              "name": "dapagliflozin 10 MG / saxagliptin 5 MG Oral Tablet [Qtern]",
+              "synonym": "Qtern (dapagliflozin 10 MG / saxagliptin 5 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1940498",
+              "name": "24 HR dapagliflozin 2.5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Xigduo]",
+              "synonym": "Xigduo XR 2.5/1000 24HR Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2169276",
+              "name": "dapagliflozin 5 MG / saxagliptin 5 MG Oral Tablet [Qtern]",
+              "synonym": "",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1488569",
+              "name": "dapagliflozin 10 MG Oral Tablet",
+              "synonym": "dapagliflozin (as dapagliflozin propanediol) 10 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1488574",
+              "name": "dapagliflozin 5 MG Oral Tablet",
+              "synonym": "dapagliflozin (as dapagliflozin propanediol) 5 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1593058",
+              "name": "24 HR dapagliflozin 10 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+              "synonym": "dapagliflozin (as dapagliflozin propanediol) 10 MG / metformin hydrochloride 1000 MG 24 HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1593068",
+              "name": "24 HR dapagliflozin 10 MG / metformin hydrochloride 500 MG Extended Release Oral Tablet",
+              "synonym": "dapagliflozin 10 MG / metformin HCl 500 MG 24HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1593070",
+              "name": "24 HR dapagliflozin 5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+              "synonym": "dapagliflozin (as dapagliflozin propanediol) 5 MG / metformin hydrochloride 1000 MG 24 HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1593072",
+              "name": "24 HR dapagliflozin 5 MG / metformin hydrochloride 500 MG Extended Release Oral Tablet",
+              "synonym": "dapagliflozin 5 MG / metformin HCl 500 MG 24HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1925498",
+              "name": "dapagliflozin 10 MG / saxagliptin 5 MG Oral Tablet",
+              "synonym": "dapagliflozin 10 MG (as dapagliflozin propanediol 12.3 MG) / saxagliptin 5 MG (as saxagliptin HCl 5.95 MG) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1940496",
+              "name": "24 HR dapagliflozin 2.5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet",
+              "synonym": "dapagliflozin 2.5 MG / metformin HCl 1000 MG 24HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2169274",
+              "name": "dapagliflozin 5 MG / saxagliptin 5 MG Oral Tablet",
+              "synonym": "dapagliflozin 5 MG (as dapagliflozin propanediol 6.15 MG) / saxagliptin 5 MG (as saxagliptin HCl) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:17:34.975716",
+  "source": "RxNorm"
+}

@@ -1,0 +1,16 @@
+{
+  "rxcui": "1010035",
+  "properties": {
+    "properties": {
+      "rxcui": "1010035",
+      "name": "lidocaine hydrochloride 10 MG/ML Injectable Solution [Xylocaine]",
+      "synonym": "Xylocaine 1 % Injectable Solution",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T21:04:34.520491",
+  "source": "RxNorm"
+}

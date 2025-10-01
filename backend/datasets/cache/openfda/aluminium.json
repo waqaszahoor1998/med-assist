@@ -1,0 +1,23 @@
+{
+  "drug_name": "Aluminium",
+  "generic_name": [
+    "ALUMINIUM FLUORATUM"
+  ],
+  "brand_names": [
+    "Aluminium Fluoratum"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    ""
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    ""
+  ],
+  "indications": [
+    ""
+  ],
+  "fetched_at": "2025-09-30T23:37:19.391705",
+  "source": "OpenFDA"
+}

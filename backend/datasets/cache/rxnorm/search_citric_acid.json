@@ -1,0 +1,379 @@
+{
+  "query": "Citric acid",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1536680",
+              "name": "aspirin 325 MG / citric acid 1000 MG / sodium bicarbonate 1916 MG Effervescent Oral Tablet [Alka-Seltzer]",
+              "synonym": "ASA 325 MG / Citric Acid 1000 MG / NaHCO3 1916 MG Effervescent Oral Tablet [Alka-Seltzer]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1536835",
+              "name": "aspirin 500 MG / citric acid 1000 MG / sodium bicarbonate 1985 MG Effervescent Oral Tablet [Alka-Seltzer]",
+              "synonym": "ASA 500 MG / Citric Acid 1000 MG / NaHCO3 1985 MG Effervescent Oral Tablet [Alka-Seltzer]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1537012",
+              "name": "aspirin 325 MG / citric acid 1000 MG / sodium bicarbonate 1916 MG Effervescent Oral Tablet [Bromo Seltzer Antacid Pain Reliever]",
+              "synonym": "ASA 325 MG / Citric Acid 1000 MG / NaHCO3 1916 MG Effervescent Oral Tablet [Bromo Seltzer Antacid Pain Reliever]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1652638",
+              "name": "citric acid 1002 MG / potassium citrate 3300 MG Powder for Oral Solution [Cytra-K]",
+              "synonym": "Citric Acid 1002 MG / K+ citrate 3300 MG Powder for Oral Solution [Cytra-K]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1792398",
+              "name": "citric acid 66 MG/ML / gluconolactone 1.98 MG/ML / magnesium carbonate 32.7 MG/ML Irrigation Solution [Renacidin]",
+              "synonym": "Renacidin (citric acid 1980.6 MG / gluconolactone 59.4 MG / magnesium carbonate 980.4 MG) per 30 ML Irrigation Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1795950",
+              "name": "citric acid 1949 MG / sodium bicarbonate 2485 MG Powder for Oral Solution [Picot]",
+              "synonym": "Picot 1.949 GM / 2.485 GM Powder for Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1872088",
+              "name": "aspirin 500 MG / citric acid 1000 MG / sodium bicarbonate 1985 MG Granules for Oral Solution [Alka-Seltzer]",
+              "synonym": "ASA 500 MG / Citric Acid 1000 MG / NaHCO3 1985 MG Granules for Oral Solution [Alka-Seltzer]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1925790",
+              "name": "aspirin 325 MG / citric acid 1000 MG / sodium bicarbonate 1700 MG Effervescent Oral Tablet [Alka-Seltzer]",
+              "synonym": "ASA 325 MG / Citric Acid 1000 MG / NaHCO3 1700 MG Effervescent Oral Tablet [Alka-Seltzer]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1991509",
+              "name": "citric acid 75 MG/ML / magnesium oxide 21.9 MG/ML / picosulfate sodium 0.0625 MG/ML Oral Solution [Clenpiq]",
+              "synonym": "CLENPIQ (citric acid 12 GM / magnesium oxide 3.5 GM / picosulfate sodium 10 MG) per 160 ML Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "209304",
+              "name": "citric acid 66.8 MG/ML / potassium citrate 220 MG/ML Oral Solution [Cytra-K]",
+              "synonym": "Cytra-K Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2385353",
+              "name": "citric acid 0.01 MG/MG / lactic acid 0.018 MG/MG / potassium bitartrate 0.004 MG/MG Vaginal Gel [Phexxi]",
+              "synonym": "Phexxi (lactic acid 1.8 % / citric acid 1 % / potassium bitartrate 0.4 % ) Vaginal Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2474339",
+              "name": "citric acid 1530 MG / simethicone 40 MG / sodium bicarbonate 2210 MG Granules for Oral Solution [E-Z-Gas II]",
+              "synonym": "citric acid 1530 MG / simethicone 40 MG / NaHCO3 2210 MG Granules for Oral Solution [E-Z-Gas II]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2626366",
+              "name": "citric acid 68.6 MG/ML / magnesium oxide 20 MG/ML / picosulfate sodium 0.0571 MG/ML Oral Solution [Clenpiq]",
+              "synonym": "CLENPIQ (citric acid 12 GM / magnesium oxide 3.5 GM / picosulfate sodium 10 MG) per 175 ML Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2700386",
+              "name": "citric acid 0.01 MG/MG / lactic acid 0.018 MG/MG / potassium bitartrate 0.004 MG/MG Vaginal Gel [Phexx]",
+              "synonym": "Phexx 1.8 % / 1 % / 0.4 % Vaginal Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "543018",
+              "name": "citric acid 66.8 MG/ML / sodium citrate 100 MG/ML Oral Solution [Cytra 2]",
+              "synonym": "Cytra 2 Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "544553",
+              "name": "citric acid 128 MG/ML / sodium citrate 98 MG/ML Oral Solution [Oracit]",
+              "synonym": "Oracit (citric acid 128 MG/ML / sodium citrate 98 MG/ML) Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "828618",
+              "name": "citric acid 66.8 MG/ML / potassium citrate 110 MG/ML / sodium citrate 100 MG/ML Oral Solution [Cytra-3]",
+              "synonym": "Cytra-3 Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1536467",
+              "name": "aspirin 325 MG / citric acid 1000 MG / sodium bicarbonate 1700 MG Effervescent Oral Tablet",
+              "synonym": "ASA 325 MG / Citric Acid 1000 MG / NaHCO3 1700 MG Effervescent Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1536470",
+              "name": "citric acid 1000 MG / sodium bicarbonate 1940 MG Effervescent Oral Tablet",
+              "synonym": "Citric Acid 1000 MG / NaHCO3 1940 MG Effervescent Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1536474",
+              "name": "citric acid 1000 MG / potassium bicarbonate 344 MG / sodium bicarbonate 1050 MG Effervescent Oral Tablet",
+              "synonym": "Citric Acid 1000 MG / K+ bicarbonate 344 MG / NaHCO3 1050 MG Effervescent Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1536675",
+              "name": "aspirin 325 MG / citric acid 1000 MG / sodium bicarbonate 1916 MG Effervescent Oral Tablet",
+              "synonym": "ASA 325 MG / Citric Acid 1000 MG / NaHCO3 1916 MG Effervescent Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1536833",
+              "name": "aspirin 500 MG / citric acid 1000 MG / sodium bicarbonate 1985 MG Effervescent Oral Tablet",
+              "synonym": "ASA 500 MG / Citric Acid 1000 MG / NaHCO3 1985 MG Effervescent Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1652634",
+              "name": "citric acid 1002 MG / potassium citrate 3300 MG Powder for Oral Solution",
+              "synonym": "Citric Acid 1002 MG / K+ citrate 3300 MG Powder for Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1792396",
+              "name": "citric acid 66 MG/ML / gluconolactone 1.98 MG/ML / magnesium carbonate 32.7 MG/ML Irrigation Solution",
+              "synonym": "citric acid 1980.6 MG / gluconolactone 59.4 MG / magnesium carbonate 980.4 MG per 30 ML Irrigation Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1795948",
+              "name": "citric acid 1949 MG / sodium bicarbonate 2485 MG Powder for Oral Solution",
+              "synonym": "Citric Acid 1949 MG / NaHCO3 2485 MG Powder for Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1872085",
+              "name": "aspirin 500 MG / citric acid 1000 MG / sodium bicarbonate 1985 MG Granules for Oral Solution",
+              "synonym": "ASA 500 MG / Citric Acid 1000 MG / NaHCO3 1985 MG Granules for Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1994540",
+              "name": "citric acid 75 MG/ML / magnesium oxide 21.9 MG/ML / picosulfate sodium 0.0625 MG/ML Oral Solution",
+              "synonym": "citric acid 12 GM / magnesium oxide 3.5 GM / picosulfate sodium 10 MG per 160 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2168769",
+              "name": "citric acid 5 MG/ML Topical Solution",
+              "synonym": "citric acid 0.5 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2385348",
+              "name": "citric acid 0.01 MG/MG / lactic acid 0.018 MG/MG / potassium bitartrate 0.004 MG/MG Vaginal Gel",
+              "synonym": "lactic acid 1.8 % / citric acid 1 % / potassium bitartrate 0.4 % Vaginal Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2474333",
+              "name": "citric acid 1530 MG / simethicone 40 MG / sodium bicarbonate 2210 MG Granules for Oral Solution",
+              "synonym": "citric acid 1530 MG / simethicone 40 MG / NaHCO3 2210 MG Granules for Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2571087",
+              "name": "citric acid 1000 MG / sodium bicarbonate 1976 MG Effervescent Oral Tablet",
+              "synonym": "citric acid 1000 MG / NaHCO3 1976 MG Effervescent Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2588964",
+              "name": "citric acid 1948.5 MG / sodium bicarbonate 2485 MG Granules for Oral Solution",
+              "synonym": "citric acid 1948.5 MG / NaHCO3 2485 MG Granules for Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2599360",
+              "name": "citric acid 1000 MG / sodium bicarbonate 1650 MG Effervescent Oral Tablet",
+              "synonym": "citric acid 1000 MG / NaHCO3 1650 MG Effervescent Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2626364",
+              "name": "citric acid 68.6 MG/ML / magnesium oxide 20 MG/ML / picosulfate sodium 0.0571 MG/ML Oral Solution",
+              "synonym": "citric acid 12 GM / magnesium oxide 3.5 GM / picosulfate sodium 10 MG per 175 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "309317",
+              "name": "citric acid 66.8 MG/ML / potassium citrate 110 MG/ML / sodium citrate 100 MG/ML Oral Solution",
+              "synonym": "Citric Acid 66.8 MG/ML / K+ citrate 110 MG/ML / sodium citrate 100 MG/ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "309318",
+              "name": "citric acid 66.8 MG/ML / potassium citrate 220 MG/ML Oral Solution",
+              "synonym": "Citric Acid 66.8 MG/ML / K+ citrate 220 MG/ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "486042",
+              "name": "citric acid 60 MG/ML / sodium citrate 100 MG/ML Oral Solution",
+              "synonym": "citric acid 300 MG / sodium citrate 500 MG per 5 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "543014",
+              "name": "citric acid 66.8 MG/ML / sodium citrate 100 MG/ML Oral Solution",
+              "synonym": "citric acid 334 MG / sodium citrate 500 MG per 5 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "544550",
+              "name": "citric acid 128 MG/ML / sodium citrate 98 MG/ML Oral Solution",
+              "synonym": "citric acid 640 MG / sodium citrate 490 MG per 5 ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T13:21:29.903166",
+  "source": "RxNorm"
+}

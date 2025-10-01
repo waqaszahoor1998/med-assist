@@ -1,0 +1,64 @@
+{
+  "query": "Mafenide",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "201185",
+              "name": "mafenide 85 MG/ML Topical Cream [Sulfamylon]",
+              "synonym": "Sulfamylon 8.5 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "285024",
+              "name": "mafenide 50 MG/ML Topical Solution [Sulfamylon]",
+              "synonym": "Sulfamylon 50 MG/ML Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "251575",
+              "name": "mafenide 50 MG/ML Topical Solution",
+              "synonym": "mafenide 5 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "311406",
+              "name": "mafenide 85 MG/ML Topical Cream",
+              "synonym": "mafenide (as mafenide acetate) 8.5 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:38:20.592968",
+  "source": "RxNorm"
+}

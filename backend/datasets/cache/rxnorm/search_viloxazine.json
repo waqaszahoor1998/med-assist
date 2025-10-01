@@ -1,0 +1,82 @@
+{
+  "query": "Viloxazine",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2536554",
+              "name": "24 HR viloxazine 100 MG Extended Release Oral Capsule [Qelbree]",
+              "synonym": "24 HR Qelbree 100 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2536752",
+              "name": "24 HR viloxazine 150 MG Extended Release Oral Capsule [Qelbree]",
+              "synonym": "24 HR Qelbree 150 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2536758",
+              "name": "24 HR viloxazine 200 MG Extended Release Oral Capsule [Qelbree]",
+              "synonym": "24 HR Qelbree 200 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2536548",
+              "name": "24 HR viloxazine 100 MG Extended Release Oral Capsule",
+              "synonym": "viloxazine 100 MG (as viloxazine HCl 115 MG) 24 HR Extended Release Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2536750",
+              "name": "24 HR viloxazine 150 MG Extended Release Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2536756",
+              "name": "24 HR viloxazine 200 MG Extended Release Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:25:45.245808",
+  "source": "RxNorm"
+}

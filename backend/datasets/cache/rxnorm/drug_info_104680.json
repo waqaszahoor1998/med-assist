@@ -1,0 +1,16 @@
+{
+  "rxcui": "104680",
+  "properties": {
+    "properties": {
+      "rxcui": "104680",
+      "name": "chloral hydrate 414 MG Oral Tablet",
+      "synonym": "",
+      "tty": "SCD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T03:06:00.344747",
+  "source": "RxNorm"
+}

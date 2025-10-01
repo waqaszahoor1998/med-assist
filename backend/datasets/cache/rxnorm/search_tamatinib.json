@@ -1,0 +1,10 @@
+{
+  "query": "Tamatinib",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:43:26.440245",
+  "source": "RxNorm"
+}

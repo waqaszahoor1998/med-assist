@@ -1,0 +1,10 @@
+{
+  "query": "AG-24322",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:29:43.256911",
+  "source": "RxNorm"
+}

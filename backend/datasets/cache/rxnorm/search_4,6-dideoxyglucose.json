@@ -1,0 +1,10 @@
+{
+  "query": "4,6-Dideoxyglucose",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:32:29.312354",
+  "source": "RxNorm"
+}

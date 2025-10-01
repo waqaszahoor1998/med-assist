@@ -1,0 +1,25 @@
+{
+  "drug_name": "Alclometasone",
+  "generic_name": [
+    "ALCLOMETASONE DIPROPIONATE"
+  ],
+  "brand_names": [
+    "Alclometasone Dipropionate"
+  ],
+  "drug_interactions": [],
+  "warnings": [],
+  "adverse_reactions": [
+    "ADVERSE REACTIONS The following local adverse reactions have been reported with alclometasone dipropionate ointment in approximately 1% of patients: itching, burning, and erythema. The following additional local adverse reactions have been reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in approximate decreasing order of occurrence: folliculitis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, skin atrophy, striae, and miliaria. To report SUSPECTED ADVERSE REACTIONS, contact Sun Pharmaceutical Industries, Inc., at 1-866-923-4914 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+  ],
+  "contraindications": [
+    "CONTRAINDICATIONS Alclometasone Dipropionate Ointment USP, 0.05% is contraindicated in those patients with a history of hypersensitivity to any of the components in this preparation."
+  ],
+  "dosage_administration": [
+    "DOSAGE AND ADMINISTRATION Apply a thin film of Alclometasone Dipropionate Ointment USP, 0.05% to the affected skin areas two or three times daily; massage gently until the medication disappears. Alclometasone dipropionate ointment may be used in pediatric patients 1 year of age or older. Safety and effectiveness of alclometasone dipropionate ointment in pediatric patients for more than 3 weeks of use have not been established. Use in pediatric patients under 1 year of age is not recommended. As with other corticosteroids, therapy should be discontinued when control is achieved. If no improvement is seen within 2 weeks, reassessment of diagnosis may be necessary. Alclometasone dipropionate ointment should not be used with occlusive dressings unless directed by a physician. Alclometasone dipropionate ointment should not be applied in the diaper area if the child still requires diapers or plastic pants as these garments may constitute occlusive dressing. Geriatric Use In studies where geriatric patients (65 years of age or older, see PRECAUTIONS ) have been treated with alclometasone dipropionate ointment, safety did not differ from that in younger patients; therefore, no dosage adjustment is recommended."
+  ],
+  "indications": [
+    "INDICATIONS AND USAGE Alclometasone Dipropionate Ointment USP, 0.05% is a low to medium potency corticosteroid indicated for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses. Alclometasone dipropionate ointment may be used in pediatric patients 1 year of age or older, although the safety and efficacy of drug use for longer than 3 weeks have not been established (see PRECAUTIONS: Pediatric Use ). Since the safety and efficacy of alclometasone dipropionate ointment has not been established in pediatric patients below 1 year of age, their use in this age-group is not recommended."
+  ],
+  "fetched_at": "2025-09-30T21:02:22.141766",
+  "source": "OpenFDA"
+}

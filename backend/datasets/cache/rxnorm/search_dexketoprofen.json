@@ -1,0 +1,35 @@
+{
+  "query": "Dexketoprofen",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD"
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "389243",
+              "name": "dexketoprofen 25 MG Oral Tablet",
+              "synonym": "dexketoprofen (as dexketoprofen trometamol) 25 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:27:33.307843",
+  "source": "RxNorm"
+}

@@ -1,0 +1,16 @@
+{
+  "rxcui": "1363493",
+  "properties": {
+    "properties": {
+      "rxcui": "1363493",
+      "name": "xylometazoline hydrochloride 1 MG/ML Nasal Spray",
+      "synonym": "xylometazoline HCl 0.1 % Nasal Spray",
+      "tty": "SCD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T16:31:03.417883",
+  "source": "RxNorm"
+}

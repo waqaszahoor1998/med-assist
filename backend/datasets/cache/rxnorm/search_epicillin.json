@@ -1,0 +1,10 @@
+{
+  "query": "Epicillin",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T22:25:07.466545",
+  "source": "RxNorm"
+}

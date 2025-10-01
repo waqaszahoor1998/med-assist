@@ -1,0 +1,10 @@
+{
+  "query": "5-[Bis(2-bromoethyl)amino]-N-(2,3-dioxopropyl)-2,4-dinitrobenzamide",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T06:30:40.943434",
+  "source": "RxNorm"
+}

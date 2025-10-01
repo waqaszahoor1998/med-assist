@@ -1,0 +1,16 @@
+{
+  "rxcui": "208104",
+  "properties": {
+    "properties": {
+      "rxcui": "208104",
+      "name": "10 ML tranexamic acid 100 MG/ML Injection [Cyklokapron]",
+      "synonym": "Cyklokapron 1000 MG per 10 ML Injection",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T21:06:03.248502",
+  "source": "RxNorm"
+}

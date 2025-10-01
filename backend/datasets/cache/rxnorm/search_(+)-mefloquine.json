@@ -1,0 +1,10 @@
+{
+  "query": "(+)-Mefloquine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:02:41.833774",
+  "source": "RxNorm"
+}

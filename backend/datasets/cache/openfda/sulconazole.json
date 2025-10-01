@@ -1,0 +1,25 @@
+{
+  "drug_name": "Sulconazole",
+  "generic_name": [
+    "SULCONAZOLE NITRATE"
+  ],
+  "brand_names": [
+    "Exelderm"
+  ],
+  "drug_interactions": [],
+  "warnings": [],
+  "adverse_reactions": [
+    "ADVERSE REACTIONS There were no systemic effects and only infrequent cutaneous adverse reactions in 1185 patients treated with sulconazole nitrate cream in controlled clinical trials. Approximately 3% of these patients reported itching, 3% burning or stinging, and 1% redness. These complaints did not usually interfere with treatment."
+  ],
+  "contraindications": [
+    "CONTRAINDICATIONS EXELDERM (sulconazole nitrate, USP) CREAM, 1.0% is contraindicated in patients who have a history of hypersensitivity to any of its ingredients."
+  ],
+  "dosage_administration": [
+    "DOSAGE AND ADMINISTRATION A small amount of cream should be gently massaged into the affected and surrounding skin areas once or twice daily, except in tinea pedis, where administration should be twice daily. Early relief of symptoms is experienced by the majority of patients and clinical improvement may be seen fairly soon after treatment is begun; however, tinea corporis/cruris and tinea versicolor should be treated for 3 weeks and tinea pedis for 4 weeks to reduce the possibility of recurrence. If significant clinical improvement is not seen after 4 to 6 weeks of treatment, an alternate diagnosis should be considered."
+  ],
+  "indications": [
+    "INDICATIONS AND USAGE EXELDERM (sulconazole nitrate, USP) CREAM, 1.0% is an antifungal agent indicated for the treatment of tinea pedis (athlete's foot), tinea cruris, and tinea corporis caused by Trichophyton rubrum, Trichophyton mentagro-phytes, Epidermophyton floccosum, and Microsporum canis,* and for the treatment of tinea versicolor. *Efficacy for this organism in the organ system was studied in fewer than ten infections."
+  ],
+  "fetched_at": "2025-10-01T16:40:13.577939",
+  "source": "OpenFDA"
+}

@@ -1,0 +1,16 @@
+{
+  "rxcui": "582119",
+  "properties": {
+    "properties": {
+      "rxcui": "582119",
+      "name": "30 ML acetylcysteine 200 MG/ML Injection [Acetadote]",
+      "synonym": "Acetadote 6 GM per 30 ML Injection",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T16:11:05.048526",
+  "source": "RxNorm"
+}

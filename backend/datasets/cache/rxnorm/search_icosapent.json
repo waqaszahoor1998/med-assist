@@ -1,0 +1,199 @@
+{
+  "query": "Icosapent",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "883795",
+              "name": "alpha tocopherol 30 UNT / ascorbic acid 30 MG / docosahexaenoic acid 250 MG / eicosapentaenoic acid 0.625 MG / ferrous fumarate 83 MG / folic acid 1 MG / pyridoxine 25 MG / tricalcium phosphate 100 MG Oral Capsule [Natelle]",
+              "synonym": "Natelle One Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "884752",
+              "name": "docosahexaenoic acid 500 MG / eicosapentaenoic acid 760 MG / omega-3 acid ethyl esters (USP) 190 MG Oral Capsule [Ocean Blue Nutritionals Omega-3 1450]",
+              "synonym": "Ocean Blue Nutritionals Omega-3 1450 Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1014099",
+              "name": "docosahexaenoic acid 45 MG / eicosapentaenoic acid 45 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1092392",
+              "name": "docosahexaenoic acid 100 MG / eicosapentaenoic acid 160 MG / omega-3 acid ethyl esters (USP) 60 MG / vitamin E 10 UNT Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1092397",
+              "name": "docosahexaenoic acid 500 MG / eicosapentaenoic acid 50 MG / vitamin E 10 UNT Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1112743",
+              "name": "docosahexaenoic acid 100 MG / eicosapentaenoic acid 160 MG Oral Capsule",
+              "synonym": "DHA 100 MG / EPA 160 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1114508",
+              "name": "docosahexaenoic acid 250 MG / eicosapentaenoic acid 0.625 MG Oral Capsule",
+              "synonym": "DHA 250 MG / EPA 0.625 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1150471",
+              "name": "docosahexaenoic acid 180 MG / eicosapentaenoic acid 500 MG / omega-3 acid ethyl esters (USP) 120 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1192496",
+              "name": "docosahexaenoic acid 253 MG / eicosapentaenoic acid 647 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1291431",
+              "name": "docosaenoic acid 200 MG / eicosapentaenoic acid 300 MG Oral Capsule",
+              "synonym": "omega-3 fish oils 1000 MG (DHA 200 MG / EPA 300 MG) Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1292030",
+              "name": "cholecalciferol 1000 UNT / docosahexaenoic acid 253 MG / eicosapentaenoic acid 647 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1292749",
+              "name": "docosahexaenoic acid 127 MG / eicosapentaenoic acid 324 MG / phytosterols 400 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1535150",
+              "name": "docosaenoic acid 300 MG / eicosapentaenoic acid 0.75 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1874905",
+              "name": "docosahexaenoic acid 360 MG / eicosapentaenoic acid 540 MG Oral Capsule",
+              "synonym": "DHA 360 MG / EPA 540 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2391746",
+              "name": "docosahexaenoic acid 200 MG / eicosapentaenoic acid 320 MG Oral Capsule",
+              "synonym": "DHA 200 MG / EPA 320 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "830736",
+              "name": "docosahexaenoic acid 350 MG / eicosapentaenoic acid 35 MG / folic acid 1 MG / phytosterols 200 MG / vitamin B12 0.5 MG / vitamin B6 12.5 MG Oral Capsule",
+              "synonym": "docosahexaenoic acid 350 MG / eicosapentaenoic acid 35 MG / folate 1 MG / phytosterols 200 MG / vitamin B12 0.5 MG / vitamin B6 12.5 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "849080",
+              "name": "docosahexaenoic acid 120 MG / eicosapentaenoic acid 180 MG Oral Capsule",
+              "synonym": "DHA 120 MG / EPA 180 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "883748",
+              "name": "alpha tocopherol 30 UNT / ascorbic acid 30 MG / docosahexaenoic acid 250 MG / eicosapentaenoic acid 0.625 MG / ferrous fumarate 83 MG / folic acid 1 MG / pyridoxine 25 MG / tricalcium phosphate 100 MG Oral Capsule",
+              "synonym": "alpha Tocopherol 30 UNT / vit-C 30 MG / docosahexaenoic acid 250 MG / Eicosapentaenoic Acid 0.625 MG / Ferrous fumarate 83 MG / folate 1 MG / vit-B6 25 MG / tricalcium phosphate 100 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "884748",
+              "name": "docosahexaenoic acid 500 MG / eicosapentaenoic acid 760 MG / omega-3 acid ethyl esters (USP) 190 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T20:58:32.669340",
+  "source": "RxNorm"
+}

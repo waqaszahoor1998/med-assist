@@ -1,0 +1,307 @@
+{
+  "query": "Tacrolimus",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "108513",
+              "name": "tacrolimus 1 MG Oral Capsule [Prograf]",
+              "synonym": "Prograf 1 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "108514",
+              "name": "tacrolimus 5 MG Oral Capsule [Prograf]",
+              "synonym": "Prograf 5 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "108515",
+              "name": "1 ML tacrolimus 5 MG/ML Injection [Prograf]",
+              "synonym": "Prograf 5 MG per 1 ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1431977",
+              "name": "24 HR tacrolimus 0.5 MG Extended Release Oral Capsule [Astagraf]",
+              "synonym": "24 HR Astagraf 0.5 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1431982",
+              "name": "24 HR tacrolimus 1 MG Extended Release Oral Capsule [Astagraf]",
+              "synonym": "24 HR Astagraf 1 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1431987",
+              "name": "24 HR tacrolimus 5 MG Extended Release Oral Capsule [Astagraf]",
+              "synonym": "24 HR Astagraf 5 MG Extended Release Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1664440",
+              "name": "24 HR tacrolimus 4 MG Extended Release Oral Tablet [Envarsus]",
+              "synonym": "24 HR Envarsus 4 MG Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1664458",
+              "name": "24 HR tacrolimus 0.75 MG Extended Release Oral Tablet [Envarsus]",
+              "synonym": "24 HR Envarsus 0.75 MG Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1664463",
+              "name": "24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus]",
+              "synonym": "24 HR Envarsus 1 MG Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2052609",
+              "name": "tacrolimus 0.2 MG Granules for Oral Suspension [Prograf]",
+              "synonym": "Prograf 0.2 MG Granules for Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2052704",
+              "name": "tacrolimus 1 MG Granules for Oral Suspension [Prograf]",
+              "synonym": "Prograf 1 MG Granules for Oral Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "261134",
+              "name": "tacrolimus 0.5 MG Oral Capsule [Prograf]",
+              "synonym": "Prograf 0.5 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "284520",
+              "name": "tacrolimus 0.001 MG/MG Topical Ointment [Protopic]",
+              "synonym": "Protopic 0.1 % Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "284521",
+              "name": "tacrolimus 0.0003 MG/MG Topical Ointment [Protopic]",
+              "synonym": "Protopic 0.03 % Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1431971",
+              "name": "24 HR tacrolimus 0.5 MG Extended Release Oral Capsule",
+              "synonym": "tacrolimus 0.5 MG (as anhydrous tacrolimus) 24 HR Extended Release Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1431980",
+              "name": "24 HR tacrolimus 1 MG Extended Release Oral Capsule",
+              "synonym": "tacrolimus 1 MG (as anhydrous tacrolimus) 24 HR Extended Release Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1431985",
+              "name": "24 HR tacrolimus 5 MG Extended Release Oral Capsule",
+              "synonym": "tacrolimus 5 MG (as anhydrous tacrolimus) 24 HR Extended Release Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1664434",
+              "name": "24 HR tacrolimus 4 MG Extended Release Oral Tablet",
+              "synonym": "tacrolimus 4 MG (as anhydrous tacrolimus) 24HR Extended Release Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1664456",
+              "name": "24 HR tacrolimus 0.75 MG Extended Release Oral Tablet",
+              "synonym": "tacrolimus 0.75 MG (as anhydrous tacrolimus) 24 HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1664461",
+              "name": "24 HR tacrolimus 1 MG Extended Release Oral Tablet",
+              "synonym": "tacrolimus 1 MG (as anhydrous tacrolimus) 24 HR Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198377",
+              "name": "tacrolimus 1 MG Oral Capsule",
+              "synonym": "tacrolimus 1 MG (as anhydrous tacrolimus) Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198378",
+              "name": "tacrolimus 5 MG Oral Capsule",
+              "synonym": "tacrolimus 5 MG (as anhydrous tacrolimus) Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198379",
+              "name": "1 ML tacrolimus 5 MG/ML Injection",
+              "synonym": "tacrolimus 5 MG per 1 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2052605",
+              "name": "tacrolimus 0.2 MG Granules for Oral Suspension",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2052703",
+              "name": "tacrolimus 1 MG Granules for Oral Suspension",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2665161",
+              "name": "BX Rating tacrolimus 0.5 MG Oral Capsule",
+              "synonym": "tacrolimus 0.5 MG Oral Capsule, BX Rating",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2665162",
+              "name": "BX Rating tacrolimus 1 MG Oral Capsule",
+              "synonym": "tacrolimus 1 MG Oral Capsule, BX Rating",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2665163",
+              "name": "BX Rating tacrolimus 5 MG Oral Capsule",
+              "synonym": "tacrolimus 5 MG Oral Capsule, BX Rating",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "313189",
+              "name": "tacrolimus 0.0003 MG/MG Topical Ointment",
+              "synonym": "tacrolimus 0.03 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "313190",
+              "name": "tacrolimus 0.5 MG Oral Capsule",
+              "synonym": "tacrolimus 0.5 MG (as anhydrous tacrolimus) Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "314266",
+              "name": "tacrolimus 0.001 MG/MG Topical Ointment",
+              "synonym": "tacrolimus 0.1 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T22:11:23.891467",
+  "source": "RxNorm"
+}

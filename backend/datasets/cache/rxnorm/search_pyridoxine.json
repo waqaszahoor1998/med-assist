@@ -1,0 +1,797 @@
+{
+  "query": "Pyridoxine",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1100471",
+              "name": "{30 (ascorbic acid 120 MG / calcium citrate 125 MG / cholecalciferol 400 UNT / folic acid 1 MG / iron carbonyl 20 MG / pyridoxine hydrochloride 25 MG Oral Tablet) / 10 (pyridoxine hydrochloride 25 MG Oral Tablet) } Pack [CitraNatal B-Calm Kit]",
+              "synonym": "CitraNatal B-Calm 30 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1102207",
+              "name": "{6 (ascorbic acid 100 MG / biotin 0.3 MG / calcium carbonate 100 MG / calcium pantothenate 7 MG / folic acid 1 MG / niacin 25 MG / pyridoxine hydrochloride 30 MG / riboflavin 5 MG / succinic acid 150 MG / thiamine hydrochloride 5 MG / vitamin B12 0.01 MG Oral Tablet) / 24 (ascorbic acid 100 MG / biotin 0.3 MG / calcium pantothenate 0.3 MG / ferrous bisglycinate 65 MG / folic acid 1 MG / formic acid 155 MG / iron-dextran complex 65 MG / niacin 25 MG / pyridoxine hydrochloride 30 MG / riboflavin 5 MG / thiamine hydrochloride 5 MG / vitamin B12 0.01 MG Oral Tablet [Irospan Tablet]) } Pack [Irospan 24/6 Kit]",
+              "synonym": "Irospan 24/6 Kit",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "995864",
+              "name": "{30 (calcium ascorbate 25 MG / calcium carbonate 400 MG / cholecalciferol 200 UNT / folic acid 2 MG / pyridoxine hydrochloride 25 MG Oral Tablet [Encora AM Tablet]) / 30 (calcium ascorbate 25 MG / calcium carbonate 600 MG / cholecalciferol 600 UNT / folic acid 0.5 MG / pyridoxine hydrochloride 12.5 MG Oral Tablet [Encora PM Tablet]) / 60 (linoleic acid 10 MG / omega-3 acid ethyl esters (USP) 650 MG / vitamin E 50 UNT Oral Capsule [Encora Capsule]) } Pack [Encora]",
+              "synonym": "Encora 30 Day Tablet and Capsule Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1100470",
+              "name": "{30 (ascorbic acid 120 MG / calcium citrate 125 MG / cholecalciferol 400 UNT / folic acid 1 MG / iron carbonyl 20 MG / pyridoxine hydrochloride 25 MG Oral Tablet) / 10 (pyridoxine hydrochloride 25 MG Oral Tablet) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1102202",
+              "name": "{6 (ascorbic acid 100 MG / biotin 0.3 MG / calcium carbonate 100 MG / calcium pantothenate 7 MG / folic acid 1 MG / niacin 25 MG / pyridoxine hydrochloride 30 MG / riboflavin 5 MG / succinic acid 150 MG / thiamine hydrochloride 5 MG / vitamin B12 0.01 MG Oral Tablet) / 24 (ascorbic acid 100 MG / biotin 0.3 MG / calcium pantothenate 0.3 MG / ferrous bisglycinate 65 MG / folic acid 1 MG / formic acid 155 MG / iron-dextran complex 65 MG / niacin 25 MG / pyridoxine hydrochloride 30 MG / riboflavin 5 MG / thiamine hydrochloride 5 MG / vitamin B12 0.01 MG Oral Tablet) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "995855",
+              "name": "{30 (calcium ascorbate 25 MG / calcium carbonate 400 MG / cholecalciferol 200 UNT / folic acid 2 MG / pyridoxine hydrochloride 25 MG Oral Tablet) / 30 (calcium ascorbate 25 MG / calcium carbonate 600 MG / cholecalciferol 600 UNT / folic acid 0.5 MG / pyridoxine hydrochloride 12.5 MG Oral Tablet) / 60 (linoleic acid 10 MG / omega-3 acid ethyl esters (USP) 650 MG / vitamin E 50 UNT Oral Capsule) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1087262",
+              "name": "24 HR calcium carbonate 200 MG / folic acid 1 MG / pyridoxine 75 MG / vitamin B12 0.012 MG Extended Release Oral Tablet [Folbecal]",
+              "synonym": "24 HR calcium carbonate 200 MG / folate 1 MG / vit-B6 75 MG / vitamin B12 0.012 MG Extended Release Oral Tablet [Folbecal]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1087285",
+              "name": "boron 1.5 MG / calcium carbonate 500 MG / cholecalciferol 300 UNT / folic acid 1.1 MG / magnesium oxide 100 MG / pyridoxine 12.5 MG / vitamin B12 0.25 MG Oral Tablet [Folgard OS]",
+              "synonym": "boron 1.5 MG / calcium carbonate 500 MG / cholecalciferol 300 UNT / folate 1.1 MG / magnesium oxide 100 MG / vit-B6 12.5 MG / vitamin B12 0.25 MG Oral Tablet [Folgard OS]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1087399",
+              "name": "copper sulfate 0.8 MG / ferrous fumarate 324 MG / folic acid 1 MG / magnesium sulfate 6.9 MG / manganese sulfate 1.3 MG / niacinamide 30 MG / pantothenic acid 10 MG / pyridoxine 5 MG / riboflavin 6 MG / sodium ascorbate 200 MG / thiamine 10 MG / vitamin B12 0.015 MG / zinc sulfate 18.2 MG Oral Capsule [Hemocyte Plus]",
+              "synonym": "copper sulfate 0.8 MG / ferrous fumarate 324 MG / folate 1 MG / magnesium sulfate 6.9 MG / manganese sulfate 1.3 MG / niacinamide 30 MG / pantothenic acid 10 MG / vit-B6 5 MG / riboflavin 6 MG / sodium ascorbate 200 MG / vit-B1 10 MG / vitamin B12 0.015 MG / ZnSO4 18.2 MG Oral Capsule [Hemocyte Plus]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1088805",
+              "name": "24 HR calcium carbonate 200 MG / folic acid 1 MG / pyridoxine 75 MG / vitamin B12 0.012 MG Extended Release Oral Tablet [FoliNatal Plus B]",
+              "synonym": "24 HR calcium carbonate 200 MG / folate 1 MG / vit-B6 75 MG / vitamin B12 0.012 MG Extended Release Oral Tablet [FoliNatal Plus B]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1090972",
+              "name": "ascorbic acid 10.8 MG/ML / cholecalciferol 72 UNT/ML / dl-alpha tocopheryl acetate 2.7 UNT/ML / niacinamide 2.44 MG/ML / pyridoxine 0.189 MG/ML / riboflavin 0.216 MG/ML / thiamine hydrochloride 0.168 MG/ML / vitamin A 450 UNT/ML / vitamin B12 0.00081 MG/ML Oral Solution [Multi-Delyn]",
+              "synonym": "vit-C 10.8 MG/ML / cholecalciferol 72 UNT/ML / dl-alpha tocopheryl acetate 2.7 UNT/ML / niacinamide 2.44 MG/ML / vit-B6 0.189 MG/ML / riboflavin 0.216 MG/ML / vit-B1 hydrochloride 0.168 MG/ML / vitamin A 450 UNT/ML / vitamin B12 0.00081 MG/ML Oral Solution [Multi-Delyn]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1102206",
+              "name": "ascorbic acid 100 MG / biotin 0.3 MG / calcium pantothenate 0.3 MG / ferrous bisglycinate 65 MG / folic acid 1 MG / formic acid 155 MG / iron-dextran complex 65 MG / niacin 25 MG / pyridoxine hydrochloride 30 MG / riboflavin 5 MG / thiamine hydrochloride 5 MG / vitamin B12 0.01 MG Oral Tablet [Irospan Tablet]",
+              "synonym": "vit-C 100 MG / biotin 0.3 MG / calcium pantothenate 0.3 MG / ferrous bisglycinate 65 MG / folate 1 MG / formic acid 155 MG / iron-dextran complex 65 MG / vit-B3 25 MG / vit-B6 hydrochloride 30 MG / riboflavin 5 MG / vit-B1 hydrochloride 5 MG / vitamin B12 0.01 MG Oral Tablet [Irospan Tablet]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1111750",
+              "name": "dexpanthenol 0.2 MG/ML / magnesium sulfate 0.0467 MG/ML / manganese sulfate 0.0467 MG/ML / niacinamide 0.467 MG/ML / pyridoxine 0.0467 MG/ML / riboflavin 0.04 MG/ML / thiamine 0.0333 MG/ML / vitamin B12 0.000133 MG/ML / zinc sulfate 0.333 MG/ML Oral Solution [Ellis Tonic]",
+              "synonym": "Ellis Tonic Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1111752",
+              "name": "dexpanthenol 0.2 MG/ML / magnesium sulfate 0.0467 MG/ML / manganese sulfate 0.0467 MG/ML / niacinamide 0.467 MG/ML / pyridoxine 0.0467 MG/ML / riboflavin 0.04 MG/ML / thiamine 0.0333 MG/ML / vitamin B12 0.000133 MG/ML / zinc sulfate 0.333 MG/ML Oral Solution [Eldertonic]",
+              "synonym": "Eldertonic Oral Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1114342",
+              "name": "ascorbic acid 60 MG / biotin 0.3 MG / folic acid 0.8 MG / mecobalamin 0.006 MG / niacinamide 20 MG / pantothenate 10 MG / pyridoxine 10 MG / riboflavin 1.7 MG / thiamine 1.5 MG / zinc citrate 50 MG Oral Tablet [Dialyvite 800 with Zinc]",
+              "synonym": "Dialyvite 800 with Zinc 50 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1116183",
+              "name": "ascorbic acid 100 MG / calcium carbonate 200 MG / cholecalciferol 0.01 MG / copper sulfate 2 MG / dl-alpha tocopheryl acetate 30 UNT / ferrous fumarate 65 MG / folic acid 1 MG / magnesium oxide 10 MG / niacinamide 20 MG / potassium iodide 0.15 MG / pyridoxine hydrochloride 5 MG / retinol acetate 4000 UNT / riboflavin 3.4 MG / thiamine mononitrate 3 MG / vitamin B12 0.012 MG / zinc sulfate 15 MG Oral Tablet [Lactocal]",
+              "synonym": "Lactocal (calcium carbonate 200 MG / copper sulfate 2 MG / cyanocobalamin 12 MCG / folate 1 MG / iron (as ferrous fumarate) 65 MG / magnesium oxide 10 MG / nicotinamide 20 MG / potassium iodide 0.15 MG / vitamin A 4000 UNT / vitamin B1 3 MG / vitamin B2 3.4 MG / vitamin B6 5 MG / vitamin C 100 MG / vitamin E 30 UNT / vitamin D 400 UNT/ML / zinc sulfate 15 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1119573",
+              "name": "ascorbic acid 30 MG / cholecalciferol 1000 UNT / cuprous oxide 2 MG / folic acid 1 MG / magnesium oxide 20 MG / niacin 15 MG / polysaccharide iron complex 29 MG / potassium iodide 0.15 MG / pyridoxine hydrochloride 2.5 MG / riboflavin 1.8 MG / thiamine mononitrate 1.6 MG / vitamin A 1100 UNT / vitamin B12 0.012 MG / vitamin E 20 UNT / zinc oxide 25 MG Oral Capsule [Vitafol-One]",
+              "synonym": "vit-C 30 MG / cholecalciferol 1000 UNT / cuprous oxide 2 MG / folate 1 MG / magnesium oxide 20 MG / vit-B3 15 MG / polysaccharide iron complex 29 MG / K+ iodide 0.15 MG / vit-B6 hydrochloride 2.5 MG / riboflavin 1.8 MG / vit-B1 mononitrate 1.6 MG / vitamin A 1100 UNT / vitamin B12 0.012 MG / vitamin E 20 UNT / ZNO 25 MG Oral Capsule [Vitafol-One]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1145114",
+              "name": "azelaic acid 5 MG / cupric oxide 1.5 MG / folic acid 0.5 MG / niacinamide 600 MG / pyridoxine 5 MG / zinc oxide 10 MG Oral Tablet [NicAzel]",
+              "synonym": "azelaic acid 5 MG / Cupric oxide 1.5 MG / folate 0.5 MG / Niacinamide 600 MG / vit-B6 5 MG / ZNO 10 MG Oral Tablet [NicAzel]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1193046",
+              "name": "cholecalciferol 1000 UNT / folic acid 1 MG / omega-3 acid ethyl esters (USP) 500 MG / phytosterols 200 MG / pyridoxine hydrochloride 12.5 MG / vitamin B12 0.5 MG Oral Capsule [Animi-3 with Vitamin D]",
+              "synonym": "cholecalciferol 1000 UNT / folate 1 MG / omega-3 acid ethyl esters (USP) 500 MG / phytosterols 200 MG / vit-B6 hydrochloride 12.5 MG / vitamin B12 0.5 MG Oral Capsule [Animi-3 with Vitamin D]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1245036",
+              "name": "melatonin 2.5 MG / pyridoxine hydrochloride 10 MG Extended Release Oral Tablet [Melatonex]",
+              "synonym": "Melatonex (melatonin 2.5 MG / vitamin B6 10 MG) Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1304564",
+              "name": "alpha-tocopherol acetate 1 UNT/ML / ascorbic acid 20 MG/ML / biotin 0.006 MG/ML / cholecalciferol 20 UNT/ML / dexpanthenol 1.5 MG/ML / folic acid 0.06 MG/ML / niacinamide 4 MG/ML / pyridoxine hydrochloride 0.6 MG/ML / riboflavin 0.36 MG/ML / thiamine hydrochloride 0.6 MG/ML / vitamin A palmitate 330 UNT/ML / vitamin B12 0.0005 MG/ML / vitamin K1 0.015 MG/ML Injectable Solution [Infuvite]",
+              "synonym": "Infuvite Adult Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1305222",
+              "name": "alpha-tocopherol acetate 1.4 UNT/ML / ascorbic acid 16 MG/ML / biotin 0.004 MG/ML / cholecalciferol 80 UNT/ML / dexpanthenol 1 MG/ML / folic acid 0.028 MG/ML / niacinamide 3.4 MG/ML / pyridoxine hydrochloride 0.2 MG/ML / riboflavin 0.28 MG/ML / thiamine hydrochloride 0.24 MG/ML / vitamin A palmitate 460 UNT/ML / vitamin B12 0.0002 MG/ML / vitamin K1 0.04 MG/ML Injectable Solution [Infuvite Pediatric]",
+              "synonym": "Infuvite Pediatric Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1314672",
+              "name": "ascorbic acid 210 MG / biotin 0.3 MG / calcium pantothenate 7 MG / copper sulfate 0.8 MG / ferrous fumarate 130 MG / folic acid 1 MG / magnesium sulfate 6.9 MG / manganese sulfate 1.3 MG / niacin 20 MG / polysaccharide iron complex 92.4 MG / pyridoxine hydrochloride 25 MG / riboflavin 5 MG / thiamine mononitrate 5 MG / vitamin B12 0.01 MG / zinc sulfate 18.2 MG Oral Capsule [Concept OB]",
+              "synonym": "vit-C 210 MG / biotin 0.3 MG / calcium pantothenate 7 MG / copper sulfate 0.8 MG / ferrous fumarate 130 MG / folate 1 MG / magnesium sulfate 6.9 MG / manganese sulfate 1.3 MG / vit-B3 20 MG / polysaccharide iron complex 92.4 MG / vit-B6 hydrochloride 25 MG / riboflavin 5 MG / vit-B1 mononitrate 5 MG / vitamin B12 0.01 MG / ZnSO4 18.2 MG Oral Capsule [Concept OB]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1314685",
+              "name": "calcium pantothenate 10 MG / copper sulfate 0.8 MG / ferrous fumarate 162 MG / folic acid 1 MG / manganese sulfate 1.3 MG / niacinamide 30 MG / polysaccharide iron complex 115 MG / pyridoxine hydrochloride 5 MG / riboflavin 6 MG / sodium ascorbate 200 MG / thiamine mononitrate 10 MG / vitamin B12 0.015 MG / zinc sulfate 18.2 MG Oral Capsule [Tandem Plus]",
+              "synonym": "calcium pantothenate 10 MG / copper sulfate 0.8 MG / ferrous fumarate 162 MG / folate 1 MG / manganese sulfate 1.3 MG / niacinamide 30 MG / polysaccharide iron complex 115 MG / vit-B6 hydrochloride 5 MG / riboflavin 6 MG / sodium ascorbate 200 MG / vit-B1 mononitrate 10 MG / vitamin B12 0.015 MG / ZnSO4 18.2 MG Oral Capsule [Tandem Plus]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1375954",
+              "name": "doxylamine succinate 10 MG / pyridoxine hydrochloride 10 MG Delayed Release Oral Tablet [Diclegis]",
+              "synonym": "doxylamine succinate 10 MG / vit-B6 Hydrochloride 10 MG Delayed Release Oral Tablet [Diclegis]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1599660",
+              "name": "magnesium oxide 600 MG / pyridoxine hydrochloride 25 MG Oral Tablet [Beelith]",
+              "synonym": "Magnesium Oxide 600 MG / vit-B6 Hydrochloride 25 MG Oral Tablet [Beelith]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1999657",
+              "name": "12 HR doxylamine succinate 20 MG / pyridoxine hydrochloride 20 MG Extended Release Oral Tablet [Bonjesta]",
+              "synonym": "Bonjesta 20 MG / 20 MG 12HR Extended Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "808534",
+              "name": "folic acid 2.2 MG / pyridoxine 25 MG / vitamin B12 1.3 MG Oral Tablet [Vita-Respa]",
+              "synonym": "folate 2.2 MG / vit-B6 25 MG / vitamin B12 1.3 MG Oral Tablet [Vita-Respa]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "826653",
+              "name": "ascorbic acid 60 MG / biotin 0.3 MG / folic acid 0.8 MG / mecobalamin 0.006 MG / niacinamide 20 MG / pantothenate 10 MG / pyridoxine 10 MG / riboflavin 1.7 MG / thiamine 1.5 MG / zinc citrate 15 MG Oral Tablet [Dialyvite 800 with Zinc]",
+              "synonym": "Dialyvite 800 with Zinc 15 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "826860",
+              "name": "ascorbic acid 60 MG / biotin 0.3 MG / folic acid 0.8 MG / mecobalamin 0.006 MG / niacinamide 20 MG / pantothenate 10 MG / pyridoxine 10 MG / riboflavin 1.7 MG / thiamine 1.5 MG Oral Tablet [Dialyvite 800]",
+              "synonym": "vit-C 60 MG / Biotin 0.3 MG / folate 0.8 MG / mecobalamin 0.006 MG / Niacinamide 20 MG / pantothenate 10 MG / vit-B6 10 MG / Riboflavin 1.7 MG / vit-B1 1.5 MG Oral Tablet [Dialyvite 800]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "826865",
+              "name": "ascorbic acid 60 MG / biotin 0.3 MG / ferrous fumarate 29 MG / folic acid 0.8 MG / mecobalamin 0.006 MG / niacinamide 20 MG / pantothenate 10 MG / pyridoxine 10 MG / riboflavin 1.7 MG / thiamine 1.5 MG Oral Tablet [Dialyvite 800 with Iron]",
+              "synonym": "vit-C 60 MG / Biotin 0.3 MG / Ferrous fumarate 29 MG / folate 0.8 MG / mecobalamin 0.006 MG / Niacinamide 20 MG / pantothenate 10 MG / vit-B6 10 MG / Riboflavin 1.7 MG / vit-B1 1.5 MG Oral Tablet [Dialyvite 800 with Iron]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "877466",
+              "name": "ascorbic acid 60 MG / calcium pantothenate 10 MG / D-biotin 0.3 MG / folic acid 0.8 MG / niacinamide 20 MG / pyridoxine 10 MG / riboflavin 1.7 MG / thiamine 1.5 MG / vitamin B12 0.006 MG Oral Tablet [Rena-Vite]",
+              "synonym": "Rena-Vite Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "883795",
+              "name": "alpha tocopherol 30 UNT / ascorbic acid 30 MG / docosahexaenoic acid 250 MG / eicosapentaenoic acid 0.625 MG / ferrous fumarate 83 MG / folic acid 1 MG / pyridoxine 25 MG / tricalcium phosphate 100 MG Oral Capsule [Natelle]",
+              "synonym": "Natelle One Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "995859",
+              "name": "calcium ascorbate 25 MG / calcium carbonate 400 MG / cholecalciferol 200 UNT / folic acid 2 MG / pyridoxine hydrochloride 25 MG Oral Tablet [Encora AM Tablet]",
+              "synonym": "Calcium ascorbate 25 MG / Calcium Carbonate 400 MG / Cholecalciferol 200 UNT / folate 2 MG / vit-B6 Hydrochloride 25 MG Oral Tablet [Encora AM Tablet]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "995863",
+              "name": "calcium ascorbate 25 MG / calcium carbonate 600 MG / cholecalciferol 600 UNT / folic acid 0.5 MG / pyridoxine hydrochloride 12.5 MG Oral Tablet [Encora PM Tablet]",
+              "synonym": "Calcium ascorbate 25 MG / Calcium Carbonate 600 MG / Cholecalciferol 600 UNT / folate 0.5 MG / vit-B6 Hydrochloride 12.5 MG Oral Tablet [Encora PM Tablet]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1043300",
+              "name": "alpha tocopherol 30 UNT / ascorbic acid 28 MG / cholecalciferol 400 UNT / docosahexaenoic acid 300 MG / docusate sodium 55 MG / ferrous fumarate 27 MG / folic acid 1.25 MG / pyridoxine hydrochloride 25 MG / tricalcium phosphate 160 MG Oral Capsule",
+              "synonym": "alpha Tocopherol 30 UNT / vit-C 28 MG / Cholecalciferol 400 UNT / docosahexaenoic acid 300 MG / DOSS Sodium 55 MG / Ferrous fumarate 27 MG / folate 1.25 MG / vit-B6 Hydrochloride 25 MG / tricalcium phosphate 160 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1046423",
+              "name": "calcium glycerophosphate 1.3 MG/ML / pyridoxine hydrochloride 0.3 MG/ML / sodium monofluorophosphate 7.6 MG/ML Toothpaste",
+              "synonym": "calcium glycerophosphate 0.13 % / vitamin B6 HCl 0.03 % / sodium monofluorophosphate 0.76 % Toothpaste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1087258",
+              "name": "24 HR calcium carbonate 200 MG / folic acid 1 MG / pyridoxine 75 MG / vitamin B12 0.012 MG Extended Release Oral Tablet",
+              "synonym": "24 HR calcium carbonate 200 MG / folate 1 MG / vit-B6 75 MG / vitamin B12 0.012 MG Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1087281",
+              "name": "boron 1.5 MG / calcium carbonate 500 MG / cholecalciferol 300 UNT / folic acid 1.1 MG / magnesium oxide 100 MG / pyridoxine 12.5 MG / vitamin B12 0.25 MG Oral Tablet",
+              "synonym": "boron 1.5 MG / calcium carbonate 500 MG / cholecalciferol 300 UNT / folate 1.1 MG / magnesium oxide 100 MG / vit-B6 12.5 MG / vitamin B12 0.25 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1090968",
+              "name": "ascorbic acid 10.8 MG/ML / cholecalciferol 72 UNT/ML / dl-alpha tocopheryl acetate 2.7 UNT/ML / niacinamide 2.44 MG/ML / pyridoxine 0.189 MG/ML / riboflavin 0.216 MG/ML / thiamine hydrochloride 0.168 MG/ML / vitamin A 450 UNT/ML / vitamin B12 0.00081 MG/ML Oral Solution",
+              "synonym": "vit-C 10.8 MG/ML / cholecalciferol 72 UNT/ML / dl-alpha tocopheryl acetate 2.7 UNT/ML / niacinamide 2.44 MG/ML / vit-B6 0.189 MG/ML / riboflavin 0.216 MG/ML / vit-B1 hydrochloride 0.168 MG/ML / vitamin A 450 UNT/ML / vitamin B12 0.00081 MG/ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1100262",
+              "name": "ascorbic acid 120 MG / calcium citrate 125 MG / cholecalciferol 400 UNT / folic acid 1 MG / iron carbonyl 20 MG / pyridoxine hydrochloride 25 MG Oral Tablet",
+              "synonym": "calcium citrate 125 MG / folic acid 1 MG / iron carbonyl 20 MG / vitamin B6 25 MG / vitamin C 120 MG / vitamin D3 400 UNT Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1100457",
+              "name": "pyridoxine hydrochloride 25 MG Oral Tablet",
+              "synonym": "vit-B6 Hydrochloride 25 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1102196",
+              "name": "ascorbic acid 100 MG / biotin 0.3 MG / calcium pantothenate 0.3 MG / ferrous bisglycinate 65 MG / folic acid 1 MG / formic acid 155 MG / iron-dextran complex 65 MG / niacin 25 MG / pyridoxine hydrochloride 30 MG / riboflavin 5 MG / thiamine hydrochloride 5 MG / vitamin B12 0.01 MG Oral Tablet",
+              "synonym": "vit-C 100 MG / biotin 0.3 MG / calcium pantothenate 0.3 MG / ferrous bisglycinate 65 MG / folate 1 MG / formic acid 155 MG / iron-dextran complex 65 MG / vit-B3 25 MG / vit-B6 hydrochloride 30 MG / riboflavin 5 MG / vit-B1 hydrochloride 5 MG / vitamin B12 0.01 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1102201",
+              "name": "ascorbic acid 100 MG / biotin 0.3 MG / calcium carbonate 100 MG / calcium pantothenate 7 MG / folic acid 1 MG / niacin 25 MG / pyridoxine hydrochloride 30 MG / riboflavin 5 MG / succinic acid 150 MG / thiamine hydrochloride 5 MG / vitamin B12 0.01 MG Oral Tablet",
+              "synonym": "vit-C 100 MG / biotin 0.3 MG / calcium carbonate 100 MG / calcium pantothenate 7 MG / folate 1 MG / vit-B3 25 MG / vit-B6 hydrochloride 30 MG / riboflavin 5 MG / succinic acid 150 MG / vit-B1 hydrochloride 5 MG / vitamin B12 0.01 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1111748",
+              "name": "dexpanthenol 0.2 MG/ML / magnesium sulfate 0.0467 MG/ML / manganese sulfate 0.0467 MG/ML / niacinamide 0.467 MG/ML / pyridoxine 0.0467 MG/ML / riboflavin 0.04 MG/ML / thiamine 0.0333 MG/ML / vitamin B12 0.000133 MG/ML / zinc sulfate 0.333 MG/ML Oral Solution",
+              "synonym": "dexpanthenol 0.2 MG/ML / magnesium sulfate 0.0467 MG/ML / manganese sulfate 0.0467 MG/ML / niacinamide 0.467 MG/ML / vit-B6 0.0467 MG/ML / riboflavin 0.04 MG/ML / vit-B1 0.0333 MG/ML / vitamin B12 0.000133 MG/ML / ZnSO4 0.333 MG/ML Oral Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1115800",
+              "name": "magnesium citrate 45 MG / magnesium oxide 45 MG / potassium citrate 49.5 MG / pyridoxine hydrochloride 3.75 MG Extended Release Oral Tablet",
+              "synonym": "magnesium citrate 45 MG / magnesium oxide 45 MG / potassium citrate 49.5 MG / vitamin B6 3.75 MG Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1116179",
+              "name": "ascorbic acid 100 MG / calcium carbonate 200 MG / cholecalciferol 0.01 MG / copper sulfate 2 MG / dl-alpha tocopheryl acetate 30 UNT / ferrous fumarate 65 MG / folic acid 1 MG / magnesium oxide 10 MG / niacinamide 20 MG / potassium iodide 0.15 MG / pyridoxine hydrochloride 5 MG / retinol acetate 4000 UNT / riboflavin 3.4 MG / thiamine mononitrate 3 MG / vitamin B12 0.012 MG / zinc sulfate 15 MG Oral Tablet",
+              "synonym": "vit-C 100 MG / calcium carbonate 200 MG / cholecalciferol 0.01 MG / copper sulfate 2 MG / dl-alpha tocopheryl acetate 30 UNT / ferrous fumarate 65 MG / folate 1 MG / magnesium oxide 10 MG / niacinamide 20 MG / K+ iodide 0.15 MG / vit-B6 hydrochloride 5 MG / retinol acetate 4000 UNT / riboflavin 3.4 MG / vit-B1 mononitrate 3 MG / vitamin B12 0.012 MG / ZnSO4 15 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1119569",
+              "name": "ascorbic acid 30 MG / cholecalciferol 1000 UNT / cuprous oxide 2 MG / folic acid 1 MG / magnesium oxide 20 MG / niacin 15 MG / polysaccharide iron complex 29 MG / potassium iodide 0.15 MG / pyridoxine hydrochloride 2.5 MG / riboflavin 1.8 MG / thiamine mononitrate 1.6 MG / vitamin A 1100 UNT / vitamin B12 0.012 MG / vitamin E 20 UNT / zinc oxide 25 MG Oral Capsule",
+              "synonym": "vit-C 30 MG / cholecalciferol 1000 UNT / cuprous oxide 2 MG / folate 1 MG / magnesium oxide 20 MG / vit-B3 15 MG / polysaccharide iron complex 29 MG / K+ iodide 0.15 MG / vit-B6 hydrochloride 2.5 MG / riboflavin 1.8 MG / vit-B1 mononitrate 1.6 MG / vitamin A 1100 UNT / vitamin B12 0.012 MG / vitamin E 20 UNT / ZNO 25 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1144761",
+              "name": "betaine hydrochloride 25 MG / folic acid 5 MG / mecobalamin 1 MG / pyridoxine 100 MG Oral Capsule",
+              "synonym": "Betaine Hydrochloride 25 MG / folate 5 MG / mecobalamin 1 MG / vit-B6 100 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1145110",
+              "name": "azelaic acid 5 MG / cupric oxide 1.5 MG / folic acid 0.5 MG / niacinamide 600 MG / pyridoxine 5 MG / zinc oxide 10 MG Oral Tablet",
+              "synonym": "azelaic acid 5 MG / Cupric oxide 1.5 MG / folate 0.5 MG / Niacinamide 600 MG / vit-B6 5 MG / ZNO 10 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1145988",
+              "name": "folic acid 2.2 MG / pyridoxine 25 MG / vitamin B12 1 MG Oral Tablet",
+              "synonym": "folate 2.2 MG / vit-B6 25 MG / vitamin B12 1 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1145991",
+              "name": "folic acid 2.5 MG / pyridoxine 25 MG / vitamin B12 1 MG Oral Tablet",
+              "synonym": "folate 2.5 MG / vit-B6 25 MG / vitamin B12 1 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1146002",
+              "name": "folic acid 2.5 MG / pyridoxine 25 MG / vitamin B12 2 MG Oral Tablet",
+              "synonym": "folate 2.5 MG / vit-B6 25 MG / vitamin B12 2 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1193037",
+              "name": "cholecalciferol 1000 UNT / folic acid 1 MG / omega-3 acid ethyl esters (USP) 500 MG / phytosterols 200 MG / pyridoxine hydrochloride 12.5 MG / vitamin B12 0.5 MG Oral Capsule",
+              "synonym": "cholecalciferol 1000 UNT / folate 1 MG / omega-3 acid ethyl esters (USP) 500 MG / phytosterols 200 MG / vit-B6 hydrochloride 12.5 MG / vitamin B12 0.5 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1244146",
+              "name": "pyridoxine hydrochloride 100 MG / thiamine hydrochloride 100 MG / vitamin B12 0.2 MG Oral Tablet",
+              "synonym": "vitamin B1 100 MG / vitamin B6 100 MG / vitamin B12 200 MCG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1244950",
+              "name": "melatonin 2.5 MG / pyridoxine hydrochloride 10 MG Extended Release Oral Tablet",
+              "synonym": "Melatonin 2.5 MG / vit-B6 Hydrochloride 10 MG Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1248142",
+              "name": "ascorbic acid 120 MG / beta carotene 2700 UNT / calcium carbonate 200 MG / cholecalciferol 400 UNT / cupric oxide 2 MG / docusate sodium 50 MG / folic acid 1 MG / iron carbonyl 90 MG / magnesium oxide 30 MG / niacinamide 20 MG / pyridoxine hydrochloride 20 MG / riboflavin 3.4 MG / thiamine mononitrate 3 MG / tocopherol acetate 30 UNT / vitamin B12 0.012 MG / zinc oxide 25 MG Oral Tablet",
+              "synonym": "vit-C 120 MG / beta carotene 2700 UNT / calcium carbonate 200 MG / cholecalciferol 400 UNT / cupric oxide 2 MG / DOSS sodium 50 MG / folate 1 MG / iron carbonyl 90 MG / magnesium oxide 30 MG / niacinamide 20 MG / vit-B6 hydrochloride 20 MG / riboflavin 3.4 MG / vit-B1 mononitrate 3 MG / tocopherol acetate 30 UNT / vitamin B12 0.012 MG / ZNO 25 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1304490",
+              "name": "alpha-tocopherol acetate 30 UNT / ascorbic acid 120 MG / calcium citrate 125 MG / cholecalciferol 400 UNT / cupric oxide 2 MG / docusate sodium 50 MG / folic acid 1 MG / iron carbonyl 35 MG / niacinamide 20 MG / potassium iodide 0.15 MG / pyridoxine hydrochloride 25 MG / riboflavin 3.4 MG / thiamine hydrochloride 3 MG / zinc oxide 25 MG Oral Tablet",
+              "synonym": "alpha-Tocopherol Acetate 30 UNT / vit-C 120 MG / Calcium Citrate 125 MG / Cholecalciferol 400 UNT / Cupric oxide 2 MG / DOSS Sodium 50 MG / folate 1 MG / Iron Carbonyl 35 MG / Niacinamide 20 MG / K+ Iodide 0.15 MG / vit-B6 Hydrochloride 25 MG / Riboflavin 3.4 MG / vit-B1 hydrochloride 3 MG / ZNO 25 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1304559",
+              "name": "alpha-tocopherol acetate 1 UNT/ML / ascorbic acid 20 MG/ML / biotin 0.006 MG/ML / cholecalciferol 20 UNT/ML / dexpanthenol 1.5 MG/ML / folic acid 0.06 MG/ML / niacinamide 4 MG/ML / pyridoxine hydrochloride 0.6 MG/ML / riboflavin 0.36 MG/ML / thiamine hydrochloride 0.6 MG/ML / vitamin A palmitate 330 UNT/ML / vitamin B12 0.0005 MG/ML / vitamin K1 0.015 MG/ML Injectable Solution",
+              "synonym": "alpha-tocopherol acetate 1 UNT/ML / vit-C 20 MG/ML / biotin 0.006 MG/ML / cholecalciferol 20 UNT/ML / dexpanthenol 1.5 MG/ML / folate 0.06 MG/ML / niacinamide 4 MG/ML / vit-B6 hydrochloride 0.6 MG/ML / riboflavin 0.36 MG/ML / vit-B1 hydrochloride 0.6 MG/ML / vitamin A palmitate 330 UNT/ML / vitamin B12 0.0005 MG/ML / vitamin K1 0.015 MG/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1305217",
+              "name": "alpha-tocopherol acetate 1.4 UNT/ML / ascorbic acid 16 MG/ML / biotin 0.004 MG/ML / cholecalciferol 80 UNT/ML / dexpanthenol 1 MG/ML / folic acid 0.028 MG/ML / niacinamide 3.4 MG/ML / pyridoxine hydrochloride 0.2 MG/ML / riboflavin 0.28 MG/ML / thiamine hydrochloride 0.24 MG/ML / vitamin A palmitate 460 UNT/ML / vitamin B12 0.0002 MG/ML / vitamin K1 0.04 MG/ML Injectable Solution",
+              "synonym": "alpha-tocopherol acetate 1.4 UNT/ML / vit-C 16 MG/ML / biotin 0.004 MG/ML / cholecalciferol 80 UNT/ML / dexpanthenol 1 MG/ML / folate 0.028 MG/ML / niacinamide 3.4 MG/ML / vit-B6 hydrochloride 0.2 MG/ML / riboflavin 0.28 MG/ML / vit-B1 hydrochloride 0.24 MG/ML / vitamin A palmitate 460 UNT/ML / vitamin B12 0.0002 MG/ML / vitamin K1 0.04 MG/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1313925",
+              "name": "alpha-tocopherol acetate 30 UNT / ascorbic acid 100 MG / beta carotene 1000 UNT / calcium carbonate 200 MG / calcium pantothenate 7 MG / cholecalciferol 400 UNT / docusate sodium 25 MG / ferrous fumarate 29 MG / folic acid 1 MG / niacinamide 15 MG / pyridoxine hydrochloride 20 MG / riboflavin 3 MG / thiamine 3 MG / vitamin B12 0.012 MG / zinc oxide 20 MG Oral Tablet",
+              "synonym": "alpha-tocopherol acetate 30 UNT / vit-C 100 MG / beta carotene 1000 UNT / calcium carbonate 200 MG / calcium pantothenate 7 MG / cholecalciferol 400 UNT / DOSS sodium 25 MG / ferrous fumarate 29 MG / folate 1 MG / niacinamide 15 MG / vit-B6 hydrochloride 20 MG / riboflavin 3 MG / vit-B1 3 MG / vitamin B12 0.012 MG / ZNO 20 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1314626",
+              "name": "dexpanthenol 10 MG/ML / niacinamide 100 MG/ML / pyridoxine hydrochloride 10 MG/ML / riboflavin 5 MG/ML / thiamine hydrochloride 100 MG/ML / vitamin B12 0.1 MG/ML Injectable Solution",
+              "synonym": "veterinary high potency vitamin B complex Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1314636",
+              "name": "dexpanthenol 5 MG/ML / niacinamide 12.5 MG/ML / pyridoxine hydrochloride 5 MG/ML / riboflavin 2 MG/ML / thiamine hydrochloride 1.25 MG/ML / vitamin B12 1 MG/ML Injectable Solution",
+              "synonym": "vitamin B1 1.25 MG/ML / vitamin B2 2 MG/ML / vitamin B3 12.5 MG/ML / vitamin B5 5 MG/ML / vitamin B6 5 MG/ML / vitamin B12 1 MG/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1314666",
+              "name": "ascorbic acid 210 MG / biotin 0.3 MG / calcium pantothenate 7 MG / copper sulfate 0.8 MG / ferrous fumarate 130 MG / folic acid 1 MG / magnesium sulfate 6.9 MG / manganese sulfate 1.3 MG / niacin 20 MG / polysaccharide iron complex 92.4 MG / pyridoxine hydrochloride 25 MG / riboflavin 5 MG / thiamine mononitrate 5 MG / vitamin B12 0.01 MG / zinc sulfate 18.2 MG Oral Capsule",
+              "synonym": "vit-C 210 MG / biotin 0.3 MG / calcium pantothenate 7 MG / copper sulfate 0.8 MG / ferrous fumarate 130 MG / folate 1 MG / magnesium sulfate 6.9 MG / manganese sulfate 1.3 MG / vit-B3 20 MG / polysaccharide iron complex 92.4 MG / vit-B6 hydrochloride 25 MG / riboflavin 5 MG / vit-B1 mononitrate 5 MG / vitamin B12 0.01 MG / ZnSO4 18.2 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1314679",
+              "name": "calcium pantothenate 10 MG / copper sulfate 0.8 MG / ferrous fumarate 162 MG / folic acid 1 MG / manganese sulfate 1.3 MG / niacinamide 30 MG / polysaccharide iron complex 115 MG / pyridoxine hydrochloride 5 MG / riboflavin 6 MG / sodium ascorbate 200 MG / thiamine mononitrate 10 MG / vitamin B12 0.015 MG / zinc sulfate 18.2 MG Oral Capsule",
+              "synonym": "calcium pantothenate 10 MG / copper sulfate 0.8 MG / ferrous fumarate 162 MG / folate 1 MG / manganese sulfate 1.3 MG / niacinamide 30 MG / polysaccharide iron complex 115 MG / vit-B6 hydrochloride 5 MG / riboflavin 6 MG / sodium ascorbate 200 MG / vit-B1 mononitrate 10 MG / vitamin B12 0.015 MG / ZnSO4 18.2 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1375948",
+              "name": "doxylamine succinate 10 MG / pyridoxine hydrochloride 10 MG Delayed Release Oral Tablet",
+              "synonym": "doxylamine succinate 10 MG / vit-B6 Hydrochloride 10 MG Delayed Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1485531",
+              "name": "alpha tocopherol 30 UNT / ascorbic acid 25 MG / cholecalciferol 170 UNT / doconexent 265 MG / docusate sodium 55 MG / ferrous fumarate 30 MG / folic acid 1.2 MG / pyridoxine hydrochloride 25 MG / tricalcium phosphate 160 MG Oral Capsule",
+              "synonym": "alpha Tocopherol 30 UNT / vit-C 25 MG / Cholecalciferol 170 UNT / doconexent 265 MG / DOSS Sodium 55 MG / Ferrous fumarate 30 MG / folate 1.2 MG / vit-B6 Hydrochloride 25 MG / tricalcium phosphate 160 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1599657",
+              "name": "magnesium oxide 600 MG / pyridoxine hydrochloride 25 MG Oral Tablet",
+              "synonym": "Magnesium Oxide 600 MG / vit-B6 Hydrochloride 25 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1999651",
+              "name": "12 HR doxylamine succinate 20 MG / pyridoxine hydrochloride 20 MG Extended Release Oral Tablet",
+              "synonym": "12 HR doxylamine succinate 20 MG / vit-B6 Hydrochloride 20 MG Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2557360",
+              "name": "melatonin 3 MG / pyridoxine hydrochloride 10 MG Extended Release Oral Tablet",
+              "synonym": "melatonin 3 MG / vit-B6 hydrochloride 10 MG Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "312736",
+              "name": "pyridoxine hydrochloride 100 MG/ML Injectable Solution",
+              "synonym": "vitamin B 6 100 MG/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "348025",
+              "name": "ascorbic acid 100 MG / D-biotin 0.3 MG / folic acid 1 MG / niacinamide 20 MG / pantothenic acid 10 MG / pyridoxine hydrochloride 10 MG / riboflavin 1.7 MG / thiamine 1.5 MG / vitamin B12 0.006 MG Oral Tablet",
+              "synonym": "vit-C 100 MG / D-biotin 0.3 MG / folate 1 MG / niacinamide 20 MG / pantothenic acid 10 MG / vit-B6 hydrochloride 10 MG / riboflavin 1.7 MG / vit-B1 1.5 MG / vitamin B12 0.006 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "748672",
+              "name": "folic acid 0.8 MG / pyridoxine 25 MG / vitamin B12 0.25 MG Oral Tablet",
+              "synonym": "folate 0.8 MG / vit-B6 25 MG / vitamin B12 0.25 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "794976",
+              "name": "folic acid 2.2 MG / pyridoxine 25 MG / vitamin B12 1.3 MG Oral Tablet",
+              "synonym": "folate 2.2 MG / vit-B6 25 MG / vitamin B12 1.3 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "802693",
+              "name": "copper sulfate 0.8 MG / ferrous fumarate 324 MG / folic acid 1 MG / magnesium sulfate 6.9 MG / manganese sulfate 1.3 MG / niacinamide 30 MG / pantothenic acid 10 MG / pyridoxine 5 MG / riboflavin 6 MG / sodium ascorbate 200 MG / thiamine 10 MG / vitamin B12 0.015 MG / zinc sulfate 18.2 MG Oral Capsule",
+              "synonym": "copper sulfate 0.8 MG / ferrous fumarate 324 MG / folate 1 MG / magnesium sulfate 6.9 MG / manganese sulfate 1.3 MG / niacinamide 30 MG / pantothenic acid 10 MG / vit-B6 5 MG / riboflavin 6 MG / sodium ascorbate 200 MG / vit-B1 10 MG / vitamin B12 0.015 MG / ZnSO4 18.2 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "826650",
+              "name": "ascorbic acid 60 MG / biotin 0.3 MG / folic acid 0.8 MG / mecobalamin 0.006 MG / niacinamide 20 MG / pantothenate 10 MG / pyridoxine 10 MG / riboflavin 1.7 MG / thiamine 1.5 MG / zinc citrate 15 MG Oral Tablet",
+              "synonym": "vit-C 60 MG / Biotin 0.3 MG / folate 0.8 MG / mecobalamin 0.006 MG / Niacinamide 20 MG / pantothenate 10 MG / vit-B6 10 MG / Riboflavin 1.7 MG / vit-B1 1.5 MG / ZINC CITRATE 15 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "826656",
+              "name": "ascorbic acid 60 MG / biotin 0.3 MG / folic acid 0.8 MG / mecobalamin 0.006 MG / niacinamide 20 MG / pantothenate 10 MG / pyridoxine 10 MG / riboflavin 1.7 MG / thiamine 1.5 MG / zinc citrate 50 MG Oral Tablet",
+              "synonym": "vit-C 60 MG / Biotin 0.3 MG / folate 0.8 MG / mecobalamin 0.006 MG / Niacinamide 20 MG / pantothenate 10 MG / vit-B6 10 MG / Riboflavin 1.7 MG / vit-B1 1.5 MG / ZINC CITRATE 50 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "826857",
+              "name": "ascorbic acid 60 MG / biotin 0.3 MG / folic acid 0.8 MG / mecobalamin 0.006 MG / niacinamide 20 MG / pantothenate 10 MG / pyridoxine 10 MG / riboflavin 1.7 MG / thiamine 1.5 MG Oral Tablet",
+              "synonym": "vit-C 60 MG / Biotin 0.3 MG / folate 0.8 MG / mecobalamin 0.006 MG / Niacinamide 20 MG / pantothenate 10 MG / vit-B6 10 MG / Riboflavin 1.7 MG / vit-B1 1.5 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "826862",
+              "name": "ascorbic acid 60 MG / biotin 0.3 MG / ferrous fumarate 29 MG / folic acid 0.8 MG / mecobalamin 0.006 MG / niacinamide 20 MG / pantothenate 10 MG / pyridoxine 10 MG / riboflavin 1.7 MG / thiamine 1.5 MG Oral Tablet",
+              "synonym": "vit-C 60 MG / Biotin 0.3 MG / Ferrous fumarate 29 MG / folate 0.8 MG / mecobalamin 0.006 MG / Niacinamide 20 MG / pantothenate 10 MG / vit-B6 10 MG / Riboflavin 1.7 MG / vit-B1 1.5 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "865093",
+              "name": "melatonin 1 MG / pyridoxine 10 MG Oral Tablet",
+              "synonym": "Melatonin 1 MG / vit-B6 10 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "877463",
+              "name": "ascorbic acid 60 MG / calcium pantothenate 10 MG / D-biotin 0.3 MG / folic acid 0.8 MG / niacinamide 20 MG / pyridoxine 10 MG / riboflavin 1.7 MG / thiamine 1.5 MG / vitamin B12 0.006 MG Oral Tablet",
+              "synonym": "vit-C 60 MG / calcium pantothenate 10 MG / D-biotin 0.3 MG / folate 0.8 MG / niacinamide 20 MG / vit-B6 10 MG / riboflavin 1.7 MG / vit-B1 1.5 MG / vitamin B12 0.006 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "883748",
+              "name": "alpha tocopherol 30 UNT / ascorbic acid 30 MG / docosahexaenoic acid 250 MG / eicosapentaenoic acid 0.625 MG / ferrous fumarate 83 MG / folic acid 1 MG / pyridoxine 25 MG / tricalcium phosphate 100 MG Oral Capsule",
+              "synonym": "alpha Tocopherol 30 UNT / vit-C 30 MG / docosahexaenoic acid 250 MG / Eicosapentaenoic Acid 0.625 MG / Ferrous fumarate 83 MG / folate 1 MG / vit-B6 25 MG / tricalcium phosphate 100 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "891522",
+              "name": "ascorbic acid 100 MG / biotin 0.15 MG / calcium pantothenate 5 MG / folic acid 1 MG / niacin 20 MG / pyridoxine 10 MG / riboflavin 1.7 MG / thiamine mononitrate 1.5 MG / vitamin B12 0.006 MG Oral Capsule",
+              "synonym": "vit-C 100 MG / biotin 0.15 MG / calcium pantothenate 5 MG / folate 1 MG / vit-B3 20 MG / vit-B6 10 MG / riboflavin 1.7 MG / vit-B1 mononitrate 1.5 MG / vitamin B12 0.006 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "995852",
+              "name": "calcium ascorbate 25 MG / calcium carbonate 400 MG / cholecalciferol 200 UNT / folic acid 2 MG / pyridoxine hydrochloride 25 MG Oral Tablet",
+              "synonym": "Calcium ascorbate 25 MG / Calcium Carbonate 400 MG / Cholecalciferol 200 UNT / folate 2 MG / vit-B6 Hydrochloride 25 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "995854",
+              "name": "calcium ascorbate 25 MG / calcium carbonate 600 MG / cholecalciferol 600 UNT / folic acid 0.5 MG / pyridoxine hydrochloride 12.5 MG Oral Tablet",
+              "synonym": "Calcium ascorbate 25 MG / Calcium Carbonate 600 MG / Cholecalciferol 600 UNT / folate 0.5 MG / vit-B6 Hydrochloride 12.5 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T20:58:50.522744",
+  "source": "RxNorm"
+}

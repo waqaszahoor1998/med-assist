@@ -1,0 +1,10 @@
+{
+  "query": "beta-D-fucose",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T06:01:12.990968",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "LX-2931",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:17:50.019795",
+  "source": "RxNorm"
+}

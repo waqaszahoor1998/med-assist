@@ -1,0 +1,10 @@
+{
+  "query": "4-[(4-METHYL-1-PIPERAZINYL)METHYL]-N-[3-[[4-(3-PYRIDINYL)-2-PYRIMIDINYL]AMINO]PHENYL]-BENZAMIDE",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:39:12.232335",
+  "source": "RxNorm"
+}

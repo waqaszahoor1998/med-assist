@@ -1,0 +1,10 @@
+{
+  "query": "OT-551",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:02:55.149910",
+  "source": "RxNorm"
+}

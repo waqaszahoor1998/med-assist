@@ -1,0 +1,100 @@
+{
+  "query": "Tiopronin",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "207840",
+              "name": "tiopronin 100 MG Oral Tablet [Thiola]",
+              "synonym": "Thiola 100 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2178077",
+              "name": "tiopronin 100 MG Delayed Release Oral Tablet [Thiola]",
+              "synonym": "Thiola 100 MG Delayed Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2178081",
+              "name": "tiopronin 300 MG Delayed Release Oral Tablet [Thiola]",
+              "synonym": "Thiola 300 MG Delayed Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2702682",
+              "name": "tiopronin 100 MG Delayed Release Oral Tablet [Venxxiva]",
+              "synonym": "Venxxiva 100 MG Delayed Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2702684",
+              "name": "tiopronin 300 MG Delayed Release Oral Tablet [Venxxiva]",
+              "synonym": "Venxxiva 300 MG Delayed Release Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "198287",
+              "name": "tiopronin 100 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2178075",
+              "name": "tiopronin 100 MG Delayed Release Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2178079",
+              "name": "tiopronin 300 MG Delayed Release Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:40:27.309706",
+  "source": "RxNorm"
+}

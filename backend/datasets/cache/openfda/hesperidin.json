@@ -1,0 +1,27 @@
+{
+  "drug_name": "Hesperidin",
+  "generic_name": [
+    "VITAMIN C, ZINC, ARNICA MONTANA EXTRACT, BROMELAIN, DIOSMIN, RUTIN, CITRUS BIOFLAVONOIDS, HESPERIDIN METHYL CHALCONE"
+  ],
+  "brand_names": [
+    "Bruselix Bruising"
+  ],
+  "drug_interactions": [
+    "Drug Interactions: The use of anticoagulants, such as warfarin or aspirin, may increase the risk of bleeding when combined with Bromelain. High doses of zinc can interfere with the absorption of iron when taken alongside iron supplements. Additionally, citrus bioflavonoids have the potential to enhance the effects of blood pressure-lowering medications."
+  ],
+  "warnings": [],
+  "adverse_reactions": [
+    "Adverse Reactions: Adverse reactions associated with the use of Bruising Tablets may include mild gastrointestinal discomfort, nausea, or allergic reactions such as skin rash. In rare cases, more serious reactions, such as prolonged bleeding or hypersensitivity reactions (e.g., difficulty breathing, swelling), may occur. If you experience any serious adverse effects, discontinue use and seek medical attention immediately."
+  ],
+  "contraindications": [
+    "CONTRAINDICATIONS: Do not use if you have a known allergy to any of the ingredients in Bruselix\u2122 Bruising Tablets , including Arnica Montana or pineapple (Bromelain). Avoid use if you have an allergy to citrus or bioflavonoid components."
+  ],
+  "dosage_administration": [
+    "DOSAGE AND ADMINISTRATION: Take one (1) Bruselix\u2122 Bruising Tablets daily, or as directed by a licensed healthcare practitioner. Do not exceed recommended dose."
+  ],
+  "indications": [
+    "INDICATIONS AND USAGE: Bruselix\u2122 Bruising Tablets are formulated to provide nutritional support during the body\u2019s natural recovery process. They may be helpful for individuals experiencing bruising due to minor injuries, surgical procedures, or sensitive skin. The formula contains antioxidants, enzymes, and natural extracts that are traditionally used to support overall skin health and recovery."
+  ],
+  "fetched_at": "2025-10-01T15:37:21.559676",
+  "source": "OpenFDA"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "(4'-{[Allyl(Methyl)Amino]Methyl}-1,1'-Biphenyl-4-Yl)(4-Bromophenyl)Methanone",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:32:36.005607",
+  "source": "RxNorm"
+}

@@ -1,0 +1,16 @@
+{
+  "rxcui": "351104",
+  "properties": {
+    "properties": {
+      "rxcui": "351104",
+      "name": "levobetaxolol 5 MG/ML Ophthalmic Suspension",
+      "synonym": "levobetaxolol 0.5 % Ophthalmic Suspension",
+      "tty": "SCD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T17:35:32.773856",
+  "source": "RxNorm"
+}

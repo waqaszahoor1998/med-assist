@@ -1,0 +1,16 @@
+{
+  "rxcui": "2099952",
+  "properties": {
+    "properties": {
+      "rxcui": "2099952",
+      "name": "talazoparib 0.25 MG Oral Capsule [Talzenna]",
+      "synonym": "Talzenna 0.25 MG Oral Capsule",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T18:18:49.002808",
+  "source": "RxNorm"
+}

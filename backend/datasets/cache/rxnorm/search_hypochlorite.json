@@ -1,0 +1,208 @@
+{
+  "query": "Hypochlorite",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1086026",
+              "name": "sodium hypochlorite 0.00057 MG/MG Topical Gel [Anasept]",
+              "synonym": "Anasept 0.057 % Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1116540",
+              "name": "sodium hypochlorite 0.57 MG/ML Irrigation Solution [Anasept]",
+              "synonym": "Anasept 0.057 % Irrigation Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1299634",
+              "name": "sodium hypochlorite 2.5 MG/ML Topical Solution [Hysept]",
+              "synonym": "Hysept 0.25 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1299636",
+              "name": "sodium hypochlorite 5 MG/ML Topical Solution [Hysept]",
+              "synonym": "Hysept 0.5 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "979137",
+              "name": "sodium hypochlorite 0.125 MG/ML Topical Solution [Di-Dak-Sol]",
+              "synonym": "Di-Dak-Sol 0.0125 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1115590",
+              "name": "sodium hypochlorite 0.57 MG/ML Irrigation Solution",
+              "synonym": "sodium hypochlorite 0.057 % Irrigation Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1604557",
+              "name": "hypochlorous acid 0.1 MG/ML Topical Solution",
+              "synonym": "hypochlorous acid 0.01 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1810093",
+              "name": "sodium hypochlorite 0.62 MG/ML Topical Solution",
+              "synonym": "sodium hypochlorite 0.062 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1995283",
+              "name": "sodium hypochlorite 1.14 MG/ML Topical Solution",
+              "synonym": "sodium hypochlorite 0.114 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2044878",
+              "name": "sodium hypochlorite 0.00062 MG/MG Topical Gel",
+              "synonym": "sodium hypochlorite 0.062 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2052408",
+              "name": "hypochlorous acid 0.2 MG/ML Topical Solution",
+              "synonym": "hypochlorous acid 0.02 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2184394",
+              "name": "sodium hypochlorite 1.25 MG/ML Topical Spray",
+              "synonym": "sodium hypochlorite 0.125 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2361844",
+              "name": "hypochlorous acid 0.06 MG/ML Topical Spray",
+              "synonym": "hypochlorous acid 0.006 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "245674",
+              "name": "sodium hypochlorite 10 MG/ML Topical Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2721462",
+              "name": "hypochlorous acid 0.1 MG/ML Topical Spray",
+              "synonym": "hypochlorous acid 0.01 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "313048",
+              "name": "sodium hypochlorite 2.5 MG/ML Topical Solution",
+              "synonym": "Dakin's half strength 0.25 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "313049",
+              "name": "sodium hypochlorite 5 MG/ML Topical Solution",
+              "synonym": "Dakin's full strength 0.5 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "644133",
+              "name": "sodium hypochlorite 1.25 MG/ML Topical Solution",
+              "synonym": "Dakin's quarter strength 0.125 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "665046",
+              "name": "sodium hypochlorite 0.125 MG/ML Topical Solution",
+              "synonym": "sodium hypochlorite 0.0125 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "797616",
+              "name": "sodium hypochlorite 0.00057 MG/MG Topical Gel",
+              "synonym": "sodium hypochlorite 0.057 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:45:27.559923",
+  "source": "RxNorm"
+}

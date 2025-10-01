@@ -1,0 +1,16 @@
+{
+  "rxcui": "1038750",
+  "properties": {
+    "properties": {
+      "rxcui": "1038750",
+      "name": "hydrogen peroxide 15 MG/ML Mouthwash [Peroxi-Fresh]",
+      "synonym": "Peroxi-Fresh 1.5 % Mouthwash",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T17:43:52.434288",
+  "source": "RxNorm"
+}

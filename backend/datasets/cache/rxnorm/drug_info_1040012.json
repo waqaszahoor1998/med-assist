@@ -1,0 +1,16 @@
+{
+  "rxcui": "1040012",
+  "properties": {
+    "properties": {
+      "rxcui": "1040012",
+      "name": "ceftaroline fosamil 400 MG Injection [Teflaro]",
+      "synonym": "Teflaro 400 MG Injection",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T16:26:23.775231",
+  "source": "RxNorm"
+}

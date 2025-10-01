@@ -1,0 +1,215 @@
+{
+  "query": "Triclosan",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD"
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1020118",
+              "name": "triclosan 1.5 MG/ML Medicated Liquid Soap",
+              "synonym": "triclosan 0.15 % Medicated Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1038973",
+              "name": "triclosan 0.4 MG/ML Medicated Liquid Soap",
+              "synonym": "triclosan 0.04 % Medicated Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1039706",
+              "name": "ethanol 0.62 ML/ML / triclosan 3 MG/ML Topical Spray",
+              "synonym": "ethanol 62 % / triclosan 0.3 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "106225",
+              "name": "benzocaine 10 MG/ML / triclosan 2 MG/ML Topical Spray",
+              "synonym": "benzocaine 1 % / triclosan 0.2 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "106226",
+              "name": "benzocaine 10 MG/ML / triclosan 2 MG/ML Topical Lotion",
+              "synonym": "benzocaine 1 % / triclosan 0.2 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "106227",
+              "name": "benzocaine 10 MG/ML / triclosan 2 MG/ML Topical Cream",
+              "synonym": "benzocaine 1 % / triclosan 0.2 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1293726",
+              "name": "triclosan 2 MG/ML Medicated Shampoo",
+              "synonym": "triclosan 0.2 % Medicated Shampoo",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1541094",
+              "name": "chloroxylenol 4.5 MG/ML / triclosan 0.6 MG/ML Medicated Liquid Soap",
+              "synonym": "chloroxylenol 0.45 % / triclosan 0.06 % Medical Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "242674",
+              "name": "triclosan 0.003 MG/MG Medicated Bar Soap",
+              "synonym": "triclosan 0.3 % Medicated Bar Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "247783",
+              "name": "triclosan 5 MG/ML Topical Solution",
+              "synonym": "triclosan 0.5 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "250768",
+              "name": "triclosan 20 MG/ML Topical Solution",
+              "synonym": "triclosan 2 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "251457",
+              "name": "triclosan 3 MG/ML Topical Solution",
+              "synonym": "triclosan 0.3 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "252599",
+              "name": "triclosan 3 MG/ML Topical Cream",
+              "synonym": "triclosan 0.3 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "260054",
+              "name": "triclosan 3 MG/ML Medicated Liquid Soap",
+              "synonym": "triclosan 0.3 % Medicated Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "313470",
+              "name": "triclosan 2.5 MG/ML Topical Solution",
+              "synonym": "triclosan 0.25 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "359261",
+              "name": "benzocaine 200 MG/ML / triclosan 1.3 MG/ML Topical Spray",
+              "synonym": "benzocaine 20 % / triclosan 0.13 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "413246",
+              "name": "triclosan 2 MG/ML Medicated Liquid Soap",
+              "synonym": "triclosan 0.2 % Medicated Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "413247",
+              "name": "triclosan 5 MG/ML Medicated Liquid Soap",
+              "synonym": "triclosan 0.5 % Medicated Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "413250",
+              "name": "triclosan 7.5 MG/ML Medicated Liquid Soap",
+              "synonym": "triclosan 0.75 % Medicated Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "831578",
+              "name": "triclosan 2.5 MG/ML Medicated Liquid Soap",
+              "synonym": "triclosan 0.25 % Medicated Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "995367",
+              "name": "triclosan 1.15 MG/ML Medicated Liquid Soap",
+              "synonym": "triclosan 0.115 % Medicated Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:57:03.987655",
+  "source": "RxNorm"
+}

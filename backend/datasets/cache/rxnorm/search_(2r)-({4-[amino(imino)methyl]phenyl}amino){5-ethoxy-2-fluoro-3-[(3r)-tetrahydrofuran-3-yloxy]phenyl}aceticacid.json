@@ -1,0 +1,10 @@
+{
+  "query": "(2R)-({4-[AMINO(IMINO)METHYL]PHENYL}AMINO){5-ETHOXY-2-FLUORO-3-[(3R)-TETRAHYDROFURAN-3-YLOXY]PHENYL}ACETICACID",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:32:58.798869",
+  "source": "RxNorm"
+}

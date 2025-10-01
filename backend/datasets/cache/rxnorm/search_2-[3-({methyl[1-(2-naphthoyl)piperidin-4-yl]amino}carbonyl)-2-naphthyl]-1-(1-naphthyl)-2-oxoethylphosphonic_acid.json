@@ -1,0 +1,10 @@
+{
+  "query": "2-[3-({Methyl[1-(2-Naphthoyl)Piperidin-4-Yl]Amino}Carbonyl)-2-Naphthyl]-1-(1-Naphthyl)-2-Oxoethylphosphonic Acid",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T04:36:56.041410",
+  "source": "RxNorm"
+}

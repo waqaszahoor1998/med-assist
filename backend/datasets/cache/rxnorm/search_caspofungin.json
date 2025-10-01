@@ -1,0 +1,64 @@
+{
+  "query": "Caspofungin",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "828541",
+              "name": "caspofungin acetate 70 MG Injection [Cancidas]",
+              "synonym": "Cancidas 70 MG Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "828757",
+              "name": "caspofungin acetate 50 MG Injection [Cancidas]",
+              "synonym": "Cancidas 50 MG Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "828539",
+              "name": "caspofungin acetate 70 MG Injection",
+              "synonym": "caspofungin acetate 70 MG (equivalent to caspofungin 75.6 MG) Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "828755",
+              "name": "caspofungin acetate 50 MG Injection",
+              "synonym": "caspofungin acetate 50 MG (equivalent to caspofungin 54.6 MG) Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:17:35.857731",
+  "source": "RxNorm"
+}

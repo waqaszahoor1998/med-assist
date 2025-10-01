@@ -1,0 +1,10 @@
+{
+  "query": "2,6-anhydro-3-deoxy-3-fluoronononic acid",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:36:50.173180",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "UDP-alpha-D-xylose",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T01:38:21.403261",
+  "source": "RxNorm"
+}

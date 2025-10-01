@@ -1,0 +1,2242 @@
+{
+  "query": "Methyl salicylate",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1043623",
+              "name": "eucalyptol 0.92 MG/ML / menthol 0.42 MG/ML / methyl salicylate 0.6 MG/ML / thymol 0.64 MG/ML Mouthwash [Listerine Antiseptic]",
+              "synonym": "Listerine Antiseptic (eucalyptol 0.092 % / menthol 0.042 % / methyl salicylate 0.06 % / thymol 0.064 % ) Mouthwash",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1085725",
+              "name": "menthol 50 MG/ML / methyl salicylate 140 MG/ML Topical Lotion [Castiva Cooling]",
+              "synonym": "Castiva Cooling (menthol 5 % / methyl salicylate 14 % ) Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1086946",
+              "name": "menthol 40 MG/ML / methyl salicylate 250 MG/ML Topical Cream [Thera-Gesic Plus]",
+              "synonym": "Thera-Gesic Plus (menthol 4 % / methyl salicylate 25 % ) Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1088840",
+              "name": "methyl salicylate 100 MG/ML Topical Cream [Gordogesic]",
+              "synonym": "Gordogesic 10 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1088957",
+              "name": "guaiacol 0.02 MG/MG / methyl salicylate 0.08 MG/MG Topical Ointment [Methagual]",
+              "synonym": "Methagual (guaiacol 2 % / methyl salicylate 8 % ) Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1090034",
+              "name": "capsaicin 0.25 MG/ML / menthol 10 MG/ML / methyl salicylate 120 MG/ML Topical Cream [ZIKS Pain Relief]",
+              "synonym": "ZIKS Pain Relief (capsaicin 0.025 % / menthol 1 % / methyl salicylate 12 % ) Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1093363",
+              "name": "menthol 125 MG/ML / methyl salicylate 62.5 MG/ML Topical Lotion [Xoten]",
+              "synonym": "Xoten (menthol 12.5 % / methyl salicylate 6.25 % ) Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1099923",
+              "name": "capsaicin 0.000375 MG/MG / menthol 0.05 MG/MG / methyl salicylate 0.2 MG/MG Medicated Patch [Medrox]",
+              "synonym": "Medrox (capsaicin 0.0375 % / menthol 5 % / methyl salicylate 20 % ) Medicated Patch",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1116971",
+              "name": "capsaicin 0.25 MG/ML / menthol 100 MG/ML / methyl salicylate 300 MG/ML Topical Lotion [Dendracin Neurodendraxcin]",
+              "synonym": "Dendracin Neurodendraxcin (capsaicin 0.025 % / menthol 10 % / methyl salicylate 30 % ) Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1116976",
+              "name": "capsaicin 0.375 MG/ML / menthol 100 MG/ML / methyl salicylate 300 MG/ML Topical Lotion [Dendracin Neurodendraxcin]",
+              "synonym": "Dendracin Neurodendraxcin (capsaicin 0.0375 % / menthol 10 % / methyl salicylate 30 % ) Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1117110",
+              "name": "methyl salicylate 0.105 MG/MG Topical Ointment [Veneno de Abeja Aceite de Vibora]",
+              "synonym": "Veneno de Abeja Aceite de Vibora 10.5 % Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1125493",
+              "name": "capsaicin 0.02 MG/ML / menthol 100 MG/ML / methyl salicylate 200 MG/ML Topical Lotion [Xoten-C]",
+              "synonym": "Xoten-C (capsaicin 0.002 % / menthol 10 % / methyl salicylate 20 % ) Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1235758",
+              "name": "capsaicin 0.0005 MG/MG / menthol 0.07 MG/MG / methyl salicylate 0.2 MG/MG Topical Ointment [Medrox]",
+              "synonym": "Medrox-Rx (capsaicin 0.05 % / menthol 7 % / methyl salicylate 20 % ) Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1293435",
+              "name": "menthol 145 MG/ML / methyl salicylate 300 MG/ML Topical Oil [Eagle Brand Medicated Oil]",
+              "synonym": "Eagle Brand Medicated Oil (menthol 14.5 % / methyl salicylate 30 % ) Topical Oil",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1306910",
+              "name": "menthol 0.08 MG/MG / methyl salicylate 0.16 MG/MG Topical Ointment [Rocainol]",
+              "synonym": "Rocainol (menthol 8 % / methyl salicylate 16 % ) Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1310028",
+              "name": "camphor 0.031 MG/MG / menthol 0.16 MG/MG / methyl salicylate 0.1 MG/MG Topical Gel [Flexall Ultra Plus]",
+              "synonym": "Flexall Ultra Plus (camphor 3.1 % / menthol 16 % / methyl salicylate 10 % ) Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1422563",
+              "name": "capsaicin 0.35 MG/ML / lidocaine 20 MG/ML / menthol 50 MG/ML / methyl salicylate 200 MG/ML Topical Cream [Medi-Derm with Lidocaine]",
+              "synonym": "Medi-Derm with Lidocaine (capsaicin 0.035 % / lidocaine 2 % / menthol 5 % / methyl salicylate 20 % ) Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1432541",
+              "name": "capsaicin 0.35 MG/ML / lidocaine 20 MG/ML / menthol 50 MG/ML / methyl salicylate 200 MG/ML Topical Cream [Doloracin with Lidocaine]",
+              "synonym": "Doloracin with Lidocaine (capsaicin 0.035 % / lidocaine 2 % / menthol 5 % / methyl salicylate 20 % ) Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1433205",
+              "name": "menthol 0.14 MG/MG / methyl salicylate 0.232 MG/MG Topical Ointment [Ling Nam Ultra Balm]",
+              "synonym": "Ling Nam Ultra Balm (menthol 14 % / methyl salicylate 23.2 % ) Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1435889",
+              "name": "capsaicin 0.25 MG/ML / menthol 100 MG/ML / methyl salicylate 300 MG/ML Topical Lotion [Transanosil]",
+              "synonym": "Transanosil (capsaicin 0.025 % / menthol 10 % / methyl salicylate 30 % ) Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1436369",
+              "name": "capsaicin 0.35 MG/ML / menthol 50 MG/ML / methyl salicylate 200 MG/ML Topical Cream [Medi-Derm]",
+              "synonym": "Medi-Derm (capsaicin 0.035 % / menthol 5 % / methyl salicylate 20 % ) Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1542818",
+              "name": "camphor 0.11 MG/MG / menthol 0.076 MG/MG / methyl salicylate 0.13 MG/MG Topical Ointment [Katinko]",
+              "synonym": "Katinko (camphor 11 % / menthol 7.6 % / methyl salicylate 13 % ) Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1599302",
+              "name": "lidocaine 0.04 MG/MG / menthol 0.05 MG/MG / methyl salicylate 0.04 MG/MG Medicated Patch [LidoPro Patch]",
+              "synonym": "LidoPro Patch (lidocaine 4 % / menthol 5 % / methyl salicylate 4 % ) Medicated Patch",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1601097",
+              "name": "capsaicin 0.000325 MG/MG / lidocaine hydrochloride 0.04 MG/MG / menthol 0.1 MG/MG / methyl salicylate 0.275 MG/MG Topical Ointment [LidoPro]",
+              "synonym": "LidoPro (capsaicin 0.0325 % / lidocaine HCl 4 % / menthol 10 % / methyl salicylate 27.5 % ) Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1923242",
+              "name": "menthol 0.019 MG/MG / methyl salicylate 0.137 MG/MG Topical Ointment [Cramergesic]",
+              "synonym": "Cramergesic (menthol 1.9 % / methyl salicylate 13.7 % ) Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1992051",
+              "name": "camphor 100 MG/ML / menthol 160 MG/ML / methyl salicylate 500 MG/ML Topical Oil [Wong To Yick]",
+              "synonym": "Wong To Yik (camphor 10 % / menthol 16 % / methyl salicylate 50 % ) Topical Oil",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2001750",
+              "name": "capsaicin 0.000375 MG/MG / menthol 0.05 MG/MG / methyl salicylate 0.2 MG/MG Topical Ointment [Medrox]",
+              "synonym": "Medrox (capsaicin 0.000375 MG/MG / menthol 0.05 MG/MG / methyl salicylate 0.2 MG/MG) Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2043303",
+              "name": "eucalyptol 0.92 MG/ML / menthol 0.42 MG/ML / methyl salicylate 0.6 MG/ML / thymol 0.64 MG/ML Mouthwash [Listerine Ultraclean]",
+              "synonym": "Listerine Ultraclean (eucalyptol 0.092 % / menthol 0.042 % / methyl salicylate 0.06 % / thymol 0.064 % ) Mouthwash",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2045511",
+              "name": "camphor 40 MG/ML / menthol 100 MG/ML / methyl salicylate 300 MG/ML Topical Cream [Dragon]",
+              "synonym": "Dragon (camphor 4 % / menthol 10 % / methyl salicylate 30 % ) Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2105947",
+              "name": "menthol 100 MG/ML / methyl salicylate 150 MG/ML Topical Cream [Arthritis Hot Pain Relief]",
+              "synonym": "Arthritis Hot Pain Relief (menthol 10 % / methyl salicylate 15 % ) Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2273244",
+              "name": "methyl salicylate 0.105 MG/MG Topical Ointment [Kofal]",
+              "synonym": "Kofal 0.105 MG/MG Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2474491",
+              "name": "camphor 40 MG/ML / menthol 75 MG/ML / methyl salicylate 100 MG/ML Topical Cream [Apeaz]",
+              "synonym": "Apeaz Ultra (camphor 4 % / menthol 7.5 % / methyl salicylate 10 % ) Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2597539",
+              "name": "capsaicin 0.00025 MG/MG / methyl salicylate 0.125 MG/MG Topical Ointment [Atomic Balm]",
+              "synonym": "Atomic Balm (capsaicin 0.025 % / methyl salicylate 12.5 % ) Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2675024",
+              "name": "lidocaine 0.04 MG/MG / menthol 0.005 MG/MG / methyl salicylate 0.001 MG/MG Medicated Patch [LidoPro Patch]",
+              "synonym": "LidoPro Patch (lidocaine 4 % / menthol 0.5 % / methyl salicylate 0.1 % ) Medicated Patch",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2685260",
+              "name": "menthol 20 MG/ML / methyl salicylate 100 MG/ML Topical Cream [Tricylate]",
+              "synonym": "Tricylate (menthol 2 % / methyl salicylate 10 % ) Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "724160",
+              "name": "menthol 10 MG/ML / methyl salicylate 150 MG/ML Topical Cream [Thera-Gesic]",
+              "synonym": "Thera-Gesic (menthol 10 MG/ML / methyl salicylate 150 MG/ML) Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "730032",
+              "name": "menthol 12.5 MG/ML / methyl salicylate 300 MG/ML / methylnicotinate 2.5 MG/ML Topical Cream [Arthricare for Women Pain Relieving Nighttime]",
+              "synonym": "Arthricare for Women Pain Relieving Nighttime Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "761916",
+              "name": "camphor 10 MG/ML / menthol 120 MG/ML / methyl salicylate 200 MG/ML Topical Spray [PainZone]",
+              "synonym": "PainZone (Camphor 1 % / Menthol 12 % / methyl salicylate 20 % ) Topical Spray",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "761925",
+              "name": "camphor 0.01 MG/MG / menthol 0.12 MG/MG / methyl salicylate 0.2 MG/MG Topical Ointment [PainZone]",
+              "synonym": "PainZone (camphor 1 % / menthol 12 % / methyl salicylate 20 % ) Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "998601",
+              "name": "menthol 0.06 MG/MG / methyl salicylate 0.14 MG/MG Topical Ointment [Analgesic Balm GRX]",
+              "synonym": "Analgesic Balm GRX (menthol 6 % / methyl salicylate 14 % ) Topical Ointment",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1020420",
+              "name": "capsaicin 0.25 MG/ML / lidocaine hydrochloride 25 MG/ML / menthol 100 MG/ML / methyl salicylate 250 MG/ML Topical Lotion",
+              "synonym": "capsaicin 0.025 % / lidocaine HCl 2.5 % / menthol 10 % / methyl salicylate 25 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1043619",
+              "name": "eucalyptol 0.92 MG/ML / menthol 0.42 MG/ML / methyl salicylate 0.6 MG/ML / thymol 0.64 MG/ML Mouthwash",
+              "synonym": "eucalyptol 0.092 % / menthol 0.042 % / methyl salicylate 0.06 % / thymol 0.064 % Mouthwash",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1044268",
+              "name": "menthol 0.1 MG/MG / methyl salicylate 0.3 MG/MG Topical Ointment",
+              "synonym": "menthol 10 % / methyl salicylate 30 % Topical Stick",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1045385",
+              "name": "capsaicin 0.0015 MG/MG / menthol 0.135 MG/MG / methyl salicylate 0.3 MG/MG Topical Ointment",
+              "synonym": "capsaicin 0.15 % / menthol 13.5 % / methyl salicylate 30 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1046707",
+              "name": "menthol 0.1 MG/MG / methyl salicylate 0.27 MG/MG Topical Ointment",
+              "synonym": "menthol 10 % / methyl salicylate 27 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1053359",
+              "name": "camphor 54 MG/ML / menthol 131 MG/ML / methyl salicylate 360 MG/ML Topical Oil",
+              "synonym": "camphor 5.4 % / menthol 13.1 % / methyl salicylate 36 % Topical Oil",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1053397",
+              "name": "methyl salicylate 0.1 MG/MG Medicated Patch",
+              "synonym": "methyl salicylate 10 % Medicated Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1053407",
+              "name": "camphor 60 MG/ML / menthol 150 MG/ML / methyl salicylate 400 MG/ML Topical Oil",
+              "synonym": "camphor 6 % / menthol 15 % / methyl salicylate 40 % Topical Oil",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1085721",
+              "name": "menthol 50 MG/ML / methyl salicylate 140 MG/ML Topical Lotion",
+              "synonym": "menthol 5 % / methyl salicylate 14 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1091381",
+              "name": "camphor 32.5 MG/ML / menthol 15 MG/ML / methyl salicylate 150 MG/ML Topical Cream",
+              "synonym": "camphor 3.25 % / menthol 1.5 % / methyl salicylate 15 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1093359",
+              "name": "menthol 125 MG/ML / methyl salicylate 62.5 MG/ML Topical Lotion",
+              "synonym": "menthol 12.5 % / methyl salicylate 6.25 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1095682",
+              "name": "capsaicin 0.35 MG/ML / menthol 50 MG/ML / methyl salicylate 200 MG/ML Topical Cream",
+              "synonym": "capsaicin 0.035 % / menthol 5 % / methyl salicylate 20 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1099896",
+              "name": "capsaicin 0.375 MG/ML / menthol 50 MG/ML / methyl salicylate 200 MG/ML Topical Cream",
+              "synonym": "capsaicin 0.0375 % / menthol 5 % / methyl salicylate 20 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1099912",
+              "name": "capsaicin 0.000375 MG/MG / menthol 0.05 MG/MG / methyl salicylate 0.2 MG/MG Medicated Patch",
+              "synonym": "capsaicin 0.0375 % / menthol 5 % / methyl salicylate 20 % Medicated Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1100007",
+              "name": "menthol 25 MG/ML / methyl salicylate 249 MG/ML Topical Solution",
+              "synonym": "menthol 2.5 % / methyl salicylate 24.9 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1100684",
+              "name": "menthol 0.15 MG/MG / methyl salicylate 0.3 MG/MG Topical Ointment",
+              "synonym": "menthol 15 % / methyl salicylate 30 % Topical Stick",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1101083",
+              "name": "menthol 30 MG/ML / methyl salicylate 100 MG/ML Topical Spray",
+              "synonym": "menthol 3 % / methyl salicylate 10 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1101920",
+              "name": "methyl salicylate 0.105 MG/MG Topical Ointment",
+              "synonym": "methyl salicylate 10.5 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1102186",
+              "name": "menthol 70 MG/ML / methyl salicylate 140 MG/ML Topical Cream",
+              "synonym": "menthol 7 % / methyl salicylate 14 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1111032",
+              "name": "menthol 0.03 MG/MG / methyl salicylate 0.12 MG/MG Topical Ointment",
+              "synonym": "menthol 3 % / methyl salicylate 12 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1116730",
+              "name": "camphor 0.04 MG/MG / menthol 0.1 MG/MG / methyl salicylate 0.3 MG/MG Topical Gel",
+              "synonym": "camphor 4 % / menthol 10 % / methyl salicylate 30 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1116967",
+              "name": "capsaicin 0.25 MG/ML / menthol 100 MG/ML / methyl salicylate 300 MG/ML Topical Lotion",
+              "synonym": "capsaicin 0.025 % / menthol 10 % / methyl salicylate 30 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1119597",
+              "name": "capsaicin 0.02 MG/ML / menthol 100 MG/ML / methyl salicylate 200 MG/ML Topical Lotion",
+              "synonym": "capsaicin 0.002 % / menthol 10 % / methyl salicylate 20 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1193297",
+              "name": "camphor 100 MG/ML / menthol 160 MG/ML / methyl salicylate 500 MG/ML Topical Oil",
+              "synonym": "camphor 10 % / menthol 16 % / methyl salicylate 50 % Topical Oil",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1232299",
+              "name": "camphor 0.04 MG/MG / menthol 0.1 MG/MG / methyl salicylate 0.15 MG/MG Topical Ointment",
+              "synonym": "camphor 4 % / menthol 10 % / methyl salicylate 15 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1232398",
+              "name": "camphor 0.05 MG/MG / menthol 0.05 MG/MG / methyl salicylate 0.05 MG/MG Topical Ointment",
+              "synonym": "camphor 5 % / menthol 5 % / methyl salicylate 5 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1235753",
+              "name": "capsaicin 0.0005 MG/MG / menthol 0.07 MG/MG / methyl salicylate 0.2 MG/MG Topical Ointment",
+              "synonym": "capsaicin 0.05 % / menthol 7 % / methyl salicylate 20 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1249174",
+              "name": "camphor 50 MG/ML / menthol 40 MG/ML / methyl salicylate 100 MG/ML Topical Spray",
+              "synonym": "camphor 5 % / menthol 4 % / methyl salicylate 10 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1293430",
+              "name": "menthol 145 MG/ML / methyl salicylate 300 MG/ML Topical Oil",
+              "synonym": "menthol 14.5 % / methyl salicylate 30 % Topical Oil",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1300276",
+              "name": "menthol 110 MG/ML / methyl salicylate 310 MG/ML Topical Cream",
+              "synonym": "menthol 11 % / methyl salicylate 31 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1306905",
+              "name": "menthol 0.08 MG/MG / methyl salicylate 0.16 MG/MG Topical Ointment",
+              "synonym": "menthol 8 % / methyl salicylate 16 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1356803",
+              "name": "capsaicin 0.00035 MG/MG / lidocaine hydrochloride 0.005 MG/MG / menthol 0.05 MG/MG / methyl salicylate 0.2 MG/MG Medicated Patch",
+              "synonym": "capsaicin 0.035 % / lidocaine HCl 0.5 % / menthol 5 % / methyl salicylate 20 % Medicated Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1361410",
+              "name": "capsaicin 0.000325 MG/MG / lidocaine 0.045 MG/MG / menthol 0.1 MG/MG / methyl salicylate 0.275 MG/MG Topical Ointment",
+              "synonym": "capsaicin 0.0325 % / lidocaine 4.5 % / menthol 10 % / methyl salicylate 27.5 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1368275",
+              "name": "camphor 40 MG/ML / menthol 40 MG/ML / methyl salicylate 110 MG/ML Topical Cream",
+              "synonym": "camphor 4 % / menthol 4 % / methyl salicylate 11 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1372464",
+              "name": "capsaicin 0.25 MG/ML / menthol 100 MG/ML / methyl salicylate 250 MG/ML Topical Lotion",
+              "synonym": "capsaicin 0.025 % / menthol 10 % / methyl salicylate 25 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1372560",
+              "name": "capsaicin 0.25 MG/ML / menthol 100 MG/ML / methyl salicylate 280 MG/ML Topical Lotion",
+              "synonym": "capsaicin 0.025 % / menthol 10 % / methyl salicylate 28 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1374840",
+              "name": "menthol 160 MG/ML / methyl salicylate 350 MG/ML Topical Oil",
+              "synonym": "menthol 16 % / methyl salicylate 35 % Topical Oil",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1376496",
+              "name": "menthol 8 MG/ML / methyl salicylate 30 MG/ML Topical Spray",
+              "synonym": "menthol 0.8 % / methyl salicylate 3 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1376499",
+              "name": "menthol 0.019 MG/MG / methyl salicylate 0.137 MG/MG Topical Ointment",
+              "synonym": "menthol 1.9 % / methyl salicylate 13.7 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1421024",
+              "name": "menthol 0.03 MG/MG / methyl salicylate 0.005 MG/MG Medicated Patch",
+              "synonym": "menthol 3 % / methyl salicylate 0.5 % Medicated Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1421027",
+              "name": "menthol 0.03 MG/MG / methyl salicylate 0.005 MG/MG Paste",
+              "synonym": "menthol 3 % / methyl salicylate 0.5 % Paste",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1422561",
+              "name": "capsaicin 0.35 MG/ML / lidocaine 20 MG/ML / menthol 50 MG/ML / methyl salicylate 200 MG/ML Topical Cream",
+              "synonym": "capsaicin 0.035 % / lidocaine 2 % / menthol 5 % / methyl salicylate 20 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1423977",
+              "name": "camphor 0.005 MG/MG / menthol 0.003 MG/MG / methyl salicylate 0.01 MG/MG Medicated Patch",
+              "synonym": "camphor 0.5 % / menthol 0.3 % / methyl salicylate 1 % Medicated Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1425325",
+              "name": "camphor 0.031 MG/MG / menthol 0.1 MG/MG / methyl salicylate 0.15 MG/MG Topical Gel",
+              "synonym": "camphor 3.1 % / menthol 10 % / methyl salicylate 15 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1433200",
+              "name": "menthol 0.14 MG/MG / methyl salicylate 0.232 MG/MG Topical Ointment",
+              "synonym": "menthol 14 % / methyl salicylate 23.2 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1435162",
+              "name": "camphor 100 MG/ML / menthol 150 MG/ML / methyl salicylate 300 MG/ML Topical Oil",
+              "synonym": "camphor 10 % / menthol 15 % / methyl salicylate 30 % Topical Oil",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1440065",
+              "name": "camphor 36 MG/ML / capsaicin 0.25 MG/ML / methyl salicylate 180 MG/ML Topical Solution",
+              "synonym": "camphor 3.6 % / capsaicin 0.025 % / methyl salicylate 18 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1441730",
+              "name": "camphor 100 MG/ML / menthol 150 MG/ML / methyl salicylate 330 MG/ML Topical Oil",
+              "synonym": "camphor 10 % / menthol 15 % / methyl salicylate 33 % Topical Oil",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1483688",
+              "name": "menthol 0.05 MG/MG / methyl salicylate 0.01 MG/MG Medicated Patch",
+              "synonym": "menthol 5 % / methyl salicylate 1 % Medicated Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1485584",
+              "name": "camphor 30 MG/ML / menthol 100 MG/ML / methyl salicylate 100 MG/ML Topical Solution",
+              "synonym": "camphor 3 % / menthol 10 % / methyl salicylate 10 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1486326",
+              "name": "camphor 0.007 MG/MG / levomenthol 0.014 MG/MG / methyl salicylate 0.028 MG/MG Medicated Patch",
+              "synonym": "camphor 0.7 % / levomenthol 1.4 % / methyl salicylate 2.8 % Medicated Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1486874",
+              "name": "menthol 30 MG/ML / methyl salicylate 100 MG/ML Topical Cream",
+              "synonym": "menthol 3 % / methyl salicylate 10 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1495457",
+              "name": "camphor 0.11 MG/MG / menthol 0.15 MG/MG / methyl salicylate 0.15 MG/MG Topical Oil",
+              "synonym": "camphor 11 % / menthol 15 % / methyl salicylate 15 % Topical Oil",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1541083",
+              "name": "capsaicin 0.35 MG/ML / menthol 100 MG/ML / methyl salicylate 250 MG/ML Topical Cream",
+              "synonym": "capsaicin 0.035 % / menthol 10 % / methyl salicylate 25 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1542816",
+              "name": "camphor 0.11 MG/MG / menthol 0.076 MG/MG / methyl salicylate 0.13 MG/MG Topical Ointment",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1547758",
+              "name": "camphor 0.035 MG/MG / menthol 0.023 MG/MG / methyl salicylate 0.146 MG/MG Medicated Patch",
+              "synonym": "camphor 3.5 % / menthol 2.3 % / methyl salicylate 14.6 % Medicated Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1550967",
+              "name": "camphor 0.038 MG/MG / menthol 0.026 MG/MG / methyl salicylate 0.12 MG/MG Medicated Patch",
+              "synonym": "camphor 3.8 % / menthol 2.6 % / methyl salicylate 12 % Medicated Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1595784",
+              "name": "benzocaine 20 MG/ML / capsaicin 0.35 MG/ML / lidocaine 20 MG/ML / methyl salicylate 100 MG/ML Topical Cream",
+              "synonym": "benzocaine 2 % / capsaicin 0.035 % / lidocaine 2 % / methyl salicylate 10 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1599163",
+              "name": "lidocaine 0.04 MG/MG / menthol 0.02 MG/MG / methyl salicylate 0.16 MG/MG Medicated Patch",
+              "synonym": "lidocaine 4 % / menthol 2 % / methyl salicylate 16 % Medicated Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1599164",
+              "name": "lidocaine 0.04 MG/MG / menthol 0.05 MG/MG / methyl salicylate 0.04 MG/MG Medicated Patch",
+              "synonym": "lidocaine 4 % / menthol 5 % / methyl salicylate 4 % Medicated Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1599818",
+              "name": "menthol 0.15 MG/MG / methyl salicylate 0.15 MG/MG Topical Ointment",
+              "synonym": "menthol 15 % / methyl salicylate 15 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1600127",
+              "name": "camphor 40 MG/ML / menthol 100 MG/ML / methyl salicylate 300 MG/ML Topical Spray",
+              "synonym": "camphor 4 % / menthol 10 % / methyl salicylate 30 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1601095",
+              "name": "capsaicin 0.000325 MG/MG / lidocaine hydrochloride 0.04 MG/MG / menthol 0.1 MG/MG / methyl salicylate 0.275 MG/MG Topical Ointment",
+              "synonym": "capsaicin 0.0325 % / lidocaine HCl 4 % / menthol 10 % / methyl salicylate 27.5 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1601879",
+              "name": "camphor 50 MG/ML / menthol 160 MG/ML / methyl salicylate 150 MG/ML Topical Oil",
+              "synonym": "camphor 5 % / menthol 16 % / methyl salicylate 15 % Topical Oil",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1608491",
+              "name": "menthol 70 MG/ML / methyl salicylate 100 MG/ML Topical Cream",
+              "synonym": "menthol 7 % / methyl salicylate 10 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1648512",
+              "name": "camphor 0.1 MG/MG / menthol 0.08 MG/MG / methyl salicylate 0.14 MG/MG Topical Ointment",
+              "synonym": "camphor 10 % / menthol 8 % / methyl salicylate 14 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1654726",
+              "name": "menthol 145 MG/ML / methyl salicylate 300 MG/ML Topical Solution",
+              "synonym": "menthol 14.5 % / methyl salicylate 30 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1654728",
+              "name": "camphor 70 MG/ML / menthol 160 MG/ML / methyl salicylate 350 MG/ML Topical Oil",
+              "synonym": "camphor 7 % / menthol 16 % / methyl salicylate 35 % Topical Oil",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1716100",
+              "name": "menthol 100 MG/ML / methyl salicylate 200 MG/ML Topical Cream",
+              "synonym": "menthol 10 % / methyl salicylate 20 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1730277",
+              "name": "methyl salicylate 0.2 MG/MG Topical Gel",
+              "synonym": "methyl salicylate 20 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1738566",
+              "name": "menthol 100 MG/ML / methyl salicylate 120 MG/ML Topical Spray",
+              "synonym": "menthol 10 % / methyl salicylate 12 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1791346",
+              "name": "camphor 0.02 MG/MG / methyl salicylate 0.22 MG/MG Topical Ointment",
+              "synonym": "camphor 2 % / methyl salicylate 22 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1793147",
+              "name": "camphor 0.031 MG/MG / menthol 0.06 MG/MG / methyl salicylate 0.1 MG/MG Medicated Patch",
+              "synonym": "camphor 3.1 % / menthol 6 % / methyl salicylate 10 % Medicated Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1812745",
+              "name": "menthol 0.02 MG/MG / methyl salicylate 0.02 MG/MG Medicated Patch",
+              "synonym": "menthol 2 % / methyl salicylate 2 % Medicated Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1855061",
+              "name": "camphor 110 MG/ML / Eucalyptus oil 100 MG/ML / menthol 80 MG/ML / methyl salicylate 100 MG/ML Topical Cream",
+              "synonym": "camphor 11 % / eucalyptus oil 10 % / menthol 8 % / methyl salicylate 10 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1860084",
+              "name": "camphor 100 MG/ML / methyl salicylate 370 MG/ML Topical Oil",
+              "synonym": "camphor 10 % / methyl salicylate 37 % Topical Oil",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1870112",
+              "name": "capsaicin 0.25 MG/ML / menthol 100 MG/ML / methyl salicylate 200 MG/ML Topical Lotion",
+              "synonym": "capsaicin 0.025 % / menthol 10 % / methyl salcylate 20 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1874174",
+              "name": "menthol 0.04 MG/MG / methyl salicylate 0.01 MG/MG Medicated Patch",
+              "synonym": "menthol 4 % / methyl salicylate 1 % Medicated Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1875528",
+              "name": "menthol 100 MG/ML / methyl salicylate 100 MG/ML Topical Cream",
+              "synonym": "menthol 10 % / methyl salicylate 10 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1875611",
+              "name": "menthol 100 MG/ML / methyl salicylate 50 MG/ML Topical Spray",
+              "synonym": "menthol 10 % / methyl salicylate 5 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1876751",
+              "name": "capsaicin 0.000375 MG/MG / lidocaine 0.04 MG/MG / menthol 0.1 MG/MG / methyl salicylate 0.2 MG/MG Topical Ointment",
+              "synonym": "capsaicin 0.0375 % / lidocaine 4 % / menthol 10 % / methyl salicylate 20 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1921129",
+              "name": "capsaicin 0.02 MG/ML / menthol 100 MG/ML / methyl salicylate 200 MG/ML Topical Cream",
+              "synonym": "capsaicin 0.002 % / menthol 10 % / methyl salicylate 20 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1923329",
+              "name": "capsaicin 0.00025 MG/MG / methyl salicylate 0.125 MG/MG Topical Ointment",
+              "synonym": "capsaicin 0.025 % / methyl salicylate 12.5 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1940367",
+              "name": "menthol 50 MG/ML / methyl salicylate 100 MG/ML Topical Cream",
+              "synonym": "menthol 5 % / methyl salicylate 10 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1946577",
+              "name": "capsaicin 0.3 MG/ML / menthol 30 MG/ML / methyl salicylate 100 MG/ML Topical Cream",
+              "synonym": "capsaicin 0.03 % / menthol 3 % / methyl salicylate 10 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1947261",
+              "name": "histamine dihydrochloride 0.5 MG/ML / menthol 100 MG/ML / methyl salicylate 100 MG/ML Topical Cream",
+              "synonym": "histamine dihydrochloride 0.050 % / menthol 10 % / methyl salicylate 10 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198752",
+              "name": "methyl salicylate 100 MG/ML Topical Lotion",
+              "synonym": "methyl salicylate 10 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1989491",
+              "name": "capsaicin 0.25 MG/ML / menthol 60 MG/ML / methyl salicylate 250 MG/ML Topical Solution",
+              "synonym": "capsaicin 0.025 % / menthol 6 % / methyl salicylate 25 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1990875",
+              "name": "camphor 0.031 MG/MG / menthol 0.156 MG/MG / methyl salicylate 0.207 MG/MG Topical Ointment",
+              "synonym": "camphor 3.1 % / menthol 15.6 % / methyl salicylate 20.7 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1998770",
+              "name": "camphor 40 MG/ML / menthol 75 MG/ML / methyl salicylate 100 MG/ML Topical Cream",
+              "synonym": "camphor 4 % / menthol 7.5 % / methyl salicylate 10 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2001686",
+              "name": "capsaicin 0.000375 MG/MG / lidocaine 0.04 MG/MG / menthol 0.05 MG/MG / methyl salicylate 0.2 MG/MG Medicated Patch",
+              "synonym": "capsaicin 0.0375 % / lidocaine 4 % / menthol 5 % / methyl salicylate 20 % Medicated Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2001745",
+              "name": "capsaicin 0.000375 MG/MG / lidocaine 0.005 MG/MG / menthol 0.05 MG/MG / methyl salicylate 0.2 MG/MG Medicated Patch",
+              "synonym": "capsaicin 0.0375 % / lidocaine 0.5 % / menthol 5 % / methyl salicylate 20 % Medicated Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2001749",
+              "name": "capsaicin 0.000375 MG/MG / menthol 0.05 MG/MG / methyl salicylate 0.2 MG/MG Topical Ointment",
+              "synonym": "capsaicin 0.0375 % / menthol 5 % / methyl salicylate 20 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2002730",
+              "name": "menthol 0.16 MG/MG / methyl salicylate 0.32 MG/MG Topical Ointment",
+              "synonym": "menthol 16 % / methyl salicylate 32 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2003378",
+              "name": "camphor 40 MG/ML / capsaicin 2.5 MG/ML / menthol 70 MG/ML / methyl salicylate 450 MG/ML Topical Oil",
+              "synonym": "camphor 4 % / capsaicin 0.25 % / menthol 7 % / methyl salicylate 45 % Topical Oil",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2043919",
+              "name": "menthol 0.08 MG/MG / methyl salicylate 0.16 MG/MG Topical Gel",
+              "synonym": "menthol 8 % / methyl salicylate 16 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2047884",
+              "name": "camphor 70 MG/ML / menthol 160 MG/ML / methyl salicylate 250 MG/ML Topical Spray",
+              "synonym": "camphor 7 % / menthol 16 % / methyl salicylate 25 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2048953",
+              "name": "menthol 80 MG/ML / methyl salicylate 260 MG/ML Topical Oil",
+              "synonym": "menthol 8 % / methyl salicylate 26 % Topical Oil",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2049725",
+              "name": "camphor 31 MG/ML / capsaicin 0.25 MG/ML / menthol 100 MG/ML / methyl salicylate 150 MG/ML Topical Cream",
+              "synonym": "camphor 3.1 % / capsaicin 0.025 % / menthol 10 % / methyl salicylate 15 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2054076",
+              "name": "menthol 0.04 MG/MG / methyl salicylate 0.005 MG/MG Medicated Patch",
+              "synonym": "menthol 4 % / methyl salicylate 0.5 % Medicated Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2056459",
+              "name": "camphor 0.059 MG/MG / menthol 0.008 MG/MG / methyl salicylate 0.046 MG/MG Topical Gel",
+              "synonym": "camphor 5.9 % / menthol 0.8 % / methyl salicylate 4.6 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2101502",
+              "name": "camphor oil 40 MG/ML / Capsicum oleoresin 2.5 MG/ML / menthol 80 MG/ML / methyl salicylate 200 MG/ML Topical Oil",
+              "synonym": "camphor oil 4 % / Capsicum oleoresin 0.25 % / menthol 8 % / methyl salicylate 20 % Topical Oil",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2102942",
+              "name": "camphor 5560 MG / levomenthol 2550 MG / methyl salicylate 28100 MG Medicated Patch",
+              "synonym": "camphor 1.21 % / L-menthol 5.54 % / methyl salicylate 6.11 % Medicated Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2105550",
+              "name": "menthol 50 MG/ML / methyl salicylate 100 MG/ML Topical Lotion",
+              "synonym": "menthol 5 % / methyl salicylate 10 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2107511",
+              "name": "capsaicin 0.00025 MG/MG / lidocaine 0.04 MG/MG / menthol 0.05 MG/MG / methyl salicylate 0.2 MG/MG Medicated Patch",
+              "synonym": "capsaicin 0.025 % / lidocaine 4 % / menthol 5 % / methyl salicylate 20 % Medicated Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2121931",
+              "name": "camphor 0.012 MG/MG / lidocaine 0.04 MG/MG / menthol 0.03 MG/MG / methyl salicylate 0.09 MG/MG Medicated Patch",
+              "synonym": "camphor 1.2 % / lidocaine 4 % / menthol 3 % / methyl salicylate 9 % Medicated Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2123377",
+              "name": "camphor 0.03 MG/MG / menthol 0.03 MG/MG / methyl salicylate 0.1 MG/MG Topical Gel",
+              "synonym": "camphor 3 % / menthol 3 % / methyl salicylate 10 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2198968",
+              "name": "menthol 0.0125 MG/MG / methyl salicylate 0.1 MG/MG Topical Gel",
+              "synonym": "menthol 1.25 % / methyl salicylate 10 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2260507",
+              "name": "methyl salicylate 0.12 MG/MG Topical Ointment",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2260510",
+              "name": "methyl salicylate 0.15 MG/MG Topical Ointment",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2261404",
+              "name": "menthol 0.11 MG/MG / methyl salicylate 0.22 MG/MG Topical Ointment",
+              "synonym": "menthol 11 % / methyl salicylate 22 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2268066",
+              "name": "camphor 60 MG/ML / menthol 60 MG/ML / methyl salicylate 150 MG/ML Topical Cream",
+              "synonym": "camphor 6 % / menthol 6 % / methyl salicylate 15 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2287556",
+              "name": "camphor 0.02 MG/MG / lidocaine 0.025 MG/MG / methyl salicylate 0.04 MG/MG Medicated Patch",
+              "synonym": "camphor 2 % / lidocaine 2.5 % / methyl salicylate 4 % Medicated Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2370911",
+              "name": "camphor 0.11 MG/MG / menthol 0.16 MG/MG / methyl salicylate 0.3 MG/MG Topical Ointment",
+              "synonym": "camphor 11 % / menthol 16 % / methyl salicylate 30 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2372438",
+              "name": "camphor 50 MG/ML / menthol 80 MG/ML / methyl salicylate 100 MG/ML Topical Oil",
+              "synonym": "camphor 5 % / menthol 8 % / methyl salicylate 10 % Topical Oil",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "238542",
+              "name": "methyl salicylate 250 MG/ML Topical Cream",
+              "synonym": "methyl salicylate 25 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2462015",
+              "name": "camphor 100 MG/ML / menthol 150 MG/ML / methyl salicylate 480 MG/ML Topical Oil",
+              "synonym": "camphor 10 % / menthol 15 % / methyl salicylate 48 % Topical Oil",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2468738",
+              "name": "methyl salicylate 250 MG/ML Topical Oil",
+              "synonym": "methyl salicylate 25 % Topical Oil",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2473373",
+              "name": "camphor 0.02 MG/MG / lidocaine 0.04 MG/MG / methyl salicylate 0.04 MG/MG Medicated Patch",
+              "synonym": "camphor 2 % / lidocaine 4 % / methyl salicylate 4 % Medicated Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2477536",
+              "name": "camphor 50 MG/ML / methyl salicylate 500 MG/ML Topical Oil",
+              "synonym": "camphor 5 % / methyl salicylate 50 % Topical Oil",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2534482",
+              "name": "methyl salicylate 100 MG/ML Topical Solution",
+              "synonym": "methyl salicylate 10 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2535738",
+              "name": "camphor 100 MG/ML / menthol 80 MG/ML / methyl salicylate 250 MG/ML Topical Spray",
+              "synonym": "camphor 10 % / menthol 8 % / methyl salicylate 25 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2536330",
+              "name": "methyl salicylate 0.1 MG/MG Topical Ointment",
+              "synonym": "methyl salicylate 10 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2560737",
+              "name": "menthol 140 MG/ML / methyl salicylate 150 MG/ML Topical Oil",
+              "synonym": "menthol 14 % / methyl salicylate 15 % Topical Oil",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2566838",
+              "name": "methyl salicylate 0.01 MG/MG Medicated Patch",
+              "synonym": "methyl salicylate 1 % Medicated Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2568113",
+              "name": "camphor 96 MG / levomenthol 76.8 MG / methyl salicylate 57.6 MG Medicated Patch",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2585453",
+              "name": "Capsicum extract 1.3 MG/ML / menthol 50 MG/ML / methyl salicylate 105 MG/ML Topical Cream",
+              "synonym": "capsicum extract 0.13 % / menthol 5 % / methyl salicylate 10.5 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2589084",
+              "name": "menthol 30 MG/ML / methyl salicylate 100 MG/ML Topical Lotion",
+              "synonym": "menthol 3 % / methyl salicylate 10 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "259102",
+              "name": "menthol 120 MG/ML / methyl salicylate 170 MG/ML Topical Cream",
+              "synonym": "menthol 12 % / methyl salicylate 17 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "259203",
+              "name": "menthol 10 MG/ML / methyl salicylate 150 MG/ML Topical Cream",
+              "synonym": "menthol 1 % / methyl salicylate 15 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "259328",
+              "name": "methyl salicylate 400 MG/ML Topical Oil",
+              "synonym": "methyl salicylate 40 % Topical Oil",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2610291",
+              "name": "camphor 31 MG/ML / menthol 50 MG/ML / methyl salicylate 115 MG/ML Topical Solution",
+              "synonym": "camphor 3.1 % / menthol 5 % / methyl salicylate 11.5 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2623473",
+              "name": "lidocaine 0.04 MG/MG / menthol 0.01 MG/MG / methyl salicylate 0.02 MG/MG Medicated Patch",
+              "synonym": "lidocaine 4 % / menthol 1 % / methyl salicylate 2 % Medicated Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2629983",
+              "name": "camphor 30 MG/ML / menthol 80 MG/ML / methyl salicylate 150 MG/ML Topical Foam",
+              "synonym": "camphor 3 % / menthol 8 % / methyl salicylate 15 % Topical Foam",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2629984",
+              "name": "camphor 30 MG/ML / menthol 80 MG/ML / methyl salicylate 100 MG/ML Topical Foam",
+              "synonym": "camphor 3 % / menthol 8 % / methyl salicylate 10 % Topical Foam",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2629985",
+              "name": "camphor 110 MG/ML / menthol 160 MG/ML / methyl salicylate 250 MG/ML Topical Spray",
+              "synonym": "camphor 11 % / menthol 16 % / methyl salicylate 25 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2636732",
+              "name": "methyl salicylate 0.02 MG/MG Topical Ointment",
+              "synonym": "methyl salicylate 2 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2637881",
+              "name": "camphor 50 MG/ML / menthol 160 MG/ML / methyl salicylate 300 MG/ML Topical Oil",
+              "synonym": "camphor 5 % / menthol 16 % / methyl salicylate 30 % Topical Oil",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2640874",
+              "name": "capsaicin 0.00025 MG/MG / menthol 0.1 MG/MG / methyl salicylate 0.1 MG/MG / methylnicotinate 0.0025 MG/MG Medicated Patch",
+              "synonym": "capsaicin 0.025 % / menthol 10 % / methyl salicylate 10 % / methylnicotinate 0.25 % Medicated Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2642205",
+              "name": "menthol 0.135 MG/MG / methyl salicylate 0.3 MG/MG Topical Ointment",
+              "synonym": "menthol 13.5 % / methyl salicylate 30 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2644111",
+              "name": "capsaicin 0.3 MG/ML / menthol 10 MG/ML / methyl salicylate 100 MG/ML Topical Cream",
+              "synonym": "capsaicin 0.03 % / menthol 1 % / methyl salicylate 10 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2668189",
+              "name": "camphor 0.04 MG/MG / methyl salicylate 0.1 MG/MG Topical Ointment",
+              "synonym": "camphor 4 % / methyl salicylate 10 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2668420",
+              "name": "methyl salicylate 400 MG/ML Topical Cream",
+              "synonym": "methyl salicylate 40 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2669659",
+              "name": "camphor 0.005 MG/MG / levomenthol 0.004 MG/MG / methyl salicylate 0.008 MG/MG Medicated Patch",
+              "synonym": "camphor 0.5 % / levomenthol 0.4 % / methyl salicylate 0.8 % Medicated Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2670391",
+              "name": "menthol 0.035 MG/MG / methyl salicylate 0.1 MG/MG Topical Ointment",
+              "synonym": "menthol 3.5 % / methyl salicylate 10 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2670392",
+              "name": "camphor 0.035 MG/MG / menthol 0.03 MG/MG / methyl salicylate 0.1 MG/MG Topical Ointment",
+              "synonym": "camphor 3.5 % / menthol 3 % / methyl salicylate 10 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2671957",
+              "name": "capsaicin 0.012 MG/ML / methyl salicylate 6.1 MG/ML Topical Solution",
+              "synonym": "capsaicin 0.0012 % / methyl salicylate 0.61 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2672330",
+              "name": "camphor 0.108 MG/MG / Eucalyptus oil 0.07 MG/MG / menthol 0.11 MG/MG / methyl salicylate 0.002 MG/MG Topical Ointment",
+              "synonym": "camphor 10.8 % / eucalyptus oil 7 % / menthol 11 % / methyl salicylate 0.2 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2672333",
+              "name": "camphor 108 MG/ML / Eucalyptus oil 70 MG/ML / menthol 110 MG/ML / methyl salicylate 2 MG/ML Topical Oil",
+              "synonym": "camphor 10.8 % / eucalyptus oil 7 % / menthol 11 % / methyl salicylate 0.2 % Topical Oil",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2672725",
+              "name": "camphor 50 MG/ML / menthol 60 MG/ML / methyl salicylate 100 MG/ML Topical Lotion",
+              "synonym": "camphor 5 % / menthol 6 % / methyl salicylate 10 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2673206",
+              "name": "camphor 30 MG/ML / menthol 30 MG/ML / methyl salicylate 100 MG/ML Topical Cream",
+              "synonym": "camphor 3 % / menthol 3 % / methyl salicylate 10 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2675022",
+              "name": "lidocaine 0.04 MG/MG / menthol 0.005 MG/MG / methyl salicylate 0.001 MG/MG Medicated Patch",
+              "synonym": "lidocaine 4 % / menthol 0.5 % / methyl salicylate 0.1 % Medicated Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2675887",
+              "name": "menthol 0.125 MG/MG / methyl salicylate 0.125 MG/MG Topical Ointment",
+              "synonym": "menthol 12.5 % / methyl salicylate 12.5 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2684042",
+              "name": "menthol 28.4 MG/ML / methyl salicylate 182 MG/ML Topical Cream",
+              "synonym": "menthol 2.84 % / methyl salicylate 18.24 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2688458",
+              "name": "camphor 0.06 MG/MG / menthol 0.019 MG/MG / methyl salicylate 0.1 MG/MG Topical Ointment",
+              "synonym": "camphor 6 % / menthol 1.9 % / methyl salicylate 10 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2689786",
+              "name": "camphor 0.03 MG/MG / menthol 0.1 MG/MG / methyl salicylate 0.25 MG/MG Topical Ointment",
+              "synonym": "camphor 3 % / menthol 10 % / methyl salicylate 25 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2691549",
+              "name": "camphor 0.11 MG/MG / Eucalyptus oil 0.1 MG/MG / menthol 0.08 MG/MG / methyl salicylate 0.1 MG/MG Topical Ointment",
+              "synonym": "camphor 11 % / eucalyptus oil 10 % / menthol 8 % / methyl salicylate 10 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2691831",
+              "name": "camphor 0.03 MG/MG / menthol 0.035 MG/MG / methyl salicylate 0.1 MG/MG Topical Ointment",
+              "synonym": "camphor 3 % / menthol 3.5 % / methyl salicylate 10 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2698214",
+              "name": "menthol 40 MG/ML / methyl salicylate 100 MG/ML Topical Cream",
+              "synonym": "menthol 4 % / methyl salicylate 10 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2704558",
+              "name": "methyl salicylate 0.25 MG/MG Medicated Patch",
+              "synonym": "methyl salicylate 25 % Medicated Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2704846",
+              "name": "diclofenac sodium 0.01 MG/MG / methyl salicylate 0.05 MG/MG Topical Ointment",
+              "synonym": "diclofenac sodium 1 % / methyl salicylate 5 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2709211",
+              "name": "camphor 0.05 MG/MG / menthol 0.1 MG/MG / methyl salicylate 0.235 MG/MG Topical Ointment",
+              "synonym": "camphor 5 % / menthol 10 % / methyl salicylate 23.5 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2711803",
+              "name": "menthol 0.02 MG/MG / methyl salicylate 0.1 MG/MG Topical Gel",
+              "synonym": "menthol 2 % / methyl salicylate 10 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2717562",
+              "name": "camphor 0.012 MG/MG / levomenthol 0.057 MG/MG / methyl salicylate 0.063 MG/MG Medicated Patch",
+              "synonym": "camphor 1.2 % / levomenthol 5.7 % / methyl salicylate 6.3 % Medicated Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2719838",
+              "name": "methyl salicylate 105 MG/ML Topical Oil",
+              "synonym": "methyl salicylate 10.5 % Topical Oil",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2721932",
+              "name": "menthol 0.122 MG/MG / methyl salicylate 0.247 MG/MG Topical Ointment",
+              "synonym": "menthol 12.22 % / methyl salicylate 24.66 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "282574",
+              "name": "camphor 0.02 MG/MG / Eucalyptus oil 0.05 MG/MG / methyl salicylate 0.02 MG/MG Topical Ointment",
+              "synonym": "camphor 2 % / eucalyptus oil 5 % / methyl salicylate 2 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "282575",
+              "name": "camphor 20 MG/ML / menthol 10 MG/ML / methyl salicylate 49 MG/ML Topical Lotion",
+              "synonym": "camphor 2 % / menthol 1 % / methyl salicylate 4.9 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "282810",
+              "name": "menthol 0.1 MG/MG / methyl salicylate 0.15 MG/MG Topical Gel",
+              "synonym": "menthol 10 % / methyl salicylate 15 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "282812",
+              "name": "menthol 60 MG/ML / methyl salicylate 200 MG/ML Topical Lotion",
+              "synonym": "menthol 6 % / methyl salicylate 20 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "282838",
+              "name": "camphor 0.031 MG/MG / menthol 0.16 MG/MG / methyl salicylate 0.1 MG/MG Topical Gel",
+              "synonym": "camphor 3.1 % / menthol 16 % / methyl salicylate 10 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "282842",
+              "name": "iodine 0.06 MG/MG / methyl salicylate 0.048 MG/MG Topical Ointment",
+              "synonym": "iodine 6 % / methyl salicylate 4.8 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "283083",
+              "name": "camphor 40 MG/ML / menthol 100 MG/ML / methyl salicylate 300 MG/ML Topical Cream",
+              "synonym": "camphor 4 % / menthol 10 % / methyl salicylate 30 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "283119",
+              "name": "guaiacol 0.02 MG/MG / methyl salicylate 0.08 MG/MG Topical Ointment",
+              "synonym": "guaiacol 2 % / methyl salicylate 8 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "283202",
+              "name": "camphor 36 MG/ML / Capsicum extract 2.5 MG/ML / methyl salicylate 150 MG/ML Topical Solution",
+              "synonym": "camphor 3.6 % / capsicum extract 0.25 % / methyl salicylate 15 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "283224",
+              "name": "capsaicin 0.25 MG/ML / menthol 10 MG/ML / methyl salicylate 120 MG/ML Topical Cream",
+              "synonym": "capsaicin 0.025 % / menthol 1 % / methyl salicylate 12 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "283270",
+              "name": "capsaicin 0.25 MG/ML / menthol 100 MG/ML / methyl salicylate 150 MG/ML Topical Cream",
+              "synonym": "capsaicin 0.025 % / menthol 10 % / methyl salicylate 15 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "283691",
+              "name": "menthol 0.0125 MG/MG / methyl salicylate 0.3 MG/MG / methylnicotinate 0.0025 MG/MG Topical Gel",
+              "synonym": "menthol 1.25 % / methyl salicylate 30 % / methylnicotinate 0.25 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "311498",
+              "name": "menthol 100 MG/ML / methyl salicylate 150 MG/ML Topical Cream",
+              "synonym": "menthol 10 % / methyl salicylate 15 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "311499",
+              "name": "menthol 0.1 MG/MG / methyl salicylate 0.15 MG/MG Topical Ointment",
+              "synonym": "menthol 10 % / methyl salicylate 15 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "311500",
+              "name": "menthol 100 MG/ML / methyl salicylate 300 MG/ML Topical Cream",
+              "synonym": "menthol 10 % / methyl salicylate 30 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "311503",
+              "name": "menthol 20 MG/ML / methyl salicylate 100 MG/ML Topical Cream",
+              "synonym": "menthol 2 % / methyl salicylate 10 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "311504",
+              "name": "menthol 0.02 MG/MG / methyl salicylate 0.1 MG/MG Topical Ointment",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "311510",
+              "name": "menthol 0.076 MG/MG / methyl salicylate 0.29 MG/MG Topical Ointment",
+              "synonym": "menthol 7.6 % / methyl salicylate 29 % Topical Salve",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "311511",
+              "name": "menthol 80 MG/ML / methyl salicylate 300 MG/ML Topical Cream",
+              "synonym": "menthol 8 % / methyl salicylate 30 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "311573",
+              "name": "methacholine 0.0025 MG/MG / methyl salicylate 0.1 MG/MG Topical Ointment",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "311635",
+              "name": "methyl salicylate 100 MG/ML Topical Cream",
+              "synonym": "methyl salicylate 10 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "311636",
+              "name": "methyl salicylate 0.3 MG/MG Topical Ointment",
+              "synonym": "methyl salicylate 30 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "616463",
+              "name": "isopropyl alcohol 0.7 ML/ML / methyl salicylate 4 MG/ML Topical Solution",
+              "synonym": "isopropyl alcohol 70 % / methyl salicylate 0.4 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "672562",
+              "name": "menthol 0.06 MG/MG / methyl salicylate 0.14 MG/MG Topical Ointment",
+              "synonym": "menthol 6 % / methyl salicylate 14 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "686422",
+              "name": "menthol 40 MG/ML / methyl salicylate 250 MG/ML Topical Cream",
+              "synonym": "menthol 4 % / methyl salicylate 25 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "702001",
+              "name": "menthol 12.5 MG/ML / methyl salicylate 300 MG/ML / methylnicotinate 2.5 MG/ML Topical Cream",
+              "synonym": "menthol 1.25 % / methyl salicylate 30 % / methylnicotinate 0.25 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "702433",
+              "name": "menthol 30 MG/ML / methyl salicylate 150 MG/ML Topical Lotion",
+              "synonym": "menthol 3 % / methyl salicylate 15 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "744832",
+              "name": "menthol 20 MG/ML / methyl salicylate 5 MG/ML Topical Cream",
+              "synonym": "menthol 2 % / methyl salicylate 0.5 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "761913",
+              "name": "camphor 10 MG/ML / menthol 120 MG/ML / methyl salicylate 200 MG/ML Topical Spray",
+              "synonym": "Camphor 1 % / Menthol 12 % / methyl salicylate 20 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "761922",
+              "name": "camphor 0.01 MG/MG / menthol 0.12 MG/MG / methyl salicylate 0.2 MG/MG Topical Ointment",
+              "synonym": "camphor 1 % / menthol 12 % / methyl salicylate 20 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "801678",
+              "name": "menthol 160 MG/ML / methyl salicylate 300 MG/ML Topical Cream",
+              "synonym": "menthol 16 % / methyl salicylate 30 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "804532",
+              "name": "menthol 50 MG/ML / methyl salicylate 140 MG/ML Topical Solution",
+              "synonym": "menthol 5 % / methyl salicylate 14 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "849499",
+              "name": "menthol 160 MG/ML / methyl salicylate 280 MG/ML Topical Solution",
+              "synonym": "menthol 16 % / methyl salicylate 28 % Topical Liniment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "849504",
+              "name": "camphor 30 MG/ML / menthol 50 MG/ML / methyl salicylate 150 MG/ML Topical Cream",
+              "synonym": "camphor 3 % / menthol 5 % / methyl salicylate 15 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "853124",
+              "name": "menthol 0.085 MG/MG / methyl salicylate 0.105 MG/MG Medicated Patch",
+              "synonym": "menthol 8.5 % / methyl salicylate 10.5 % Medicated Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "853146",
+              "name": "menthol 0.03 MG/MG / methyl salicylate 0.1 MG/MG Medicated Patch",
+              "synonym": "menthol 3 % / methyl salicylate 10 % Medicated Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "853260",
+              "name": "camphor 0.012 MG/MG / menthol 0.057 MG/MG / methyl salicylate 0.063 MG/MG Medicated Patch",
+              "synonym": "camphor 1.2 % / menthol 5.7 % / methyl salicylate 6.3 % Medicated Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "860825",
+              "name": "camphor 50 MG/ML / menthol 40 MG/ML / methyl salicylate 100 MG/ML Topical Lotion",
+              "synonym": "camphor 5 % / menthol 4 % / methyl salicylate 10 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "860914",
+              "name": "capsaicin 0.375 MG/ML / menthol 100 MG/ML / methyl salicylate 300 MG/ML Topical Lotion",
+              "synonym": "capsaicin 0.0375 % / menthol 10 % / methyl salicylate 30 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "866404",
+              "name": "capsaicin 0.5 MG/ML / menthol 100 MG/ML / methyl salicylate 200 MG/ML Topical Lotion",
+              "synonym": "capsaicin 0.05 % / menthol 10 % / methyl salicylate 20 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:41:40.760160",
+  "source": "RxNorm"
+}

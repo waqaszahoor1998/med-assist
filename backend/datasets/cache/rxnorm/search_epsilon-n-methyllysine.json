@@ -1,0 +1,10 @@
+{
+  "query": "Epsilon-N-methyllysine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T01:38:24.608371",
+  "source": "RxNorm"
+}

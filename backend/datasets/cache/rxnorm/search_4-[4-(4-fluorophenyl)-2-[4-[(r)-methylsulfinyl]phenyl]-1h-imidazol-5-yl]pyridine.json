@@ -1,0 +1,10 @@
+{
+  "query": "4-[4-(4-Fluorophenyl)-2-[4-[(R)-methylsulfinyl]phenyl]-1H-imidazol-5-yl]pyridine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:56:19.770061",
+  "source": "RxNorm"
+}

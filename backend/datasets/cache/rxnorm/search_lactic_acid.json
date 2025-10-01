@@ -1,0 +1,446 @@
+{
+  "query": "Lactic acid",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1301694",
+              "name": "{1 (50000 MG) (halobetasol propionate 0.5 MG/ML Topical Cream) / 1 (225000 MG) (lactic acid 100 MG/ML Topical Cream) } Pack [Ultravate X Cream]",
+              "synonym": "Ultravate X Cream Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1301696",
+              "name": "{1 (50000 MG) (halobetasol propionate 0.0005 MG/MG Topical Ointment) / 1 (225000 MG) (lactic acid 100 MG/ML Topical Cream) } Pack [Ultravate X Ointment]",
+              "synonym": "Ultravate X Ointment Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1301693",
+              "name": "{1 (50000 MG) (halobetasol propionate 0.5 MG/ML Topical Cream) / 1 (225000 MG) (lactic acid 100 MG/ML Topical Cream) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1301695",
+              "name": "{1 (50000 MG) (halobetasol propionate 0.0005 MG/MG Topical Ointment) / 1 (225000 MG) (lactic acid 100 MG/ML Topical Cream) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1094068",
+              "name": "dodecylbenzenesulfonic acid 16 MG/ML / lactic acid 25 MG/ML Topical Solution [Valiant Barrier]",
+              "synonym": "Valiant Barrier (dodecylbenzenesulfonic acid 1.6 % / lactic acid 2.5 % ) Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1293603",
+              "name": "lactic acid 50 MG/ML Topical Solution [Dermaplex]",
+              "synonym": "Dermaplex 5 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1423479",
+              "name": "heptanoic acid 3 MG/ML / lactic acid 14 MG/ML Topical Solution [Valiant Shield]",
+              "synonym": "Valiant Shield (heptanoic acid 0.3 % / lactic acid 1.4 % ) Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1536549",
+              "name": "lactic acid 25 MG/ML Topical Solution [4XLA Activator]",
+              "synonym": "4XLA Activator 2.5 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1546204",
+              "name": "hydrogen peroxide 5 MG/ML / lactic acid 17 MG/ML Topical Spray [Astri-UC]",
+              "synonym": "Astri-UC (hydrogen peroxide 0.5 % / lactic acid 1.7 % ) Topical Spray",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "212645",
+              "name": "lactic acid 50 MG/ML Topical Lotion [Lacticare]",
+              "synonym": "Lacticare 5 % Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "213279",
+              "name": "lactic acid 20 MG/ML / urea 100 MG/ML Topical Lotion [U-Lactin]",
+              "synonym": "U-Lactin (lactic acid 2 % / urea 10 % ) Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2385353",
+              "name": "citric acid 0.01 MG/MG / lactic acid 0.018 MG/MG / potassium bitartrate 0.004 MG/MG Vaginal Gel [Phexxi]",
+              "synonym": "Phexxi (lactic acid 1.8 % / citric acid 1 % / potassium bitartrate 0.4 % ) Vaginal Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2700386",
+              "name": "citric acid 0.01 MG/MG / lactic acid 0.018 MG/MG / potassium bitartrate 0.004 MG/MG Vaginal Gel [Phexx]",
+              "synonym": "Phexx 1.8 % / 1 % / 0.4 % Vaginal Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "807012",
+              "name": "lactic acid 25 MG/ML / urea 50 MG/ML Topical Lotion [Atrac-Tain]",
+              "synonym": "Atrac-Tain 5 % Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "807016",
+              "name": "lactic acid 40 MG/ML / urea 100 MG/ML Topical Cream [Atrac-Tain]",
+              "synonym": "Atrac-Tain 10 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "885109",
+              "name": "lactic acid 50 MG/ML Topical Lotion [Lac-Hydrin]",
+              "synonym": "Lac-Hydrin Five 5 % Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "904429",
+              "name": "lactic acid 100 MG/ML Topical Cream [Lactinol]",
+              "synonym": "Lactinol-E 10 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "991326",
+              "name": "hydrogen peroxide 5 MG/ML / lactic acid 17 MG/ML Topical Solution [Pur-Oxy]",
+              "synonym": "Pur-Oxy Teat Dip (hydrogen peroxide 0.5 % / lactic acid 1.7 % ) Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "993261",
+              "name": "benzenesulfonic acid 5 MG/ML / hydrogen peroxide 5 MG/ML / lactic acid 17 MG/ML Topical Solution [Oxy Gard]",
+              "synonym": "Oxy Gard (benzenesulfonic acid 0.5 % / hydrogen peroxide 0.5 % / lactic acid 1.7 % ) Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "106200",
+              "name": "lactic acid 50 MG/ML / urea 100 MG/ML Topical Cream",
+              "synonym": "lactic acid 5 % / urea 10 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "108926",
+              "name": "lactic acid 0.25 MG/MG / salicylic acid 0.25 MG/MG Topical Ointment",
+              "synonym": "lactic acid 25 % / salicylic acid 25 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1094064",
+              "name": "dodecylbenzenesulfonic acid 16 MG/ML / lactic acid 25 MG/ML Topical Solution",
+              "synonym": "dodecylbenzenesulfonic acid 1.6 % / lactic acid 2.5 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1252021",
+              "name": "dodecylbenzenesulfonic acid 5 MG/ML / hydrogen peroxide 5 MG/ML / lactic acid 17 MG/ML Topical Solution",
+              "synonym": "dodecylbenzenesulfonic acid 0.5 % / hydrogen peroxide 0.5 % / lactic acid 1.7 % Topical Dip and Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1293598",
+              "name": "lactic acid 50 MG/ML Topical Solution",
+              "synonym": "lactic acid 5 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1371989",
+              "name": "iodine 2.5 MG/ML / lactic acid 20 MG/ML Topical Solution",
+              "synonym": "iodine 0.25 % / lactic acid 2 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1421080",
+              "name": "dodecylbenzenesulfonic acid 16 MG/ML / lactic acid 95 MG/ML Topical Solution",
+              "synonym": "dodecylbenzenesulfonic acid 1.6 % / lactic acid 9.5 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1423474",
+              "name": "heptanoic acid 3 MG/ML / lactic acid 14 MG/ML Topical Solution",
+              "synonym": "heptanoic acid 0.3 % / lactic acid 1.4 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1536544",
+              "name": "lactic acid 25 MG/ML Topical Solution",
+              "synonym": "lactic acid 2.5 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1546202",
+              "name": "hydrogen peroxide 5 MG/ML / lactic acid 17 MG/ML Topical Spray",
+              "synonym": "hydrogen peroxide 0.5 % / lactic acid 1.7 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1653440",
+              "name": "lactic acid 22 MG/ML / salicylic acid 1 MG/ML Topical Solution",
+              "synonym": "lactic acid 2.2 % / salicylic acid 0.1 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1747301",
+              "name": "hydrogen peroxide 100 MG/ML / lactic acid 50 MG/ML Topical Solution",
+              "synonym": "hydrogen peroxide 10 % / lactic acid 5 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "205248",
+              "name": "lactic acid 20 MG/ML / urea 100 MG/ML Topical Lotion",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2385348",
+              "name": "citric acid 0.01 MG/MG / lactic acid 0.018 MG/MG / potassium bitartrate 0.004 MG/MG Vaginal Gel",
+              "synonym": "lactic acid 1.8 % / citric acid 1 % / potassium bitartrate 0.4 % Vaginal Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "244534",
+              "name": "lactic acid 0.167 MG/MG / salicylic acid 0.167 MG/MG Topical Gel",
+              "synonym": "lactic acid 16.7 % / salicylic acid 16.7 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "248332",
+              "name": "lactic acid 100 MG/ML Topical Cream",
+              "synonym": "lactic acid 10 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "250816",
+              "name": "lactic acid 0.04 MG/MG / salicylic acid 0.12 MG/MG Topical Gel",
+              "synonym": "lactic acid 4 % / salicylic acid 12 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "259021",
+              "name": "glycolate 120 MG/ML / lactic acid 60 MG/ML Topical Cream",
+              "synonym": "glycolic acid 12 % / lactic acid 6 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "283279",
+              "name": "lactic acid 140 MG/ML / resorcinol 140 MG/ML / salicylic acid 140 MG/ML Topical Solution",
+              "synonym": "lactic acid 14 % / resorcinol 14 % / salicylic acid 14 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "311249",
+              "name": "lactic acid 100 MG/ML Topical Lotion",
+              "synonym": "lactic acid 10 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "311250",
+              "name": "lactic acid 167 MG/ML / salicylic acid 167 MG/ML Topical Solution",
+              "synonym": "lactic acid 16.7 % / salicylic acid 16.7 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "311254",
+              "name": "lactic acid 50 MG/ML Topical Lotion",
+              "synonym": "lactic acid 5 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "607229",
+              "name": "lactic acid 120 MG/ML Topical Lotion",
+              "synonym": "lactic acid 12 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "807008",
+              "name": "lactic acid 25 MG/ML / urea 50 MG/ML Topical Lotion",
+              "synonym": "lactic acid 2.5 % / urea 5 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "807013",
+              "name": "lactic acid 40 MG/ML / urea 100 MG/ML Topical Cream",
+              "synonym": "lactic acid 4 % / urea 10 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "991277",
+              "name": "hydrogen peroxide 5 MG/ML / lactic acid 17 MG/ML Topical Solution",
+              "synonym": "hydrogen peroxide 0.5 % / lactic acid 1.7 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "993253",
+              "name": "benzenesulfonic acid 5 MG/ML / hydrogen peroxide 5 MG/ML / lactic acid 17 MG/ML Topical Solution",
+              "synonym": "benzenesulfonic acid 0.5 % / hydrogen peroxide 0.5 % / lactic acid 1.7 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T15:22:52.352716",
+  "source": "RxNorm"
+}

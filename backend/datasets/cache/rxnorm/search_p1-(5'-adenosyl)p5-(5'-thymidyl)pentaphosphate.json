@@ -1,0 +1,10 @@
+{
+  "query": "p1-(5'-adenosyl)p5-(5'-thymidyl)pentaphosphate",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:34:57.451179",
+  "source": "RxNorm"
+}

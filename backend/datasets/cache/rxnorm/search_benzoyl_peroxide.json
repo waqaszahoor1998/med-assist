@@ -1,0 +1,1472 @@
+{
+  "query": "Benzoyl peroxide",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1493510",
+              "name": "{1 (28000 MG) (benzoyl peroxide 0.05 MG/MG Topical Gel [Clear Proof Acne Treatment]) / 1 (127000 MG) (salicylic acid 20 MG/ML Medicated Liquid Soap [Clear Proof Acne Medication]) / 1 (147 ML) (salicylic acid 20 MG/ML Topical Solution [Clear Proof Acne Medication]) } Pack [Clear Proof Acne System]",
+              "synonym": "Clear Proof Acne System Kit",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1493512",
+              "name": "{1 (3000 MG) (benzoyl peroxide 0.05 MG/MG Topical Gel [Clear Proof Acne Treatment]) / 1 (28000 MG) (salicylic acid 20 MG/ML Medicated Liquid Soap [Clear Proof Acne Medication]) / 1 (26 ML) (salicylic acid 20 MG/ML Topical Solution [Clear Proof Acne Medication]) } Pack [Clear Proof Acne To-Go System]",
+              "synonym": "Clear Proof Acne To-Go System Kit",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "883810",
+              "name": "{30 (benzoyl peroxide 40 MG/ML Medicated Pad) / 30 (salicylic acid 10 MG/ML Medicated Pad) } Pack [Inova 4/1]",
+              "synonym": "Inova 4 % -1 % Medicated Pad",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "999477",
+              "name": "{1 (benzoyl peroxide 50 MG/ML Medicated Pad) / 1 (salicylic acid 20 MG/ML Medicated Pad) } Pack [Cleanse and Treat]",
+              "synonym": "Cleanse and Treat (benzoyl peroxide 5 % Medicated Pad (1) / salicylic acid 2 % Medicated Pad (1) ) Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1092658",
+              "name": "{1 (30 ML) (benzoyl peroxide 50 MG/ML Topical Lotion) / 1 (150 ML) (salicylic acid 20 MG/ML Medicated Liquid Soap) } Pack",
+              "synonym": "{1 (150 ML salicylic acid 2 % Medicated Liquid Soap) / 1 (30 ML benzoyl peroxide 5 % Topical Lotion) } Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1372925",
+              "name": "{1 (240 ML) (benzoyl peroxide 25 MG/ML Medicated Liquid Soap) / 1 (120 ML) (salicylic acid 20 MG/ML Topical Solution) / 1 (60 ML) (sulfur 50 MG/ML Topical Solution) } Pack",
+              "synonym": "{1 (240 ML) (benzoyl peroxide 2.5 % Medicated Liquid Soap) / 1 (120 ML) (salicylic acid 2 % Topical Solution) / 1 (60 ML) (sulfur 5 % Topical Solution) } Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1493509",
+              "name": "{1 (28000 MG) (benzoyl peroxide 0.05 MG/MG Topical Gel) / 1 (127000 MG) (salicylic acid 20 MG/ML Medicated Liquid Soap) / 1 (147 ML) (salicylic acid 20 MG/ML Topical Solution) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1493511",
+              "name": "{1 (3000 MG) (benzoyl peroxide 0.05 MG/MG Topical Gel) / 1 (28000 MG) (salicylic acid 20 MG/ML Medicated Liquid Soap) / 1 (26 ML) (salicylic acid 20 MG/ML Topical Solution) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1549098",
+              "name": "{1 (59 ML) (benzoyl peroxide 30 MG/ML Topical Lotion) / 1 (118 ML) (salicylic acid 15 MG/ML Medicated Liquid Soap) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1874139",
+              "name": "{1 (22 ML) (benzoyl peroxide 25 MG/ML Topical Lotion) / 1 (12 ML) (benzoyl peroxide 50 MG/ML Topical Lotion) / 1 (118 ML) (salicylic acid 20 MG/ML Medicated Liquid Soap) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2048987",
+              "name": "{1 (118 ML) (benzoyl peroxide 25 MG/ML Medicated Liquid Soap) / 1 (59 ML) (benzoyl peroxide 37 MG/ML Topical Lotion) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2048989",
+              "name": "{1 (59 ML) (benzoyl peroxide 100 MG/ML Topical Lotion) / 1 (118 ML) (benzoyl peroxide 25 MG/ML Medicated Liquid Soap) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2191891",
+              "name": "{1 (47 ML) (benzoyl peroxide 50 MG/ML Topical Lotion) / 1 (118 ML) (salicylic acid 20 MG/ML Medicated Liquid Soap) / 1 (148 ML) (salicylic acid 20 MG/ML Topical Solution) } Pack",
+              "synonym": "salicylic acid 2 % Topical Solution (148 ML) / benzoyl peroxide 5 % MG/ML Topical Lotion (47 ML) / salicylic acid 2 % Medicated Liquid Soap (118 ML) Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "809220",
+              "name": "{2 (21000 MG) (benzoyl peroxide 0.05 MG/MG Medicated Bar Soap) / 1 (170 ML) (benzoyl peroxide 40 MG/ML Medicated Liquid Soap) } Pack",
+              "synonym": "1 - 6 oz benzoyl peroxide 4 % wash / 2 benzoyl peroxide 5 % Medicated Bar Soap",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "883809",
+              "name": "{30 (benzoyl peroxide 40 MG/ML Medicated Pad) / 30 (salicylic acid 10 MG/ML Medicated Pad) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "999473",
+              "name": "{1 (benzoyl peroxide 50 MG/ML Medicated Pad) / 1 (salicylic acid 20 MG/ML Medicated Pad) } Pack",
+              "synonym": "benzoyl peroxide 5 % Medicated Pad / Salicylic Acid 2 % Medicated Pad",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1046595",
+              "name": "benzoyl peroxide 0.1 MG/MG Topical Gel [Fostex]",
+              "synonym": "Fostex 10 % Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1049682",
+              "name": "benzoyl peroxide 98 MG/ML Topical Foam [Benzefoam]",
+              "synonym": "BenzEFoam 98 MG/ML Topical Foam",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1094744",
+              "name": "benzoyl peroxide 25 MG/ML Medicated Liquid Soap [Relovox]",
+              "synonym": "Relovox 2.5 % Topical Emulsion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1236624",
+              "name": "benzoyl peroxide 50 MG/ML Topical Lotion [Clenziderm Lotion]",
+              "synonym": "Clenziderm Lotion 5 % Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1292448",
+              "name": "benzoyl peroxide 50 MG/ML Topical Cream [Myhelper]",
+              "synonym": "myHelper 5 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1302433",
+              "name": "benzoyl peroxide 53 MG/ML Topical Foam [Benzepro]",
+              "synonym": "Benzepro 5.3 % Topical Foam",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1302437",
+              "name": "benzoyl peroxide 98 MG/ML Topical Foam [Benzepro]",
+              "synonym": "Benzepro 9.8 % Topical Foam",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1305110",
+              "name": "benzoyl peroxide 0.07 MG/MG Topical Gel [OC 8 Adult Acne]",
+              "synonym": "OC 8 Adult Acne 7 % Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1359460",
+              "name": "benzoyl peroxide 70 MG/ML Medicated Liquid Soap [NeoBenz Micro Wash]",
+              "synonym": "NeoBenz Micro 70 MG/ML Medicated Liquid Soap",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1367268",
+              "name": "benzoyl peroxide 30 MG/ML Medicated Liquid Soap [Oscion]",
+              "synonym": "Oscion 3 % Lotion Soap",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1367306",
+              "name": "benzoyl peroxide 60 MG/ML Medicated Liquid Soap [Oscion]",
+              "synonym": "Oscion 6 % Lotion Soap",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1367307",
+              "name": "benzoyl peroxide 90 MG/ML Medicated Liquid Soap [Oscion]",
+              "synonym": "Oscion 9 % Lotion Soap",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1369782",
+              "name": "benzoyl peroxide 55 MG/ML Topical Lotion [Effaclar Duo]",
+              "synonym": "Effaclar DUO 5.5 % Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1435874",
+              "name": "benzoyl peroxide 25 MG/ML Topical Cream [Phisoderm Clear Confidence Spot Treatment]",
+              "synonym": "Phisoderm Clear Confidence Spot Treatment 2.5 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1439784",
+              "name": "benzoyl peroxide 55 MG/ML Topical Foam [Riax]",
+              "synonym": "Riax 5.5 % Topical Foam",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1439788",
+              "name": "benzoyl peroxide 95 MG/ML Topical Foam [Riax]",
+              "synonym": "Riax 9.5 % Topical Foam",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1489132",
+              "name": "benzoyl peroxide 0.05 MG/MG Topical Gel [Clear Proof Acne Treatment]",
+              "synonym": "Clear Proof Acne Treatment 5 % Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1540246",
+              "name": "benzoyl peroxide 0.05 MG/MG / clindamycin phosphate 0.012 MG/MG Topical Gel [Neuac]",
+              "synonym": "Neuac (benzoyl peroxide 5 % / clindamycin phosphate 1.2 % ) Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1541091",
+              "name": "benzoyl peroxide 50 MG/ML Topical Lotion [Anti Bac]",
+              "synonym": "Anti Bac 5 % Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1598826",
+              "name": "benzoyl peroxide 0.0375 MG/MG / clindamycin phosphate 0.012 MG/MG Topical Gel [Onexton]",
+              "synonym": "Onexton (benzoyl peroxide 3.75 % / clindamycin phosphate 1.2 % ) Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1605437",
+              "name": "benzoyl peroxide 70 MG/ML Medicated Liquid Soap [Benzepro]",
+              "synonym": "BenzePro 7 % Medicated Cleanser",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1605441",
+              "name": "benzoyl peroxide 60 MG/ML Medicated Pad [Benzepro]",
+              "synonym": "Benzepro 6 % Medicated Towelette",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1663747",
+              "name": "adapalene 0.003 MG/MG / benzoyl peroxide 0.025 MG/MG Topical Gel [Epiduo]",
+              "synonym": "Epiduo Forte 0.3 % / 2.5 % Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "208482",
+              "name": "benzoyl peroxide 0.05 MG/MG Topical Gel [Benzac]",
+              "synonym": "Benzac W5 5 % Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "208484",
+              "name": "benzoyl peroxide 0.05 MG/MG Topical Gel [Clearplex]",
+              "synonym": "Clearplex 5 % Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "208502",
+              "name": "benzoyl peroxide 0.1 MG/MG Topical Gel [Benzac]",
+              "synonym": "Benzac W 10 % Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "208510",
+              "name": "benzoyl peroxide 0.1 MG/MG Topical Gel [Persa-Gel]",
+              "synonym": "Persa-Gel 10 % Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "211765",
+              "name": "benzoyl peroxide 50 MG/ML / hydrocortisone 5 MG/ML Topical Lotion [Vanoxide-HC]",
+              "synonym": "Vanoxide-HC (benzoyl peroxide 5 % / hydrocortisone 0.5 % ) Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "213082",
+              "name": "benzoyl peroxide 0.05 MG/MG / erythromycin 0.03 MG/MG Topical Gel [Benzamycin]",
+              "synonym": "Benzamycin (benzoyl peroxide 5 % / erythromycin 3 % ) Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2180350",
+              "name": "benzoyl peroxide 98 MG/ML Topical Foam [Enzoclear]",
+              "synonym": "Enzoclear 98 MG/ML Topical Foam",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2565812",
+              "name": "benzoyl peroxide 30 MG/ML / tretinoin 1 MG/ML Topical Cream [Twyneo]",
+              "synonym": "Twyneo (benzoyl peroxide 3 % / tretinoin 0.1 % ) Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2600969",
+              "name": "benzoyl peroxide 50 MG/ML Topical Cream [Epsolay]",
+              "synonym": "Epsolay 5 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2668204",
+              "name": "adapalene 0.0015 MG/MG / benzoyl peroxide 0.031 MG/MG / clindamycin phosphate 0.012 MG/MG Topical Gel [Cabtreo]",
+              "synonym": "Cabtreo (adapalene 0.15 % / benzoyl peroxide 3.1 % / clindamycin phosphate 1.2 % ) Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "284544",
+              "name": "benzoyl peroxide 0.05 MG/MG / clindamycin 0.01 MG/MG Topical Gel [Benzaclin]",
+              "synonym": "Benzaclin (benzoyl peroxide 5 % / clindamycin 1 % ) Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "404125",
+              "name": "benzoyl peroxide 100 MG/ML Topical Cream [Clearskin]",
+              "synonym": "Clearskin 10 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "404127",
+              "name": "benzoyl peroxide 0.1 MG/MG Topical Gel [Acne-Clear]",
+              "synonym": "Acne-Clear 10 % Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "405903",
+              "name": "benzoyl peroxide 100 MG/ML Topical Lotion [Del-Aqua]",
+              "synonym": "Del-Aqua 10 % Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "606786",
+              "name": "benzoyl peroxide 0.06 MG/MG / sulfur 0.03 MG/MG Topical Gel [NuOx]",
+              "synonym": "NuOx Acne Treatment (benzoyl peroxide 6 % / sulfur 3 % ) Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "615963",
+              "name": "benzoyl peroxide 35 MG/ML Topical Cream [NeoBenz Micro]",
+              "synonym": "NeoBenz Micro 3.5 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "615965",
+              "name": "benzoyl peroxide 55 MG/ML Topical Cream [NeoBenz Micro]",
+              "synonym": "NeoBenz Micro 55 MG/ML Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "615970",
+              "name": "benzoyl peroxide 85 MG/ML Topical Cream [NeoBenz Micro]",
+              "synonym": "NeoBenz Micro 8.5 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "797819",
+              "name": "benzoyl peroxide 40 MG/ML Medicated Pad [Inova]",
+              "synonym": "Inova 4 % Medicated Pad",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "797882",
+              "name": "benzoyl peroxide 90 MG/ML Medicated Pad [Oscion]",
+              "synonym": "Oscion 9 % Medicated Pad",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "797973",
+              "name": "benzoyl peroxide 30 MG/ML Medicated Pad [Triaz]",
+              "synonym": "Triaz 3 % Foaming Cloth",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "797976",
+              "name": "benzoyl peroxide 60 MG/ML Medicated Pad [Triaz]",
+              "synonym": "Triaz 6 % Foaming Cloth",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "798502",
+              "name": "benzoyl peroxide 80 MG/ML Medicated Pad [Inova]",
+              "synonym": "Inova 8 % Medicated Pad",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "804721",
+              "name": "benzoyl peroxide 0.05 MG/MG Topical Gel [Soluclenz]",
+              "synonym": "Soluclenz 5 % Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "830648",
+              "name": "adapalene 0.001 MG/MG / benzoyl peroxide 0.025 MG/MG Topical Gel [Epiduo]",
+              "synonym": "Epiduo (adapalene 0.1 % / benzoyl peroxide 2.5 %) Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "845977",
+              "name": "benzoyl peroxide 100 MG/ML Medicated Liquid Soap [Benzac]",
+              "synonym": "Benzac AC 10 % Topical Wash",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "845978",
+              "name": "benzoyl peroxide 50 MG/ML Medicated Liquid Soap [Benzac]",
+              "synonym": "Benzac AC 5 % Topical Wash",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "845992",
+              "name": "benzoyl peroxide 70 MG/ML Medicated Liquid Soap [Pacnex]",
+              "synonym": "Pacnex 7 % Medicated Liquid Soap",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "847133",
+              "name": "benzoyl peroxide 60 MG/ML Medicated Liquid Soap [Triaz]",
+              "synonym": "Triaz 6 % Medicated Liquid Cleanser",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "847367",
+              "name": "benzoyl peroxide 90 MG/ML Medicated Liquid Soap [Triaz]",
+              "synonym": "Triaz 9 % Medicated Liquid Soap",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "847368",
+              "name": "benzoyl peroxide 30 MG/ML Medicated Liquid Soap [Triaz]",
+              "synonym": "Triaz 3 % Medicated Liquid Soap",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "856441",
+              "name": "benzoyl peroxide 80 MG/ML / salicylic acid 20 MG/ML Medicated Pad [Inova 8-2]",
+              "synonym": "Inova (benzoyl peroxide 8 % / salicylic acid 2 % ) Medicated Pad",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "866058",
+              "name": "benzoyl peroxide 53 MG/ML Topical Foam [Benzefoam]",
+              "synonym": "BenzEFoam 5.3 % Topical Foam",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "885133",
+              "name": "benzoyl peroxide 0.025 MG/MG / clindamycin phosphate 0.012 MG/MG Topical Gel [Acanya]",
+              "synonym": "Acanya (benzoyl peroxide 2.5 % / clindamycin-2-phosphate 1.2 % ) Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "992485",
+              "name": "benzoyl peroxide 0.025 MG/MG Topical Gel [Desquam]",
+              "synonym": "Desquam-E 2.5 % Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "992487",
+              "name": "benzoyl peroxide 0.05 MG/MG Topical Gel [Desquam]",
+              "synonym": "Desquam-E 5 % Topical Gel",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "992494",
+              "name": "benzoyl peroxide 100 MG/ML Medicated Liquid Soap [Desquam]",
+              "synonym": "Desquam-X 10 % Topical Wash",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "992496",
+              "name": "benzoyl peroxide 50 MG/ML Medicated Liquid Soap [Desquam]",
+              "synonym": "Desquam-X 5 % Topical Wash",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "999913",
+              "name": "benzoyl peroxide 42.5 MG/ML Medicated Pad [Pacnex]",
+              "synonym": "Pacnex LP 4.25 % Medicated Pad",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "999915",
+              "name": "benzoyl peroxide 70 MG/ML Medicated Pad [Pacnex]",
+              "synonym": "Pacnex HP 7 % Medicated Pad",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1020409",
+              "name": "benzoyl peroxide 75 MG/ML Topical Cream",
+              "synonym": "benzoyl peroxide 7.5 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1049680",
+              "name": "benzoyl peroxide 98 MG/ML Topical Foam",
+              "synonym": "benzoyl peroxide 9.8 % Topical Foam",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1051006",
+              "name": "benzoyl peroxide 35 MG/ML Medicated Liquid Soap",
+              "synonym": "benzoyl peroxide 3.5 % Medicated Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "106298",
+              "name": "benzoyl peroxide 100 MG/ML / oxyquinoline sulfate 5 MG/ML Topical Cream",
+              "synonym": "benzoyl peroxide 10 % / oxyquinoline sulfate 0.5 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "106309",
+              "name": "benzoyl peroxide 50 MG/ML Topical Lotion",
+              "synonym": "benzoyl peroxide 5 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "106310",
+              "name": "benzoyl peroxide 100 MG/ML Topical Lotion",
+              "synonym": "benzoyl peroxide 10 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "106315",
+              "name": "benzoyl peroxide 100 MG/ML Topical Cream",
+              "synonym": "benzoyl peroxide 10 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1146699",
+              "name": "benzoyl peroxide 25 MG/ML Medicated Pad",
+              "synonym": "benzoyl peroxide 2.5 % Medicated Pad",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1311503",
+              "name": "benzoyl peroxide 52.5 MG/ML Topical Cream",
+              "synonym": "benzoyl peroxide 5.25 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "142034",
+              "name": "benzoyl peroxide 100 MG/ML Medicated Liquid Soap",
+              "synonym": "benzoyl peroxide 10 % Medicated Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1439779",
+              "name": "benzoyl peroxide 55 MG/ML Topical Foam",
+              "synonym": "benzoyl peroxide 5.5 % Topical Foam",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1439786",
+              "name": "benzoyl peroxide 95 MG/ML Topical Foam",
+              "synonym": "benzoyl peroxide 9.5 % Topical Foam",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1488689",
+              "name": "benzoyl peroxide 50 MG/ML Topical Solution",
+              "synonym": "benzoyl peroxide 5 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1494740",
+              "name": "benzoyl peroxide 30 MG/ML Topical Cream",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "150947",
+              "name": "benzoyl peroxide 50 MG/ML / oxyquinoline sulfate 5 MG/ML Topical Cream",
+              "synonym": "benzoyl peroxide 5 % / oxyquinoline sulfate 0.5 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1539352",
+              "name": "benzoyl peroxide 40 MG/ML Topical Cream",
+              "synonym": "benzoyl peroxide 4 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1540241",
+              "name": "benzoyl peroxide 0.05 MG/MG / clindamycin phosphate 0.012 MG/MG Topical Gel",
+              "synonym": "benzoyl peroxide 5 % / clindamycin phosphate 1.2 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1541259",
+              "name": "benzoyl peroxide 37 MG/ML Topical Lotion",
+              "synonym": "benzoyl peroxide 3.7 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1543390",
+              "name": "benzoyl peroxide 44 MG/ML Medicated Liquid Soap",
+              "synonym": "benzoyl peroxide 4.4 % Medicated Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1548871",
+              "name": "benzoyl peroxide 30 MG/ML Topical Lotion",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1593884",
+              "name": "benzoyl peroxide 27 MG/ML Topical Cream",
+              "synonym": "benzoyl peroxide 2.7 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1598470",
+              "name": "benzoyl peroxide 0.0375 MG/MG / clindamycin phosphate 0.012 MG/MG Topical Gel",
+              "synonym": "benzoyl peroxide 3.75 % / clindamycin phosphate 1.2 % (clindamycin 1 % ) Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1655910",
+              "name": "benzoyl peroxide 26 MG/ML Medicated Liquid Soap",
+              "synonym": "benzoyl peroxide 2.6 % Medicated Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1663745",
+              "name": "adapalene 0.003 MG/MG / benzoyl peroxide 0.025 MG/MG Topical Gel",
+              "synonym": "adapalene 0.3 % / benzoyl peroxide 2.5 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1716274",
+              "name": "benzoyl peroxide 0.055 MG/MG Topical Gel",
+              "synonym": "benzoyl peroxide 5.5 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1806665",
+              "name": "benzoyl peroxide 30 MG/ML Medicated Shampoo",
+              "synonym": "benzoyl peroxide 3 % Medicated Shampoo",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198503",
+              "name": "benzoyl peroxide 55 MG/ML Topical Lotion",
+              "synonym": "benzoyl peroxide 5.5 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "200009",
+              "name": "benzoyl peroxide 25 MG/ML Topical Lotion",
+              "synonym": "benzoyl peroxide 2.5 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2198933",
+              "name": "benzoyl peroxide 52 MG/ML Topical Foam",
+              "synonym": "benzoyl peroxide 5.2 % Topical Foam",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2198935",
+              "name": "benzoyl peroxide 58 MG/ML Medicated Pad",
+              "synonym": "benzoyl peroxide 5.8 % Medicated Pad",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2198937",
+              "name": "benzoyl peroxide 68 MG/ML Medicated Liquid Soap",
+              "synonym": "benzoyl peroxide 6.8 % Medicated Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2198940",
+              "name": "benzoyl peroxide 69 MG/ML Medicated Liquid Soap",
+              "synonym": "benzoyl peroxide 6.9 % Medicated Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2198942",
+              "name": "benzoyl peroxide 97 MG/ML Topical Foam",
+              "synonym": "benzoyl peroxide 9.7 % Topical Foam",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2199869",
+              "name": "benzoyl peroxide 25 MG/ML Topical Spray",
+              "synonym": "benzoyl peroxide 2.5 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "244374",
+              "name": "benzoyl peroxide 0.05 MG/MG / erythromycin 0.03 MG/MG Topical Gel",
+              "synonym": "benzoyl peroxide 5 % / erythromycin 3 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "244382",
+              "name": "benzoyl peroxide 50 MG/ML / hydrocortisone 5 MG/ML Topical Lotion",
+              "synonym": "benzoyl peroxide 5 % / hydrocortisone 0.5 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2471107",
+              "name": "adapalene 1 MG/ML / benzoyl peroxide 25 MG/ML Medicated Pad",
+              "synonym": "adapalene 0.1 % / benzoyl peroxide 2.5 % Swab",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2565807",
+              "name": "benzoyl peroxide 30 MG/ML / tretinoin 1 MG/ML Topical Cream",
+              "synonym": "benzoyl peroxide 3 % / tretinoin 0.1 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2584547",
+              "name": "benzoyl peroxide 95 MG/ML Medicated Pad",
+              "synonym": "benzoyl peroxide 9.5 % Medicated Pad",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "259256",
+              "name": "benzoyl peroxide 0.07 MG/MG Topical Gel",
+              "synonym": "benzoyl peroxide 7 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2637133",
+              "name": "benzoyl peroxide 25 MG/ML / salicylic acid 10 MG/ML Medicated Shampoo",
+              "synonym": "benzoyl peroxide 2.5 % / salicylic acid 1 % Medicated Shampoo",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2668198",
+              "name": "adapalene 0.0015 MG/MG / benzoyl peroxide 0.031 MG/MG / clindamycin phosphate 0.012 MG/MG Topical Gel",
+              "synonym": "adapalene 0.15 % / benzoyl peroxide 3.1 % / clindamycin phosphate 1.2 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308685",
+              "name": "benzoyl peroxide 0.1 MG/MG Medicated Bar Soap",
+              "synonym": "benzoyl peroxide 10 % Medicated Bar Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308688",
+              "name": "benzoyl peroxide 25 MG/ML Topical Cream",
+              "synonym": "benzoyl peroxide 2.5 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308689",
+              "name": "benzoyl peroxide 0.025 MG/MG Topical Gel",
+              "synonym": "benzoyl peroxide 2.5 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308691",
+              "name": "benzoyl peroxide 0.04 MG/MG Topical Gel",
+              "synonym": "benzoyl peroxide 4 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308692",
+              "name": "benzoyl peroxide 0.05 MG/MG Medicated Bar Soap",
+              "synonym": "benzoyl peroxide 5 % Medicated Bar Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308693",
+              "name": "benzoyl peroxide 50 MG/ML Topical Cream",
+              "synonym": "benzoyl peroxide 5 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308694",
+              "name": "benzoyl peroxide 0.05 MG/MG Topical Gel",
+              "synonym": "benzoyl peroxide 5 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308696",
+              "name": "benzoyl peroxide 50 MG/ML Medicated Liquid Soap",
+              "synonym": "benzoyl peroxide 5 % Medicated Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "308697",
+              "name": "benzoyl peroxide 0.08 MG/MG Topical Gel",
+              "synonym": "benzoyl peroxide 8 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "358917",
+              "name": "benzoyl peroxide 0.05 MG/MG / clindamycin 0.01 MG/MG Topical Gel",
+              "synonym": "benzoyl peroxide 5 % / clindamycin 1 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "389122",
+              "name": "benzoyl peroxide 30 MG/ML Medicated Liquid Soap",
+              "synonym": "benzoyl peroxide 3 % Gel Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "420071",
+              "name": "benzoyl peroxide 90 MG/ML Medicated Liquid Soap",
+              "synonym": "benzoyl peroxide 9 % Gel Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "420905",
+              "name": "benzoyl peroxide 25 MG/ML Medicated Shampoo",
+              "synonym": "benzoyl peroxide 2.5 % Medicated Shampoo",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "486131",
+              "name": "benzoyl peroxide 0.1 MG/MG Topical Gel",
+              "synonym": "benzoyl peroxide 10 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "543408",
+              "name": "benzoyl peroxide 85 MG/ML Topical Cream",
+              "synonym": "benzoyl peroxide 8.5 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "577391",
+              "name": "benzoyl peroxide 0.06 MG/MG / sulfur 0.03 MG/MG Topical Gel",
+              "synonym": "benzoyl peroxide 6 % / sulfur 3 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "597666",
+              "name": "benzoyl peroxide 35 MG/ML Topical Cream",
+              "synonym": "benzoyl peroxide 3.5 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "597667",
+              "name": "benzoyl peroxide 55 MG/ML Topical Cream",
+              "synonym": "benzoyl peroxide 5.5 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "629364",
+              "name": "benzoyl peroxide 0.065 MG/MG Topical Gel",
+              "synonym": "benzoyl peroxide 6.5 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "797678",
+              "name": "benzoyl peroxide 30 MG/ML Medicated Pad",
+              "synonym": "benzoyl peroxide 3 % Towelette",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "797701",
+              "name": "benzoyl peroxide 40 MG/ML Medicated Pad",
+              "synonym": "benzoyl peroxide 4 % Medicated Pad",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "797704",
+              "name": "benzoyl peroxide 60 MG/ML Medicated Pad",
+              "synonym": "benzoyl peroxide 6 % Towelette",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "797707",
+              "name": "benzoyl peroxide 80 MG/ML Medicated Pad",
+              "synonym": "benzoyl peroxide 8 % Medicated Pad",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "797710",
+              "name": "benzoyl peroxide 90 MG/ML Medicated Pad",
+              "synonym": "benzoyl peroxide 9 % Towelette",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "797715",
+              "name": "benzoyl peroxide 40 MG/ML / salicylic acid 10 MG/ML Medicated Pad",
+              "synonym": "benzoyl peroxide 4 % / salicylic acid 1 % Medicated Pad",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "797717",
+              "name": "benzoyl peroxide 80 MG/ML / salicylic acid 20 MG/ML Medicated Pad",
+              "synonym": "benzoyl peroxide 8 % / salicylic acid 2 % Medicated Pad",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "797746",
+              "name": "benzoyl peroxide 50 MG/ML / salicylic acid 20 MG/ML Medicated Pad",
+              "synonym": "benzoyl peroxide 5 % / salicylic acid 2 % Medicated Pad",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "809316",
+              "name": "benzoyl peroxide 40 MG/ML Medicated Liquid Soap",
+              "synonym": "benzoyl peroxide 4 % Topical Wash",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "829539",
+              "name": "adapalene 0.001 MG/MG / benzoyl peroxide 0.025 MG/MG Topical Gel",
+              "synonym": "adapalene 0.1 % / benzoyl peroxide 2.5 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "845836",
+              "name": "benzoyl peroxide 25 MG/ML Medicated Liquid Soap",
+              "synonym": "benzoyl peroxide 2.5 % Medicated Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "845988",
+              "name": "benzoyl peroxide 70 MG/ML Medicated Liquid Soap",
+              "synonym": "benzoyl peroxide 7 % Topical Wash",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "846029",
+              "name": "benzoyl peroxide 52.5 MG/ML Medicated Liquid Soap",
+              "synonym": "benzoyl peroxide 5.25 % Topical Wash",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "847131",
+              "name": "benzoyl peroxide 60 MG/ML Medicated Liquid Soap",
+              "synonym": "benzoyl peroxide 6 % Gel Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "866054",
+              "name": "benzoyl peroxide 53 MG/ML Topical Foam",
+              "synonym": "benzoyl peroxide 5.3 % Topical Foam",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "885131",
+              "name": "benzoyl peroxide 0.025 MG/MG / clindamycin phosphate 0.012 MG/MG Topical Gel",
+              "synonym": "benzoyl peroxide 2.5 % / clindamycin phosphate 1.2 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "895055",
+              "name": "benzoyl peroxide 42.5 MG/ML Medicated Liquid Soap",
+              "synonym": "benzoyl peroxide 4.25 % Medicated Liquid Soap",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "904807",
+              "name": "benzoyl peroxide 50 MG/ML Medicated Pad",
+              "synonym": "benzoyl peroxide 5 % Medicated Pad",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "999911",
+              "name": "benzoyl peroxide 42.5 MG/ML Medicated Pad",
+              "synonym": "benzoyl peroxide 4.25 % Medicated Pad",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "999914",
+              "name": "benzoyl peroxide 70 MG/ML Medicated Pad",
+              "synonym": "benzoyl peroxide 7 % Medicated Pad",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:20:22.704648",
+  "source": "RxNorm"
+}

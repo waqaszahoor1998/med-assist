@@ -1,0 +1,10 @@
+{
+  "query": "Chromophore (Gly-Tyr-Gly)",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:31:48.115939",
+  "source": "RxNorm"
+}

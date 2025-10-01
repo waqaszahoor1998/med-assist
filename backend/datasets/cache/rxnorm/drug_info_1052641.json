@@ -1,0 +1,16 @@
+{
+  "rxcui": "1052641",
+  "properties": {
+    "properties": {
+      "rxcui": "1052641",
+      "name": "acetaminophen 500 MG / pamabrom 25 MG / pyrilamine maleate 15 MG Oral Tablet [Premsyn PMS]",
+      "synonym": "APAP 500 MG / pamabrom 25 MG / Pyrilamine Maleate 15 MG Oral Tablet [Premsyn PMS]",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T16:30:51.596971",
+  "source": "RxNorm"
+}

@@ -1,0 +1,64 @@
+{
+  "query": "Fostamatinib",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2044928",
+              "name": "fostamatinib 100 MG Oral Tablet [Tavalisse]",
+              "synonym": "Tavalisse 100 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2044932",
+              "name": "fostamatinib 150 MG Oral Tablet [Tavalisse]",
+              "synonym": "Tavalisse 150 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2044922",
+              "name": "fostamatinib 100 MG Oral Tablet",
+              "synonym": "fostamatinib 100 MG (equivalent to fostamatinib disodium 126.2 MG ) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2044930",
+              "name": "fostamatinib 150 MG Oral Tablet",
+              "synonym": "fostamatinib 150 MG (equivalent to 189.3 MG fostamatinib disodium) Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:33:26.212960",
+  "source": "RxNorm"
+}

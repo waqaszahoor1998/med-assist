@@ -1,0 +1,136 @@
+{
+  "query": "Histamine",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1148636",
+              "name": "histamine dihydrochloride 0.28 MG/ML / menthol 45.7 MG/ML Topical Cream [ActivOn Arthritis]",
+              "synonym": "ActivOn Ultra Strength Arthritis (histamine dihydrochloride 0.028 % / menthol 4.574 % ) Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1300293",
+              "name": "histamine dihydrochloride 1 MG/ML / menthol 30 MG/ML Topical Cream [Alo]",
+              "synonym": "Alo (histamine dihydrochloride 0.1 % / menthol 3 % ) Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1091387",
+              "name": "histamine dihydrochloride 0.25 MG/ML Topical Cream",
+              "synonym": "histamine dihydrochloride 0.025 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1148634",
+              "name": "histamine dihydrochloride 0.28 MG/ML / menthol 45.7 MG/ML Topical Cream",
+              "synonym": "histamine dihydrochloride 0.028 % / menthol 4.574 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1300288",
+              "name": "histamine dihydrochloride 1 MG/ML / menthol 30 MG/ML Topical Cream",
+              "synonym": "histamine dihydrochloride 0.1 % / menthol 3 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1542820",
+              "name": "histamine dihydrochloride 0.5 MG/ML Topical Cream",
+              "synonym": "histamine dihydrochloride 0.05 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1947261",
+              "name": "histamine dihydrochloride 0.5 MG/ML / menthol 100 MG/ML / methyl salicylate 100 MG/ML Topical Cream",
+              "synonym": "histamine dihydrochloride 0.050 % / menthol 10 % / methyl salicylate 10 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2048002",
+              "name": "histamine dihydrochloride 1 MG/ML / menthol 20 MG/ML Topical Spray",
+              "synonym": "histamine dihydrochloride 0.1 % / menthol 2 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2048004",
+              "name": "histamine dihydrochloride 1 MG/ML Topical Spray",
+              "synonym": "histamine dihydrochloride 0.1 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2167855",
+              "name": "histamine dihydrochloride 0.3 MG/ML Topical Cream",
+              "synonym": "histamine dihydrochloride 0.03 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2611792",
+              "name": "histamine dihydrochloride 0.3 MG/ML / menthol 30 MG/ML Topical Cream",
+              "synonym": "histamine dihydrochloride 0.03 % / menthol 3 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2645121",
+              "name": "histamine dihydrochloride 0.4 MG/ML Topical Cream",
+              "synonym": "histamine dihydrochloride 0.04 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T15:57:05.218665",
+  "source": "RxNorm"
+}

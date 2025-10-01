@@ -1,0 +1,10 @@
+{
+  "query": "N-{3-[4-(3-amino-propyl)-piperazin-1-yl]-propyl}-3-nitro-5-(galactopyranosyl)-beta-benzamide",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T06:27:43.340506",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "(2Z,3E)-2,3'-biindole-2',3(1H,1'H)-dione 3-{O-[(3R)-3,4-dihydroxybutyl]oxime}",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:49:27.451155",
+  "source": "RxNorm"
+}

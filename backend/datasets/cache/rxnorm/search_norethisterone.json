@@ -1,0 +1,1706 @@
+{
+  "query": "Norethisterone",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1037185",
+              "name": "{24 (ethinyl estradiol 0.01 MG / norethindrone acetate 1 MG Oral Tablet) / 2 (ethinyl estradiol 0.01 MG Oral Tablet) / 2 (ferrous fumarate 75 MG Oral Tablet) } Pack [Lo Loestrin Fe 28 Day]",
+              "synonym": "Lo Loestrin Fe 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1094543",
+              "name": "{21 (ethinyl estradiol 0.035 MG / norethindrone 0.4 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Briellyn 28 Day]",
+              "synonym": "Briellyn 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1095362",
+              "name": "{21 (ethinyl estradiol 0.035 MG / norethindrone 0.4 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Balziva 28 Day]",
+              "synonym": "Balziva 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1099897",
+              "name": "{24 (ethinyl estradiol 0.025 MG / norethindrone 0.8 MG Chewable Tablet) / 4 (ferrous fumarate 75 MG Chewable Tablet) } Pack [Generess Fe 28]",
+              "synonym": "Generess Fe 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1235867",
+              "name": "{7 (ethinyl estradiol 0.035 MG / norethindrone 0.5 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norethindrone 0.75 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norethindrone 1 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Dasetta 7/7/7 28 Day]",
+              "synonym": "Dasetta 7/7/7 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1235874",
+              "name": "{21 (ethinyl estradiol 0.035 MG / norethindrone 0.4 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Philith 28 Day]",
+              "synonym": "Philith 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1242786",
+              "name": "{21 (ethinyl estradiol 0.035 MG / norethindrone 1 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Alyacen 1/35]",
+              "synonym": "Alyacen 1/35 28-Day Kit",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1242787",
+              "name": "{7 (ethinyl estradiol 0.035 MG / norethindrone 0.5 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norethindrone 0.75 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norethindrone 1 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Alyacen 7/7/7]",
+              "synonym": "Alyacen 7/7/7 Kit",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1300538",
+              "name": "{21 (ethinyl estradiol 0.035 MG / norethindrone 1 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Dasetta 1/35 28 Day]",
+              "synonym": "Dasetta 1/35 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1300911",
+              "name": "{21 (ethinyl estradiol 0.035 MG / norethindrone 0.5 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Wera 28 Day]",
+              "synonym": "Wera 28-Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1358765",
+              "name": "{21 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Junel Fe 1/20 28 Day]",
+              "synonym": "Junel Fe 1/20 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1358770",
+              "name": "{21 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Loestrin Fe 1/20 28 Day]",
+              "synonym": "Loestrin Fe 1/20 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1358775",
+              "name": "{21 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Microgestin Fe 1/20 28 Day]",
+              "synonym": "Microgestin Fe 1/20 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1358780",
+              "name": "{21 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) } Pack [Junel 1/20 21 Day]",
+              "synonym": "Junel 1/20 21 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1358781",
+              "name": "{21 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) } Pack [Loestrin 1/20 21 Day]",
+              "synonym": "Loestrin 1/20 21 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1359020",
+              "name": "{21 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) } Pack [Microgestin 1/20 21 Day]",
+              "synonym": "Microgestin 1/20 21 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1359025",
+              "name": "{21 (ethinyl estradiol 0.03 MG / norethindrone acetate 1.5 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Junel Fe 1.5/30 28 Day]",
+              "synonym": "Junel Fe 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1359026",
+              "name": "{21 (ethinyl estradiol 0.03 MG / norethindrone acetate 1.5 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Loestrin Fe 1.5/30 28 Day]",
+              "synonym": "Loestrin Fe 1.5/30 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1359027",
+              "name": "{21 (ethinyl estradiol 0.03 MG / norethindrone acetate 1.5 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Microgestin Fe 1.5/30 28 Day]",
+              "synonym": "Microgestin Fe 1.5/30 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1359030",
+              "name": "{21 (ethinyl estradiol 0.03 MG / norethindrone acetate 1.5 MG Oral Tablet) } Pack [Junel 1.5/30 21 Day]",
+              "synonym": "Junel 1.5/30 21 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1359031",
+              "name": "{21 (ethinyl estradiol 0.03 MG / norethindrone acetate 1.5 MG Oral Tablet) } Pack [Loestrin 1.5/30 21 Day]",
+              "synonym": "Loestrin 1.5/30 21 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1359032",
+              "name": "{21 (ethinyl estradiol 0.03 MG / norethindrone acetate 1.5 MG Oral Tablet) } Pack [Microgestin 1.5/30 21 Day]",
+              "synonym": "Microgestin 1.5/30 21 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1359118",
+              "name": "{24 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 4 (ferrous fumarate 75 MG Oral Tablet) } Pack [Loestrin 24 Fe 28 Day]",
+              "synonym": "Loestrin 24 Fe 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1359125",
+              "name": "{28 (estradiol 0.5 MG / norethindrone acetate 0.1 MG Oral Tablet) } Pack [Activella 0.5/0.1 28 Day]",
+              "synonym": "Activella 0.5/0.1 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1359128",
+              "name": "{28 (estradiol 1 MG / norethindrone acetate 0.5 MG Oral Tablet) } Pack [Activella 1/0.5 28 Day]",
+              "synonym": "Activella 1/0.5 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1359129",
+              "name": "{28 (estradiol 1 MG / norethindrone acetate 0.5 MG Oral Tablet) } Pack [Mimvey]",
+              "synonym": "Mimvey 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1359133",
+              "name": "{5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Estrostep Fe 28 Day]",
+              "synonym": "Estrostep Fe 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1359134",
+              "name": "{5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Tilia Fe]",
+              "synonym": "Tilia Fe 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1359135",
+              "name": "{5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Tri-Legest 28 Day]",
+              "synonym": "Tri-Legest Fe 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1422896",
+              "name": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jencycla 28 Day]",
+              "synonym": "Jencycla 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1426601",
+              "name": "{24 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Chewable Tablet) / 4 (ferrous fumarate 75 MG Oral Tablet) } Pack [Minastrin 24 Fe Chewable 28 Day]",
+              "synonym": "Minastrin 24 Fe Chewable 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1427300",
+              "name": "{21 (ethinyl estradiol 0.035 MG / norethindrone 1 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Pirmella 1/35 28 Day]",
+              "synonym": "Pirmella 1/35 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1427301",
+              "name": "{7 (ethinyl estradiol 0.035 MG / norethindrone 0.5 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norethindrone 0.75 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norethindrone 1 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Pirmella 7/7/7 28 Day]",
+              "synonym": "Pirmella 7/7/7 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1430383",
+              "name": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Lyza]",
+              "synonym": "Lyza 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1440183",
+              "name": "{21 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Larin Fe 1/20]",
+              "synonym": "Larin Fe 1/20 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1440937",
+              "name": "{21 (ethinyl estradiol 0.03 MG / norethindrone acetate 1.5 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Larin Fe 1.5/30]",
+              "synonym": "Larin Fe 1.5/30 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1483558",
+              "name": "{21 (ethinyl estradiol 0.035 MG / norethindrone 0.4 MG Chewable Tablet) / 7 (ferrous fumarate 75 MG Chewable Tablet) } Pack [Zenchent Fe 28 Day]",
+              "synonym": "Zenchent Fe 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1485332",
+              "name": "{21 (ethinyl estradiol 0.035 MG / norethindrone 0.4 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Vyfemla 28 Day]",
+              "synonym": "Vyfemla 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1486452",
+              "name": "{21 (ethinyl estradiol 0.035 MG / norethindrone 0.4 MG Chewable Tablet) / 7 (ferrous fumarate 75 MG Chewable Tablet) } Pack [Wymzya Fe 28 Day]",
+              "synonym": "Wymzya Fe 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1486801",
+              "name": "{24 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 4 (ferrous fumarate 75 MG Oral Tablet) } Pack [Lomedia 24 Fe]",
+              "synonym": "Lomedia 24 Fe 28-Day Kit",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1487086",
+              "name": "{21 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) } Pack [Larin 1/20]",
+              "synonym": "Larin 1/20 21 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1495092",
+              "name": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Norlyroc 28 Day]",
+              "synonym": "Norlyroc 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1537209",
+              "name": "{21 (ethinyl estradiol 0.03 MG / norethindrone acetate 1.5 MG Oral Tablet) } Pack [Larin 1.5/30]",
+              "synonym": "Larin 1.5/30 21 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1539190",
+              "name": "{28 (estradiol 0.5 MG / norethindrone acetate 0.1 MG Oral Tablet) } Pack [Mimvey Lo 28 Day]",
+              "synonym": "Mimvey Lo 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1539953",
+              "name": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Deblitane 28 Day]",
+              "synonym": "Deblitane 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1539955",
+              "name": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Sharobel 28 Day]",
+              "synonym": "Sharobel 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1550536",
+              "name": "{21 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Tarina Fe 1/20 28 Day]",
+              "synonym": "Tarina Fe 1/20 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1550964",
+              "name": "{28 (estradiol 0.5 MG / norethindrone acetate 0.1 MG Oral Tablet) } Pack [Lopreeza 0.5/0.1 28 Day]",
+              "synonym": "Lopreeza 0.5/0.1 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1550965",
+              "name": "{28 (estradiol 1 MG / norethindrone acetate 0.5 MG Oral Tablet) } Pack [Lopreeza 1/0.5 28 Day]",
+              "synonym": "Lopreeza 1/0.5 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1605091",
+              "name": "{24 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 4 (ferrous fumarate 75 MG Oral Tablet) } Pack [Larin 24 Fe 1/20]",
+              "synonym": "Larin 24 Fe 1/20 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1650201",
+              "name": "{24 (ethinyl estradiol 0.025 MG / norethindrone 0.8 MG Chewable Tablet) / 4 (ferrous fumarate 75 MG Chewable Tablet) } Pack [Layolis Fe 28]",
+              "synonym": "Layolis Fe 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1652084",
+              "name": "{24 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 4 (ferrous fumarate 75 MG Oral Tablet) } Pack [Junel Fe 24 1/20 28 Day]",
+              "synonym": "Junel Fe 24 (28 Day) Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1721965",
+              "name": "{24 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 4 (ferrous fumarate 75 MG Oral Tablet) } Pack [Microgestin 24 Fe 28 Day]",
+              "synonym": "Microgestin 24 Fe 1/20 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1722680",
+              "name": "{24 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 4 (ferrous fumarate 75 MG Oral Tablet) } Pack [Blisovi 24 Fe 1/20 28 Day]",
+              "synonym": "Blisovi 24 Fe 1/20 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1724801",
+              "name": "{21 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Blisovi 21 Fe 1/20 28 Day Pack]",
+              "synonym": "Blisovi 21 Fe 1/20 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1727521",
+              "name": "{24 (ethinyl estradiol 0.025 MG / norethindrone 0.8 MG Chewable Tablet) / 4 (ferrous fumarate 75 MG Chewable Tablet) } Pack [Kaitlib Fe 28 Day]",
+              "synonym": "Kaitlib Fe 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1729516",
+              "name": "{21 (ethinyl estradiol 0.03 MG / norethindrone acetate 1.5 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Blisovi 21 Fe 1.5/30 28 Day Pack]",
+              "synonym": "Blisovi 21 Fe 1.5/30 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1806683",
+              "name": "{28 (estradiol 0.5 MG / norethindrone acetate 0.1 MG Oral Tablet) } Pack [Amabelz 0.5/0.1 28 Day]",
+              "synonym": "Amabelz 0.5/0.1 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1806684",
+              "name": "{28 (estradiol 1 MG / norethindrone acetate 0.5 MG Oral Tablet) } Pack [Amabelz 1/0.5 28 Day]",
+              "synonym": "Amabelz 1/0.5 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1809905",
+              "name": "{24 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Capsule) / 4 (ferrous fumarate 75 MG Oral Capsule) } Pack [Taytulla 28 Day]",
+              "synonym": "Taytulla 1 MG / 20 MCG 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1811763",
+              "name": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Norlyda 28 Day]",
+              "synonym": "Norlyda 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1856398",
+              "name": "{21 (ethinyl estradiol 0.035 MG / norethindrone 0.5 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Cyonanz 28 Day]",
+              "synonym": "",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1856402",
+              "name": "{21 (ethinyl estradiol 0.035 MG / norethindrone 1 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Nylia 1/35 28 Day]",
+              "synonym": "Nylia 1/35 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1856424",
+              "name": "{7 (ethinyl estradiol 0.035 MG / norethindrone 0.5 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norethindrone 0.75 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norethindrone 1 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Nylia 7/7/7 28 Day]",
+              "synonym": "Nylia 7/7/7 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1869047",
+              "name": "{21 (ethinyl estradiol 0.035 MG / norethindrone 0.4 MG Chewable Tablet) / 7 (ferrous fumarate 75 MG Chewable Tablet) } Pack [Nexesta Fe 28 Day]",
+              "synonym": "Nexesta Fe 28 Day",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1873704",
+              "name": "{24 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Chewable Tablet) / 4 (ferrous fumarate 75 MG Oral Tablet) } Pack [Mibelas 24 Fe Chewable 28 Day]",
+              "synonym": "Mibelas 24 Fe Chewable 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1926946",
+              "name": "{21 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Aurovela Fe 1/20 28 Day]",
+              "synonym": "Aurovela Fe 1/20 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1927366",
+              "name": "{21 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) } Pack [Aurovela 1/20 21 Day]",
+              "synonym": "Aurovela 1/20 21 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1927957",
+              "name": "{24 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 4 (ferrous fumarate 75 MG Oral Tablet) } Pack [Aurovela Fe 24 1/20 28 Day]",
+              "synonym": "Aurovela 24 Fe 1/20 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1928007",
+              "name": "{21 (ethinyl estradiol 0.03 MG / norethindrone acetate 1.5 MG Oral Tablet) } Pack [Aurovela 1.5/30 21 Day]",
+              "synonym": "Aurovela 1.5/30 21 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1944656",
+              "name": "{24 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Chewable Tablet) / 4 (ferrous fumarate 75 MG Oral Tablet) } Pack [Melodetta 24 Fe Chewable 28 Day]",
+              "synonym": "Melodetta 24 Fe Chewable 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1986791",
+              "name": "{21 (ethinyl estradiol 0.03 MG / norethindrone acetate 1.5 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Aurovela Fe 1.5/30 28 Day]",
+              "synonym": "Aurovela Fe 1.5/30 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1989507",
+              "name": "{24 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 4 (ferrous fumarate 75 MG Oral Tablet) } Pack [Hailey 24 Fe 28 Day]",
+              "synonym": "Hailey 24 Fe 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1989873",
+              "name": "{21 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Hailey Fe 1/20 28 Day]",
+              "synonym": "Hailey Fe 1/20 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2043465",
+              "name": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Tulana 28 Day]",
+              "synonym": "Tulana 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2047760",
+              "name": "{21 (ethinyl estradiol 0.03 MG / norethindrone acetate 1.5 MG Oral Tablet) } Pack [Hailey 1.5/30 21 Day]",
+              "synonym": "Hailey 1.5/30 21 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2052064",
+              "name": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Incassia 28 Day]",
+              "synonym": "Incassia 28 Day",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2099508",
+              "name": "{21 (ethinyl estradiol 0.03 MG / norethindrone acetate 1.5 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Hailey Fe 1.5/30 28 Day]",
+              "synonym": "Hailey Fe 1.5/30 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2107008",
+              "name": "{24 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 4 (ferrous fumarate 75 MG Oral Tablet) } Pack [Tarina 24 FE 1/20 28 Day]",
+              "synonym": "Tarina 24 FE 1/20 28 Day",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2280761",
+              "name": "{24 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Chewable Tablet) / 4 (ferrous fumarate 75 MG Oral Tablet) } Pack [Charlotte 24 Fe Chewable 28 Day]",
+              "synonym": "Charlotte 24 Fe Chewable 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2371768",
+              "name": "{28 (elagolix 300 MG / estradiol 1 MG / norethindrone 0.5 MG Oral Capsule) / 28 (elagolix 300 MG Oral Capsule) } Pack [Oriahnn 28 Day Kit]",
+              "synonym": "Oriahnn 28 Day Kit",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2397128",
+              "name": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Lyleq 28 Day]",
+              "synonym": "Lyleq 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2463741",
+              "name": "{24 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Capsule) / 4 (ferrous fumarate 75 MG Oral Capsule) } Pack [Gemmily 28 Day]",
+              "synonym": "Gemmily 1 MG / 20 MCG 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2566439",
+              "name": "{24 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Capsule) / 4 (ferrous fumarate 75 MG Oral Capsule) } Pack [Taysofy 28 Day]",
+              "synonym": "Taysofy 1 MG / 20 MCG 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2595466",
+              "name": "{24 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Capsule) / 4 (ferrous fumarate 75 MG Oral Capsule) } Pack [Merzee 28 Day]",
+              "synonym": "Merzee 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2608695",
+              "name": "{24 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Chewable Tablet) / 4 (ferrous fumarate 75 MG Oral Tablet) } Pack [Finzala 24 Fe Chewable 28 Day]",
+              "synonym": "Finzala 24 Fe Chewable 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2624207",
+              "name": "{21 (ethinyl estradiol 0.035 MG / norethindrone 0.4 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Rhuzdah 28 Day]",
+              "synonym": "Rhuzdah 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2626828",
+              "name": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Emzahh 28 Day]",
+              "synonym": "Emzahh 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2642136",
+              "name": "{28 (estradiol 0.5 MG / norethindrone acetate 0.1 MG Oral Tablet) } Pack [Etyqa 0.5/0.1 28 Day]",
+              "synonym": "Etyqa 0.5/0.1 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2642137",
+              "name": "{28 (estradiol 1 MG / norethindrone acetate 0.5 MG Oral Tablet) } Pack [Etyqa 1/0.5 28 Day]",
+              "synonym": "Etyqa 1/0.5 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2696888",
+              "name": "{24 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Disintegrating Oral Tablet) / 4 (inert ingredients 1 MG Disintegrating Oral Tablet) } Pack [Femlyv 24 ODT 28 Day]",
+              "synonym": "Femlyv 24 ODT 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2703268",
+              "name": "{21 (ethinyl estradiol 0.035 MG / norethindrone 0.4 MG Chewable Tablet) / 7 (ferrous fumarate 75 MG Chewable Tablet) } Pack [Xelria Fe 28 Day]",
+              "synonym": "Xelria Fe 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2703269",
+              "name": "{21 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Feirza 1/20 28 Day]",
+              "synonym": "Feirza 1/20 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2703270",
+              "name": "{21 (ethinyl estradiol 0.03 MG / norethindrone acetate 1.5 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Feirza 1.5/30 28 Day]",
+              "synonym": "Feirza 1.5/30 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2703554",
+              "name": "{5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack [Xarah Fe 28 Day]",
+              "synonym": "Xarah Fe 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2704559",
+              "name": "{24 (ethinyl estradiol 0.025 MG / norethindrone 0.8 MG Chewable Tablet) / 4 (ferrous fumarate 75 MG Chewable Tablet) } Pack [Galbriela 28 Day]",
+              "synonym": "Galbriela 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2704560",
+              "name": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Orquidea 28 Day]",
+              "synonym": "Orquidea 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2706646",
+              "name": "{28 (estradiol 1 MG / norethindrone acetate 0.5 MG Oral Tablet) } Pack [Abigale 1/0.5 28 Day]",
+              "synonym": "Abigale 1/0.5 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2706647",
+              "name": "{28 (estradiol 0.5 MG / norethindrone acetate 0.1 MG Oral Tablet) } Pack [Abigale Lo 0.5/0.1 28 Day]",
+              "synonym": "Abigale Lo 0.5/0.1 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2712092",
+              "name": "{21 (ethinyl estradiol 0.03 MG / norethindrone acetate 1.5 MG Oral Tablet) } Pack [Luizza 1.5/30 21 Day]",
+              "synonym": "Luizza 1.5/30 21 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2714657",
+              "name": "{21 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) } Pack [Luizza 1/20 21 Day]",
+              "synonym": "Luizza 1/20 21 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2716571",
+              "name": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Meleya 28 Day]",
+              "synonym": "Meleya 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "748962",
+              "name": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day]",
+              "synonym": "Camila 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "748977",
+              "name": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Nora-BE 28 Day]",
+              "synonym": "Nora-BE 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "748987",
+              "name": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Ortho Micronor 28 Day]",
+              "synonym": "Ortho Micronor 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "749148",
+              "name": "{12 (ethinyl estradiol 0.035 MG / norethindrone 0.5 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone 1 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Leena 28 Day]",
+              "synonym": "Leena 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "749737",
+              "name": "{21 (ethinyl estradiol 0.035 MG / norethindrone 0.4 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ovcon 35 28 Day]",
+              "synonym": "Ovcon 35 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "749853",
+              "name": "{7 (ethinyl estradiol 0.035 MG / norethindrone 0.5 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norethindrone 0.75 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norethindrone 1 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho-Novum 7/7/7 28 Day]",
+              "synonym": "Ortho-Novum 7/7/7 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "749859",
+              "name": "{21 (ethinyl estradiol 0.035 MG / norethindrone 1 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho-Novum 1/35 28 Day]",
+              "synonym": "Ortho-Novum 1/35 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "749880",
+              "name": "{21 (ethinyl estradiol 0.035 MG / norethindrone 0.5 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Brevicon 28 Day]",
+              "synonym": "Brevicon 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "750264",
+              "name": "{7 (ethinyl estradiol 0.035 MG / norethindrone 0.5 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norethindrone 0.75 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norethindrone 1 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Necon 7/7/7 28 Day]",
+              "synonym": "Necon 7/7/7 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "750267",
+              "name": "{12 (ethinyl estradiol 0.035 MG / norethindrone 0.5 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone 1 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Aranelle 28]",
+              "synonym": "Aranelle 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "751868",
+              "name": "{21 (ethinyl estradiol 0.035 MG / norethindrone 0.5 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Nortrel 0.5/35 28 Day]",
+              "synonym": "Nortrel 0.5/35 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "751870",
+              "name": "{21 (ethinyl estradiol 0.035 MG / norethindrone 1 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Nortrel 1/35 28 Day]",
+              "synonym": "Nortrel 1/35 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "751871",
+              "name": "{21 (ethinyl estradiol 0.035 MG / norethindrone 1 MG Oral Tablet) } Pack [Nortrel 1/35 21 Day]",
+              "synonym": "Nortrel 1/35 21 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "751875",
+              "name": "{21 (ethinyl estradiol 0.035 MG / norethindrone 0.5 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Necon 0.5/35 28 Day]",
+              "synonym": "Necon 0.5/35 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "751879",
+              "name": "{21 (ethinyl estradiol 0.035 MG / norethindrone 1 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Necon 1/35 28 Day]",
+              "synonym": "Necon 1/35 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "753536",
+              "name": "{21 (ethinyl estradiol 0.035 MG / norethindrone 0.4 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Zenchent 28 Day]",
+              "synonym": "Zenchent 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "762007",
+              "name": "{7 (ethinyl estradiol 0.035 MG / norethindrone 0.5 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norethindrone 0.75 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norethindrone 1 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Nortrel 7/7/7 28 Day]",
+              "synonym": "Nortrel 7/7/7 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "831533",
+              "name": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day]",
+              "synonym": "Errin 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "977836",
+              "name": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Heather 28 Day]",
+              "synonym": "Heather 28 Day Pack",
+              "tty": "BPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "GPCK",
+          "conceptProperties": [
+            {
+              "rxcui": "1037184",
+              "name": "{24 (ethinyl estradiol 0.01 MG / norethindrone acetate 1 MG Oral Tablet) / 2 (ethinyl estradiol 0.01 MG Oral Tablet) / 2 (ferrous fumarate 75 MG Oral Tablet) } Pack",
+              "synonym": "{24 (ethinyl estradiol 10 MCG / norethindrone acetate 1 MG Oral Tablet) / 2 (ethinyl estradiol 10 MCG Oral Tablet) / 2 (ferrous fumarate 75 MG Oral Tablet)} 28 Day Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1095224",
+              "name": "{21 (ethinyl estradiol 0.035 MG / norethindrone 0.4 MG Chewable Tablet) / 7 (ferrous fumarate 75 MG Chewable Tablet) } Pack",
+              "synonym": "{21 (ethinyl estradiol 35 MCG / norethindrone 0.4 MG Chewable Tablet) / 7 (ferrous fumarate 75 MG Chewable Tablet) } Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1251334",
+              "name": "{28 (ethinyl estradiol 0.0025 MG / norethindrone acetate 0.5 MG Oral Tablet) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1251336",
+              "name": "{28 (ethinyl estradiol 0.005 MG / norethindrone acetate 1 MG Oral Tablet) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1358763",
+              "name": "{21 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1358776",
+              "name": "{21 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1359023",
+              "name": "{21 (ethinyl estradiol 0.03 MG / norethindrone acetate 1.5 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1359028",
+              "name": "{21 (ethinyl estradiol 0.03 MG / norethindrone acetate 1.5 MG Oral Tablet) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1359117",
+              "name": "{24 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 4 (ferrous fumarate 75 MG Oral Tablet) } Pack",
+              "synonym": "ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet / ferrous fumarate 75 MG Oral Tablet 28 day Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1359124",
+              "name": "{28 (estradiol 0.5 MG / norethindrone acetate 0.1 MG Oral Tablet) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1359127",
+              "name": "{28 (estradiol 1 MG / norethindrone acetate 0.5 MG Oral Tablet) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1359132",
+              "name": "{5 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet) / 7 (ferrous fumarate 75 MG Oral Tablet) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1421461",
+              "name": "{24 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Capsule) / 4 (ferrous fumarate 75 MG Oral Capsule) } Pack",
+              "synonym": "ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Capsule / ferrous fumarate 75 MG Oral Capsule 28 day Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1426600",
+              "name": "{24 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Chewable Tablet) / 4 (ferrous fumarate 75 MG Oral Tablet) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1607990",
+              "name": "{24 (ethinyl estradiol 0.025 MG / norethindrone 0.8 MG Chewable Tablet) / 4 (ferrous fumarate 75 MG Chewable Tablet) } Pack",
+              "synonym": "(Ethinyl Estradiol 0.025 MG / Norethindrone 0.8 MG Chewable Tablet) / 4 (Ferrous fumarate 75 MG Chewable Tablet) 28 Day Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2371767",
+              "name": "{28 (elagolix 300 MG / estradiol 1 MG / norethindrone 0.5 MG Oral Capsule) / 28 (elagolix 300 MG Oral Capsule) } Pack",
+              "synonym": "(elagolix 300 MG / estradiol 1 MG / norethindrone 0.5 MG (28) Oral Capsule) / (elagolix 300 MG (28) Oral Capsule) Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2696887",
+              "name": "{24 (ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Disintegrating Oral Tablet) / 4 (inert ingredients 1 MG Disintegrating Oral Tablet) } Pack",
+              "synonym": "ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Disintegrating Oral Tablet 28 Day Pack",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "748961",
+              "name": "{28 (norethindrone 0.35 MG Oral Tablet) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "749736",
+              "name": "{21 (ethinyl estradiol 0.035 MG / norethindrone 0.4 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "749852",
+              "name": "{7 (ethinyl estradiol 0.035 MG / norethindrone 0.5 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norethindrone 0.75 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norethindrone 1 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "749858",
+              "name": "{21 (ethinyl estradiol 0.035 MG / norethindrone 1 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "749869",
+              "name": "{21 (ethinyl estradiol 0.035 MG / norethindrone 1 MG Oral Tablet) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "749879",
+              "name": "{21 (ethinyl estradiol 0.035 MG / norethindrone 0.5 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "823777",
+              "name": "{12 (ethinyl estradiol 0.035 MG / norethindrone 0.5 MG Oral Tablet) / 9 (ethinyl estradiol 0.035 MG / norethindrone 1 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack",
+              "synonym": "",
+              "tty": "GPCK",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1000407",
+              "name": "norethindrone acetate 5 MG Oral Tablet [Aygestin]",
+              "synonym": "Aygestin 5 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1090996",
+              "name": "ethinyl estradiol 0.005 MG / norethindrone acetate 1 MG Oral Tablet [Jinteli]",
+              "synonym": "Jinteli (ethinyl estradiol 0.005 MG / norethindrone acetate 1 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1251325",
+              "name": "ethinyl estradiol 0.0025 MG / norethindrone acetate 0.5 MG Oral Tablet [Femhrt]",
+              "synonym": "Femhrt 0.5/2.5 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1251327",
+              "name": "ethinyl estradiol 0.005 MG / norethindrone acetate 1 MG Oral Tablet [Femhrt]",
+              "synonym": "Femhrt 1/5 Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1251495",
+              "name": "84 HR estradiol 0.00208 MG/HR / norethindrone acetate 0.00583 MG/HR Transdermal System [Combipatch]",
+              "synonym": "Combipatch 50 MCG/140 MCG/Day Twice Weekly Transdermal System",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1251501",
+              "name": "84 HR estradiol 0.00208 MG/HR / norethindrone acetate 0.0104 MG/HR Transdermal System [Combipatch]",
+              "synonym": "Combipatch 50/250 MCG/Day Twice Weekly Transdermal System",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1722245",
+              "name": "ethinyl estradiol 0.0025 MG / norethindrone acetate 0.5 MG Oral Tablet [Jevantique]",
+              "synonym": "Jevantique (ethinyl estradiol 2.5 MCG / norethindrone acetate 500 MCG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1736654",
+              "name": "ethinyl estradiol 0.0025 MG / norethindrone acetate 0.5 MG Oral Tablet [Fyavolv]",
+              "synonym": "Fyavolv 0.5 MG / 0.0025 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1736656",
+              "name": "ethinyl estradiol 0.005 MG / norethindrone acetate 1 MG Oral Tablet [Fyavolv]",
+              "synonym": "Fyavolv 1 MG / 0.005 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2556800",
+              "name": "estradiol 1 MG / norethindrone acetate 0.5 MG / relugolix 40 MG Oral Tablet [Myfembree]",
+              "synonym": "Myfembree (relugolix 40 MG / estradiol 1 MG / norethindrone acetate 0.5 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2696255",
+              "name": "norethindrone acetate 5 MG Oral Tablet [Gallifrey]",
+              "synonym": "Gallifrey 5 MG Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1000405",
+              "name": "norethindrone acetate 5 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1037183",
+              "name": "ethinyl estradiol 0.01 MG / norethindrone acetate 1 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1090992",
+              "name": "ethinyl estradiol 0.005 MG / norethindrone acetate 1 MG Oral Tablet",
+              "synonym": "ethinyl estradiol 5 MCG / norethindrone acetate 1 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1099638",
+              "name": "ethinyl estradiol 0.025 MG / norethindrone 0.8 MG Chewable Tablet",
+              "synonym": "ethinyl estradiol 25 MCG / norethindrone 0.8 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1251323",
+              "name": "ethinyl estradiol 0.0025 MG / norethindrone acetate 0.5 MG Oral Tablet",
+              "synonym": "ethinyl estradiol 2.5 MCG / norethindrone acetate 500 MCG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1251493",
+              "name": "84 HR estradiol 0.00208 MG/HR / norethindrone acetate 0.00583 MG/HR Transdermal System",
+              "synonym": "estradiol 50 MCG / norethindrone acetate 140 MCG/Day Twice Weekly Transdermal System",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1251499",
+              "name": "84 HR estradiol 0.00208 MG/HR / norethindrone acetate 0.0104 MG/HR Transdermal System",
+              "synonym": "estradiol 0.00208 MG / norethindrone acetate 0.0104 MG per HR 84 HR Transdermal Patch",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1358762",
+              "name": "ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Tablet",
+              "synonym": "ethinyl estradiol 20 MCG / norethindrone acetate 1 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1359022",
+              "name": "ethinyl estradiol 0.03 MG / norethindrone acetate 1.5 MG Oral Tablet",
+              "synonym": "ethinyl estradiol 30 MCG / norethindrone acetate 1.5 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1359123",
+              "name": "estradiol 0.5 MG / norethindrone acetate 0.1 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1359126",
+              "name": "estradiol 1 MG / norethindrone acetate 0.5 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1359130",
+              "name": "ethinyl estradiol 0.03 MG / norethindrone acetate 1 MG Oral Tablet",
+              "synonym": "ethinyl estradiol 30 MCG / norethindrone acetate 1 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1359131",
+              "name": "ethinyl estradiol 0.035 MG / norethindrone acetate 1 MG Oral Tablet",
+              "synonym": "ethinyl estradiol 35 MCG / norethindrone acetate 1 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1359235",
+              "name": "norethindrone enanthate 200 MG/ML Injectable Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1359294",
+              "name": "norethindrone acetate 1 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1421459",
+              "name": "ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1426288",
+              "name": "ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Chewable Tablet",
+              "synonym": "ethinyl estradiol 20 MCG / norethindrone acetate 1 MG Chewable Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198042",
+              "name": "norethindrone 0.35 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198043",
+              "name": "mestranol 0.05 MG / norethindrone 1 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2371764",
+              "name": "elagolix 300 MG / estradiol 1 MG / norethindrone 0.5 MG Oral Capsule",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "238015",
+              "name": "ethinyl estradiol 0.035 MG / norethindrone 0.4 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "249869",
+              "name": "estradiol 2 MG / norethindrone 1 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "250838",
+              "name": "estradiol 2 MG / norethindrone 0.7 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2556799",
+              "name": "estradiol 1 MG / norethindrone acetate 0.5 MG / relugolix 40 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2696883",
+              "name": "ethinyl estradiol 0.02 MG / norethindrone acetate 1 MG Disintegrating Oral Tablet",
+              "synonym": "ethinyl estradiol 20 MCG / norethindrone acetate 1 MG Disintegrating Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "310463",
+              "name": "ethinyl estradiol 0.035 MG / norethindrone 0.5 MG Oral Tablet",
+              "synonym": "ethinyl estradiol 35 MCG / norethindrone 0.5 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "312033",
+              "name": "ethinyl estradiol 0.035 MG / norethindrone 1 MG Oral Tablet",
+              "synonym": "ethinyl estradiol 35 MCG / norethindrone 1 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "312124",
+              "name": "ethinyl estradiol 0.05 MG / norethindrone 1 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "392662",
+              "name": "ethinyl estradiol 0.035 MG / norethindrone 0.75 MG Oral Tablet",
+              "synonym": "ethinyl estradiol 35 MCG / norethindrone 0.75 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "433718",
+              "name": "ethinyl estradiol 0.035 MG / norethindrone 0.4 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:30:08.193758",
+  "source": "RxNorm"
+}

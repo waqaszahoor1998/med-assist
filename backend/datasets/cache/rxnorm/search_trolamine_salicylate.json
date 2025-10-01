@@ -1,0 +1,181 @@
+{
+  "query": "Trolamine salicylate",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1091465",
+              "name": "trolamine salicylate 100 MG/ML Topical Cream [Myoflex]",
+              "synonym": "Myoflex 10 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1101827",
+              "name": "trolamine salicylate 100 MG/ML Topical Cream [Aspercreme]",
+              "synonym": "Aspercreme 10 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1101829",
+              "name": "trolamine salicylate 100 MG/ML Topical Lotion [Aspercreme]",
+              "synonym": "Aspercreme 10 % Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1101836",
+              "name": "trolamine salicylate 100 MG/ML Topical Cream [Mobisyl]",
+              "synonym": "Mobisyl 10 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1101843",
+              "name": "trolamine salicylate 100 MG/ML Topical Cream [Sportscreme]",
+              "synonym": "Sportscreme 10 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1305875",
+              "name": "capsaicin 0.25 MG/ML / trolamine salicylate 100 MG/ML Topical Cream [Arthur Itis]",
+              "synonym": "Arthur Itis 0.025 % / 10 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1433915",
+              "name": "trolamine salicylate 100 MG/ML Topical Lotion [Tru-micin]",
+              "synonym": "Tru-micin 10 % Topical Lotion",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "725043",
+              "name": "trolamine salicylate 100 MG/ML Topical Cream [Asper-Flex]",
+              "synonym": "Asper-Flex 10 % Topical Cream",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1048119",
+              "name": "trolamine salicylate 100 MG/ML Topical Spray",
+              "synonym": "trolamine salicylate 10 % Topical Spray",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1987017",
+              "name": "capsaicin 0.35 MG/ML / lidocaine 40 MG/ML / trolamine salicylate 100 MG/ML Topical Solution",
+              "synonym": "capsaicin 0.035 % / lidocaine 4 % / trolamine salicylate 10 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198880",
+              "name": "trolamine salicylate 0.1 MG/MG Topical Ointment",
+              "synonym": "trolamine salicylate 10 % Topical Ointment",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "198881",
+              "name": "trolamine salicylate 0.1 MG/MG Topical Gel",
+              "synonym": "trolamine salicylate 10 % Topical Gel",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "200298",
+              "name": "capsaicin 0.25 MG/ML / trolamine salicylate 100 MG/ML Topical Cream",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2591788",
+              "name": "trolamine salicylate 100 MG/ML Topical Foam",
+              "synonym": "trolamine salicylate 10 % Topical Foam",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "313518",
+              "name": "trolamine salicylate 100 MG/ML Topical Cream",
+              "synonym": "trolamine salicylate 10 % Topical Cream",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "313519",
+              "name": "trolamine salicylate 100 MG/ML Topical Lotion",
+              "synonym": "trolamine salicylate 10 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "758988",
+              "name": "capsaicin 0.45 MG/ML / trolamine salicylate 100 MG/ML Topical Lotion",
+              "synonym": "capsaicin 0.045 % / trolamine salicylate 10 % Topical Lotion",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:43:06.067634",
+  "source": "RxNorm"
+}

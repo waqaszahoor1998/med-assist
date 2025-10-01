@@ -1,0 +1,289 @@
+{
+  "query": "Cupric sulfate",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1087399",
+              "name": "copper sulfate 0.8 MG / ferrous fumarate 324 MG / folic acid 1 MG / magnesium sulfate 6.9 MG / manganese sulfate 1.3 MG / niacinamide 30 MG / pantothenic acid 10 MG / pyridoxine 5 MG / riboflavin 6 MG / sodium ascorbate 200 MG / thiamine 10 MG / vitamin B12 0.015 MG / zinc sulfate 18.2 MG Oral Capsule [Hemocyte Plus]",
+              "synonym": "copper sulfate 0.8 MG / ferrous fumarate 324 MG / folate 1 MG / magnesium sulfate 6.9 MG / manganese sulfate 1.3 MG / niacinamide 30 MG / pantothenic acid 10 MG / vit-B6 5 MG / riboflavin 6 MG / sodium ascorbate 200 MG / vit-B1 10 MG / vitamin B12 0.015 MG / ZnSO4 18.2 MG Oral Capsule [Hemocyte Plus]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1087410",
+              "name": "24 HR ascorbic acid 500 MG / biotin 0.15 MG / copper sulfate 3 MG / dl-alpha tocopheryl acetate 30 UNT / docusate sodium 50 MG / folic acid 1 MG / iron carbonyl 150 MG / vitamin B12 0.06 MG Extended Release Oral Tablet [Hemax]",
+              "synonym": "24 HR vit-C 500 MG / biotin 0.15 MG / copper sulfate 3 MG / dl-alpha tocopheryl acetate 30 UNT / DOSS sodium 50 MG / folate 1 MG / iron carbonyl 150 MG / vitamin B12 0.06 MG Extended Release Oral Tablet [Hemax]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1090975",
+              "name": "ascorbic acid 60 MG / beta carotene 5000 UNT / copper sulfate 2 MG / dl-alpha tocopheryl acetate 30 UNT / lutein 2 MG / sodium selenite 0.04 MG / zinc oxide 40 MG Oral Tablet [Macuvite with Lutein]",
+              "synonym": "vit-C 60 MG / Beta Carotene 5000 UNT / Copper Sulfate 2 MG / dl-alpha tocopheryl acetate 30 UNT / Lutein 2 MG / Sodium Selenite 0.04 MG / ZNO 40 MG Oral Tablet [Macuvite with Lutein]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1116183",
+              "name": "ascorbic acid 100 MG / calcium carbonate 200 MG / cholecalciferol 0.01 MG / copper sulfate 2 MG / dl-alpha tocopheryl acetate 30 UNT / ferrous fumarate 65 MG / folic acid 1 MG / magnesium oxide 10 MG / niacinamide 20 MG / potassium iodide 0.15 MG / pyridoxine hydrochloride 5 MG / retinol acetate 4000 UNT / riboflavin 3.4 MG / thiamine mononitrate 3 MG / vitamin B12 0.012 MG / zinc sulfate 15 MG Oral Tablet [Lactocal]",
+              "synonym": "Lactocal (calcium carbonate 200 MG / copper sulfate 2 MG / cyanocobalamin 12 MCG / folate 1 MG / iron (as ferrous fumarate) 65 MG / magnesium oxide 10 MG / nicotinamide 20 MG / potassium iodide 0.15 MG / vitamin A 4000 UNT / vitamin B1 3 MG / vitamin B2 3.4 MG / vitamin B6 5 MG / vitamin C 100 MG / vitamin E 30 UNT / vitamin D 400 UNT/ML / zinc sulfate 15 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1293446",
+              "name": "chromic chloride 0.00436 MG/ML / copper sulfate 0.39 MG/ML / manganese sulfate 0.077 MG/ML / zinc sulfate 6.6 MG/ML Injectable Solution [Multitrace-4]",
+              "synonym": "chromic chloride 0.00436 MG/ML / Copper Sulfate 0.39 MG/ML / manganese sulfate 0.077 MG/ML / ZnSO4 6.6 MG/ML Injectable Solution [Multitrace-4]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1293466",
+              "name": "chromic chloride 0.00512 MG/ML / copper sulfate 0.4 MG/ML / manganese sulfate 0.077 MG/ML / zinc sulfate 4.39 MG/ML Injectable Solution [Multitrace-4]",
+              "synonym": "chromic chloride 0.00512 MG/ML / Copper Sulfate 0.4 MG/ML / manganese sulfate 0.077 MG/ML / ZnSO4 4.39 MG/ML Injectable Solution [Multitrace-4]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1293739",
+              "name": "chromic chloride 0.0205 MG/ML / copper sulfate 1.57 MG/ML / manganese sulfate 0.308 MG/ML / selenious acid 0.0327 MG/ML / zinc sulfate 4.39 MG/ML Injectable Solution [Multitrace-5]",
+              "synonym": "chromic chloride 0.0205 MG/ML / Copper Sulfate 1.57 MG/ML / manganese sulfate 0.308 MG/ML / Selenious Acid 0.0327 MG/ML / ZnSO4 4.39 MG/ML Injectable Solution [Multitrace-5]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1314672",
+              "name": "ascorbic acid 210 MG / biotin 0.3 MG / calcium pantothenate 7 MG / copper sulfate 0.8 MG / ferrous fumarate 130 MG / folic acid 1 MG / magnesium sulfate 6.9 MG / manganese sulfate 1.3 MG / niacin 20 MG / polysaccharide iron complex 92.4 MG / pyridoxine hydrochloride 25 MG / riboflavin 5 MG / thiamine mononitrate 5 MG / vitamin B12 0.01 MG / zinc sulfate 18.2 MG Oral Capsule [Concept OB]",
+              "synonym": "vit-C 210 MG / biotin 0.3 MG / calcium pantothenate 7 MG / copper sulfate 0.8 MG / ferrous fumarate 130 MG / folate 1 MG / magnesium sulfate 6.9 MG / manganese sulfate 1.3 MG / vit-B3 20 MG / polysaccharide iron complex 92.4 MG / vit-B6 hydrochloride 25 MG / riboflavin 5 MG / vit-B1 mononitrate 5 MG / vitamin B12 0.01 MG / ZnSO4 18.2 MG Oral Capsule [Concept OB]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1314685",
+              "name": "calcium pantothenate 10 MG / copper sulfate 0.8 MG / ferrous fumarate 162 MG / folic acid 1 MG / manganese sulfate 1.3 MG / niacinamide 30 MG / polysaccharide iron complex 115 MG / pyridoxine hydrochloride 5 MG / riboflavin 6 MG / sodium ascorbate 200 MG / thiamine mononitrate 10 MG / vitamin B12 0.015 MG / zinc sulfate 18.2 MG Oral Capsule [Tandem Plus]",
+              "synonym": "calcium pantothenate 10 MG / copper sulfate 0.8 MG / ferrous fumarate 162 MG / folate 1 MG / manganese sulfate 1.3 MG / niacinamide 30 MG / polysaccharide iron complex 115 MG / vit-B6 hydrochloride 5 MG / riboflavin 6 MG / sodium ascorbate 200 MG / vit-B1 mononitrate 10 MG / vitamin B12 0.015 MG / ZnSO4 18.2 MG Oral Capsule [Tandem Plus]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2568579",
+              "name": "1 ML copper sulfate 0.15 MG/ML / manganese sulfate 0.00822 MG/ML / selenious acid 0.0098 MG/ML / zinc sulfate 2.47 MG/ML Injection [Multrys]",
+              "synonym": "1 ML copper sulfate 0.15 MG/ML / manganese sulfate 0.00822 MG/ML / selenious acid 0.0098 MG/ML / ZnSO4 2.47 MG/ML Injection [Multrys]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "262197",
+              "name": "chromic chloride 0.0513 MG/ML / copper sulfate 3.93 MG/ML / manganese sulfate 1.54 MG/ML / selenious acid 0.098 MG/ML / zinc sulfate 22 MG/ML Injectable Solution [Multitrace-5]",
+              "synonym": "chromic chloride 0.0513 MG/ML / Copper Sulfate 3.93 MG/ML / manganese sulfate 1.54 MG/ML / Selenious Acid 0.098 MG/ML / ZnSO4 22 MG/ML Injectable Solution [Multitrace-5]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2693633",
+              "name": "1 ML copper sulfate 0.75 MG/ML / manganese sulfate 0.151 MG/ML / selenious acid 0.098 MG/ML / zinc sulfate 7.41 MG/ML Injection [Tralement]",
+              "synonym": "1 ML copper sulfate 0.75 MG/ML / manganese sulfate 0.151 MG/ML / selenious acid 0.098 MG/ML / ZnSO4 7.41 MG/ML Injection [Tralement]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "803239",
+              "name": "chromic chloride 0.0513 MG/ML / copper sulfate 3.93 MG/ML / manganese sulfate 1.54 MG/ML / zinc sulfate 22 MG/ML Injectable Solution [Multitrace-4]",
+              "synonym": "chromic chloride 0.0513 MG/ML / Copper Sulfate 3.93 MG/ML / manganese sulfate 1.54 MG/ML / ZnSO4 22 MG/ML Injectable Solution [Multitrace-4]",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1087406",
+              "name": "24 HR ascorbic acid 500 MG / biotin 0.15 MG / copper sulfate 3 MG / dl-alpha tocopheryl acetate 30 UNT / docusate sodium 50 MG / folic acid 1 MG / iron carbonyl 150 MG / vitamin B12 0.06 MG Extended Release Oral Tablet",
+              "synonym": "24 HR vit-C 500 MG / biotin 0.15 MG / copper sulfate 3 MG / dl-alpha tocopheryl acetate 30 UNT / DOSS sodium 50 MG / folate 1 MG / iron carbonyl 150 MG / vitamin B12 0.06 MG Extended Release Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1090824",
+              "name": "ascorbic acid 60 MG / beta carotene 5000 UNT / copper sulfate 40 MG / dl-alpha tocopheryl acetate 30 UNT / sodium selenite 0.04 MG / zinc oxide 40 MG Oral Tablet",
+              "synonym": "vit-C 60 MG / Beta Carotene 5000 UNT / Copper Sulfate 40 MG / dl-alpha tocopheryl acetate 30 UNT / Sodium Selenite 0.04 MG / ZNO 40 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1090973",
+              "name": "ascorbic acid 60 MG / beta carotene 5000 UNT / copper sulfate 2 MG / dl-alpha tocopheryl acetate 30 UNT / lutein 2 MG / sodium selenite 0.04 MG / zinc oxide 40 MG Oral Tablet",
+              "synonym": "vit-C 60 MG / Beta Carotene 5000 UNT / Copper Sulfate 2 MG / dl-alpha tocopheryl acetate 30 UNT / Lutein 2 MG / Sodium Selenite 0.04 MG / ZNO 40 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1116179",
+              "name": "ascorbic acid 100 MG / calcium carbonate 200 MG / cholecalciferol 0.01 MG / copper sulfate 2 MG / dl-alpha tocopheryl acetate 30 UNT / ferrous fumarate 65 MG / folic acid 1 MG / magnesium oxide 10 MG / niacinamide 20 MG / potassium iodide 0.15 MG / pyridoxine hydrochloride 5 MG / retinol acetate 4000 UNT / riboflavin 3.4 MG / thiamine mononitrate 3 MG / vitamin B12 0.012 MG / zinc sulfate 15 MG Oral Tablet",
+              "synonym": "vit-C 100 MG / calcium carbonate 200 MG / cholecalciferol 0.01 MG / copper sulfate 2 MG / dl-alpha tocopheryl acetate 30 UNT / ferrous fumarate 65 MG / folate 1 MG / magnesium oxide 10 MG / niacinamide 20 MG / K+ iodide 0.15 MG / vit-B6 hydrochloride 5 MG / retinol acetate 4000 UNT / riboflavin 3.4 MG / vit-B1 mononitrate 3 MG / vitamin B12 0.012 MG / ZnSO4 15 MG Oral Tablet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1293443",
+              "name": "chromic chloride 0.00436 MG/ML / copper sulfate 0.39 MG/ML / manganese sulfate 0.077 MG/ML / zinc sulfate 6.6 MG/ML Injectable Solution",
+              "synonym": "chromic chloride 0.00436 MG/ML / Copper Sulfate 0.39 MG/ML / manganese sulfate 0.077 MG/ML / ZnSO4 6.6 MG/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1293464",
+              "name": "chromic chloride 0.00512 MG/ML / copper sulfate 0.4 MG/ML / manganese sulfate 0.077 MG/ML / zinc sulfate 4.39 MG/ML Injectable Solution",
+              "synonym": "chromic chloride 0.00512 MG/ML / Copper Sulfate 0.4 MG/ML / manganese sulfate 0.077 MG/ML / ZnSO4 4.39 MG/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1293736",
+              "name": "chromic chloride 0.0205 MG/ML / copper sulfate 1.57 MG/ML / manganese sulfate 0.308 MG/ML / selenious acid 0.0327 MG/ML / zinc sulfate 4.39 MG/ML Injectable Solution",
+              "synonym": "chromic chloride 0.0205 MG/ML / Copper Sulfate 1.57 MG/ML / manganese sulfate 0.308 MG/ML / Selenious Acid 0.0327 MG/ML / ZnSO4 4.39 MG/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1314666",
+              "name": "ascorbic acid 210 MG / biotin 0.3 MG / calcium pantothenate 7 MG / copper sulfate 0.8 MG / ferrous fumarate 130 MG / folic acid 1 MG / magnesium sulfate 6.9 MG / manganese sulfate 1.3 MG / niacin 20 MG / polysaccharide iron complex 92.4 MG / pyridoxine hydrochloride 25 MG / riboflavin 5 MG / thiamine mononitrate 5 MG / vitamin B12 0.01 MG / zinc sulfate 18.2 MG Oral Capsule",
+              "synonym": "vit-C 210 MG / biotin 0.3 MG / calcium pantothenate 7 MG / copper sulfate 0.8 MG / ferrous fumarate 130 MG / folate 1 MG / magnesium sulfate 6.9 MG / manganese sulfate 1.3 MG / vit-B3 20 MG / polysaccharide iron complex 92.4 MG / vit-B6 hydrochloride 25 MG / riboflavin 5 MG / vit-B1 mononitrate 5 MG / vitamin B12 0.01 MG / ZnSO4 18.2 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1314679",
+              "name": "calcium pantothenate 10 MG / copper sulfate 0.8 MG / ferrous fumarate 162 MG / folic acid 1 MG / manganese sulfate 1.3 MG / niacinamide 30 MG / polysaccharide iron complex 115 MG / pyridoxine hydrochloride 5 MG / riboflavin 6 MG / sodium ascorbate 200 MG / thiamine mononitrate 10 MG / vitamin B12 0.015 MG / zinc sulfate 18.2 MG Oral Capsule",
+              "synonym": "calcium pantothenate 10 MG / copper sulfate 0.8 MG / ferrous fumarate 162 MG / folate 1 MG / manganese sulfate 1.3 MG / niacinamide 30 MG / polysaccharide iron complex 115 MG / vit-B6 hydrochloride 5 MG / riboflavin 6 MG / sodium ascorbate 200 MG / vit-B1 mononitrate 10 MG / vitamin B12 0.015 MG / ZnSO4 18.2 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2003344",
+              "name": "chromic chloride 0.00512 MG/ML / copper sulfate 0.4 MG/ML / manganese sulfate 0.0923 MG/ML / zinc sulfate 2.2 MG/ML Injectable Solution",
+              "synonym": "chromic chloride 0.00512 MG/ML / Copper Sulfate 0.4 MG/ML / manganese sulfate 0.0923 MG/ML / ZnSO4 2.2 MG/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "205073",
+              "name": "chromous chloride 0.002 MG/ML / copper sulfate 0.2 MG/ML / manganese chloride 0.16 MG/ML / zinc chloride 0.8 MG/ML Injectable Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2568573",
+              "name": "1 ML copper sulfate 0.15 MG/ML / manganese sulfate 0.00822 MG/ML / selenious acid 0.0098 MG/ML / zinc sulfate 2.47 MG/ML Injection",
+              "synonym": "1 ML copper sulfate 0.15 MG/ML / manganese sulfate 0.00822 MG/ML / selenious acid 0.0098 MG/ML / ZnSO4 2.47 MG/ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2693627",
+              "name": "1 ML copper sulfate 0.75 MG/ML / manganese sulfate 0.151 MG/ML / selenious acid 0.098 MG/ML / zinc sulfate 7.41 MG/ML Injection",
+              "synonym": "1 ML copper sulfate 0.75 MG/ML / manganese sulfate 0.151 MG/ML / selenious acid 0.098 MG/ML / ZnSO4 7.41 MG/ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "309279",
+              "name": "chromic chloride 0.0513 MG/ML / copper sulfate 3.93 MG/ML / manganese sulfate 1.54 MG/ML / zinc sulfate 22 MG/ML Injectable Solution",
+              "synonym": "chromic chloride 0.0513 MG/ML / Copper Sulfate 3.93 MG/ML / manganese sulfate 1.54 MG/ML / ZnSO4 22 MG/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "562675",
+              "name": "chromic chloride 0.0513 MG/ML / copper sulfate 3.93 MG/ML / manganese sulfate 1.54 MG/ML / selenious acid 0.098 MG/ML / zinc sulfate 22 MG/ML Injectable Solution",
+              "synonym": "chromic chloride 0.0513 MG/ML / Copper Sulfate 3.93 MG/ML / manganese sulfate 1.54 MG/ML / Selenious Acid 0.098 MG/ML / ZnSO4 22 MG/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "802693",
+              "name": "copper sulfate 0.8 MG / ferrous fumarate 324 MG / folic acid 1 MG / magnesium sulfate 6.9 MG / manganese sulfate 1.3 MG / niacinamide 30 MG / pantothenic acid 10 MG / pyridoxine 5 MG / riboflavin 6 MG / sodium ascorbate 200 MG / thiamine 10 MG / vitamin B12 0.015 MG / zinc sulfate 18.2 MG Oral Capsule",
+              "synonym": "copper sulfate 0.8 MG / ferrous fumarate 324 MG / folate 1 MG / magnesium sulfate 6.9 MG / manganese sulfate 1.3 MG / niacinamide 30 MG / pantothenic acid 10 MG / vit-B6 5 MG / riboflavin 6 MG / sodium ascorbate 200 MG / vit-B1 10 MG / vitamin B12 0.015 MG / ZnSO4 18.2 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T16:36:57.794634",
+  "source": "RxNorm"
+}

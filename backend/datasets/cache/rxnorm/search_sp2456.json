@@ -1,0 +1,10 @@
+{
+  "query": "SP2456",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T04:34:35.297455",
+  "source": "RxNorm"
+}

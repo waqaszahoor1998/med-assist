@@ -1,0 +1,23 @@
+{
+  "drug_name": "Chlorcyclizine",
+  "generic_name": [
+    "CHLORCYCLIZINE HYDROCHLORIDE AND PSEUDOEPHEDRINE HYDROCHLORIDE"
+  ],
+  "brand_names": [
+    "STAHIST AD"
+  ],
+  "drug_interactions": [],
+  "warnings": [
+    "Warnings Do not exceed recommended dosage. Do not use this product If you are taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for two weeks after stopping the MAOI drug. If you do not know if your prescription drug contains MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis glaucoma heart disease high blood pressure thyroid disease diabetes melitus difficulty in urination due to enlargement of the prostate gland Ask a doctor before use if you are taking sedatives or tranquilizers When using this product excitability may occur, especially in children may cause drowsiness alcohol, sedatives and tranquilizers may increase drowsiness effect avoid alcoholic beverages use caution when driving a motor vehicle or operating machinery Stop use and ask a doctor if nervousness, dizziness or sleeplessness occur symptoms do not improve within 7 days or are accompanied by fever new symptoms occur If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of accidental overdose, seek professional help or contact a Poison Control Center immediately."
+  ],
+  "adverse_reactions": [],
+  "contraindications": [],
+  "dosage_administration": [
+    "Directions Do not exceed recommended dosage. Adults and children 12 years of age and over: 1 tablet by mouth every 6-8 hours, not to exceed 3 tablets in 24 hours, or as directed by a doctor Children 6 to under 12 years of age: \u00bd tablet by mouth every 6-8 hours, not to exceed 1\u00bd tablets in 24 hours, or as directed by a doctor Children under 6 years of age Consult a doctor"
+  ],
+  "indications": [
+    "Uses temporarily relieves these symptoms due to the common cold, hay fever (allergic rhinitis) or other upper respiratory allergies: runny nose sneezing itching of the nose or throat itchy, watery eyes nasal congestion reduces swelling of nasal passages"
+  ],
+  "fetched_at": "2025-10-01T17:08:51.703686",
+  "source": "OpenFDA"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "GW-3965",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T04:26:54.969521",
+  "source": "RxNorm"
+}

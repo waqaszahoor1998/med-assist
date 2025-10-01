@@ -1,0 +1,16 @@
+{
+  "rxcui": "2587583",
+  "properties": {
+    "properties": {
+      "rxcui": "2587583",
+      "name": "medetomidine hydrochloride 1 MG/ML Injectable Solution [Placadine]",
+      "synonym": "Placadine 1 MG/ML Injectable Solution",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-10-01T17:59:47.732058",
+  "source": "RxNorm"
+}

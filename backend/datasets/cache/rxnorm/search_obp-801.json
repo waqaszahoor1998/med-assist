@@ -1,0 +1,10 @@
+{
+  "query": "OBP-801",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:49:58.597482",
+  "source": "RxNorm"
+}

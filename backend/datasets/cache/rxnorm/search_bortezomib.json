@@ -1,0 +1,91 @@
+{
+  "query": "Bortezomib",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2693996",
+              "name": "1.4 ML bortezomib 2.5 MG/ML Injection [Boruzu]",
+              "synonym": "1.4 ML Boruzu 2.5 MG/ML Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "402244",
+              "name": "bortezomib 3.5 MG Injection [Velcade]",
+              "synonym": "Velcade 3.5 MG Injection",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2601542",
+              "name": "bortezomib 1 MG Injection",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2601544",
+              "name": "bortezomib 2.5 MG Injection",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2608948",
+              "name": "1.4 ML bortezomib 2.5 MG/ML Injection",
+              "synonym": "bortezomib 3.5 MG per 1.4 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2608952",
+              "name": "3.5 ML bortezomib 1 MG/ML Injection",
+              "synonym": "bortezomib 3.5 MG per 3.5 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "402243",
+              "name": "bortezomib 3.5 MG Injection",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-09-30T21:00:25.740864",
+  "source": "RxNorm"
+}

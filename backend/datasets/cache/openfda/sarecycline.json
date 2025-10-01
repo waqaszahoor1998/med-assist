@@ -1,0 +1,27 @@
+{
+  "drug_name": "Sarecycline",
+  "generic_name": [
+    "SARECYCLINE HYDROCHLORIDE"
+  ],
+  "brand_names": [
+    "Seysara"
+  ],
+  "drug_interactions": [
+    "7 DRUG INTERACTIONS Oral retinoids: avoid coadministration. ( 5.4 , 7.1 ) Antacids and iron preparations: separate dosing of SEYSARA. ( 7.1 ) Penicillin: avoid coadministration. ( 7.2 ) Anticoagulants: decrease anticoagulant dosage as appropriate. ( 7.2 ) P-glycoprotein substrates: monitor for toxicities of drugs that may require dosage reduction. ( 7.2 ) 7.1 Effect of Other Drugs on SEYSARA Oral Retinoids Tetracyclines may cause increased intracranial pressure as do oral retinoids, including isotretinoin and acitretin [see Warnings and Precautions ( 5.4 )] . Avoid coadministration of SEYSARA with oral retinoids. Antacids and Iron Preparations Coadministration with antacids containing aluminum, calcium or magnesium, bismuth subsalicylate, and iron-containing preparations may impair absorption of SEYSARA, similar to other tetracyclines, which may decrease its efficacy. Separate dosing of SEYSARA from antacids containing aluminum, calcium or magnesium, bismuth subsalicylate, and iron-containing preparations. 7.2 Effect of SEYSARA on Other Drugs Penicillin Similar to other tetracyclines, SEYSARA may interfere with the bactericidal action of penicillin. Avoid coadministration of SEYSARA with penicillin. Anticoagulants Similar to other tetracyclines, SEYSARA may depress plasma prothrombin activity, which may increase the risk of bleeding in patients who are on anticoagulant therapy. Decrease anticoagulant dosage when coadministered with SEYSARA as appropriate. P-Glycoprotein (P-gp) Substrates Concomitant use of SEYSARA may increase concentrations of concomitantly administered P-gp substrates (e.g. digoxin). Monitor for toxicities of drugs that are P-gp substrates and may require dosage reduction when given concurrently with SEYSARA [see Clinical Pharmacology ( 12.3 )] . Oral Hormonal Contraceptives There is no clinically significant effect of SEYSARA on the efficacy of oral contraceptives containing ethinyl estradiol and norethindrone acetate [see Clinical Pharmacology ( 12.3 )] ."
+  ],
+  "warnings": [],
+  "adverse_reactions": [
+    "6 ADVERSE REACTIONS Most common adverse reaction (incidence \u2265 1%) is nausea. ( 6.1 ) To report SUSPECTED ADVERSE REACTIONS, contact Almirall at 1-866-665-2782 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch . 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. A total of 1064 subjects and 1069 subjects with moderate to severe acne vulgaris were treated with SEYSARA and placebo, respectively, for 12 weeks in 3 controlled clinical trials. The only adverse drug reaction that was reported in at least 1% of subjects was nausea, SEYSARA (3.1%) versus placebo (2.0%). The following additional adverse drug reactions occurred in less than 1% of female SEYSARA subjects: vulvovaginal mycotic infection (0.8%) and vulvovaginal candidiasis (0.6%)."
+  ],
+  "contraindications": [
+    "4 CONTRAINDICATIONS SEYSARA is contraindicated in persons who have shown hypersensitivity to any of the tetracyclines. SEYSARA is contraindicated in persons who have shown hypersensitivity to any of the tetracyclines. ( 4 )"
+  ],
+  "dosage_administration": [
+    "2 DOSAGE AND ADMINISTRATION The recommended dosage of SEYSARA is based on body weight described in Table 1 . If there is no improvement after 12 weeks, reassess treatment with SEYSARA. Table 1: Dosing Table for SEYSARA Body Weight (kg) Tablet Strength 33 to 54 kg 60 mg tablet 55 to 84 kg 100 mg tablet 85 to 136 kg 150 mg tablet Take SEYSARA once daily, with or without food. To reduce the risk of esophageal irritation and ulceration, administer SEYSARA with adequate amounts of fluid. The recommended dosage of SEYSARA is once daily with or without food ( 2 ): 60 mg for patients who weigh 33-54 kg, 100 mg for patients who weigh 55-84 kg, 150 mg for patients who weigh 85-136 kg."
+  ],
+  "indications": [
+    "1 INDICATIONS AND USAGE SEYSARA \u00ae (sarecycline) tablet, is indicated for the treatment of inflammatory lesions of non-nodular moderate to severe acne vulgaris in patients 9 years of age and older. Limitations of Use Efficacy of SEYSARA beyond 12 weeks and safety beyond 12 months have not been established. SEYSARA has not been evaluated in the treatment of infections [see Clinical Studies ( 14 )] . To reduce the development of drug-resistant bacteria as well as to maintain the effectiveness of other antibacterial drugs, SEYSARA should be used only as indicated [see Warnings and Precautions ( 5.6 )] . SEYSARA \u00ae is a tetracycline-class drug indicated for the treatment of inflammatory lesions of non-nodular moderate to severe acne vulgaris in patients 9 years of age and older. ( 1 ) Limitations of Use Efficacy of SEYSARA beyond 12 weeks and safety beyond 12 months have not been established. SEYSARA has not been evaluated in the treatment of infections. To reduce the development of drug-resistant bacteria as well as to maintain the effectiveness of other antibacterial drugs, SEYSARA should be used only as indicated [see Warnings and Precautions ( 5.6 )]."
+  ],
+  "fetched_at": "2025-10-01T18:34:51.993020",
+  "source": "OpenFDA"
+}

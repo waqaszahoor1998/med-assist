@@ -1,0 +1,46 @@
+{
+  "query": "Cantharidin",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2643442",
+              "name": "cantharidin 7 MG/ML Topical Solution [Ycanth]",
+              "synonym": "Ycanth 0.7 % Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "244521",
+              "name": "cantharidin 7 MG/ML Topical Solution",
+              "synonym": "cantharidin 0.7 % Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:53:04.559656",
+  "source": "RxNorm"
+}

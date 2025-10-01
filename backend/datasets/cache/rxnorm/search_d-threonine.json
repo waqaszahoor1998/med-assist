@@ -1,0 +1,10 @@
+{
+  "query": "D-Threonine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:53:22.174311",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "(S)-2-((S)-3-isobutyl-2,5-dioxo-4-quinolin-3-ylmethyl-[1,4]diazepan-1yl)-N-methyl-3-naphtalen-2-yl-propionamide",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:38:26.931660",
+  "source": "RxNorm"
+}

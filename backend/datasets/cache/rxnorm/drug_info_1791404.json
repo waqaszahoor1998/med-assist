@@ -1,0 +1,16 @@
+{
+  "rxcui": "1791404",
+  "properties": {
+    "properties": {
+      "rxcui": "1791404",
+      "name": "250 ML mannitol 200 MG/ML Injection [Osmitrol]",
+      "synonym": "Osmitrol 20 % per 250 ML Injection",
+      "tty": "SBD",
+      "language": "ENG",
+      "suppress": "N",
+      "umlscui": ""
+    }
+  },
+  "fetched_at": "2025-09-30T21:31:55.367025",
+  "source": "RxNorm"
+}

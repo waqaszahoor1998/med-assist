@@ -1,0 +1,118 @@
+{
+  "query": "Sacubitril",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1656346",
+              "name": "sacubitril 24 MG / valsartan 26 MG Oral Tablet [Entresto]",
+              "synonym": "Entresto (sacubitril 24 MG / valsartan 26 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1656351",
+              "name": "sacubitril 49 MG / valsartan 51 MG Oral Tablet [Entresto]",
+              "synonym": "Entresto (sacubitril 49 MG / valsartan 51 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1656356",
+              "name": "sacubitril 97 MG / valsartan 103 MG Oral Tablet [Entresto]",
+              "synonym": "Entresto (sacubitril 97 MG / valsartan 103 MG) Oral Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2679797",
+              "name": "sacubitril 15 MG / valsartan 16 MG Oral Pellet [Entresto]",
+              "synonym": "Entresto Sprinkle (sacubitril 15 MG / valsartan 16 MG) Oral Pellet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2679802",
+              "name": "sacubitril 6 MG / valsartan 6 MG Oral Pellet [Entresto]",
+              "synonym": "Entresto Sprinkle (sacubitril 6 MG / valsartan 6 MG) Oral Pellet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1656340",
+              "name": "sacubitril 24 MG / valsartan 26 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1656349",
+              "name": "sacubitril 49 MG / valsartan 51 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1656354",
+              "name": "sacubitril 97 MG / valsartan 103 MG Oral Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2679793",
+              "name": "sacubitril 15 MG / valsartan 16 MG Oral Pellet",
+              "synonym": "sacubitril 15 MG / valsartan 16 MG Oral Pellet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2679800",
+              "name": "sacubitril 6 MG / valsartan 6 MG Oral Pellet",
+              "synonym": "sacubitril 6 MG / valsartan 6 MG Oral Pellet",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:32:21.567929",
+  "source": "RxNorm"
+}

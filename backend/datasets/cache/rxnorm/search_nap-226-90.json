@@ -1,0 +1,10 @@
+{
+  "query": "NAP-226-90",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T15:31:11.001303",
+  "source": "RxNorm"
+}

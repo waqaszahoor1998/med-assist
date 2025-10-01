@@ -1,0 +1,64 @@
+{
+  "query": "Tivozanib",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "2534244",
+              "name": "tivozanib 0.89 MG Oral Capsule [Fotivda]",
+              "synonym": "Fotivda 0.89 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2534249",
+              "name": "tivozanib 1.34 MG Oral Capsule [Fotivda]",
+              "synonym": "Fotivda 1.34 MG Oral Capsule",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "2534238",
+              "name": "tivozanib 0.89 MG Oral Capsule",
+              "synonym": "tivozanib (as tivozanib hydrochloride 1 MG) 0.89 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2534247",
+              "name": "tivozanib 1.34 MG Oral Capsule",
+              "synonym": "tivozanib (as tivozanib hydrochloride 1.5 MG) 1.34 MG Oral Capsule",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T18:21:17.357946",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "(S)-Fluoxetine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:56:23.382980",
+  "source": "RxNorm"
+}

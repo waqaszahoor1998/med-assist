@@ -1,0 +1,10 @@
+{
+  "query": "Perzinfotel",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:54:57.129573",
+  "source": "RxNorm"
+}

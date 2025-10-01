@@ -1,0 +1,235 @@
+{
+  "query": "Dipotassium phosphate",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1090639",
+              "name": "alanine 8.8 MG/ML / arginine 4.89 MG/ML / calcium chloride 0.004 MEQ/ML / dibasic potassium phosphate 2.61 MG/ML / glucose 100 MG/ML / glycine 4.38 MG/ML / histidine 2.04 MG/ML / isoleucine 2.55 MG/ML / leucine 3.11 MG/ML / lysine 2.47 MG/ML / magnesium chloride 0.01 MEQ/ML / methionine 1.7 MG/ML / phenylalanine 2.38 MG/ML / proline 2.89 MG/ML / serine 2.13 MG/ML / sodium acetate trihydrate 2.97 MG/ML / sodium chloride 0.013 MEQ/ML / threonine 1.79 MG/ML / tryptophan 0.77 MG/ML / tyrosine 0.17 MG/ML / valine 2.47 MG/ML Injectable Solution [Clinimix E 4.25/10]",
+              "synonym": "Clinimix E 4.25/10 (4.25 % amino acids with electrolytes in dextrose 10 % ) Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "800637",
+              "name": "dibasic potassium phosphate 1 MG/ML / glucose 50 MG/ML / magnesium chloride 0.00639 MEQ/ML / potassium chloride 0.0134 MEQ/ML / sodium chloride 0.0308 MEQ/ML / sodium lactate 0.025 MEQ/ML / sodium phosphate, monobasic 0.16 MG/ML Injectable Solution [Ionosol-B]",
+              "synonym": "Ionosol-B Dextrose 5 % Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "800812",
+              "name": "dibasic potassium phosphate 0.26 MG/ML / glucose 50 MG/ML / magnesium chloride 0.00373 MEQ/ML / potassium chloride 0.00174 MEQ/ML / sodium acetate 0.039 MEQ/ML Injectable Solution [Isolyte P]",
+              "synonym": "Isolyte P Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "801000",
+              "name": "alanine 8.8 MG/ML / arginine 4.89 MG/ML / calcium chloride 0.004 MEQ/ML / dibasic potassium phosphate 2.61 MG/ML / glucose 50 MG/ML / glycine 4.38 MG/ML / histidine 2.04 MG/ML / isoleucine 2.55 MG/ML / leucine 3.11 MG/ML / lysine 2.47 MG/ML / magnesium chloride 0.01 MEQ/ML / methionine 1.7 MG/ML / phenylalanine 2.38 MG/ML / proline 2.89 MG/ML / serine 2.13 MG/ML / sodium acetate trihydrate 2.97 MG/ML / sodium chloride 0.013 MEQ/ML / threonine 1.79 MG/ML / tryptophan 0.77 MG/ML / tyrosine 0.17 MG/ML / valine 2.47 MG/ML Injectable Solution [Clinimix E 4.25/5]",
+              "synonym": "Clinimix E 4.25/5 (4.25 % amino acids with electrolytes in dextrose 5 % ) Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "801012",
+              "name": "alanine 5.7 MG/ML / arginine 3.16 MG/ML / calcium chloride 0.004 MEQ/ML / dibasic potassium phosphate 2.61 MG/ML / glucose 50 MG/ML / glycine 2.83 MG/ML / histidine 1.32 MG/ML / isoleucine 1.65 MG/ML / leucine 2.01 MG/ML / lysine 1.59 MG/ML / magnesium chloride 0.01 MEQ/ML / methionine 1.1 MG/ML / phenylalanine 1.54 MG/ML / proline 1.87 MG/ML / serine 1.38 MG/ML / sodium acetate trihydrate 2.17 MG/ML / sodium chloride 0.02 MEQ/ML / threonine 1.16 MG/ML / tryptophan 0.5 MG/ML / tyrosine 0.11 MG/ML / valine 1.6 MG/ML Injectable Solution [Clinimix E 2.75/5]",
+              "synonym": "Clinimix E 2.75/5 (2.75 % amino acids with electrolytes in dextrose 5 % ) Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "801021",
+              "name": "alanine 10.4 MG/ML / arginine 5.75 MG/ML / calcium chloride 0.004 MEQ/ML / dibasic potassium phosphate 2.61 MG/ML / glucose 150 MG/ML / glycine 5.15 MG/ML / histidine 2.4 MG/ML / isoleucine 3 MG/ML / leucine 3.65 MG/ML / lysine 2.9 MG/ML / magnesium chloride 0.01 MEQ/ML / methionine 2 MG/ML / phenylalanine 2.8 MG/ML / proline 3.4 MG/ML / serine 2.5 MG/ML / sodium acetate trihydrate 3.4 MG/ML / sodium chloride 0.01 MEQ/ML / threonine 2.1 MG/ML / tryptophan 0.9 MG/ML / tyrosine 0.2 MG/ML / valine 2.9 MG/ML Injectable Solution [Clinimix E 5/15]",
+              "synonym": "Clinimix E 5/15 (5 % amino acids with electrolytes in dextrose 15 % ) Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "801031",
+              "name": "alanine 10.4 MG/ML / arginine 5.75 MG/ML / calcium chloride 0.004 MEQ/ML / dibasic potassium phosphate 2.61 MG/ML / glucose 200 MG/ML / glycine 5.15 MG/ML / histidine 2.4 MG/ML / isoleucine 3 MG/ML / leucine 3.65 MG/ML / lysine 2.9 MG/ML / magnesium chloride 0.01 MEQ/ML / methionine 2 MG/ML / phenylalanine 2.8 MG/ML / proline 3.4 MG/ML / serine 2.5 MG/ML / sodium acetate trihydrate 3.4 MG/ML / sodium chloride 0.01 MEQ/ML / threonine 2.1 MG/ML / tryptophan 0.9 MG/ML / tyrosine 0.2 MG/ML / valine 2.9 MG/ML Injectable Solution [Clinimix E 5/20]",
+              "synonym": "Clinimix E 5/20 (5 % amino acids with electrolytes in dextrose 20 % ) Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "801034",
+              "name": "alanine 10.4 MG/ML / arginine 5.75 MG/ML / calcium chloride 0.004 MEQ/ML / dibasic potassium phosphate 2.61 MG/ML / glucose 250 MG/ML / glycine 5.15 MG/ML / histidine 2.4 MG/ML / isoleucine 3 MG/ML / leucine 3.65 MG/ML / lysine 2.9 MG/ML / magnesium chloride 0.01 MEQ/ML / methionine 2 MG/ML / phenylalanine 2.8 MG/ML / proline 3.4 MG/ML / serine 2.5 MG/ML / sodium acetate trihydrate 3.4 MG/ML / sodium chloride 0.01 MEQ/ML / threonine 2.1 MG/ML / tryptophan 0.9 MG/ML / tyrosine 0.2 MG/ML / valine 2.9 MG/ML Injectable Solution [Clinimix E 5/25]",
+              "synonym": "Clinimix E 5/25 (5 % amino acids with electrolytes in dextrose 25 % ) Injectable Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1090635",
+              "name": "alanine 8.8 MG/ML / arginine 4.89 MG/ML / calcium chloride 0.004 MEQ/ML / dibasic potassium phosphate 2.61 MG/ML / glucose 100 MG/ML / glycine 4.38 MG/ML / histidine 2.04 MG/ML / isoleucine 2.55 MG/ML / leucine 3.11 MG/ML / lysine 2.47 MG/ML / magnesium chloride 0.01 MEQ/ML / methionine 1.7 MG/ML / phenylalanine 2.38 MG/ML / proline 2.89 MG/ML / serine 2.13 MG/ML / sodium acetate trihydrate 2.97 MG/ML / sodium chloride 0.013 MEQ/ML / threonine 1.79 MG/ML / tryptophan 0.77 MG/ML / tyrosine 0.17 MG/ML / valine 2.47 MG/ML Injectable Solution",
+              "synonym": "Alanine 8.8 MG/ML / Arginine 4.89 MG/ML / Calcium Chloride 0.004 MEQ/ML / Dibasic K+ phosphate 2.61 MG/ML / Glucose 100 MG/ML / Glycine 4.38 MG/ML / Histidine 2.04 MG/ML / Isoleucine 2.55 MG/ML / Leucine 3.11 MG/ML / Lysine 2.47 MG/ML / Magnesium Chloride 0.01 MEQ/ML / Methionine 1.7 MG/ML / Phenylalanine 2.38 MG/ML / Proline 2.89 MG/ML / Serine 2.13 MG/ML / Sodium Acetate Trihydrate 2.97 MG/ML / NaCl 0.013 MEQ/ML / Threonine 1.79 MG/ML / Tryptophan 0.77 MG/ML / Tyrosine 0.17 MG/ML / Valine 2.47 MG/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1928567",
+              "name": "5 ML dibasic potassium phosphate 236 MG/ML / monobasic potassium phosphate 224 MG/ML Injection",
+              "synonym": "phosphorus 15 MMOL / potassium 22 MEQ per 5 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1928569",
+              "name": "15 ML dibasic potassium phosphate 236 MG/ML / monobasic potassium phosphate 224 MG/ML Injection",
+              "synonym": "phosphorus 45 MMOL / potassium 66 MEQ per 15 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1928570",
+              "name": "50 ML dibasic potassium phosphate 236 MG/ML / monobasic potassium phosphate 224 MG/ML Injection",
+              "synonym": "phosphorus 150 MMOL / potassium 220 MEQ per 50 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2205512",
+              "name": "15 ML dibasic potassium phosphate 300 MG/ML / monobasic potassium phosphate 175 MG/ML Injection",
+              "synonym": "phosphorus 45 MMOL / potassium 71 MEQ per 15 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2667657",
+              "name": "dibasic potassium phosphate 236 MG/ML / monobasic potassium phosphate 224 MG/ML Injectable Solution",
+              "synonym": "phosphorus 45 MMOL / potassium 66 MEQ per 1 ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2688947",
+              "name": "250 ML dibasic potassium phosphate 4.72 MG/ML / monobasic potassium phosphate 4.48 MG/ML Injection",
+              "synonym": "phosphorus 15 MMOL / potassium 22 MEQ per 250 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2716829",
+              "name": "100 ML dibasic potassium phosphate 11.8 MG/ML / monobasic potassium phosphate 11.2 MG/ML Injection",
+              "synonym": "phosphorus 15 MMOL / potassium 22 MEQ per 100 ML Injection",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "800633",
+              "name": "dibasic potassium phosphate 1 MG/ML / glucose 50 MG/ML / magnesium chloride 0.00639 MEQ/ML / potassium chloride 0.0134 MEQ/ML / sodium chloride 0.0308 MEQ/ML / sodium lactate 0.025 MEQ/ML / sodium phosphate, monobasic 0.16 MG/ML Injectable Solution",
+              "synonym": "Dibasic K+ phosphate 1 MG/ML / Glucose 50 MG/ML / Magnesium Chloride 0.00639 MEQ/ML / K+ Chloride 0.0134 MEQ/ML / NaCl 0.0308 MEQ/ML / Sodium Lactate 0.025 MEQ/ML / Sodium Phosphate, Monobasic 0.16 MG/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "800808",
+              "name": "dibasic potassium phosphate 0.26 MG/ML / glucose 50 MG/ML / magnesium chloride 0.00373 MEQ/ML / potassium chloride 0.00174 MEQ/ML / sodium acetate 0.039 MEQ/ML Injectable Solution",
+              "synonym": "Dibasic K+ phosphate 0.26 MG/ML / Glucose 50 MG/ML / Magnesium Chloride 0.00373 MEQ/ML / K+ Chloride 0.00174 MEQ/ML / Sodium Acetate 0.039 MEQ/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "800998",
+              "name": "alanine 8.8 MG/ML / arginine 4.89 MG/ML / calcium chloride 0.004 MEQ/ML / dibasic potassium phosphate 2.61 MG/ML / glucose 50 MG/ML / glycine 4.38 MG/ML / histidine 2.04 MG/ML / isoleucine 2.55 MG/ML / leucine 3.11 MG/ML / lysine 2.47 MG/ML / magnesium chloride 0.01 MEQ/ML / methionine 1.7 MG/ML / phenylalanine 2.38 MG/ML / proline 2.89 MG/ML / serine 2.13 MG/ML / sodium acetate trihydrate 2.97 MG/ML / sodium chloride 0.013 MEQ/ML / threonine 1.79 MG/ML / tryptophan 0.77 MG/ML / tyrosine 0.17 MG/ML / valine 2.47 MG/ML Injectable Solution",
+              "synonym": "Alanine 8.8 MG/ML / Arginine 4.89 MG/ML / Calcium Chloride 0.004 MEQ/ML / Dibasic K+ phosphate 2.61 MG/ML / Glucose 50 MG/ML / Glycine 4.38 MG/ML / Histidine 2.04 MG/ML / Isoleucine 2.55 MG/ML / Leucine 3.11 MG/ML / Lysine 2.47 MG/ML / Magnesium Chloride 0.01 MEQ/ML / Methionine 1.7 MG/ML / Phenylalanine 2.38 MG/ML / Proline 2.89 MG/ML / Serine 2.13 MG/ML / Sodium Acetate Trihydrate 2.97 MG/ML / NaCl 0.013 MEQ/ML / Threonine 1.79 MG/ML / Tryptophan 0.77 MG/ML / Tyrosine 0.17 MG/ML / Valine 2.47 MG/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "801010",
+              "name": "alanine 5.7 MG/ML / arginine 3.16 MG/ML / calcium chloride 0.004 MEQ/ML / dibasic potassium phosphate 2.61 MG/ML / glucose 50 MG/ML / glycine 2.83 MG/ML / histidine 1.32 MG/ML / isoleucine 1.65 MG/ML / leucine 2.01 MG/ML / lysine 1.59 MG/ML / magnesium chloride 0.01 MEQ/ML / methionine 1.1 MG/ML / phenylalanine 1.54 MG/ML / proline 1.87 MG/ML / serine 1.38 MG/ML / sodium acetate trihydrate 2.17 MG/ML / sodium chloride 0.02 MEQ/ML / threonine 1.16 MG/ML / tryptophan 0.5 MG/ML / tyrosine 0.11 MG/ML / valine 1.6 MG/ML Injectable Solution",
+              "synonym": "Alanine 5.7 MG/ML / Arginine 3.16 MG/ML / Calcium Chloride 0.004 MEQ/ML / Dibasic K+ phosphate 2.61 MG/ML / Glucose 50 MG/ML / Glycine 2.83 MG/ML / Histidine 1.32 MG/ML / Isoleucine 1.65 MG/ML / Leucine 2.01 MG/ML / Lysine 1.59 MG/ML / Magnesium Chloride 0.01 MEQ/ML / Methionine 1.1 MG/ML / Phenylalanine 1.54 MG/ML / Proline 1.87 MG/ML / Serine 1.38 MG/ML / Sodium Acetate Trihydrate 2.17 MG/ML / NaCl 0.02 MEQ/ML / Threonine 1.16 MG/ML / Tryptophan 0.5 MG/ML / Tyrosine 0.11 MG/ML / Valine 1.6 MG/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "801019",
+              "name": "alanine 10.4 MG/ML / arginine 5.75 MG/ML / calcium chloride 0.004 MEQ/ML / dibasic potassium phosphate 2.61 MG/ML / glucose 150 MG/ML / glycine 5.15 MG/ML / histidine 2.4 MG/ML / isoleucine 3 MG/ML / leucine 3.65 MG/ML / lysine 2.9 MG/ML / magnesium chloride 0.01 MEQ/ML / methionine 2 MG/ML / phenylalanine 2.8 MG/ML / proline 3.4 MG/ML / serine 2.5 MG/ML / sodium acetate trihydrate 3.4 MG/ML / sodium chloride 0.01 MEQ/ML / threonine 2.1 MG/ML / tryptophan 0.9 MG/ML / tyrosine 0.2 MG/ML / valine 2.9 MG/ML Injectable Solution",
+              "synonym": "Alanine 10.4 MG/ML / Arginine 5.75 MG/ML / Calcium Chloride 0.004 MEQ/ML / Dibasic K+ phosphate 2.61 MG/ML / Glucose 150 MG/ML / Glycine 5.15 MG/ML / Histidine 2.4 MG/ML / Isoleucine 3 MG/ML / Leucine 3.65 MG/ML / Lysine 2.9 MG/ML / Magnesium Chloride 0.01 MEQ/ML / Methionine 2 MG/ML / Phenylalanine 2.8 MG/ML / Proline 3.4 MG/ML / Serine 2.5 MG/ML / Sodium Acetate Trihydrate 3.4 MG/ML / NaCl 0.01 MEQ/ML / Threonine 2.1 MG/ML / Tryptophan 0.9 MG/ML / Tyrosine 0.2 MG/ML / Valine 2.9 MG/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "801029",
+              "name": "alanine 10.4 MG/ML / arginine 5.75 MG/ML / calcium chloride 0.004 MEQ/ML / dibasic potassium phosphate 2.61 MG/ML / glucose 200 MG/ML / glycine 5.15 MG/ML / histidine 2.4 MG/ML / isoleucine 3 MG/ML / leucine 3.65 MG/ML / lysine 2.9 MG/ML / magnesium chloride 0.01 MEQ/ML / methionine 2 MG/ML / phenylalanine 2.8 MG/ML / proline 3.4 MG/ML / serine 2.5 MG/ML / sodium acetate trihydrate 3.4 MG/ML / sodium chloride 0.01 MEQ/ML / threonine 2.1 MG/ML / tryptophan 0.9 MG/ML / tyrosine 0.2 MG/ML / valine 2.9 MG/ML Injectable Solution",
+              "synonym": "Alanine 10.4 MG/ML / Arginine 5.75 MG/ML / Calcium Chloride 0.004 MEQ/ML / Dibasic K+ phosphate 2.61 MG/ML / Glucose 200 MG/ML / Glycine 5.15 MG/ML / Histidine 2.4 MG/ML / Isoleucine 3 MG/ML / Leucine 3.65 MG/ML / Lysine 2.9 MG/ML / Magnesium Chloride 0.01 MEQ/ML / Methionine 2 MG/ML / Phenylalanine 2.8 MG/ML / Proline 3.4 MG/ML / Serine 2.5 MG/ML / Sodium Acetate Trihydrate 3.4 MG/ML / NaCl 0.01 MEQ/ML / Threonine 2.1 MG/ML / Tryptophan 0.9 MG/ML / Tyrosine 0.2 MG/ML / Valine 2.9 MG/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "801032",
+              "name": "alanine 10.4 MG/ML / arginine 5.75 MG/ML / calcium chloride 0.004 MEQ/ML / dibasic potassium phosphate 2.61 MG/ML / glucose 250 MG/ML / glycine 5.15 MG/ML / histidine 2.4 MG/ML / isoleucine 3 MG/ML / leucine 3.65 MG/ML / lysine 2.9 MG/ML / magnesium chloride 0.01 MEQ/ML / methionine 2 MG/ML / phenylalanine 2.8 MG/ML / proline 3.4 MG/ML / serine 2.5 MG/ML / sodium acetate trihydrate 3.4 MG/ML / sodium chloride 0.01 MEQ/ML / threonine 2.1 MG/ML / tryptophan 0.9 MG/ML / tyrosine 0.2 MG/ML / valine 2.9 MG/ML Injectable Solution",
+              "synonym": "Alanine 10.4 MG/ML / Arginine 5.75 MG/ML / Calcium Chloride 0.004 MEQ/ML / Dibasic K+ phosphate 2.61 MG/ML / Glucose 250 MG/ML / Glycine 5.15 MG/ML / Histidine 2.4 MG/ML / Isoleucine 3 MG/ML / Leucine 3.65 MG/ML / Lysine 2.9 MG/ML / Magnesium Chloride 0.01 MEQ/ML / Methionine 2 MG/ML / Phenylalanine 2.8 MG/ML / Proline 3.4 MG/ML / Serine 2.5 MG/ML / Sodium Acetate Trihydrate 3.4 MG/ML / NaCl 0.01 MEQ/ML / Threonine 2.1 MG/ML / Tryptophan 0.9 MG/ML / Tyrosine 0.2 MG/ML / Valine 2.9 MG/ML Injectable Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:38:03.913445",
+  "source": "RxNorm"
+}

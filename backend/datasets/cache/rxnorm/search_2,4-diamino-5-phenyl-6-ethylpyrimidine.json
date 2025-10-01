@@ -1,0 +1,10 @@
+{
+  "query": "2,4-Diamino-5-phenyl-6-ethylpyrimidine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T16:47:11.473347",
+  "source": "RxNorm"
+}

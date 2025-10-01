@@ -1,0 +1,262 @@
+{
+  "query": "Fluralaner",
+  "results": {
+    "drugGroup": {
+      "name": null,
+      "conceptGroup": [
+        {
+          "tty": "BPCK"
+        },
+        {
+          "tty": "GPCK"
+        },
+        {
+          "tty": "SBD",
+          "conceptProperties": [
+            {
+              "rxcui": "1538111",
+              "name": "fluralaner 1000 MG Chewable Tablet [Bravecto]",
+              "synonym": "Bravecto 1000 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1538115",
+              "name": "fluralaner 112.5 MG Chewable Tablet [Bravecto]",
+              "synonym": "Bravecto 112.5 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1538119",
+              "name": "fluralaner 1400 MG Chewable Tablet [Bravecto]",
+              "synonym": "Bravecto 1400 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1538123",
+              "name": "fluralaner 250 MG Chewable Tablet [Bravecto]",
+              "synonym": "Bravecto 250 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1538127",
+              "name": "fluralaner 500 MG Chewable Tablet [Bravecto]",
+              "synonym": "Bravecto 500 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2386221",
+              "name": "fluralaner 100 MG Chewable Tablet [Bravecto]",
+              "synonym": "Bravecto 100 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2386225",
+              "name": "fluralaner 200 MG Chewable Tablet [Bravecto]",
+              "synonym": "Bravecto 200 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2386229",
+              "name": "fluralaner 400 MG Chewable Tablet [Bravecto]",
+              "synonym": "Bravecto 400 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2386233",
+              "name": "fluralaner 45 MG Chewable Tablet [Bravecto]",
+              "synonym": "Bravecto 45 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2386237",
+              "name": "fluralaner 560 MG Chewable Tablet [Bravecto]",
+              "synonym": "Bravecto 560 MG Chewable Tablet",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2669523",
+              "name": "fluralaner 280 MG/ML Topical Solution [Bravecto]",
+              "synonym": "Bravecto 280 MG/ML Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2679865",
+              "name": "fluralaner 280 MG/ML / moxidectin 14 MG/ML Topical Solution [Bravecto Plus]",
+              "synonym": "Bravecto Plus (fluralaner 280 MG / moxidectin 14 MG) per ML Topical Solution",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2719628",
+              "name": "fluralaner 150 MG/ML Injectable Suspension [Bravecto]",
+              "synonym": "Bravecto Quantum 150 MG/ML Extended Release Injectable Suspension",
+              "tty": "SBD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        },
+        {
+          "tty": "SCD",
+          "conceptProperties": [
+            {
+              "rxcui": "1538104",
+              "name": "fluralaner 1000 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1538113",
+              "name": "fluralaner 112.5 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1538117",
+              "name": "fluralaner 1400 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1538121",
+              "name": "fluralaner 250 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "1538125",
+              "name": "fluralaner 500 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2386219",
+              "name": "fluralaner 100 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2386223",
+              "name": "fluralaner 200 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2386227",
+              "name": "fluralaner 400 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2386231",
+              "name": "fluralaner 45 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2386235",
+              "name": "fluralaner 560 MG Chewable Tablet",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2669519",
+              "name": "fluralaner 280 MG/ML Topical Solution",
+              "synonym": "",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2679860",
+              "name": "fluralaner 280 MG/ML / moxidectin 14 MG/ML Topical Solution",
+              "synonym": "fluralaner 280 MG/ML / moxidectin 14 MG/ML Topical Solution",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            },
+            {
+              "rxcui": "2719624",
+              "name": "fluralaner 150 MG/ML Injectable Suspension",
+              "synonym": "fluralaner 150 MG/ML Extended Release Injectable Suspension",
+              "tty": "SCD",
+              "language": "ENG",
+              "suppress": "N",
+              "umlscui": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fetched_at": "2025-10-01T17:58:43.389440",
+  "source": "RxNorm"
+}

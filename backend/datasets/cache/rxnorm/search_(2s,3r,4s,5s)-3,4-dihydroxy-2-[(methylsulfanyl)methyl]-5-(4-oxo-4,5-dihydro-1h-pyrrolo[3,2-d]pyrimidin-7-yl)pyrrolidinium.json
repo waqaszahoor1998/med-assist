@@ -1,0 +1,10 @@
+{
+  "query": "(2S,3R,4S,5S)-3,4-Dihydroxy-2-[(methylsulfanyl)methyl]-5-(4-oxo-4,5-dihydro-1H-pyrrolo[3,2-d]pyrimidin-7-yl)pyrrolidinium",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T04:30:57.201135",
+  "source": "RxNorm"
+}

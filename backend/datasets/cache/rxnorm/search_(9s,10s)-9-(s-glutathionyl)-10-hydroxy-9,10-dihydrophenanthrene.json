@@ -1,0 +1,10 @@
+{
+  "query": "(9S,10S)-9-(S-glutathionyl)-10-hydroxy-9,10-dihydrophenanthrene",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T07:42:31.742508",
+  "source": "RxNorm"
+}

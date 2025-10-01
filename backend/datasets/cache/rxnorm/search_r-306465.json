@@ -1,0 +1,10 @@
+{
+  "query": "R-306465",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T18:55:50.752272",
+  "source": "RxNorm"
+}

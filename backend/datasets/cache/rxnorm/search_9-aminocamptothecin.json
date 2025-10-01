@@ -1,0 +1,10 @@
+{
+  "query": "9-aminocamptothecin",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T19:03:42.259636",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "(2Z)-1-(5-Chloro-1H-indol-3-yl)-3-hydroxy-3-(1H-tetrazol-5-yl)-2-propen-1-one",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T03:27:13.774489",
+  "source": "RxNorm"
+}

@@ -1,0 +1,10 @@
+{
+  "query": "2-amino-3-(4-amino-1H-indol-3-yl)propanoic acid",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:50:43.261973",
+  "source": "RxNorm"
+}

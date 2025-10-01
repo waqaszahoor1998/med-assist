@@ -1,0 +1,10 @@
+{
+  "query": "1,2,4-Triazole-Carboxamidine",
+  "results": {
+    "drugGroup": {
+      "name": null
+    }
+  },
+  "fetched_at": "2025-10-01T02:41:03.398344",
+  "source": "RxNorm"
+}
