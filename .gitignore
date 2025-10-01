@@ -89,3 +89,6 @@ htmlcov/
 .pytest_cache/
 coverage.xml
 *.cover
+Waqas Task.pdf
+docs/
+TODO.md
