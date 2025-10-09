@@ -1,14 +1,28 @@
-from rest_framework.decorators import api_view
+from rest_framework.decorators import api_view, permission_classes
+from rest_framework.permissions import AllowAny, IsAuthenticated
 from rest_framework.response import Response
 from rest_framework import status
 import json
 import logging
 import re
+
+logger = logging.getLogger(__name__)
 from django.utils import timezone
 from .nlp_processor import extract_medicine_info, processor
 from .biobert_processor import BioBERTProcessor
 from .drug_interactions import interaction_checker
 from .enhanced_drug_interactions import enhanced_interaction_checker
+from .database_views import (
+    analyze_prescription_with_safety as db_analyze_prescription,
+    create_medication_reminder as db_create_reminder,
+    get_medication_reminders as db_get_reminders,
+    get_medicine_info as db_get_medicine_info,
+    search_medical_knowledge as db_search_knowledge,
+    get_medical_explanation as db_get_explanation,
+    get_medical_knowledge_stats as db_get_stats
+)
+from .models import Medicine, UserProfile, MedicationReminder, PrescriptionHistory, Notification
+from .allergy_checker import allergy_checker
 
 # Initialize BioBERT processor (singleton pattern)
 biobert_processor = None
@@ -26,6 +40,7 @@ def get_biobert_processor():
     return biobert_processor
 
 @api_view(['GET'])
+@permission_classes([AllowAny])
 def ping(request):
     """
     Simple ping endpoint to test API connectivity
@@ -37,6 +52,7 @@ def ping(request):
     })
 
 @api_view(['POST'])
+@permission_classes([AllowAny])
 def analyze_prescription(request):
     """
     Analyze prescription text using BioBERT AI with rule-based fallback
@@ -77,10 +93,28 @@ def analyze_prescription(request):
                         if detailed_info:
                             medicine_data.update(detailed_info)
                         
+                        # Get alternatives for this medicine
+                        alternatives = _get_medicine_alternatives(med.get('name', ''))
+                        if alternatives:
+                            medicine_data['alternatives'] = alternatives
+                        
                         extracted_medicines.append(medicine_data)
                     
                     # Calculate overall confidence
                     avg_confidence = sum(med.get('confidence', 0) for med in medicines) / len(medicines) if medicines else 0
+                    
+                    # Check for allergies if user is authenticated or allergies provided
+                    allergy_check_result = None
+                    if request.user.is_authenticated:
+                        allergy_check_result = allergy_checker.check_prescription_allergies(
+                            extracted_medicines, user=request.user
+                        )
+                    elif 'allergies' in request.data:
+                        user_allergies = request.data.get('allergies', [])
+                        if user_allergies:
+                            allergy_check_result = allergy_checker.check_prescription_allergies(
+                                extracted_medicines, allergies_list=user_allergies
+                            )
                     
                     response_data = {
                         'status': 'success',
@@ -99,6 +133,25 @@ def analyze_prescription(request):
                             'confidence_scoring': 'BioBERT Embeddings + Pattern Matching'
                         }
                     }
+                    
+                    # Add allergy check results if available
+                    if allergy_check_result:
+                        response_data['allergy_check'] = allergy_check_result
+                    
+                    # Save to prescription history if user is authenticated
+                    if request.user.is_authenticated:
+                        try:
+                            PrescriptionHistory.objects.create(
+                                user=request.user,
+                                prescription_text=prescription_text,
+                                extracted_data={'medicines': extracted_medicines},
+                                analysis_results=response_data,
+                                safety_alerts=allergy_check_result.get('warnings', []) if allergy_check_result else [],
+                                processing_method=processing_method,
+                                confidence_score=avg_confidence
+                            )
+                        except Exception as save_error:
+                            logging.error(f"Failed to save prescription history: {save_error}")
                     
                     return Response(response_data)
                 else:
@@ -141,7 +194,25 @@ def analyze_prescription(request):
                     'groups': detailed.get('groups', [])
                 })
             
+            # Get alternatives for this medicine
+            alternatives = _get_medicine_alternatives(medicine)
+            if alternatives:
+                medicine_data['alternatives'] = alternatives
+            
             extracted_medicines.append(medicine_data)
+        
+        # Check for allergies if user is authenticated or allergies provided
+        allergy_check_result = None
+        if request.user.is_authenticated:
+            allergy_check_result = allergy_checker.check_prescription_allergies(
+                extracted_medicines, user=request.user
+            )
+        elif 'allergies' in request.data:
+            user_allergies = request.data.get('allergies', [])
+            if user_allergies:
+                allergy_check_result = allergy_checker.check_prescription_allergies(
+                    extracted_medicines, allergies_list=user_allergies
+                )
         
         response_data = {
             'status': 'success',
@@ -162,6 +233,25 @@ def analyze_prescription(request):
                 'confidence_scoring': 'Pattern Matching + Database Validation'
             }
         }
+        
+        # Add allergy check results if available
+        if allergy_check_result:
+            response_data['allergy_check'] = allergy_check_result
+        
+        # Save to prescription history if user is authenticated (rule-based fallback)
+        if request.user.is_authenticated:
+            try:
+                PrescriptionHistory.objects.create(
+                    user=request.user,
+                    prescription_text=prescription_text,
+                    extracted_data={'medicines': extracted_medicines},
+                    analysis_results=response_data,
+                    safety_alerts=allergy_check_result.get('warnings', []) if allergy_check_result else [],
+                    processing_method=processing_method,
+                    confidence_score=nlp_result.get('confidence_score', 0.5)
+                )
+            except Exception as save_error:
+                logging.error(f"Failed to save prescription history: {save_error}")
         
         return Response(response_data)
         
@@ -316,6 +406,11 @@ def get_alternatives(request, medicine_id):
 
 @api_view(['POST'])
 def set_reminder(request):
+    """Database-backed medication reminder creation"""
+    return db_create_reminder(request)
+
+@api_view(['POST'])
+def set_reminder_legacy(request):
     """
     Set a smart medication reminder for a user with intelligent scheduling
     """
@@ -398,6 +493,11 @@ def set_reminder(request):
 
 @api_view(['GET'])
 def get_reminders(request):
+    """Database-backed medication reminders retrieval"""
+    return db_get_reminders(request)
+
+@api_view(['GET'])
+def get_reminders_legacy(request):
     """
     Get all reminders for a user with enhanced information
     """
@@ -814,7 +914,6 @@ def _format_medicine_details(medicine):
         'brand_names': medicine.get('brand_names', ''),
         'dosage_forms': medicine.get('dosage_forms', ''),
         'common_doses': medicine.get('common_doses', '') or medicine.get('dosage', ''),
-        'alternatives': alternatives,
         'data_source': 'Enhanced Ultimate Medicine Database (18,802 medicines with Wiki Knowledge)',
         'source_details': {
             'database': 'enhanced_ultimate_medicine_database.json',
@@ -823,6 +922,103 @@ def _format_medicine_details(medicine):
             'reliability': 'High - Official DrugBank medical database'
         }
     }
+
+def _get_medicine_alternatives(medicine_name):
+    """Get alternative medicines for a given medicine"""
+    if not medicine_name:
+        return []
+    
+    medicines = processor.medicine_database.get('medicines', [])
+    
+    # Clean the medicine name - remove dosage information for better matching
+    clean_name = medicine_name.lower().strip()
+    clean_name_no_dosage = re.sub(r'\s*\d+\s*(mg|mcg|g|ml|mcg)\s*', ' ', clean_name).strip()
+    
+    # Find the medicine
+    medicine = None
+    for med in medicines:
+        if (med.get('name', '').lower() == clean_name or
+            med.get('generic_name', '').lower() == clean_name or
+            med.get('name', '').lower() == clean_name_no_dosage or
+            med.get('generic_name', '').lower() == clean_name_no_dosage):
+            medicine = med
+            break
+    
+    if not medicine:
+        return []
+    
+    alternatives = []
+    
+    # First, try to use the alternatives field if it exists
+    if medicine.get('alternatives'):
+        alternative_names = medicine.get('alternatives', '').split(', ')
+        for alt_name in alternative_names:
+            alt_name = alt_name.strip()
+            if alt_name:
+                # Find the alternative medicine in the database
+                for med in medicines:
+                    if med.get('name', '').lower() == alt_name.lower():
+                        alternatives.append({
+                            'name': med.get('name', ''),
+                            'generic_name': med.get('generic_name', ''),
+                            'indication': med.get('indications', '') or med.get('indication', ''),
+                            'category': med.get('category', '') or med.get('categories', ''),
+                            'reason': 'Direct alternative from database'
+                        })
+                        break
+    
+    # If no alternatives found in the alternatives field, try category matching
+    if not alternatives:
+        medicine_category = medicine.get('category', '') or medicine.get('categories', '')
+        medicine_indication = medicine.get('indications', '') or medicine.get('indication', '')
+        
+        for med in medicines:
+            if med.get('name') != medicine.get('name'):
+                # Check if same category
+                if medicine_category and medicine_category.lower() in (med.get('category', '') or med.get('categories', '')).lower():
+                    alternatives.append({
+                        'name': med.get('name', ''),
+                        'generic_name': med.get('generic_name', ''),
+                        'indication': med.get('indications', '') or med.get('indication', ''),
+                        'category': med.get('category', '') or med.get('categories', ''),
+                        'reason': 'Same therapeutic category'
+                    })
+                # Check if similar indication
+                elif medicine_indication and any(word in (med.get('indications', '') or med.get('indication', '')).lower() for word in medicine_indication.lower().split()):
+                    alternatives.append({
+                        'name': med.get('name', ''),
+                        'generic_name': med.get('generic_name', ''),
+                        'indication': med.get('indications', '') or med.get('indication', ''),
+                        'category': med.get('category', '') or med.get('categories', ''),
+                        'reason': 'Similar therapeutic indication'
+                    })
+    
+    # Limit to 5 alternatives
+    alternatives = alternatives[:5]
+    
+    if not alternatives:
+        # Fallback: return some common alternatives based on medicine type
+        medicine_name_lower = medicine.get('name', '').lower()
+        
+        if 'aspirin' in medicine_name_lower or 'ibuprofen' in medicine_name_lower:
+            alternatives = [
+                {'name': 'Paracetamol', 'generic_name': 'Acetaminophen', 'indication': 'Pain relief, fever', 'category': 'Analgesic', 'reason': 'Alternative pain reliever'},
+                {'name': 'Naproxen', 'generic_name': 'Naproxen', 'indication': 'Pain relief, inflammation', 'category': 'NSAID', 'reason': 'Alternative NSAID'},
+                {'name': 'Celecoxib', 'generic_name': 'Celecoxib', 'indication': 'Pain relief, arthritis', 'category': 'NSAID', 'reason': 'COX-2 selective NSAID'}
+            ]
+        elif 'metformin' in medicine_name_lower:
+            alternatives = [
+                {'name': 'Glipizide', 'generic_name': 'Glipizide', 'indication': 'Type 2 diabetes', 'category': 'Sulfonylurea', 'reason': 'Alternative diabetes medication'},
+                {'name': 'Sitagliptin', 'generic_name': 'Sitagliptin', 'indication': 'Type 2 diabetes', 'category': 'DPP-4 inhibitor', 'reason': 'Alternative diabetes medication'}
+            ]
+        elif 'penicillin' in medicine_name_lower or 'amoxicillin' in medicine_name_lower:
+            alternatives = [
+                {'name': 'Azithromycin', 'generic_name': 'Azithromycin', 'indication': 'Bacterial infections', 'category': 'Macrolide antibiotic', 'reason': 'Alternative antibiotic (non-penicillin)'},
+                {'name': 'Ciprofloxacin', 'generic_name': 'Ciprofloxacin', 'indication': 'Bacterial infections', 'category': 'Fluoroquinolone antibiotic', 'reason': 'Alternative antibiotic (non-penicillin)'},
+                {'name': 'Clindamycin', 'generic_name': 'Clindamycin', 'indication': 'Bacterial infections', 'category': 'Lincosamide antibiotic', 'reason': 'Alternative antibiotic (non-penicillin)'}
+            ]
+    
+    return alternatives
 
 def _generate_smart_schedule(frequency, base_time, duration):
     """
@@ -959,7 +1155,55 @@ def check_drug_interactions(request):
         }, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
 
 @api_view(['GET'])
+@permission_classes([AllowAny])
 def search_medical_knowledge(request):
+    """Database-backed medical knowledge search"""
+    try:
+        query = request.GET.get('query', '')
+        limit = int(request.GET.get('limit', 20))
+        
+        if not query:
+            return Response({
+                'error': 'Query parameter is required'
+            }, status=status.HTTP_400_BAD_REQUEST)
+        
+        # Search in medical knowledge database
+        from .models import MedicalKnowledge
+        from django.db.models import Q
+        
+        knowledge_entries = MedicalKnowledge.objects.filter(
+            Q(term__icontains=query) |
+            Q(explanation__icontains=query) |
+            Q(category__icontains=query)
+        ).order_by('term')[:limit]
+        
+        results = []
+        for entry in knowledge_entries:
+            results.append({
+                'term': entry.term,
+                'explanation': entry.explanation,
+                'category': entry.category,
+                'related_terms': entry.related_terms,
+                'source': entry.source,
+                'created_at': entry.created_at.isoformat()
+            })
+        
+        return Response({
+            'status': 'success',
+            'query': query,
+            'results': results,
+            'total_found': len(results),
+            'database_size': MedicalKnowledge.objects.count()
+        })
+        
+    except Exception as e:
+        logger.error(f"Error searching medical knowledge: {e}")
+        return Response({
+            'error': f'Search failed: {str(e)}'
+        }, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+
+@api_view(['GET'])
+def search_medical_knowledge_legacy(request):
     """Search medical knowledge database for terms and conditions"""
     try:
         query = request.GET.get('query', '').strip()
@@ -1076,7 +1320,43 @@ def search_medical_knowledge(request):
         }, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
 
 @api_view(['GET'])
+@permission_classes([AllowAny])
 def get_medical_explanation(request, medicine_name):
+    """Database-backed medical explanation"""
+    try:
+        # Try to find medicine in database
+        from .models import Medicine
+        from django.db.models import Q
+        
+        medicine = Medicine.objects.filter(
+            Q(name__iexact=medicine_name) |
+            Q(generic_name__iexact=medicine_name) |
+            Q(brand_names__icontains=medicine_name)
+        ).first()
+        
+        if medicine and medicine.medical_explanation:
+            return Response({
+                'status': 'success',
+                'medicine_name': medicine_name,
+                'explanation': medicine.medical_explanation,
+                'source': 'Database'
+            })
+        else:
+            return Response({
+                'status': 'not_found',
+                'medicine_name': medicine_name,
+                'explanation': 'No detailed medical explanation available for this medicine.',
+                'source': 'Database'
+            })
+            
+    except Exception as e:
+        logger.error(f"Error getting medical explanation: {e}")
+        return Response({
+            'error': f'Failed to get explanation: {str(e)}'
+        }, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+
+@api_view(['GET'])
+def get_medical_explanation_legacy(request, medicine_name):
     """Get detailed medical explanation for a specific medicine"""
     try:
         # Load enhanced ultimate database
@@ -1145,7 +1425,107 @@ def get_medical_explanation(request, medicine_name):
         }, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
 
 @api_view(['GET'])
+@permission_classes([AllowAny])
 def get_medical_knowledge_stats(request):
+    """Database-backed medical knowledge stats"""
+    try:
+        from .models import Medicine, MedicalKnowledge, MedicationReminder, PrescriptionHistory
+        from django.utils import timezone
+        
+        # Get statistics
+        total_medicines = Medicine.objects.count()
+        total_medical_knowledge = MedicalKnowledge.objects.count()
+        total_reminders = MedicationReminder.objects.count()
+        total_prescriptions = PrescriptionHistory.objects.count()
+        
+        # Get medicines with detailed explanations
+        medicines_with_explanations = Medicine.objects.filter(
+            medical_explanation__isnull=False
+        ).exclude(medical_explanation='').count()
+        
+        # Calculate enhancement coverage
+        enhancement_coverage = 0
+        if total_medicines > 0:
+            enhancement_coverage = round((medicines_with_explanations / total_medicines) * 100, 1)
+        
+        return Response({
+            'status': 'success',
+            'database_statistics': {
+                'total_medicines': total_medicines,
+                'total_medical_knowledge_entries': total_medical_knowledge,
+                'total_medication_reminders': total_reminders,
+                'total_prescription_analyses': total_prescriptions,
+                'database_last_updated': timezone.now().isoformat()
+            },
+            'statistics': {
+                'total_medicines': total_medicines,
+                'with_detailed_explanations': medicines_with_explanations,
+                'enhancement_coverage': enhancement_coverage
+            }
+        })
+        
+    except Exception as e:
+        logger.error(f"Error getting medical knowledge stats: {e}")
+        return Response({
+            'error': f'Failed to get stats: {str(e)}'
+        }, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+
+@api_view(['GET'])
+@permission_classes([AllowAny])
+def search_medicines(request):
+    """Search medicines in the database"""
+    try:
+        query = request.GET.get('query', '')
+        limit = int(request.GET.get('limit', 20))
+        
+        if not query:
+            return Response({
+                'error': 'Query parameter is required'
+            }, status=status.HTTP_400_BAD_REQUEST)
+        
+        # Search in medicines database
+        from .models import Medicine
+        from django.db.models import Q
+        
+        medicines = Medicine.objects.filter(
+            Q(name__icontains=query) |
+            Q(generic_name__icontains=query) |
+            Q(brand_names__icontains=query)
+        ).order_by('name')[:limit]
+        
+        results = []
+        for medicine in medicines:
+            results.append({
+                'id': medicine.id,
+                'name': medicine.name,
+                'generic_name': medicine.generic_name,
+                'brand_names': medicine.brand_names,
+                'category': medicine.category,
+                'description': medicine.description,
+                'common_doses': medicine.common_doses,
+                'side_effects': medicine.side_effects,
+                'interactions': medicine.interactions,
+                'alternatives': medicine.alternatives,
+                'medical_explanation': medicine.medical_explanation,
+                'data_sources': medicine.data_sources,
+            })
+        
+        return Response({
+            'status': 'success',
+            'query': query,
+            'medicines': results,
+            'total_found': len(results),
+            'database_size': Medicine.objects.count()
+        })
+        
+    except Exception as e:
+        logger.error(f"Error searching medicines: {e}")
+        return Response({
+            'error': f'Search failed: {str(e)}'
+        }, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+
+@api_view(['GET'])
+def get_medical_knowledge_stats_legacy(request):
     """Get statistics about the medical knowledge database"""
     try:
         # Load enhanced ultimate database
@@ -1299,6 +1679,11 @@ def get_interaction_details(request, medicine1, medicine2):
 
 @api_view(['POST'])
 def analyze_prescription_with_safety(request):
+    """Database-backed prescription analysis with safety checks"""
+    return db_analyze_prescription(request)
+
+@api_view(['POST'])
+def analyze_prescription_with_safety_legacy(request):
     """
     Analyze prescription text and check for drug interactions in one call
     """
@@ -1594,4 +1979,526 @@ def analyze_prescription_enhanced(request):
         logging.error(f"Error analyzing prescription with enhanced system: {e}")
         return Response({
             'error': f'An error occurred: {str(e)}'
+        }, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+
+
+# ============================================================================
+# NOTIFICATION SYSTEM API ENDPOINTS
+# ============================================================================
+# These endpoints manage user notifications including medicine reminders,
+# allergy alerts, drug interactions, and system messages.
+#
+# All endpoints require JWT authentication via Authorization header.
+# Returns JSON responses with status and data fields.
+# ============================================================================
+
+@api_view(['GET'])
+@permission_classes([IsAuthenticated])
+def get_notifications(request):
+    """
+    Get all notifications for authenticated user with optional filtering
+    
+    Query Parameters:
+    - read: 'true' for read only, 'false' for unread only, omit for all
+    - type: Filter by notification type (reminder, warning, etc.)
+    - limit: Maximum number of results (default: 50)
+    
+    Returns:
+    - status: 'success'
+    - notifications: List of notification objects
+    - total: Total count of notifications returned
+    
+    Each notification includes:
+    - id, type, title, message, priority
+    - related_medicine, related_reminder_id
+    - is_read, read_at, created_at
+    - metadata for additional context
+    """
+    try:
+        # Get all notifications for the current user
+        notifications = Notification.objects.filter(user=request.user)
+        
+        # Optional filter by read status
+        read_filter = request.GET.get('read')
+        if read_filter == 'false':
+            notifications = notifications.filter(is_read=False)
+        elif read_filter == 'true':
+            notifications = notifications.filter(is_read=True)
+        
+        # Optional filter by type
+        notification_type = request.GET.get('type')
+        if notification_type:
+            notifications = notifications.filter(notification_type=notification_type)
+        
+        # Limit results
+        limit = int(request.GET.get('limit', 50))
+        notifications = notifications[:limit]
+        
+        data = []
+        for notification in notifications:
+            data.append({
+                'id': notification.id,
+                'type': notification.notification_type,
+                'title': notification.title,
+                'message': notification.message,
+                'priority': notification.priority,
+                'related_medicine': notification.related_medicine,
+                'related_reminder_id': notification.related_reminder_id,
+                'action_url': notification.action_url,
+                'metadata': notification.metadata,
+                'is_read': notification.is_read,
+                'read_at': notification.read_at.isoformat() if notification.read_at else None,
+                'created_at': notification.created_at.isoformat()
+            })
+        
+        return Response({
+            'status': 'success',
+            'notifications': data,
+            'total': len(data)
+        })
+        
+    except Exception as e:
+        logging.error(f"Error getting notifications: {e}")
+        return Response({
+            'error': f'Error getting notifications: {str(e)}'
+        }, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+
+
+@api_view(['GET'])
+@permission_classes([IsAuthenticated])
+def get_unread_count(request):
+    """Get count of unread notifications for authenticated user"""
+    try:
+        unread_count = Notification.objects.filter(
+            user=request.user,
+            is_read=False
+        ).count()
+        
+        return Response({
+            'status': 'success',
+            'unread_count': unread_count
+        })
+        
+    except Exception as e:
+        logging.error(f"Error getting unread count: {e}")
+        return Response({
+            'error': f'Error getting unread count: {str(e)}'
+        }, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+
+
+@api_view(['POST'])
+@permission_classes([IsAuthenticated])
+def mark_notification_read(request, notification_id):
+    """Mark a notification as read"""
+    try:
+        notification = Notification.objects.get(
+            id=notification_id,
+            user=request.user
+        )
+        notification.mark_as_read()
+        
+        return Response({
+            'status': 'success',
+            'message': 'Notification marked as read'
+        })
+        
+    except Notification.DoesNotExist:
+        return Response({
+            'error': 'Notification not found'
+        }, status=status.HTTP_404_NOT_FOUND)
+    except Exception as e:
+        logging.error(f"Error marking notification as read: {e}")
+        return Response({
+            'error': f'Error marking notification as read: {str(e)}'
+        }, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+
+
+@api_view(['POST'])
+@permission_classes([IsAuthenticated])
+def mark_all_read(request):
+    """Mark all notifications as read for authenticated user"""
+    try:
+        updated_count = Notification.objects.filter(
+            user=request.user,
+            is_read=False
+        ).update(
+            is_read=True,
+            read_at=timezone.now()
+        )
+        
+        return Response({
+            'status': 'success',
+            'message': f'{updated_count} notifications marked as read'
+        })
+        
+    except Exception as e:
+        logging.error(f"Error marking all notifications as read: {e}")
+        return Response({
+            'error': f'Error marking all notifications as read: {str(e)}'
+        }, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+
+
+@api_view(['DELETE'])
+@permission_classes([IsAuthenticated])
+def delete_notification(request, notification_id):
+    """Delete a notification"""
+    try:
+        notification = Notification.objects.get(
+            id=notification_id,
+            user=request.user
+        )
+        notification.delete()
+        
+        return Response({
+            'status': 'success',
+            'message': 'Notification deleted'
+        })
+        
+    except Notification.DoesNotExist:
+        return Response({
+            'error': 'Notification not found'
+        }, status=status.HTTP_404_NOT_FOUND)
+    except Exception as e:
+        logging.error(f"Error deleting notification: {e}")
+        return Response({
+            'error': f'Error deleting notification: {str(e)}'
+        }, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+
+
+@api_view(['POST'])
+@permission_classes([IsAuthenticated])
+def create_notification(request):
+    """Create a new notification for the authenticated user"""
+    try:
+        data = request.data
+        
+        notification = Notification.objects.create(
+            user=request.user,
+            notification_type=data.get('type', 'info'),
+            title=data.get('title', ''),
+            message=data.get('message', ''),
+            priority=data.get('priority', 'medium'),
+            related_medicine=data.get('related_medicine'),
+            related_reminder_id=data.get('related_reminder_id'),
+            action_url=data.get('action_url'),
+            metadata=data.get('metadata', {})
+        )
+        
+        return Response({
+            'status': 'success',
+            'notification': {
+                'id': notification.id,
+                'type': notification.notification_type,
+                'title': notification.title,
+                'message': notification.message,
+                'priority': notification.priority,
+                'created_at': notification.created_at.isoformat()
+            }
+        })
+        
+    except Exception as e:
+        logging.error(f"Error creating notification: {e}")
+        return Response({
+            'error': f'Error creating notification: {str(e)}'
+        }, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+
+
+# ============================================================================
+# REMINDER SYSTEM API ENDPOINTS
+# ============================================================================
+
+@api_view(['GET'])
+@permission_classes([IsAuthenticated])
+def get_reminders(request):
+    """Get all medicine reminders for authenticated user"""
+    try:
+        reminders = MedicationReminder.objects.filter(user=request.user)
+        
+        # Optional filter by active status
+        active_filter = request.GET.get('active')
+        if active_filter == 'true':
+            reminders = reminders.filter(active=True)
+        elif active_filter == 'false':
+            reminders = reminders.filter(active=False)
+        
+        data = []
+        for reminder in reminders:
+            data.append({
+                'id': reminder.id,
+                'medicine_name': reminder.medicine_name,
+                'dosage': reminder.dosage,
+                'frequency': reminder.frequency,
+                'start_date': reminder.start_date.isoformat(),
+                'end_date': reminder.end_date.isoformat() if reminder.end_date else None,
+                'reminder_times': reminder.reminder_times,
+                'notes': reminder.notes,
+                'active': reminder.active,
+                'last_notified_at': reminder.last_notified_at.isoformat() if reminder.last_notified_at else None,
+                'total_notifications_sent': reminder.total_notifications_sent,
+                'next_reminder': reminder.get_next_reminder_time().strftime('%H:%M') if reminder.get_next_reminder_time() else None,
+                'created_at': reminder.created_at.isoformat()
+            })
+        
+        return Response({
+            'status': 'success',
+            'reminders': data,
+            'total': len(data)
+        })
+        
+    except Exception as e:
+        logging.error(f"Error getting reminders: {e}")
+        return Response({
+            'error': f'Error getting reminders: {str(e)}'
+        }, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+
+
+@api_view(['POST'])
+@permission_classes([IsAuthenticated])
+def create_reminder(request):
+    """
+    Create a new medicine reminder for the authenticated user
+    
+    Request Body:
+    - medicine_name: Name of the medicine (required)
+    - dosage: Dosage amount (e.g., "400mg") (required)
+    - frequency: How often (daily, twice_daily, etc.) (default: 'daily')
+    - start_date: When to start reminders (default: now)
+    - end_date: When to stop reminders (optional)
+    - reminder_times: List of times (e.g., ["09:00", "14:00", "21:00"]) (default: [])
+    - notes: Additional notes (optional)
+    - active: Whether reminder is active (default: True)
+    
+    Automatically creates a confirmation notification when reminder is set.
+    
+    Returns:
+    - status: 'success'
+    - reminder: Created reminder object with id, medicine_name, etc.
+    """
+    try:
+        data = request.data
+        
+        # Create the medication reminder in database
+        reminder = MedicationReminder.objects.create(
+            user=request.user,
+            medicine_name=data.get('medicine_name'),
+            dosage=data.get('dosage'),
+            frequency=data.get('frequency', 'daily'),
+            start_date=data.get('start_date', timezone.now()),
+            end_date=data.get('end_date'),
+            reminder_times=data.get('reminder_times', []),
+            notes=data.get('notes', ''),
+            active=data.get('active', True)
+        )
+        
+        # Create a confirmation notification to let user know reminder is set
+        # This provides immediate feedback and confirms the reminder schedule
+        Notification.objects.create(
+            user=request.user,
+            notification_type='reminder',
+            title=f'Reminder Set: {reminder.medicine_name}',
+            message=f'You will be reminded to take {reminder.medicine_name} {reminder.dosage} at {", ".join(reminder.reminder_times)}',
+            priority='medium',
+            related_medicine=reminder.medicine_name,
+            related_reminder_id=reminder.id
+        )
+        
+        return Response({
+            'status': 'success',
+            'reminder': {
+                'id': reminder.id,
+                'medicine_name': reminder.medicine_name,
+                'dosage': reminder.dosage,
+                'frequency': reminder.frequency,
+                'reminder_times': reminder.reminder_times,
+                'created_at': reminder.created_at.isoformat()
+            }
+        })
+        
+    except Exception as e:
+        logging.error(f"Error creating reminder: {e}")
+        return Response({
+            'error': f'Error creating reminder: {str(e)}'
+        }, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+
+
+@api_view(['PUT'])
+@permission_classes([IsAuthenticated])
+def update_reminder(request, reminder_id):
+    """Update an existing reminder"""
+    try:
+        reminder = MedicationReminder.objects.get(
+            id=reminder_id,
+            user=request.user
+        )
+        
+        data = request.data
+        reminder.medicine_name = data.get('medicine_name', reminder.medicine_name)
+        reminder.dosage = data.get('dosage', reminder.dosage)
+        reminder.frequency = data.get('frequency', reminder.frequency)
+        reminder.reminder_times = data.get('reminder_times', reminder.reminder_times)
+        reminder.notes = data.get('notes', reminder.notes)
+        reminder.active = data.get('active', reminder.active)
+        
+        if 'end_date' in data:
+            reminder.end_date = data['end_date']
+        
+        reminder.save()
+        
+        return Response({
+            'status': 'success',
+            'message': 'Reminder updated successfully'
+        })
+        
+    except MedicationReminder.DoesNotExist:
+        return Response({
+            'error': 'Reminder not found'
+        }, status=status.HTTP_404_NOT_FOUND)
+    except Exception as e:
+        logging.error(f"Error updating reminder: {e}")
+        return Response({
+            'error': f'Error updating reminder: {str(e)}'
+        }, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+
+
+@api_view(['DELETE'])
+@permission_classes([IsAuthenticated])
+def delete_reminder(request, reminder_id):
+    """Delete a reminder"""
+    try:
+        reminder = MedicationReminder.objects.get(
+            id=reminder_id,
+            user=request.user
+        )
+        reminder.delete()
+        
+        return Response({
+            'status': 'success',
+            'message': 'Reminder deleted'
+        })
+        
+    except MedicationReminder.DoesNotExist:
+        return Response({
+            'error': 'Reminder not found'
+        }, status=status.HTTP_404_NOT_FOUND)
+    except Exception as e:
+        logging.error(f"Error deleting reminder: {e}")
+        return Response({
+            'error': f'Error deleting reminder: {str(e)}'
+        }, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+
+
+# ============================================================================
+# PRESCRIPTION HISTORY ENDPOINTS
+# ============================================================================
+
+@api_view(['GET'])
+@permission_classes([IsAuthenticated])
+def get_prescription_history(request):
+    """
+    Get user's prescription analysis history
+    
+    Returns a list of all past prescription analyses for the authenticated user.
+    Includes extracted medicines, safety alerts, and analysis metadata.
+    
+    Query Parameters:
+    - limit: Maximum number of records to return (default: 20)
+    - offset: Number of records to skip for pagination (default: 0)
+    
+    Returns:
+    - List of prescription history records ordered by most recent first
+    """
+    try:
+        # Get query parameters for pagination
+        limit = int(request.GET.get('limit', 20))
+        offset = int(request.GET.get('offset', 0))
+        
+        # Get user's prescription history
+        history = PrescriptionHistory.objects.filter(
+            user=request.user
+        ).order_by('-created_at')[offset:offset+limit]
+        
+        # Format response
+        history_list = []
+        for record in history:
+            extracted_data = record.extracted_data or {}
+            medicines = extracted_data.get('medicines', [])
+            
+            history_list.append({
+                'id': record.id,
+                'prescription_text': record.prescription_text,
+                'medicine_count': len(medicines),
+                'medicines': [med.get('name', 'Unknown') for med in medicines if isinstance(med, dict)],
+                'processing_method': record.processing_method,
+                'confidence_score': record.confidence_score,
+                'has_safety_alerts': len(record.safety_alerts) > 0 if record.safety_alerts else False,
+                'alert_count': len(record.safety_alerts) if record.safety_alerts else 0,
+                'analyzed_at': record.created_at.isoformat(),
+            })
+        
+        # Get total count for pagination
+        total_count = PrescriptionHistory.objects.filter(user=request.user).count()
+        
+        return Response({
+            'status': 'success',
+            'history': history_list,
+            'total': total_count,
+            'limit': limit,
+            'offset': offset
+        })
+        
+    except Exception as e:
+        logging.error(f"Error fetching prescription history: {e}")
+        return Response({
+            'error': f'Error fetching prescription history: {str(e)}'
+        }, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+
+
+@api_view(['GET'])
+@permission_classes([IsAuthenticated])
+def get_prescription_detail(request, history_id):
+    """
+    Get detailed information about a specific prescription analysis
+    
+    Returns complete analysis results including:
+    - Full prescription text
+    - All extracted medicines with details
+    - Drug interactions found
+    - Allergy warnings
+    - Alternative medicine suggestions
+    - AI confidence scores
+    
+    Parameters:
+    - history_id: ID of the prescription history record
+    
+    Returns:
+    - Complete prescription analysis data
+    """
+    try:
+        # Get prescription history record
+        record = PrescriptionHistory.objects.get(
+            id=history_id,
+            user=request.user
+        )
+        
+        # Return complete analysis results
+        return Response({
+            'status': 'success',
+            'id': record.id,
+            'prescription_text': record.prescription_text,
+            'extracted_data': record.extracted_data,
+            'analysis_results': record.analysis_results,
+            'safety_alerts': record.safety_alerts,
+            'processing_method': record.processing_method,
+            'confidence_score': record.confidence_score,
+            'analyzed_at': record.created_at.isoformat()
+        })
+        
+    except PrescriptionHistory.DoesNotExist:
+        return Response({
+            'error': 'Prescription history not found'
+        }, status=status.HTTP_404_NOT_FOUND)
+    except Exception as e:
+        logging.error(f"Error fetching prescription detail: {e}")
+        return Response({
+            'error': f'Error fetching prescription detail: {str(e)}'
         }, status=status.HTTP_500_INTERNAL_SERVER_ERROR)

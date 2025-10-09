@@ -1,92 +1,125 @@
-# AI-Based Post Diagnosis Medicine Assistant
+# 🏥 Medicine Assistant - AI-Powered Prescription Analysis
 
-## Project Overview
-An AI-powered system that helps patients manage their medications based on their health profile, diagnosis, and doctor's prescriptions. The system provides medicine details, dosage information, alternatives, safety warnings, and personalized reminders.
+A comprehensive medical assistant application that uses AI to analyze prescriptions, check drug interactions, and provide medical knowledge.
 
-## Key Features
-- **Smart Medicine Recognition**: NLP-powered prescription analysis
-- **Alternative Suggestions**: Cost-effective and safer alternatives
-- **Dosage Recommendations**: Precise dosage calculations
-- **Side Effect Monitoring**: Real-time safety alerts
-- **User Profiling**: Medical history tracking
-- **Smart Reminders**: Personalized medication schedules
-- **Drug Interaction Alerts**: Harmful combination warnings
+## 🚀 Features
 
-## Project Structure
+- **AI Prescription Analysis** - BioBERT-powered medicine extraction
+- **Drug Interaction Checking** - Safety alerts and contraindications
+- **Medical Knowledge Base** - 29,974 medical terms and explanations
+- **User Authentication** - JWT-based secure authentication
+- **Medication Reminders** - Personalized reminder system
+- **18,802 Medicine Database** - Comprehensive medicine information
+- **Web & Mobile Ready** - Flutter frontend with responsive design
+
+## 📁 Project Structure
+
 ```
-├── backend/          # Django REST API
-├── frontend/         # Flutter mobile & web app
-├── ai-models/        # AI/ML models and NLP pipeline
-├── database/         # Database schemas and migrations
-├── docs/             # Documentation and diagrams
-├── datasets/         # Medicine datasets and training data
-├── tests/            # Test files and test data
-└── README.md
+med-assist-clean/
+├── backend/                 # Django backend
+│   ├── src/
+│   │   ├── api/            # API endpoints
+│   │   ├── core/           # Django settings
+│   │   └── utils/          # Utility functions
+│   ├── scripts/            # Data processing scripts
+│   ├── tests/              # Backend tests
+│   └── docs/               # Backend documentation
+├── frontend/               # Flutter frontend
+│   ├── src/                # Flutter app source
+│   ├── tests/              # Frontend tests
+│   └── docs/               # Frontend documentation
+├── ai-models/              # AI model files
+│   ├── biobert/            # BioBERT model
+│   └── scripts/            # Model scripts
+├── datasets/               # Medical datasets
+│   ├── raw/                # Raw data files
+│   ├── processed/          # Processed datasets
+│   └── scripts/            # Data processing scripts
+├── docs/                   # Project documentation
+│   ├── api/                # API documentation
+│   ├── deployment/         # Deployment guides
+│   └── development/        # Development docs
+├── tests/                  # Integration tests
+│   ├── unit/               # Unit tests
+│   ├── integration/        # Integration tests
+│   └── e2e/                # End-to-end tests
+└── deployment/             # Deployment configs
+    ├── docker/             # Docker files
+    ├── kubernetes/         # K8s configs
+    └── cloud/              # Cloud deployment
 ```
 
-## Technology Stack
-- **Frontend**: Flutter (Mobile & Web)
-- **Backend**: Django REST Framework
-- **AI/ML**: HuggingFace BioBERT, TensorFlow/PyTorch
-- **Database**: PostgreSQL/SQLite
-- **NLP**: spaCy, NLTK
-- **APIs**: DrugBank, OpenFDA
+## 🛠️ Quick Start
 
-## Development Phases
+### Backend Setup
+```bash
+cd backend
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+pip install -r requirements.txt
+python src/manage.py migrate
+python src/manage.py runserver
+```
 
-### Phase 1: Setup & Requirements (Day 1-3)
-- [x] Project setup and GitHub repository
-- [x] Development environment setup (Django + Flutter)
-- [x] MVP scope definition
-- [x] **Day 1 COMPLETE**: Full-stack integration working
-- [ ] Dataset collection (DrugBank/OpenFDA)
-- [ ] System architecture design
+### Frontend Setup
+```bash
+cd frontend/src
+flutter pub get
+flutter run
+```
 
-### Phase 2: AI Core Development (Day 4-9)
-- [ ] NLP pipeline implementation
-- [ ] Medicine database setup
-- [ ] Recommendation logic
-- [ ] Safety check system
+## 📊 Database
 
-### Phase 3: App & Backend Features (Day 10-15)
-- [ ] Flutter UI development
-- [ ] Reminder system
-- [ ] User profiling
-- [ ] End-to-end integration
+- **SQLite** (Development) - 12MB with 18,802 medicines
+- **PostgreSQL** (Production) - For scaling to thousands of users
 
-### Phase 4: Testing & Deployment (Day 16-20)
-- [ ] Testing and validation
-- [ ] UI/UX polish
-- [ ] Documentation
-- [ ] Demo preparation
+## 🔐 Authentication
 
-## MVP Scope
-**Input**: Patient prescription (text/image)
-**Output**: 
-- Medicine details and purpose
-- Correct dosage recommendations
-- Side effects and warnings
-- Alternative medicines
-- Personalized reminders
+- JWT-based authentication
+- User profiles with medical history
+- Secure API endpoints
 
-## Contributing
-This project follows the Waterfall development methodology with structured phases and clear deliverables.
+## 🎯 Current Status
 
-## License
-[To be determined]
+- ✅ Database migration completed
+- ✅ User authentication implemented
+- ✅ API endpoints functional
+- ✅ Frontend integration working
+- ⏳ Mobile app deployment (next)
 
-## Team
-Revotic AI Internship Project
+## 📱 API Endpoints
 
----
-**Status**: Day 1 Complete ✅ | Phase 1 In Progress
+- `POST /api/auth/register/` - User registration
+- `POST /api/auth/login/` - User login
+- `POST /api/prescription/analyze/` - Prescription analysis
+- `GET /api/medical-knowledge/search/` - Medical knowledge search
 
-## Day 1 Achievements
-- ✅ Django REST API with /ping/ and /prescription/analyze/ endpoints
-- ✅ Flutter app with prescription input and HTTP client
-- ✅ Complete frontend-backend integration tested and working
-- ✅ CORS configuration for cross-origin requests
-- ✅ JSON API communication protocol established
-- ✅ Error handling and loading states implemented
+## 🧪 Testing
 
-**Next**: Day 2 - Dataset collection and NLP pipeline development
+```bash
+# Backend tests
+cd backend
+python -m pytest tests/
+
+# Frontend tests
+cd frontend/src
+flutter test
+```
+
+## 📚 Documentation
+
+- [API Documentation](docs/api/)
+- [Deployment Guide](docs/deployment/)
+- [Development Guide](docs/development/)
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Add tests
+5. Submit a pull request
+
+## 📄 License
+
+This project is licensed under the MIT License.

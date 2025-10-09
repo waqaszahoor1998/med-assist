@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "source": "DrugBank 5.1.11",
+  "total_medicines": 1,
+  "medicines": [
+    {
+      "id": "DB00000",
+      "name": "Lepirudin",
+      "indication": "For the treatment of thrombosis and to prevent thromboembolic complications in patients with heparin-induced thrombocytopenia (HIT) and associated thromboembolic disease.",
+      "description": "Comprehensive DrugBank database with medicine information, dosages, and therapeutic data",
+      "dosage": "Lepirudin is a recombinant hirudin derivative. It is a highly specific, irreversible inhibitor of thrombin. It is used for anticoagulation in patients with heparin-induced thrombocytopenia (HIT)."
+    }
+  ]
+}

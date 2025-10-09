@@ -1,0 +1,3 @@
+name,generic_name,brand_names,dosage_forms,common_doses,indications,warnings,max_daily_dose,frequency,source
+Paracetamol,Acetaminophen,Tylenol; Panadol; Calpol,tablet; capsule; liquid; suppository,500mg; 650mg; 1000mg,pain relief; fever reduction,liver damage with overdose; alcohol interaction,4000mg,every 4-6 hours,manual
+Ibuprofen,Ibuprofen,Advil; Motrin; Nurofen,tablet; capsule; liquid; gel,200mg; 400mg; 600mg; 800mg,pain relief; inflammation; fever,stomach irritation; kidney problems; heart risks,2400mg,every 6-8 hours,manual

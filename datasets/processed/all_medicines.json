@@ -1,0 +1,205 @@
+[
+  {
+    "name": "Paracetamol",
+    "generic_name": "Acetaminophen",
+    "brand_names": [
+      "Tylenol",
+      "Panadol",
+      "Calpol"
+    ],
+    "dosage_forms": [
+      "tablet",
+      "capsule",
+      "liquid",
+      "suppository"
+    ],
+    "common_doses": [
+      "500mg",
+      "650mg",
+      "1000mg"
+    ],
+    "indications": [
+      "pain relief",
+      "fever reduction"
+    ],
+    "warnings": [
+      "liver damage with overdose",
+      "alcohol interaction"
+    ],
+    "max_daily_dose": "4000mg",
+    "frequency": "every 4-6 hours",
+    "source": "manual"
+  },
+  {
+    "name": "Ibuprofen",
+    "generic_name": "Ibuprofen",
+    "brand_names": [
+      "Advil",
+      "Motrin",
+      "Nurofen"
+    ],
+    "dosage_forms": [
+      "tablet",
+      "capsule",
+      "liquid",
+      "gel"
+    ],
+    "common_doses": [
+      "200mg",
+      "400mg",
+      "600mg",
+      "800mg"
+    ],
+    "indications": [
+      "pain relief",
+      "inflammation",
+      "fever"
+    ],
+    "warnings": [
+      "stomach irritation",
+      "kidney problems",
+      "heart risks"
+    ],
+    "max_daily_dose": "2400mg",
+    "frequency": "every 6-8 hours",
+    "source": "manual"
+  },
+  {
+    "name": "Amoxicillin",
+    "generic_name": "Amoxicillin",
+    "brand_names": [
+      "Amoxil",
+      "Trimox"
+    ],
+    "dosage_forms": [
+      "capsule",
+      "tablet",
+      "liquid"
+    ],
+    "common_doses": [
+      "250mg",
+      "500mg",
+      "875mg"
+    ],
+    "indications": [
+      "bacterial infections",
+      "respiratory infections"
+    ],
+    "warnings": [
+      "allergic reactions",
+      "diarrhea",
+      "complete course required"
+    ],
+    "frequency": "every 8 hours",
+    "duration": "7-10 days",
+    "source": "manual"
+  },
+  {
+    "name": "Metformin",
+    "generic_name": "Metformin",
+    "brand_names": [
+      "Glucophage",
+      "Glumetza"
+    ],
+    "dosage_forms": [
+      "tablet",
+      "extended-release tablet"
+    ],
+    "common_doses": [
+      "500mg",
+      "850mg",
+      "1000mg"
+    ],
+    "indications": [
+      "type 2 diabetes",
+      "blood sugar control"
+    ],
+    "warnings": [
+      "lactic acidosis",
+      "kidney function monitoring"
+    ],
+    "frequency": "twice daily with meals",
+    "source": "manual"
+  },
+  {
+    "name": "Lisinopril",
+    "generic_name": "Lisinopril",
+    "brand_names": [
+      "Prinivil",
+      "Zestril"
+    ],
+    "dosage_forms": [
+      "tablet"
+    ],
+    "common_doses": [
+      "5mg",
+      "10mg",
+      "20mg",
+      "40mg"
+    ],
+    "indications": [
+      "high blood pressure",
+      "heart failure"
+    ],
+    "warnings": [
+      "cough",
+      "low blood pressure",
+      "kidney problems"
+    ],
+    "frequency": "once daily",
+    "source": "manual"
+  },
+  {
+    "name": "Atorvastatin",
+    "generic_name": "Atorvastatin",
+    "brand_names": [
+      "Lipitor"
+    ],
+    "dosage_forms": [
+      "tablet"
+    ],
+    "common_doses": [
+      "10mg",
+      "20mg",
+      "40mg",
+      "80mg"
+    ],
+    "indications": [
+      "high cholesterol",
+      "heart disease prevention"
+    ],
+    "warnings": [
+      "muscle pain",
+      "liver problems"
+    ],
+    "frequency": "once daily",
+    "source": "manual"
+  },
+  {
+    "name": "Omeprazole",
+    "generic_name": "Omeprazole",
+    "brand_names": [
+      "Prilosec",
+      "Losec"
+    ],
+    "dosage_forms": [
+      "capsule",
+      "tablet"
+    ],
+    "common_doses": [
+      "20mg",
+      "40mg"
+    ],
+    "indications": [
+      "acid reflux",
+      "stomach ulcers",
+      "GERD"
+    ],
+    "warnings": [
+      "bone fractures with long-term use",
+      "vitamin B12 deficiency"
+    ],
+    "frequency": "once daily before meals",
+    "source": "manual"
+  }
+]

@@ -4,8 +4,28 @@ __pycache__/
 *$py.class
 *.so
 .Python
-env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
 venv/
+env/
 ENV/
 env.bak/
 venv.bak/
@@ -17,7 +37,6 @@ local_settings.py
 db.sqlite3
 db.sqlite3-journal
 media/
-staticfiles/
 
 # Flutter
 .dart_tool/
@@ -26,9 +45,7 @@ staticfiles/
 .packages
 .pub-cache/
 .pub/
-/build/
-flutter_*.png
-flutter_*.jpg
+build/
 
 # IDE
 .vscode/
@@ -46,49 +63,37 @@ flutter_*.jpg
 ehthumbs.db
 Thumbs.db
 
-# Datasets and Models
-datasets/raw/
-datasets/processed/
-ai-models/trained/
-*.pkl
-*.joblib
+# AI Models (large files)
+ai-models/biobert/
+*.bin
 *.h5
-*.pb
+*.pkl
+*.model
 
-# Environment variables
-.env
-.env.local
-.env.production
+# Documentation (temporary)
+docs/day*-report.md
+TODO.md
+Waqas Task.pdf
+
+# Test files
+test_*.py
+*_test.py
+
+# Cache
+.cache/
+*.cache
 
 # Logs
 logs/
 *.log
 
-# Temporary files
-tmp/
-temp/
-*.tmp
+# Large dataset files (>50MB)
+datasets/processed/comprehensive_medical_knowledge.json
+datasets/processed/enhanced_medicine_database.json
+datasets/processed/enhanced_ultimate_medicine_database.json
+datasets/processed/drugbank_structures.json
+datasets/processed/ultimate_medicine_database.json
+datasets/processed/comprehensive_medicine_database.json
 
-# API Keys and Secrets
-secrets/
-config/secrets.py
-*.key
-*.pem
-
-# Database backups
-*.sql
-*.dump
-
-# Documentation builds
-docs/_build/
-docs/site/
-
-# Test coverage
-htmlcov/
-.coverage
-.pytest_cache/
-coverage.xml
-*.cover
-Waqas Task.pdf
-docs/
-TODO.md
+# Backend datasets cache
+backend/datasets/cache/
