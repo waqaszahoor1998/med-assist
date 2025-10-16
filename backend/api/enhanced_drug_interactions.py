@@ -1,18 +1,75 @@
 """
-Enhanced Drug Interaction System
-Combines OpenFDA, RxNorm, and manual databases for comprehensive drug interaction checking
+============================================================================
+ENHANCED DRUG INTERACTION CHECKER - Multi-Source Validation
+============================================================================
+
+This file provides enhanced drug interaction checking by combining data
+from multiple authoritative sources for comprehensive safety validation.
+
+Data Sources Combined:
+1. OpenFDA - FDA's official drug database (real-time API)
+2. RxNorm - National Library of Medicine terminology (real-time API)
+3. Manual Database - DrugBank interaction data (local database)
+
+What It Does:
+- Queries multiple sources for each medicine pair
+- Aggregates interaction data from all sources
+- Prioritizes by severity and source reliability
+- Provides comprehensive interaction reports
+
+vs Basic Checker (drug_interactions.py):
+- Basic: Uses only local database (fast, offline)
+- Enhanced: Queries live APIs (slower, more comprehensive)
+- Enhanced: Better for uncommon medicines or latest data
+- Enhanced: Requires internet connection
+
+Used by:
+- api/views.py: analyze_prescription_enhanced() - Advanced analysis
+- api/views.py: check_enhanced_drug_interactions() - Manual checking
+
+Calls:
+- openfda_client.py: Query OpenFDA API
+- rxnorm_client.py: Query RxNorm API
+- drug_interactions.py: Check local database
+- Combines all results
+
+Performance:
+- Slower than basic checker (API calls)
+- Uses caching to improve speed
+- Typical: 500ms-2s per check
+
+Frontend Integration:
+- Used for comprehensive analysis feature
+- Shows data source for each interaction
+- Displays confidence based on source agreement
+
+API Rate Limits:
+- OpenFDA: 240 requests/minute, 120,000/day
+- RxNorm: No strict limit, but use responsibly
+- Caching reduces API calls
+============================================================================
 """
 
 import logging
 from typing import List, Dict, Optional
 from datetime import datetime
-from .openfda_client import openfda_client
-from .rxnorm_client import rxnorm_client
-from .drug_interactions import interaction_checker as manual_checker
+from .openfda_client import openfda_client    # FDA API client
+from .rxnorm_client import rxnorm_client      # RxNorm API client
+from .drug_interactions import interaction_checker as manual_checker  # Local database
 
 class EnhancedDrugInteractionChecker:
     """
-    Enhanced drug interaction checker combining multiple data sources
+    Enhanced drug interaction checker combining OpenFDA, RxNorm, and local database.
+    
+    Combines 3 data sources for comprehensive validation:
+    1. OpenFDA (live FDA data)
+    2. RxNorm (medical terminology)
+    3. Local database (DrugBank)
+    
+    Main Methods:
+    - check_interactions() - Check all medicine combinations
+    - _merge_results() - Combine data from multiple sources
+    - _prioritize_by_severity() - Sort by danger level
     """
     
     def __init__(self):

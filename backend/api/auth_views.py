@@ -1,27 +1,127 @@
 """
-Authentication views for user registration, login, and profile management
+============================================================================
+AUTHENTICATION VIEWS - Medicine Assistant Application
+============================================================================
+
+This file handles all user authentication and profile management endpoints.
+Provides JWT token-based authentication for the entire application.
+
+Key Functions:
+1. register_user() - Create new user account
+2. login_user() - Authenticate and get JWT tokens
+3. refresh_token() - Renew access token
+4. logout_user() - Invalidate tokens
+5. verify_token() - Check token validity
+6. get_user_profile() - Fetch user profile and medical data
+7. update_user_profile() - Save profile changes
+
+Authentication Flow:
+1. User registers → Gets JWT tokens
+2. User logs in → Gets JWT tokens
+3. Every API call includes token in header: Authorization: Bearer <token>
+4. Token expires after 60 minutes → Use refresh token to get new one
+5. Refresh token expires after 24 hours → User must login again
+
+Used by:
+- Flutter LoginScreen, RegistrationScreen
+- Flutter UserProfileScreen, PersonalInfoScreen, MedicalHistoryScreen
+- All API endpoints that require authentication
+
+Related Files:
+- api/models.py: UserProfile model
+- api/urls.py: Routes authentication endpoints here
+- medicine_assistant/settings.py: JWT configuration
+
+Frontend Integration:
+- Flutter ApiService calls these endpoints
+- UserSession stores JWT tokens locally
+- All authenticated requests include token
+============================================================================
 """
 
 from rest_framework.decorators import api_view, permission_classes
 from rest_framework.permissions import AllowAny, IsAuthenticated
 from rest_framework.response import Response
 from rest_framework import status
-from rest_framework_simplejwt.tokens import RefreshToken
-from django.contrib.auth import authenticate
-from django.contrib.auth.models import User
+from rest_framework_simplejwt.tokens import RefreshToken  # JWT token generation
+from django.contrib.auth import authenticate                # User authentication
+from django.contrib.auth.models import User                # Django User model
 from django.utils import timezone
 from django.db import transaction
 import logging
 
-from .models import UserProfile
+from .models import UserProfile  # User medical data model
 
 logger = logging.getLogger(__name__)
 
 
 @api_view(['POST'])
-@permission_classes([AllowAny])
+@permission_classes([AllowAny])  # No authentication required for registration
 def register_user(request):
-    """Register a new user"""
+    """
+    Register a new user account and create associated profile.
+    
+    URL: POST /api/auth/register/
+    Authentication: None required (AllowAny)
+    
+    Request Body:
+    {
+        "username": "johndoe",      (required, unique)
+        "email": "john@example.com", (required, unique)
+        "password": "securepass123", (required, min 8 chars)
+        "first_name": "John",        (optional)
+        "last_name": "Doe"           (optional)
+    }
+    
+    Returns:
+    {
+        "status": "success",
+        "message": "User registered successfully",
+        "access": "eyJ0eXAiOiJKV1QiLCJhbGc...",  (JWT access token)
+        "refresh": "eyJ0eXAiOiJKV1QiLCJhbGc...", (JWT refresh token)
+        "user": {
+            "id": 1,
+            "username": "johndoe",
+            "email": "john@example.com",
+            "first_name": "John",
+            "last_name": "Doe"
+        }
+    }
+    
+    Processing Flow:
+    1. Extract user data from request
+    2. Validate required fields (username, email, password)
+    3. Check if username/email already exists
+    4. Create User record in database
+    5. Create UserProfile record (linked to user)
+    6. Generate JWT access and refresh tokens
+    7. Return tokens and user data
+    
+    Called by:
+    - Flutter RegistrationScreen (register button)
+    - ApiService.register()
+    
+    Calls:
+    - User.objects.create_user() - Django user creation
+    - UserProfile.objects.create() - Profile creation
+    - RefreshToken.for_user() - JWT token generation
+    
+    Side Effects:
+    - Creates User record in auth_user table
+    - Creates UserProfile record in api_userprofile table
+    - User is automatically logged in (receives tokens)
+    
+    Error Handling:
+    - Missing fields → 400 Bad Request
+    - Username exists → 400 "Username already exists"
+    - Email exists → 400 "Email already registered"
+    - Server error → 500 Internal Server Error
+    
+    Frontend Integration:
+    - On success: Flutter stores tokens in UserSession
+    - On success: Navigates to Dashboard
+    - On error: Shows error message in SnackBar
+    """
     try:
         username = request.data.get('username', '').strip()
         email = request.data.get('email', '').strip()
@@ -208,9 +308,74 @@ def refresh_token(request):
 
 
 @api_view(['GET'])
-@permission_classes([IsAuthenticated])
+@permission_classes([IsAuthenticated])  # Requires valid JWT token
 def get_user_profile(request):
-    """Get authenticated user's profile"""
+    """
+    Retrieve complete user profile including medical data and activity summary.
+    Day 17 Feature - Connected to Flutter frontend.
+    
+    URL: GET /api/auth/profile/
+    Authentication: Required (JWT token)
+    
+    Request Headers:
+    - Authorization: Bearer <access_token>
+    
+    Returns:
+    {
+        "status": "success",
+        "user": {
+            "id": 1,
+            "username": "johndoe",
+            "email": "john@example.com",
+            "first_name": "John",
+            "last_name": "Doe",
+            "date_joined": "2025-10-01T00:00:00Z",
+            "last_login": "2025-10-10T14:30:00Z"
+        },
+        "profile": {
+            "medical_history": ["Surgery 2020", "Diabetes diagnosed 2019"],
+            "allergies": ["Penicillin", "Peanuts"],
+            "current_conditions": ["Hypertension", "Diabetes Type 2"],
+            "medications": ["Metformin 500mg", "Lisinopril 10mg"],
+            "emergency_contact": {"name": "Jane Doe", "phone": "555-1234"},
+            "preferences": {},
+            "created_at": "2025-10-01T00:00:00Z",
+            "updated_at": "2025-10-10T14:30:00Z"
+        },
+        "activity_summary": {
+            "total_reminders": 5,
+            "active_reminders": 3,
+            "total_prescriptions_analyzed": 12,
+            "last_activity": "2025-10-10T14:30:00Z"
+        }
+    }
+    
+    Processing Flow:
+    1. Get authenticated user from JWT token
+    2. Retrieve UserProfile from database
+    3. Call profile.get_activity_summary() for statistics
+    4. Combine user data, profile data, and activity summary
+    5. Return complete JSON response
+    
+    Called by:
+    - Flutter UserProfileScreen (on screen open)
+    - Flutter MedicalHistoryScreen (loads medical data)
+    - Flutter PersonalInfoScreen (loads personal info)
+    - ApiService.getUserProfile()
+    
+    Calls:
+    - UserProfile.objects.get() - Get profile from database
+    - profile.get_activity_summary() - Calculate statistics
+    
+    Error Handling:
+    - No profile found → Creates empty profile automatically
+    - Server error → 500 Internal Server Error
+    
+    Frontend Integration:
+    - Displays user info in UserProfileScreen
+    - Loads allergies/medications in MedicalHistoryScreen
+    - Shows activity stats in dashboard
+    """
     try:
         user = request.user
         profile = UserProfile.objects.get(user=user)

@@ -1,6 +1,43 @@
 """
-Drug Interaction Checking System
-Provides comprehensive drug interaction analysis and safety alerts
+============================================================================
+DRUG INTERACTION CHECKER - Medicine Safety Validation
+============================================================================
+
+This file checks for dangerous drug interactions when multiple medicines
+are prescribed together. Uses comprehensive interaction database built from
+DrugBank and medical literature.
+
+What It Does:
+- Checks all combinations of medicines (pairs)
+- Identifies dangerous interactions
+- Assigns severity levels (HIGH, MEDIUM, LOW)
+- Provides detailed warnings and recommendations
+
+Severity Levels:
+- HIGH: Dangerous, avoid combination (e.g., Warfarin + Aspirin)
+- MEDIUM: Caution needed, monitor patient (e.g., Statins + Grapefruit)
+- LOW: Minor interaction, usually safe (e.g., Antacids + Iron)
+- INFO: No significant interaction found
+
+Used by:
+- api/views.py: analyze_prescription() - Checks extracted medicines
+- api/views.py: check_drug_interactions() - Manual checking
+- api/views.py: validate_prescription_safety() - Safety validation
+
+Calls:
+- api/models.py: Medicine.objects.filter() - Get interaction data
+- Built-in interaction database (self.interactions_db)
+
+Data Sources:
+- DrugBank interaction database
+- FDA drug interaction tables
+- Medical literature
+
+Frontend Integration:
+- Warnings displayed in PrescriptionEntryScreen
+- Color-coded by severity (red=high, orange=medium, yellow=low)
+- Shows detailed interaction explanations
+============================================================================
 """
 
 import logging
@@ -9,7 +46,16 @@ from datetime import datetime
 
 class DrugInteractionChecker:
     """
-    Comprehensive drug interaction checking system
+    Checks for dangerous drug interactions between medicines.
+    
+    Singleton Pattern:
+    - Instance created: interaction_checker = DrugInteractionChecker()
+    - Reused for all requests
+    
+    Main Methods:
+    - check() - Check interactions for medicine list
+    - _check_pair() - Check specific medicine pair
+    - _get_severity() - Determine interaction severity
     """
     
     def __init__(self):

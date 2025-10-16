@@ -1,129 +1,114 @@
-# Medicine Assistant
+# 🏥 Medicine Assistant - AI-Powered Prescription Analysis
 
-AI-powered medicine management system for prescription analysis, drug interaction checking, and medication tracking.
+A comprehensive medical assistant application that uses AI to analyze prescriptions, check drug interactions, and provide medical knowledge.
 
-## Overview
+## 🚀 Features
 
-Medicine Assistant uses BioBERT medical NLP to analyze prescriptions, check for drug interactions, validate against allergies, and suggest alternative medicines. Built with Django backend and Flutter frontend.
+- **AI Prescription Analysis** - BioBERT-powered medicine extraction
+- **Drug Interaction Checking** - Safety alerts and contraindications
+- **Medical Knowledge Base** - 29,974 medical terms and explanations
+- **User Authentication** - JWT-based secure authentication
+- **Medication Reminders** - Personalized reminder system
+- **18,802 Medicine Database** - Comprehensive medicine information
+- **Web & Mobile Ready** - Flutter frontend with responsive design
 
-## Key Features
+## 📁 Project Structure
 
-- **Prescription Analysis** - AI extracts medicines, dosages, and frequencies from prescription text
-- **Drug Interaction Checking** - Real-time warnings for dangerous drug combinations
-- **Allergy Alerts** - Cross-checks prescriptions against user allergies
-- **Alternative Medicines** - Suggests generic and therapeutic alternatives
-- **Medication Reminders** - Customizable reminders with notifications
-- **Prescription History** - Auto-saves all analyses for later reference
-- **Medical Knowledge Search** - Database of 10,000+ medicines with detailed information
+```
+med-assist-clean/
+├── backend/                 # Django backend
+│   ├── src/
+│   │   ├── api/            # API endpoints
+│   │   ├── core/           # Django settings
+│   │   └── utils/          # Utility functions
+│   ├── scripts/            # Data processing scripts
+│   ├── tests/              # Backend tests
+│   └── docs/               # Backend documentation
+├── frontend/               # Flutter frontend
+│   ├── src/                # Flutter app source
+│   ├── tests/              # Frontend tests
+│   └── docs/               # Frontend documentation
+├── ai-models/              # AI model files
+│   ├── biobert/            # BioBERT model
+│   └── scripts/            # Model scripts
+├── datasets/               # Medical datasets
+│   ├── raw/                # Raw data files
+│   ├── processed/          # Processed datasets
+│   └── scripts/            # Data processing scripts
+├── docs/                   # Project documentation
+│   ├── api/                # API documentation
+│   ├── deployment/         # Deployment guides
+│   └── development/        # Development docs
+├── tests/                  # Integration tests
+│   ├── unit/               # Unit tests
+│   ├── integration/        # Integration tests
+│   └── e2e/                # End-to-end tests
+└── deployment/             # Deployment configs
+    ├── docker/             # Docker files
+    ├── kubernetes/         # K8s configs
+    └── cloud/              # Cloud deployment
+```
 
-## Tech Stack
+## 🛠️ Quick Start
 
-**Backend**: Django 5.2.6, Django REST Framework, Simple JWT  
-**Frontend**: Flutter (Web/Mobile), Material Design 3  
-**AI/ML**: BioBERT (biobert-v1.1)  
-**Database**: SQLite (dev), PostgreSQL-ready  
-**Data Sources**: DrugBank, OpenFDA, RxNorm, Medical Wiki  
-
-## Installation
-
-### Backend
+### Backend Setup
 ```bash
 cd backend
-python3 -m venv venv
-source venv/bin/activate
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
-python manage.py migrate
-python manage.py runserver 8000
+python src/manage.py migrate
+python src/manage.py runserver
 ```
 
-### Frontend
+### Frontend Setup
 ```bash
-cd frontend/src/medicine_assistant_app
+cd frontend/src
 flutter pub get
-flutter run -d web-server --web-port 3000
+flutter run
 ```
 
-### Access
-- App: http://localhost:3000
-- API: http://localhost:8000
-- Admin: http://localhost:8000/admin
+## 📊 Database
 
-## Project Structure
+- **SQLite** (Development) - 12MB with 18,802 medicines
+- **PostgreSQL** (Production) - For scaling to thousands of users
 
-```
-med-assist/
-├── backend/              # Django REST API
-│   ├── api/             # API endpoints, models, views
-│   └── medicine_assistant/  # Project settings
-├── frontend/src/medicine_assistant_app/  # Flutter app
-│   └── lib/
-│       ├── models/      # Data models
-│       ├── screens/     # UI screens
-│       └── services/    # API integration
-├── datasets/            # Medicine databases
-├── ai-models/           # BioBERT model
-└── docs/                # Documentation
-```
+## 🔐 Authentication
 
-## API Endpoints
+- JWT-based authentication
+- User profiles with medical history
+- Secure API endpoints
 
-### Authentication
+## 🎯 Current Status
+
+- ✅ Database migration completed
+- ✅ User authentication implemented
+- ✅ API endpoints functional
+- ✅ Frontend integration working
+- ⏳ Mobile app deployment (next)
+
+## 📱 API Endpoints
+
 - `POST /api/auth/register/` - User registration
-- `POST /api/auth/login/` - Login (username or email)
-- `GET /api/auth/profile/` - Get user profile
+- `POST /api/auth/login/` - User login
+- `POST /api/prescription/analyze/` - Prescription analysis
+- `GET /api/medical-knowledge/search/` - Medical knowledge search
 
-### Prescription
-- `POST /api/prescription/analyze/` - Analyze prescription
-- `GET /api/prescription/history/` - Get analysis history
+## 🧪 Testing
 
-### Notifications & Reminders
-- `GET /api/notifications/` - Get notifications
-- `POST /api/reminders/create/` - Create medication reminder
+```bash
+# Backend tests
+cd backend
+python -m pytest tests/
 
-### Medical Knowledge
-- `GET /api/medical-knowledge/search/` - Search medical database
-- `GET /api/medicines/search/` - Search medicines
+# Frontend tests
+cd frontend/src
+flutter test
+```
 
-## Features in Detail
+## 📚 Documentation
 
-**Prescription Analysis**  
-BioBERT AI or rule-based extraction → Database lookup → Interaction checking → Allergy validation → Alternative suggestions → Auto-save to history
+- [API Documentation](docs/api/)
+- [Deployment Guide](docs/deployment/)
+- [Development Guide](docs/development/)
 
-**Allergy System**  
-User maintains allergy list → Real-time checking → Cross-reactivity detection → Severity levels → Detailed warnings
-
-**Reminders**  
-Multiple times per day → 8 frequency options → Active/inactive toggle → Automatic notifications
-
-**Notifications**  
-6 types (reminder, allergy, interaction, side effect, dosage, info, system) → 4 priority levels → Color-coded → Swipe-to-delete
-
-## Database
-
-**10,000+ Medicines** from DrugBank, OpenFDA, RxNorm  
-**1,000+ Medical Knowledge** entries  
-**8,000+ Molecular Structures**  
-**Models**: Medicine, UserProfile, PrescriptionHistory, MedicationReminder, Notification, MedicalKnowledge
-
-## Performance
-
-- BioBERT inference: ~2-3 seconds
-- Rule-based fallback: <100ms
-- API response: <200ms average
-- Database queries optimized with indexes
-
-## Security
-
-- JWT authentication
-- Password hashing
-- CORS configuration
-- Permission-based API access
-- User data isolation
-
-## License
-
-Proprietary - All Rights Reserved
-
-## Version
-
-1.0.0 - Production Ready (October 2025)

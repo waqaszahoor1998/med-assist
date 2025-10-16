@@ -1,6 +1,48 @@
 """
-OpenFDA Client for Drug Interaction Data
-Provides access to FDA's drug database with local caching
+============================================================================
+OPENFDA CLIENT - FDA Drug Database API Client
+============================================================================
+
+This file provides access to FDA's official drug database (OpenFDA) via API.
+Includes intelligent caching to reduce API calls and improve performance.
+
+What OpenFDA Provides:
+- Official FDA drug labeling data
+- Drug interaction warnings
+- Side effects and adverse reactions
+- Indications and usage
+- Warnings and precautions
+
+Features:
+- Automatic local caching (7-day cache)
+- Rate limiting (respects FDA limits)
+- Error handling and retry logic
+- JSON data storage
+
+API Information:
+- Base URL: https://api.fda.gov/drug/label.json
+- Rate Limits: 240 requests/minute, 120,000 requests/day
+- Documentation: https://open.fda.gov/apis/drug/label/
+
+Used by:
+- api/enhanced_drug_interactions.py - Multi-source checking
+- api/views.py: get_medicine_info_enhanced() - Detailed medicine info
+
+Calls:
+- External: FDA OpenFDA API (HTTPS)
+- Local: File system (for caching)
+
+Caching Strategy:
+- Cache location: datasets/cache/openfda/
+- Cache duration: 7 days
+- File format: JSON
+- Reduces API calls by 95%+
+
+Error Handling:
+- API unavailable → Returns cached data if available
+- Rate limit hit → Waits and retries
+- Invalid medicine → Returns None
+============================================================================
 """
 
 import requests
@@ -13,7 +55,17 @@ import time
 
 class OpenFDAClient:
     """
-    Client for accessing OpenFDA drug database
+    Client for accessing FDA's OpenFDA drug database API with caching.
+    
+    Singleton Pattern:
+    - Instance created: openfda_client = OpenFDAClient()
+    - Reused for all requests
+    
+    Main Methods:
+    - get_drug_info() - Get complete drug information
+    - _get_cached() - Retrieve from cache
+    - _save_cache() - Store in cache
+    - _query_api() - Call FDA API
     """
     
     def __init__(self, cache_dir="datasets/cache/openfda"):

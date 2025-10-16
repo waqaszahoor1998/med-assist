@@ -1,4 +1,44 @@
+"""
+============================================================================
+DJANGO ADMIN CONFIGURATION - Medicine Assistant Application
+============================================================================
+
+This file configures the Django Admin panel for database management.
+Admin panel accessible at: http://localhost:8000/admin/
+
+What It Does:
+- Registers all models for admin panel
+- Configures list displays (columns shown)
+- Adds search functionality
+- Adds filters for each model
+- Provides bulk actions
+
+Used by:
+- Django admin system (built-in)
+- Accessed via web browser at /admin/
+
+Access:
+- Requires superuser account
+- Create with: python manage.py createsuperuser
+- Login at /admin/ with superuser credentials
+
+Features Per Model:
+- List view with sortable columns
+- Search by key fields
+- Filter by categories, dates, status
+- Edit individual records
+- Bulk actions (delete, update)
+- Custom actions (mark notifications read/unread)
+
+Frontend Alternative:
+- Admin panel is backend-only
+- Flutter app uses API endpoints instead
+- Admin panel for developers/administrators only
+============================================================================
+"""
+
 from django.contrib import admin
+from django.utils import timezone
 from .models import (
     Medicine,
     UserProfile,
