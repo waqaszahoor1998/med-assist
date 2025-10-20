@@ -87,11 +87,8 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 # Install dependencies
 pip install -r requirements.txt
 
-# Run database migrations
+# Run database migrations (database file is already included)
 python manage.py migrate
-
-# Populate the database with medical data
-python manage.py populate_database
 
 # Start the backend server
 python manage.py runserver
@@ -132,13 +129,14 @@ Use the provided scripts for faster setup:
 
 ### Troubleshooting
 - **BioBERT Model Issues**: Ensure the model files are downloaded correctly
-- **Database Issues**: Run `python manage.py migrate` and `python manage.py populate_database`
+- **Database Issues**: Run `python manage.py migrate` (database file is included)
 - **Flutter Issues**: Run `flutter doctor` to check Flutter setup
 - **Port Conflicts**: Change ports in settings if 8000 is occupied
+- **Missing Data**: If database is empty, run `python manage.py populate_database`
 
 ## Database
 
-- **SQLite** (Development) - 12MB with 18,802 medicines
+- **SQLite** (Development) - 16MB with 18,802 medicines and 29,974 medical terms
 - **PostgreSQL** (Production) - For scaling to thousands of users
 - **Medical Knowledge** - 29,974 medical terms and explanations
 - **Drug Interactions** - Comprehensive safety database
