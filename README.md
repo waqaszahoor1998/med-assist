@@ -62,8 +62,15 @@ cd med-assist
 ```
 
 ### Step 2: Setup BioBERT AI Model
-The BioBERT model files are large (~400MB) and not included in the repository. You need to download them:
+The BioBERT model files are large (~400MB) and not included in the repository. Choose one of the following methods:
 
+#### Method 1: Automated Setup Script (Easiest)
+```bash
+# Run the automated setup script
+./setup_biobert.sh
+```
+
+#### Method 2: Using Git Clone (Manual)
 ```bash
 # Navigate to ai-models directory
 cd ai-models/biobert
@@ -74,6 +81,34 @@ git clone https://huggingface.co/dmis-lab/biobert-base-cased-v1.1 biobert-v1.1
 # Verify the model files are present
 ls biobert-v1.1/
 # Should show: config.json, pytorch_model.bin, vocab.txt, etc.
+```
+
+#### Method 3: Using Hugging Face Hub (Alternative)
+```bash
+# Install huggingface_hub if not already installed
+pip install huggingface_hub
+
+# Navigate to ai-models directory
+cd ai-models/biobert
+
+# Download using Python script
+python -c "
+from huggingface_hub import snapshot_download
+snapshot_download(repo_id='dmis-lab/biobert-base-cased-v1.1', local_dir='biobert-v1.1')
+"
+```
+
+#### Method 4: Manual Download
+1. Visit: https://huggingface.co/dmis-lab/biobert-base-cased-v1.1
+2. Click "Files and versions"
+3. Download all files to `ai-models/biobert/biobert-v1.1/`
+4. Required files: `config.json`, `pytorch_model.bin`, `vocab.txt`, `tokenizer_config.json`, `special_tokens_map.json`
+
+#### Verify Installation
+```bash
+# Check if all required files are present
+ls -la ai-models/biobert/biobert-v1.1/
+# Should show 7 files including pytorch_model.bin (~400MB)
 ```
 
 ### Step 3: Backend Setup
@@ -114,6 +149,9 @@ flutter run
 Use the provided scripts for faster setup:
 
 ```bash
+# Setup BioBERT model (run this first)
+./setup_biobert.sh
+
 # Start backend
 ./start_backend.sh
 
