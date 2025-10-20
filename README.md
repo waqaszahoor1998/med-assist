@@ -48,25 +48,93 @@ med-assist/
     └── cloud/              # Cloud deployment
 ```
 
-## Quick Start
+## Complete Setup Guide
 
-### Backend Setup
+### Prerequisites
+- Python 3.8+ with pip
+- Flutter SDK 3.0+ with Dart
+- Git (for cloning the repository)
+
+### Step 1: Clone the Repository
+```bash
+git clone https://github.com/waqaszahoor1998/med-assist.git
+cd med-assist
+```
+
+### Step 2: Setup BioBERT AI Model
+The BioBERT model files are large (~400MB) and not included in the repository. You need to download them:
+
+```bash
+# Navigate to ai-models directory
+cd ai-models/biobert
+
+# Clone the BioBERT model repository
+git clone https://huggingface.co/dmis-lab/biobert-base-cased-v1.1 biobert-v1.1
+
+# Verify the model files are present
+ls biobert-v1.1/
+# Should show: config.json, pytorch_model.bin, vocab.txt, etc.
+```
+
+### Step 3: Backend Setup
 ```bash
 cd backend
+
+# Create virtual environment
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+# Install dependencies
 pip install -r requirements.txt
+
+# Run database migrations
 python manage.py migrate
+
+# Populate the database with medical data
 python manage.py populate_database
+
+# Start the backend server
 python manage.py runserver
 ```
 
-### Frontend Setup
+### Step 4: Frontend Setup
 ```bash
 cd frontend/src/medicine_assistant_app
+
+# Install Flutter dependencies
 flutter pub get
+
+# Run the Flutter app
 flutter run
 ```
+
+### Step 5: Verify Installation
+1. Backend should be running on `http://localhost:8000`
+2. Frontend should open in your browser or mobile device
+3. Test the API: `curl http://localhost:8000/api/ping/`
+
+### Quick Start Scripts
+Use the provided scripts for faster setup:
+
+```bash
+# Start backend
+./start_backend.sh
+
+# Start frontend
+./start_frontend.sh
+
+# Start web version
+./start_web.sh
+
+# Start iOS simulator
+./start_iphone.sh
+```
+
+### Troubleshooting
+- **BioBERT Model Issues**: Ensure the model files are downloaded correctly
+- **Database Issues**: Run `python manage.py migrate` and `python manage.py populate_database`
+- **Flutter Issues**: Run `flutter doctor` to check Flutter setup
+- **Port Conflicts**: Change ports in settings if 8000 is occupied
 
 ## Database
 
